@@ -1,0 +1,545 @@
+{
+  "timestamp": "2025-06-27T17:55:38Z",
+  "previous_timestamp": "2025-06-27T17:50:37Z",
+  "next_timestamp": "2025-06-27T18:00:38Z",
+  "data": {
+    "id": "117275ef3f6c174e257cf182f95abc80",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-27T23:40:00Z",
+    "home_team": "Chicago White Sox",
+    "away_team": "San Francisco Giants",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-27T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": 133
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -147
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": -135,
+                "point": 1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": 115,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-27T17:55:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:21Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": 133
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -147
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:21Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": -133,
+                "point": 1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": 118,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-27T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": 130
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -155
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": -130,
+                "point": 1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": 110,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-27T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": 134
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -158
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": -128,
+                "point": 1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": 106,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-27T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": 128
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -156
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": -136,
+                "point": 1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": 112,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -106,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-27T17:55:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": 131
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -146
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": -130,
+                "point": 1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": 110,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-27T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": 135
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -160
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": -125,
+                "point": 1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": 105,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-27T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": 130
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -155
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": -135,
+                "point": 1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": 110,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-27T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": 128
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -153
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": -130,
+                "point": 1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": 110,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-27T17:54:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:54:57Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": 135
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -165
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:54:57Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": -122,
+                "point": 1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": 100,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:54:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

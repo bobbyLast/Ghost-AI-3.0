@@ -1,0 +1,38 @@
+{
+  "ticket_id": "s_1751657066624574_2",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 1-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "59231231d997ec04e4c55a7c91bc4c10",
+  "home_team": "Colorado Rockies",
+  "away_team": "Chicago White Sox",
+  "commence_time": "2025-07-05T00:11:00Z",
+  "selections": [
+    {
+      "player_name": "Antonio Senzatela",
+      "prop_type": "pitcher_hits_allowed",
+      "line": 6.5,
+      "odds": -115,
+      "bookmaker": "DraftKings",
+      "confidence": 0.535,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T19:24:26.640650+00:00",
+  "confidence_score": 0.535,
+  "avg_odds": -115.0,
+  "potential_payout": 14.51,
+  "no_duplicate_players": true,
+  "team_diversity": false,
+  "unique_teams": [],
+  "team_count": 0,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.76
+}

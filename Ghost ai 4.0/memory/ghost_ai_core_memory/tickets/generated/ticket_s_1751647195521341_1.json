@@ -1,0 +1,68 @@
+{
+  "ticket_id": "s_1751647195521341_1",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "88a1531c9ed483232974d46320dd1cbf",
+  "home_team": "Minnesota Twins",
+  "away_team": "Tampa Bay Rays",
+  "commence_time": "2025-07-04T20:11:00Z",
+  "selections": [
+    {
+      "player_name": "Chandler Simpson",
+      "prop_type": "batter_home_runs",
+      "line": 0.5,
+      "odds": 700,
+      "bookmaker": "Caesars",
+      "confidence": 0.125,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Riley Adams",
+      "prop_type": "batter_doubles",
+      "line": 0.5,
+      "odds": 440,
+      "bookmaker": "FanDuel",
+      "confidence": 0.185,
+      "value_rating": 0.0,
+      "team": "Washington Nationals",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Riley Adams",
+      "prop_type": "batter_hits",
+      "line": 2.5,
+      "odds": 3400,
+      "bookmaker": "FanDuel",
+      "confidence": 0.029,
+      "value_rating": 0.0,
+      "team": "Washington Nationals",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T16:39:55.531341+00:00",
+  "confidence_score": 0.113,
+  "avg_odds": 1513.33,
+  "potential_payout": 6955.2,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Washington Nationals"
+  ],
+  "team_count": 1,
+  "is_demon": true,
+  "is_goblin": false,
+  "stake": 3.97
+}

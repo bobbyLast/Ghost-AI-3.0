@@ -1,0 +1,3840 @@
+{
+  "id": "3059bccb405e5d0307f1e6bf2ccd59b5",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-12T23:36:00Z",
+  "home_team": "San Diego Padres",
+  "away_team": "Philadelphia Phillies",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-13T01:29:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 900,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 850,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 1000,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 900,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-13T01:29:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 260,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 2300,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 2400,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 2300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 3300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 3300,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 5500,
+              "point": 3.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 152,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 154,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 146,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 182,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 260,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 270,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 185,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 195,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 185,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 230,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 240,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 230,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-13T01:29:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 950,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 1100,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 1300,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 2300,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 2000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 2200,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 2900,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 3100,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 15000,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-13T01:29:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 370,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 400,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 430,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 490,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 2400,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 2600,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 3800,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 4000,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 7500,
+              "point": 3.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 10000,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 650,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 650,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 1600,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-13T01:29:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 260,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 280,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 240,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 310,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 330,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 340,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 340,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 260,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 470,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 550,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 550,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 4200,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-13T01:29:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 230,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 230,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 250,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 320,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 370,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 410,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 430,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 550,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 550,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-13T01:29:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 195,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 240,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 550,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 500,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 700,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 650,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 800,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 850,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 800,
+              "point": 4.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 1000,
+              "point": 4.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 1500,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 1600,
+              "point": 4.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 1400,
+              "point": 4.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 1600,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 1800,
+              "point": 4.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 5000,
+              "point": 4.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 260,
+              "point": 3.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 500,
+              "point": 3.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 700,
+              "point": 3.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 900,
+              "point": 3.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 1000,
+              "point": 3.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 1200,
+              "point": 3.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 1200,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 1200,
+              "point": 3.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 1600,
+              "point": 3.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 1400,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 1500,
+              "point": 3.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 2100,
+              "point": 3.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 185,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 180,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 230,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 230,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-13T01:30:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 500,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 700,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 750,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 750,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 800,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 850,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-13T01:27:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 208,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -304,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 227,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -339,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 152,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -214,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 202,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -294,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 133,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -184,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 126,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -174,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 165,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -234,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 126,
+              "point": 4.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -174,
+              "point": 4.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-13T01:17:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 750,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "J.T. Realmuto",
+              "price": -1450,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 850,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -1750,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -2200,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -3500,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 700,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -1300,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 800,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryson Stott",
+              "price": -1600,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 800,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Max Kepler",
+              "price": -1600,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 800,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -1600,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 850,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Brandon Marsh",
+              "price": -1750,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 850,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -1750,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 950,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 1000,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -2200,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Castellanos",
+              "price": -2200,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -3000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 1300,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -3500,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Trenton Brooks",
+              "price": -4000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 3000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Martin Maldonado",
+              "price": -50000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-13T01:17:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 110,
+              "point": 4.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -142,
+              "point": 4.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": -120,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "J.T. Realmuto",
+              "price": -110,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 120,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Brandon Marsh",
+              "price": -154,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 130,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -168,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 145,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Castellanos",
+              "price": -188,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 220,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -300,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 425,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Martin Maldonado",
+              "price": -675,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 115,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Max Kepler",
+              "price": -148,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 135,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -175,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 260,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Trenton Brooks",
+              "price": -370,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": -110,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -120,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": -105,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryson Stott",
+              "price": -125,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 105,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -135,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 120,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -154,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 126,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -162,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 130,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -168,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 176,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -234,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-13T01:17:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 260,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Brandon Marsh",
+              "price": -370,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 290,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Castellanos",
+              "price": -420,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 500,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Trenton Brooks",
+              "price": -850,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 700,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Martin Maldonado",
+              "price": -1300,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 180,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "J.T. Realmuto",
+              "price": -240,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 190,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -255,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 195,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryson Stott",
+              "price": -265,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 195,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -265,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 220,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -300,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 230,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -320,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 260,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -370,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 280,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Max Kepler",
+              "price": -400,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 290,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -420,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 340,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -500,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 390,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -600,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 425,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -675,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 425,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -675,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-13T01:17:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 475,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -775,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 500,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryson Stott",
+              "price": -850,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 800,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Brandon Marsh",
+              "price": -1600,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 950,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "J.T. Realmuto",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 1000,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -2200,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -3500,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 1300,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -3500,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 1600,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -5000,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -7000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-13T01:30:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 320,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 250,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 180,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 255,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 143,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 250,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 163,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 132,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 170,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 220,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 255,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 295,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 260,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 275,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 310,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 220,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 220,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-13T01:30:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 575,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 480,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 600,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 575,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 400,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 480,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 370,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 540,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 525,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 460,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 380,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 450,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 480,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 750,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 510,
+              "point": 3.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 540,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-13T01:30:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 510,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 500,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 450,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 250,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 320,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 300,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 290,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 460,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 360,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 400,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 265,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 575,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 480,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 430,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 450,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 350,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 440,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-13T01:30:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 220,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 132,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 143,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 255,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 250,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 170,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 250,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 220,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 320,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 163,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 220,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 255,
+              "point": 3.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 260,
+              "point": 8.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 275,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 310,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 295,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trenton Brooks",
+              "price": 180,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-13T01:30:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 850,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 900,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 850,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 950,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 2000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 650,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 1000,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 800,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 950,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 1100,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 800,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-13T01:30:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 155,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -225,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 190,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -280,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 155,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -225,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 135,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -195,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 220,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -330,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 245,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -375,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 270,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -425,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 295,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -475,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 560,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Martin Maldonado",
+              "price": -1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 215,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -320,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 230,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -350,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-13T01:30:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 260,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Max Kepler",
+              "price": -375,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 150,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -200,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 145,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -190,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 145,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -190,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 175,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Castellanos",
+              "price": -240,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 210,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryson Stott",
+              "price": -285,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 200,
+              "point": 3.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "J.T. Realmuto",
+              "price": -275,
+              "point": 3.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 190,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -260,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 185,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -250,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 230,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -325,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 550,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Martin Maldonado",
+              "price": -1000,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 110,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -145,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": -105,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -125,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 115,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -150,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 135,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Brandon Marsh",
+              "price": -175,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 200,
+              "point": 7.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -275,
+              "point": 7.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-13T01:30:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 240,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -375,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 375,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -650,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 340,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -550,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 500,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 260,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -400,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 400,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -700,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 375,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryson Stott",
+              "price": -650,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 270,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -425,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 425,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -800,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 425,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -800,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 500,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 600,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 290,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Brandon Marsh",
+              "price": -450,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 375,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "J.T. Realmuto",
+              "price": -650,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-13T01:30:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 190,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -280,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 220,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -330,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 245,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -375,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 155,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -225,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 155,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -225,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 135,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -195,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 270,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -425,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 295,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -475,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Martin Maldonado",
+              "price": 560,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Martin Maldonado",
+              "price": -1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 215,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -320,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 230,
+              "point": 8.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -350,
+              "point": 8.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-13T01:29:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 2800,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            }
+          ]
+        },
+        {
+          "key": "batter_walks",
+          "last_update": "2025-07-13T01:30:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 900,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -1700,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 375,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -575,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 900,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -1700,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 500,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -900,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 550,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -1000,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 500,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -900,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 425,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Brandon Marsh",
+              "price": -700,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 200,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -275,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "event_id": "sample_event_001",
+  "player": "Shohei Ohtani",
+  "market": "batter_home_runs",
+  "line": 0.5,
+  "side": "over",
+  "odds": -200,
+  "bookmaker": "fanduel",
+  "closing_time": "2025-06-29T15:00:00",
+  "result": "miss",
+  "final_stat": 0.0,
+  "tags": [
+    "juiced",
+    "very_juiced"
+  ],
+  "confidence_predicted": 0.6666666666666666,
+  "ghost_pick": "over"
+}

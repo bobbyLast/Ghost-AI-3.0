@@ -1,0 +1,386 @@
+{
+  "timestamp": "2024-07-17T17:55:37Z",
+  "previous_timestamp": "2024-07-17T17:50:37Z",
+  "next_timestamp": "2024-07-17T18:00:38Z",
+  "data": {
+    "id": "861682b08f77ab51e0116b1eed9a3647",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-07-17T17:02:26Z",
+    "home_team": "Minnesota Lynx",
+    "away_team": "Atlanta Dream",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-07-17T17:54:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 154
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -200
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -120,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 145.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 145.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-07-17T17:54:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 210
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -286
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -118,
+                "point": 6.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -105,
+                "point": -6.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -111,
+                "point": 142.5
+              },
+              {
+                "name": "Under",
+                "price": -118,
+                "point": 142.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-07-17T17:54:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 180
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -235
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -128,
+                "point": 4.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": 100,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -104,
+                "point": 145.5
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 145.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-07-17T17:54:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 160
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -200
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -105,
+                "point": 3.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -125,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 145.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 145.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-07-17T17:54:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 150
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -200
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -120,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 145.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 145.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-07-17T17:54:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-17T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 155
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -200
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-17T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -120,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-17T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 145.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 145.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2024-07-17T17:54:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 155
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -210
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -120,
+                "point": 4.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-17T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 145.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 145.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

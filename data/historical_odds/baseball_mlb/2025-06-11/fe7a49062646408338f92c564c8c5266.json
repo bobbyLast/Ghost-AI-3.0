@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-11T17:55:37Z",
+  "previous_timestamp": "2025-06-11T17:50:37Z",
+  "next_timestamp": "2025-06-11T18:00:37Z",
+  "data": {
+    "id": "fe7a49062646408338f92c564c8c5266",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-12T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-11T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 114
+              },
+              {
+                "name": "New York Yankees",
+                "price": -134
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -146,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 122,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -122,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

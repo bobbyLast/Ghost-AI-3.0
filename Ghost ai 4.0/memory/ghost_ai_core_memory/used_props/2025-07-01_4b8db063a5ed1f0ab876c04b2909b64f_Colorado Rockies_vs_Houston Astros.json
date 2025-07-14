@@ -1,0 +1,20 @@
+{
+  "event_id": "4b8db063a5ed1f0ab876c04b2909b64f",
+  "home_team": "Colorado Rockies",
+  "away_team": "Houston Astros",
+  "game_time": "2025-07-02T00:42:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "Colorado Rockies": {
+      "odds": 7.0,
+      "implied_probability": 0.9345794392523364,
+      "tags": []
+    },
+    "Houston Astros": {
+      "odds": 1.09,
+      "implied_probability": 0.9892175289346127,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-07-01T21:58:18.119025"
+}

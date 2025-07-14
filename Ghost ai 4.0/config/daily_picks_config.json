@@ -1,0 +1,75 @@
+{
+  "daily_picks": {
+    "POTD": {
+      "name": "Pick of the Day",
+      "confidence_min": 0.75,
+      "risk_level": "low",
+      "description": "Highest confidence single pick of the day",
+      "color": "#00ff00",
+      "enabled": true
+    },
+    "RPOTD": {
+      "name": "Risk Pick of the Day",
+      "confidence_min": 0.60,
+      "risk_level": "high",
+      "description": "High risk, high reward single pick",
+      "color": "#ff0000",
+      "enabled": true
+    },
+    "TOTD": {
+      "name": "Ticket of the Day",
+      "confidence_min": 0.70,
+      "risk_level": "medium",
+      "description": "Multi-leg ticket with 3-5 picks",
+      "color": "#ffa500",
+      "enabled": true,
+      "min_legs": 2,
+      "max_legs": 5
+    },
+    "RTOTD": {
+      "name": "Risk Ticket of the Day",
+      "confidence_min": 0.55,
+      "risk_level": "high",
+      "description": "High risk multi-leg ticket",
+      "color": "#ff0000",
+      "enabled": true,
+      "min_legs": 2,
+      "max_legs": 3
+    },
+    "STREAK": {
+      "name": "Daily Streak",
+      "confidence_min": 0.65,
+      "risk_level": "medium",
+      "description": "Daily streak pick based on historical performance",
+      "color": "#ffa500",
+      "enabled": true,
+      "min_legs": 2
+    }
+  },
+  "posting": {
+    "discord_webhook_url": "",
+    "post_delay_seconds": 2,
+    "auto_post": true,
+    "post_time": "10:00",
+    "timezone": "UTC"
+  },
+  "generation": {
+    "max_props_per_sport": 100,
+    "min_odds": -200,
+    "max_odds": 500,
+    "historical_boost_enabled": true,
+    "odds_intelligence_enabled": true
+  },
+  "sports": {
+    "mlb": {
+      "enabled": true,
+      "priority": 1,
+      "prop_types": ["Hits", "Runs", "RBIs", "Strikeouts", "HRR", "Fantasy Score"]
+    },
+    "wnba": {
+      "enabled": true,
+      "priority": 2,
+      "prop_types": ["Points", "Rebounds", "Assists", "Fantasy Score"]
+    }
+  }
+} 

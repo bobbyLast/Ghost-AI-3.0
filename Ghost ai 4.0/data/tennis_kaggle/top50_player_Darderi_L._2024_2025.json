@@ -1,0 +1,442 @@
+{
+  "name": "Darderi L.",
+  "matches_played": 74,
+  "wins": 36,
+  "losses": 38,
+  "win_percentage": 0.486,
+  "tournaments_played": [
+    "Chile Open",
+    "BMW Open",
+    "Japan Open Tennis Championships",
+    "Hong Kong Tennis Open",
+    "Rio Open",
+    "BNP Paribas Masters",
+    "Miami Open",
+    "Hangzhou Open",
+    "European Open",
+    "Canadian Open",
+    "US Open",
+    "Argentina Open",
+    "Hamburg Open",
+    "Wimbledon",
+    "Cordoba Open",
+    "Lyon Open",
+    "U.S. Men's Clay Court Championships",
+    "Mallorca Championships",
+    "Internazionali BNL d'Italia",
+    "Halle Open",
+    "Vienna Open",
+    "ASB Classic",
+    "Belgrade Open",
+    "Mutua Madrid Open",
+    "Grand Prix Hassan II",
+    "French Open",
+    "Rosmalen Grass Court Championships",
+    "Winston-Salem Open at Wake Forest University",
+    "Western & Southern Financial Group Masters",
+    "Eastbourne International",
+    "Tiriac Open",
+    "Shanghai Masters",
+    "Nordic Open",
+    "Croatia Open",
+    "BNP Paribas Open"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2025",
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Martinez P."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Walton A."
+    },
+    {
+      "tournament": "Grand Prix Hassan II",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Boyer T."
+    },
+    {
+      "tournament": "Grand Prix Hassan II",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Gaston H."
+    },
+    {
+      "tournament": "Grand Prix Hassan II",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Kopriva V."
+    },
+    {
+      "tournament": "Grand Prix Hassan II",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Carballes Baena R."
+    },
+    {
+      "tournament": "Grand Prix Hassan II",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Griekspoor T."
+    },
+    {
+      "tournament": "BMW Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "O Connell C."
+    },
+    {
+      "tournament": "BMW Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Kecmanovic M."
+    },
+    {
+      "tournament": "BMW Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Shelton B."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Halys Q."
+    },
+    {
+      "tournament": "Internazionali BNL d'Italia",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Bu Y."
+    },
+    {
+      "tournament": "Internazionali BNL d'Italia",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Draper J."
+    },
+    {
+      "tournament": "Hamburg Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Dedura D."
+    },
+    {
+      "tournament": "Hamburg Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Nakashima B."
+    },
+    {
+      "tournament": "Hamburg Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Rublev A."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Korda S."
+    },
+    {
+      "tournament": "Rosmalen Grass Court Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Jarry N."
+    },
+    {
+      "tournament": "Halle Open",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Tsitsipas S."
+    },
+    {
+      "tournament": "Eastbourne International",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Giron M."
+    }
+  ],
+  "head_to_head": {
+    "Barrios M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Ofner S.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Hanfmann Y.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Baez S.": {
+      "wins": 1,
+      "losses": 3
+    },
+    "Bagnis F.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Navone M.": {
+      "wins": 2,
+      "losses": 2
+    },
+    "Cerundolo J.M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Tabilo A.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Shapovalov D.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Kudla D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Cerundolo F.": {
+      "wins": 1,
+      "losses": 2
+    },
+    "Giron M.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Tiafoe F.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Monfils G.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Fritz T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Zverev A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Daniel T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Mannarino A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Etcheverry T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Hijikata R.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Griekspoor T.": {
+      "wins": 1,
+      "losses": 2
+    },
+    "Struff J.L.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Martinez P.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Choinski J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Musetti L.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Hardt N.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Shevchenko A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Ajdukovic D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Mensik J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Paul T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Goffin D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Kukushkin M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Fognini F.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Berrettini M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Thiem D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Draper J.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Altmaier D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Kecmanovic M.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Borges N.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Faria J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Gaston H.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Walton A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Boyer T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Kopriva V.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Carballes Baena R.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "O Connell C.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Shelton B.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Halys Q.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Bu Y.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Dedura D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Nakashima B.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Rublev A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Korda S.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Jarry N.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Tsitsipas S.": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "performance_by_surface": {
+    "Clay": {
+      "wins": 31,
+      "losses": 17
+    },
+    "Hard": {
+      "wins": 3,
+      "losses": 15
+    },
+    "Grass": {
+      "wins": 2,
+      "losses": 6
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 24,
+      "losses": 25
+    },
+    "2025": {
+      "wins": 12,
+      "losses": 13
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

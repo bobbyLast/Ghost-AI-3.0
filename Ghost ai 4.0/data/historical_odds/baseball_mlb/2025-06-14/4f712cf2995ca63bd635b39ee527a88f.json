@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-14T17:55:37Z",
+  "previous_timestamp": "2025-06-14T17:50:37Z",
+  "next_timestamp": "2025-06-14T18:00:37Z",
+  "data": {
+    "id": "4f712cf2995ca63bd635b39ee527a88f",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-15T17:36:00Z",
+    "home_team": "Baltimore Orioles",
+    "away_team": "Los Angeles Angels",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-14T17:52:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -136
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": 116
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": 138,
+                "point": -1.5
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": -166,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

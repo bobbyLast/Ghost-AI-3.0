@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-13T17:55:37Z",
+  "previous_timestamp": "2025-06-13T17:50:37Z",
+  "next_timestamp": "2025-06-13T18:00:37Z",
+  "data": {
+    "id": "6e3b617f369024c1e319dbe9fa2d505b",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-14T20:06:00Z",
+    "home_team": "Philadelphia Phillies",
+    "away_team": "Toronto Blue Jays",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-13T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -174
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 146
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": 125,
+                "point": -1.5
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": -150,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

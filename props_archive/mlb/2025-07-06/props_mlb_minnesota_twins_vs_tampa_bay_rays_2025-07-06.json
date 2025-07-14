@@ -1,0 +1,2328 @@
+{
+  "id": "325ecc0ead745a6d7a3f9943c17bf3ea",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-06T18:11:00Z",
+  "home_team": "Minnesota Twins",
+  "away_team": "Tampa Bay Rays",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-06T19:13:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 390,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": 410,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 430,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 500,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 550,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 600,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 600,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 500,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": 600,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": 550,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 600,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 650,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 650,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-06T19:13:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": -215,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": -154,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": -130,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": -110,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": -120,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 106,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 100,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 116,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 124,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": -175,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": -105,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 110,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 310,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 450,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 550,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 650,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 550,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 900,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 800,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 850,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": -110,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": 400,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 750,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": 750,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 1000,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 2100,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 3300,
+              "point": 2.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 4700,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 4600,
+              "point": 2.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": 750,
+              "point": 3.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": 2800,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 7000,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": 7000,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-06T19:13:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 550,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 750,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 800,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 900,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 950,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 2300,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": 2300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": 550,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 9000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 10000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 12000,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 14000,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 18000,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-06T19:13:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 210,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 195,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 240,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 250,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 260,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 230,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 270,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": 270,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 310,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 330,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 310,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 320,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": 800,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": 1100,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 1900,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 2600,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 2200,
+              "point": 2.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 2300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 3000,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 3000,
+              "point": 2.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 3400,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 3000,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 4200,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 3700,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": 240,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": 280,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 700,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 750,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 850,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 650,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 950,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 950,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-06T19:13:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": 170,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": 220,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 1800,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 1800,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 170,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 185,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 185,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 195,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 195,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 200,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 200,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 220,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": 190,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 240,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-06T19:13:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": -115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 130,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 150,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 155,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 185,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 185,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 185,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": 185,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 195,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 210,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-06T19:13:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": 200,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 220,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 320,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 400,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 440,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 420,
+              "point": 2.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 470,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 500,
+              "point": 2.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 650,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 700,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 750,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": -180,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": -105,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 110,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 150,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 180,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 220,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 210,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 220,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 280,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 290,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 340,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 320,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-06T19:13:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 4900,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": 4300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": 4500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": 4300,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-06T19:13:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-06T19:13:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": 100,
+              "point": 5.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Byron Buxton",
+              "price": -137,
+              "point": 5.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": -129,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brooks Lee",
+              "price": -106,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-06T19:13:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 450,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Lowe",
+              "price": -725,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 475,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brooks Lee",
+              "price": -775,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": 475,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Byron Buxton",
+              "price": -775,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 500,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Royce Lewis",
+              "price": -850,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 575,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Wallner",
+              "price": -1025,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 575,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Yandy Diaz",
+              "price": -1025,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kody Clemens",
+              "price": -1100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": 600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Taylor Walls",
+              "price": -1100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan Aranda",
+              "price": 625,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Jonathan Aranda",
+              "price": -1150,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Junior Caminero",
+              "price": 625,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Junior Caminero",
+              "price": -1150,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": 650,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Chandler Simpson",
+              "price": -1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 650,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Willi Castro",
+              "price": -1200,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 700,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Carlos Correa",
+              "price": -1300,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 750,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Thaiss",
+              "price": -1450,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 750,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Trevor Larnach",
+              "price": -1450,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 900,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Christian Vazquez",
+              "price": -1850,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-06T19:13:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": -130,
+              "point": 4.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Byron Buxton",
+              "price": 100,
+              "point": 4.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": -125,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Taylor Walls",
+              "price": -105,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": -148,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Chandler Simpson",
+              "price": 115,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": -120,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Wallner",
+              "price": -110,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 130,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Trevor Larnach",
+              "price": -168,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": -175,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brooks Lee",
+              "price": 135,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": -168,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Lowe",
+              "price": 130,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": -142,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Royce Lewis",
+              "price": 110,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": -135,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Yandy Diaz",
+              "price": 105,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": -115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kody Clemens",
+              "price": -115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": -115,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Willi Castro",
+              "price": -115,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 100,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Carlos Correa",
+              "price": -130,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Junior Caminero",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Junior Caminero",
+              "price": -130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 110,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Thaiss",
+              "price": -142,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 140,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Christian Vazquez",
+              "price": -182,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-06T19:13:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": 126,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Chandler Simpson",
+              "price": -162,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": 240,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Byron Buxton",
+              "price": -330,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan Aranda",
+              "price": 250,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Jonathan Aranda",
+              "price": -350,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Larnach",
+              "price": 300,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Trevor Larnach",
+              "price": -440,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 325,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Wallner",
+              "price": -475,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brooks Lee",
+              "price": -204,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 160,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Lowe",
+              "price": -212,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Yandy Diaz",
+              "price": 160,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Yandy Diaz",
+              "price": -212,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Royce Lewis",
+              "price": 185,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Royce Lewis",
+              "price": -248,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": 195,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Taylor Walls",
+              "price": -265,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 210,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Willi Castro",
+              "price": -285,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Correa",
+              "price": 220,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Carlos Correa",
+              "price": -300,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Junior Caminero",
+              "price": 250,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Junior Caminero",
+              "price": -350,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 250,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Thaiss",
+              "price": -350,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Kody Clemens",
+              "price": 260,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kody Clemens",
+              "price": -370,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Vazquez",
+              "price": 270,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Christian Vazquez",
+              "price": -385,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-06T19:13:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Byron Buxton",
+              "price": 700,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Byron Buxton",
+              "price": -1300,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Chandler Simpson",
+              "price": 200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Chandler Simpson",
+              "price": -270,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Lowe",
+              "price": 425,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Lowe",
+              "price": -675,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Walls",
+              "price": 425,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Taylor Walls",
+              "price": -675,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Willi Castro",
+              "price": 750,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Willi Castro",
+              "price": -1450,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Junior Caminero",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Junior Caminero",
+              "price": -3500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Thaiss",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Thaiss",
+              "price": -4500,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Wallner",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Wallner",
+              "price": -5000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Lee",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brooks Lee",
+              "price": -7000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

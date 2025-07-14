@@ -1,0 +1,464 @@
+{
+  "timestamp": "2024-08-29T17:55:39Z",
+  "previous_timestamp": "2024-08-29T17:50:39Z",
+  "next_timestamp": "2024-08-29T18:00:39Z",
+  "data": {
+    "id": "9d1345c2d2810fe487ccc27ffa1a8ae0",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-30T23:30:00Z",
+    "home_team": "Dallas Wings",
+    "away_team": "Minnesota Lynx",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-29T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 205
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -250
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 7.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -7.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 170.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 170.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-29T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 185
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -225
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 5.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 168.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 168.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-08-29T17:44:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:44:05Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 210
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -260
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:44:05Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 6.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -6.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:44:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 169.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 169.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-29T17:54:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:54:22Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 210
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -265
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:54:22Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 7.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -7.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:54:22Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 170.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 170.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-29T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 250
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -315
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -112,
+                "point": 7.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -112,
+                "point": -7.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 168.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 168.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-08-29T17:55:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 6.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -6.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 170.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 170.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-08-29T17:55:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -108,
+                "point": 6.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -108,
+                "point": -6.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 170.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 170.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-08-29T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 225
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -275
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 7.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -7.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 169.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 169.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-08-29T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 197
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -303
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 7.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -7.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 169.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 169.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "sport": "tennis",
+  "match": "Daniil Medvedev vs Jannik Sinner",
+  "confidence": 0.8933807833795806,
+  "reasoning": "Analysis based on Kaggle data for Daniil Medvedev vs Jannik Sinner",
+  "props": [
+    {
+      "type": "Total Games",
+      "line": 42.0,
+      "over_odds": -114,
+      "under_odds": -114,
+      "confidence": 0.7068693999997733
+    },
+    {
+      "type": "Match Winner",
+      "home_odds": -134,
+      "away_odds": 146,
+      "confidence": 0.7195661960285561
+    },
+    {
+      "type": "Total Aces",
+      "line": 13.0,
+      "over_odds": -114,
+      "under_odds": -118,
+      "confidence": 0.6884601443118501
+    }
+  ],
+  "timestamp": "2025-07-12T20:38:09.599847",
+  "ticket_id": "standard_20250712_203809_2",
+  "saved_at": "2025-07-13T00:38:09.612297+00:00",
+  "ticket_type": "standard"
+}

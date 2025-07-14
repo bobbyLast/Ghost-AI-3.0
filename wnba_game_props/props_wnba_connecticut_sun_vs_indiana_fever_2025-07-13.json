@@ -1,0 +1,402 @@
+{
+  "id": "61a12ec0f9301e3f6c23b4fbc57a0043",
+  "sport_key": "basketball_wnba",
+  "sport_title": "WNBA",
+  "commence_time": "2025-07-16T00:00:00Z",
+  "home_team": "Connecticut Sun",
+  "away_team": "Indiana Fever",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-07-14T00:21:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -125,
+              "point": 8.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -106,
+              "point": 8.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-07-14T00:23:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": 100,
+              "point": 18.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -130,
+              "point": 18.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points_assists",
+          "last_update": "2025-07-14T00:21:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -102,
+              "point": 27.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -130,
+              "point": 27.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points_rebounds",
+          "last_update": "2025-07-14T00:21:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -114,
+              "point": 22.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -114,
+              "point": 22.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points_rebounds_assists",
+          "last_update": "2025-07-14T00:21:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -118,
+              "point": 31.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -112,
+              "point": 31.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-14T00:23:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -102,
+              "point": 4.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -130,
+              "point": 4.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds_assists",
+          "last_update": "2025-07-14T00:21:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -106,
+              "point": 13.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -125,
+              "point": 13.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_threes",
+          "last_update": "2025-07-14T00:21:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -102,
+              "point": 2.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -130,
+              "point": 2.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-07-14T00:23:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -120,
+              "point": 8.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -110,
+              "point": 8.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-07-14T00:23:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -110,
+              "point": 18.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -120,
+              "point": 18.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points_rebounds_assists",
+          "last_update": "2025-07-14T00:23:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -105,
+              "point": 32.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -125,
+              "point": 32.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-14T00:23:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -110,
+              "point": 4.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -120,
+              "point": 4.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_threes",
+          "last_update": "2025-07-14T00:23:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -110,
+              "point": 2.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -120,
+              "point": 2.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-07-14T00:23:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -125,
+              "point": 8.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -105,
+              "point": 8.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-07-14T00:23:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -105,
+              "point": 18.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -125,
+              "point": 18.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-14T00:23:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -105,
+              "point": 4.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -125,
+              "point": 4.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_threes",
+          "last_update": "2025-07-14T00:23:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caitlin Clark",
+              "price": -105,
+              "point": 2.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Caitlin Clark",
+              "price": -125,
+              "point": 2.5,
+              "team": "Indiana Fever",
+              "position": "G"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "timestamp": "2024-07-16T17:55:37Z",
+  "previous_timestamp": "2024-07-16T17:50:37Z",
+  "next_timestamp": "2024-07-16T18:00:37Z",
+  "data": {
+    "id": "32ce75a94bf7488fda60f8deab5f318f",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-07-16T23:00:00Z",
+    "home_team": "New York Liberty",
+    "away_team": "Connecticut Sun",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-07-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 140
+              },
+              {
+                "name": "New York Liberty",
+                "price": -166
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -112,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -108,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-07-16T17:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 136
+              },
+              {
+                "name": "New York Liberty",
+                "price": -168
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -112,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -108,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-07-16T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 132
+              },
+              {
+                "name": "New York Liberty",
+                "price": -164
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 3.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-07-16T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 140
+              },
+              {
+                "name": "New York Liberty",
+                "price": -165
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-07-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 138
+              },
+              {
+                "name": "New York Liberty",
+                "price": -167
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -113,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-07-16T17:55:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:18Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 145
+              },
+              {
+                "name": "New York Liberty",
+                "price": -170
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:18Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 3.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:18Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-07-16T17:55:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 140
+              },
+              {
+                "name": "New York Liberty",
+                "price": -165
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-07-16T17:55:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 140
+              },
+              {
+                "name": "New York Liberty",
+                "price": -160
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -115,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -105,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 153.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 153.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-07-16T17:55:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 140
+              },
+              {
+                "name": "New York Liberty",
+                "price": -160
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -113,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -103,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 153.0
+              },
+              {
+                "name": "Under",
+                "price": 102,
+                "point": 153.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-07-16T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 145
+              },
+              {
+                "name": "New York Liberty",
+                "price": -165
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2024-07-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 140
+              },
+              {
+                "name": "New York Liberty",
+                "price": -160
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2024-07-16T17:55:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 140
+              },
+              {
+                "name": "New York Liberty",
+                "price": -165
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

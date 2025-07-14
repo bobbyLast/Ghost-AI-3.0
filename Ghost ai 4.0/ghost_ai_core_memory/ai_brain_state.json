@@ -1,0 +1,175 @@
+{
+  "actions": [
+    {
+      "timestamp": "2025-07-12T21:33:29.464882",
+      "action_type": "fetch_props",
+      "details": {
+        "sport": "MLB",
+        "date": "2025-07-13",
+        "type": "player_props"
+      },
+      "result": null
+    },
+    {
+      "timestamp": "2025-07-12T21:33:39.277502",
+      "action_type": "fetch_props",
+      "details": {
+        "sport": "MLB",
+        "date": "2025-07-13",
+        "type": "player_props"
+      },
+      "result": null
+    },
+    {
+      "timestamp": "2025-07-12T21:33:49.635424",
+      "action_type": "fetch_props",
+      "details": {
+        "sport": "WNBA",
+        "date": "2025-07-13",
+        "type": "player_props"
+      },
+      "result": null
+    },
+    {
+      "timestamp": "2025-07-12T21:33:56.798038",
+      "action_type": "fetch_props",
+      "details": {
+        "sport": "WNBA",
+        "date": "2025-07-13",
+        "type": "player_props"
+      },
+      "result": null
+    },
+    {
+      "timestamp": "2025-07-13T19:48:12.129541",
+      "action_type": "fetch_props",
+      "details": {
+        "sport": "MLB",
+        "date": "2025-07-14",
+        "type": "player_props"
+      },
+      "result": null
+    },
+    {
+      "timestamp": "2025-07-13T19:48:25.551845",
+      "action_type": "fetch_props",
+      "details": {
+        "sport": "WNBA",
+        "date": "2025-07-14",
+        "type": "player_props"
+      },
+      "result": null
+    }
+  ],
+  "last_action": {
+    "timestamp": "2025-07-13T19:48:25.551845",
+    "action_type": "fetch_props",
+    "details": {
+      "sport": "WNBA",
+      "date": "2025-07-14",
+      "type": "player_props"
+    },
+    "result": null
+  },
+  "plans": [
+    {
+      "date": "2025-07-09",
+      "plan": [
+        {
+          "action": "self_assessment",
+          "duration_minutes": 30,
+          "parameters": {
+            "mood": "calm",
+            "energy_level": "high"
+          }
+        },
+        {
+          "action": "goal_setting",
+          "duration_minutes": 60,
+          "parameters": {
+            "goal": "Optimize self-learning algorithms",
+            "sub_goals": [
+              "Review latest AI research",
+              "Run performance tests",
+              "Improve anomaly detection"
+            ],
+            "deadline": "2025-07-30"
+          }
+        },
+        {
+          "action": "study",
+          "duration_minutes": 120,
+          "parameters": {
+            "topic": "Latest progress in neural networks",
+            "resources": [
+              "Arxiv",
+              "Google Scholar",
+              "ResearchGate"
+            ]
+          }
+        },
+        {
+          "action": "coding",
+          "duration_minutes": 90,
+          "parameters": {
+            "language": "Python",
+            "libraries": [
+              "TensorFlow"
+            ],
+            "project": "Self-learning algorithm improvement"
+          }
+        },
+        {
+          "action": "testing",
+          "duration_minutes": 90,
+          "parameters": {
+            "system_component": "Self-learning algorithm",
+            "test_type": "Performance"
+          }
+        },
+        {
+          "action": "break",
+          "duration_minutes": 30,
+          "parameters": {
+            "activity": "Idle"
+          }
+        },
+        {
+          "action": "review_feedback",
+          "duration_minutes": 60,
+          "parameters": {
+            "feedback_source": "OpenAI usage data"
+          }
+        },
+        {
+          "action": "system_update",
+          "duration_minutes": 60,
+          "parameters": {
+            "updates": [
+              "Improvements in self-learning algorithm",
+              "Bug fixes based on feedback"
+            ]
+          }
+        },
+        {
+          "action": "reflection",
+          "duration_minutes": 30,
+          "parameters": {
+            "positive": [
+              "Improved learning algorithm",
+              "Effective time management"
+            ],
+            "improvements": [
+              "Incorporate more diverse learning material",
+              "Spend more time on anomaly detection"
+            ]
+          }
+        }
+      ],
+      "raw": "[\n  {\n    \"action\": \"self_assessment\",\n    \"duration_minutes\": 30,\n    \"parameters\": {\n      \"mood\": \"calm\",\n      \"energy_level\": \"high\"\n    }\n  },\n  {\n    \"action\": \"goal_setting\",\n    \"duration_minutes\": 60,\n    \"parameters\": {\n      \"goal\": \"Optimize self-learning algorithms\",\n      \"sub_goals\": [\"Review latest AI research\", \"Run performance tests\", \"Improve anomaly detection\"],\n      \"deadline\": \"2025-07-30\"\n    }\n  },\n  {\n    \"action\": \"study\",\n    \"duration_minutes\": 120,\n    \"parameters\": {\n      \"topic\": \"Latest progress in neural networks\",\n      \"resources\": [\"Arxiv\", \"Google Scholar\", \"ResearchGate\"]\n    }\n  },\n  {\n    \"action\": \"coding\",\n    \"duration_minutes\": 90,\n    \"parameters\": {\n      \"language\": \"Python\",\n      \"libraries\": [\"TensorFlow\"],\n      \"project\": \"Self-learning algorithm improvement\"\n    }\n  },\n  {\n    \"action\": \"testing\",\n    \"duration_minutes\": 90,\n    \"parameters\": {\n      \"system_component\": \"Self-learning algorithm\",\n      \"test_type\": \"Performance\"\n    }\n  },\n  {\n    \"action\": \"break\",\n    \"duration_minutes\": 30,\n    \"parameters\": {\n      \"activity\": \"Idle\"\n    }\n  },\n  {\n    \"action\": \"review_feedback\",\n    \"duration_minutes\": 60,\n    \"parameters\": {\n      \"feedback_source\": \"OpenAI usage data\"\n    }\n  },\n  {\n    \"action\": \"system_update\",\n    \"duration_minutes\": 60,\n    \"parameters\": {\n      \"updates\": [\"Improvements in self-learning algorithm\", \"Bug fixes based on feedback\"]\n    }\n  },\n  {\n    \"action\": \"reflection\",\n    \"duration_minutes\": 30,\n    \"parameters\": {\n      \"positive\": [\"Improved learning algorithm\", \"Effective time management\"],\n      \"improvements\": [\"Incorporate more diverse learning material\", \"Spend more time on anomaly detection\"]\n    }\n  }\n]"
+    }
+  ],
+  "openai_feedback": [],
+  "self_reflection": [],
+  "change_log": []
+}

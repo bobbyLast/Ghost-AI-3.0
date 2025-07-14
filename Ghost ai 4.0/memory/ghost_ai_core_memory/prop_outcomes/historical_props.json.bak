@@ -1,0 +1,2462 @@
+{
+  "Byron Buxton": {
+    "batter_hits_runs_rbis": [
+      {
+        "date": "2025-06-29T20:04:59.743846",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "LOSS",
+        "ticket_id": "e_1751241862330672_1",
+        "confidence": 0.9,
+        "odds": -110
+      }
+    ]
+  },
+  "Zach McKinstry": {
+    "batter_hits_runs_rbis": [
+      {
+        "date": "2025-06-29T20:04:59.743846",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "LOSS",
+        "ticket_id": "e_1751241862330672_1",
+        "confidence": 0.9,
+        "odds": -110
+      }
+    ]
+  },
+  "Willi Castro": {
+    "batter_hits_runs_rbis": [
+      {
+        "date": "2025-06-29T20:04:59.743846",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "e_1751241862330672_1",
+        "confidence": 0.9,
+        "odds": -110
+      }
+    ]
+  },
+  "Trevor Larnach": {
+    "batter_hits_runs_rbis": [
+      {
+        "date": "2025-06-29T20:04:59.799928",
+        "line": 2.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "LOSS",
+        "ticket_id": "e_1751241862339604_2",
+        "confidence": 0.9,
+        "odds": -110
+      }
+    ]
+  },
+  "Tarik Skubal": {
+    "pitcher_strikeouts_alternate": [
+      {
+        "date": "2025-06-29T20:04:59.799928",
+        "line": 5.5,
+        "pick_side": "OVER",
+        "actual_result": 4,
+        "result": "LOSS",
+        "ticket_id": "e_1751241862339604_2",
+        "confidence": 0.882,
+        "odds": -750
+      },
+      {
+        "date": "2025-06-29T20:04:59.851522",
+        "line": 6.5,
+        "pick_side": "OVER",
+        "actual_result": 3,
+        "result": "LOSS",
+        "ticket_id": "e_1751241862339604_3",
+        "confidence": 0.762,
+        "odds": -320
+      }
+    ]
+  },
+  "Eduardo Rodriguez": {
+    "pitcher_strikeouts_alternate": [
+      {
+        "date": "2025-06-29T20:04:59.799928",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "LOSS",
+        "ticket_id": "e_1751241862339604_2",
+        "confidence": 0.87,
+        "odds": -670
+      }
+    ]
+  },
+  "Chris Paddack": {
+    "pitcher_strikeouts_alternate": [
+      {
+        "date": "2025-06-29T20:04:59.851522",
+        "line": 2.5,
+        "pick_side": "OVER",
+        "actual_result": 4,
+        "result": "WIN",
+        "ticket_id": "e_1751241862339604_3",
+        "confidence": 0.8,
+        "odds": -400
+      }
+    ]
+  },
+  "Kerry Carpenter": {
+    "fantasy_score": [
+      {
+        "date": "2025-06-29T20:04:59.851522",
+        "line": 15.5,
+        "pick_side": "OVER",
+        "actual_result": 19,
+        "result": "WIN",
+        "ticket_id": "e_1751241862339604_3",
+        "confidence": 0.75,
+        "odds": -110
+      }
+    ],
+    "batter_runs_scored": [
+      {
+        "date": "2025-06-29T20:05:00.312536",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751241862346876_4",
+        "confidence": 0.535,
+        "odds": -115
+      }
+    ],
+    "batter_total_bases": [
+      {
+        "date": "2025-06-29T20:05:00.544787",
+        "line": 1.5,
+        "pick_side": "OVER",
+        "actual_result": 1.5,
+        "result": "PUSH",
+        "ticket_id": "s_1751241862355816_6",
+        "confidence": 0.524,
+        "odds": -110
+      }
+    ]
+  },
+  "Caitlin Clark": {
+    "fantasy_score": [
+      {
+        "date": "2025-06-25T20:00:00.000000",
+        "line": 39.5,
+        "pick_side": "OVER",
+        "actual_result": 28,
+        "result": "LOSS",
+        "ticket_id": "test_trap_1",
+        "confidence": 0.7,
+        "odds": -110
+      },
+      {
+        "date": "2025-06-26T20:00:00.000000",
+        "line": 39.5,
+        "pick_side": "OVER",
+        "actual_result": 31,
+        "result": "LOSS",
+        "ticket_id": "test_trap_2",
+        "confidence": 0.7,
+        "odds": -110
+      },
+      {
+        "date": "2025-06-27T20:00:00.000000",
+        "line": 39.5,
+        "pick_side": "OVER",
+        "actual_result": 29,
+        "result": "LOSS",
+        "ticket_id": "test_trap_3",
+        "confidence": 0.7,
+        "odds": -110
+      },
+      {
+        "date": "2025-06-28T20:00:00.000000",
+        "line": 39.5,
+        "pick_side": "OVER",
+        "actual_result": 27,
+        "result": "LOSS",
+        "ticket_id": "test_trap_4",
+        "confidence": 0.7,
+        "odds": -110
+      },
+      {
+        "date": "2025-06-29T20:04:59.937520",
+        "line": 42.0,
+        "pick_side": "OVER",
+        "actual_result": 42,
+        "result": "PUSH",
+        "ticket_id": "e_1751241863328911_9",
+        "confidence": 0.75,
+        "odds": -110
+      }
+    ],
+    "player_fantasy_score": [
+      {
+        "date": "2025-06-29T20:05:00.138953",
+        "line": 38.85,
+        "pick_side": "UNDER",
+        "actual_result": 33,
+        "result": "WIN",
+        "ticket_id": "s_1751241863344733_12",
+        "confidence": 0.545,
+        "odds": -120
+      }
+    ],
+    "player_assists": [
+      {
+        "date": "2025-07-01T22:18:24.495912",
+        "line": 8.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.556,
+        "odds": -125,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:24.757851",
+        "line": 8.5,
+        "pick_side": "UNDER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751421824711912_74",
+        "confidence": 0.556,
+        "odds": -125
+      },
+      {
+        "date": "2025-07-01T22:18:25.653793",
+        "line": 8.5,
+        "pick_side": "OVER",
+        "actual_result": 11,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.515,
+        "odds": -106,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:25.767313",
+        "line": 8.5,
+        "pick_side": "OVER",
+        "actual_result": 3,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.556,
+        "odds": -125,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:25.828294",
+        "line": 8.5,
+        "pick_side": "UNDER",
+        "actual_result": 11,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824695804_60",
+        "confidence": 0.515,
+        "odds": -106
+      },
+      {
+        "date": "2025-07-01T22:18:25.828294",
+        "line": 8.5,
+        "pick_side": "UNDER",
+        "actual_result": 3,
+        "result": "WIN",
+        "ticket_id": "s_1751421824695804_60",
+        "confidence": 0.556,
+        "odds": -125
+      },
+      {
+        "date": "2025-07-01T22:18:26.394115",
+        "line": 8.5,
+        "pick_side": "OVER",
+        "actual_result": 11,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.515,
+        "odds": -106,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:26.503298",
+        "line": 8.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.556,
+        "odds": -125,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:26.591026",
+        "line": 8.5,
+        "pick_side": "UNDER",
+        "actual_result": 11,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824727664_82",
+        "confidence": 0.515,
+        "odds": -106
+      },
+      {
+        "date": "2025-07-01T22:18:26.591026",
+        "line": 8.5,
+        "pick_side": "UNDER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751421824727664_82",
+        "confidence": 0.556,
+        "odds": -125
+      }
+    ]
+  },
+  "Nneka Ogwumike": {
+    "player_threes": [
+      {
+        "date": "2025-06-29T20:04:59.937520",
+        "line": 1.5,
+        "pick_side": "OVER",
+        "actual_result": 1.5,
+        "result": "PUSH",
+        "ticket_id": "e_1751241863328911_9",
+        "confidence": 0.71,
+        "odds": -245
+      }
+    ]
+  },
+  "Napheesa Collier": {
+    "fantasy_score": [
+      {
+        "date": "2025-06-29T20:04:59.998713",
+        "line": 42.0,
+        "pick_side": "OVER",
+        "actual_result": 30,
+        "result": "LOSS",
+        "ticket_id": "e_1751241863328911_10",
+        "confidence": 0.7000000000000001,
+        "odds": -110
+      }
+    ],
+    "player_points": [
+      {
+        "date": "2025-06-29T20:05:00.138953",
+        "line": 23.5,
+        "pick_side": "UNDER",
+        "actual_result": 8,
+        "result": "WIN",
+        "ticket_id": "s_1751241863344733_12",
+        "confidence": 0.545,
+        "odds": -120
+      },
+      {
+        "date": "2025-07-01T22:18:23.604082",
+        "line": 22.5,
+        "pick_side": "OVER",
+        "actual_result": 9,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.615,
+        "odds": -130,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:23.805941",
+        "line": 22.5,
+        "pick_side": "OVER",
+        "actual_result": 9,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824718151_78",
+        "confidence": 0.615,
+        "odds": -130
+      },
+      {
+        "date": "2025-07-01T22:18:24.842943",
+        "line": 22.5,
+        "pick_side": "OVER",
+        "actual_result": 5,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.615,
+        "odds": -130,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:25.260994",
+        "line": 22.5,
+        "pick_side": "OVER",
+        "actual_result": 5,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824737664_86",
+        "confidence": 0.615,
+        "odds": -130
+      },
+      {
+        "date": "2025-07-01T22:18:25.370058",
+        "line": 22.5,
+        "pick_side": "OVER",
+        "actual_result": 22,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.615,
+        "odds": -130,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:25.563305",
+        "line": 22.5,
+        "pick_side": "OVER",
+        "actual_result": 22,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824703803_67",
+        "confidence": 0.615,
+        "odds": -130
+      }
+    ],
+    "player_points_rebounds_assists": [
+      {
+        "date": "2025-06-29T20:05:00.263465",
+        "line": 36.5,
+        "pick_side": "UNDER",
+        "actual_result": 17,
+        "result": "WIN",
+        "ticket_id": "s_1751241863353000_14",
+        "confidence": 0.541,
+        "odds": -118
+      }
+    ],
+    "player_assists": [
+      {
+        "date": "2025-07-01T22:18:24.588599",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 12,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.541,
+        "odds": -118,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:24.686412",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.528,
+        "odds": -112,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:24.757851",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 12,
+        "result": "WIN",
+        "ticket_id": "s_1751421824711912_74",
+        "confidence": 0.541,
+        "odds": -118
+      },
+      {
+        "date": "2025-07-01T22:18:24.757851",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824711912_74",
+        "confidence": 0.528,
+        "odds": -112
+      },
+      {
+        "date": "2025-07-01T22:18:26.697131",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 12,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.541,
+        "odds": -118,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:26.780877",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 8,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.528,
+        "odds": -112,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:27.040862",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 12,
+        "result": "WIN",
+        "ticket_id": "s_1751421824730676_83",
+        "confidence": 0.541,
+        "odds": -118
+      },
+      {
+        "date": "2025-07-01T22:18:27.040862",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 8,
+        "result": "WIN",
+        "ticket_id": "s_1751421824730676_83",
+        "confidence": 0.528,
+        "odds": -112
+      }
+    ]
+  },
+  "A'ja Wilson": {
+    "fantasy_score": [
+      {
+        "date": "2025-06-29T20:04:59.998713",
+        "line": 39.0,
+        "pick_side": "OVER",
+        "actual_result": 36,
+        "result": "LOSS",
+        "ticket_id": "e_1751241863328911_10",
+        "confidence": 0.7000000000000001,
+        "odds": -110
+      }
+    ],
+    "player_rebounds": [
+      {
+        "date": "2025-06-29T20:05:00.371558",
+        "line": 8.5,
+        "pick_side": "UNDER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751241863361471_15",
+        "confidence": 0.541,
+        "odds": -118
+      }
+    ]
+  },
+  "Tina Charles": {
+    "fantasy_score": [
+      {
+        "date": "2025-06-29T20:05:00.073466",
+        "line": 24.0,
+        "pick_side": "OVER",
+        "actual_result": 50,
+        "result": "WIN",
+        "ticket_id": "e_1751241863336381_11",
+        "confidence": 0.7,
+        "odds": -110
+      }
+    ]
+  },
+  "Alanna Smith": {
+    "fantasy_score": [
+      {
+        "date": "2025-06-29T20:05:00.073466",
+        "line": 17.0,
+        "pick_side": "OVER",
+        "actual_result": 24,
+        "result": "WIN",
+        "ticket_id": "e_1751241863336381_11",
+        "confidence": 0.7,
+        "odds": -110
+      }
+    ],
+    "player_points": [
+      {
+        "date": "2025-06-29T20:05:00.428780",
+        "line": 10.5,
+        "pick_side": "UNDER",
+        "actual_result": 17,
+        "result": "LOSS",
+        "ticket_id": "s_1751241863368843_16",
+        "confidence": 0.535,
+        "odds": -115
+      }
+    ]
+  },
+  "Jackie Young": {
+    "fantasy_score": [
+      {
+        "date": "2025-06-29T20:05:00.073466",
+        "line": 29.0,
+        "pick_side": "OVER",
+        "actual_result": 26,
+        "result": "LOSS",
+        "ticket_id": "e_1751241863336381_11",
+        "confidence": 0.7,
+        "odds": -110
+      }
+    ]
+  },
+  "Courtney Williams": {
+    "player_points": [
+      {
+        "date": "2025-06-29T20:05:00.138953",
+        "line": 13.5,
+        "pick_side": "UNDER",
+        "actual_result": 10,
+        "result": "WIN",
+        "ticket_id": "s_1751241863344733_12",
+        "confidence": 0.545,
+        "odds": -120
+      },
+      {
+        "date": "2025-07-01T22:18:24.322185",
+        "line": 12.5,
+        "pick_side": "OVER",
+        "actual_result": 9,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.581,
+        "odds": -113,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:24.395430",
+        "line": 12.5,
+        "pick_side": "UNDER",
+        "actual_result": 9,
+        "result": "WIN",
+        "ticket_id": "s_1751421824704804_68",
+        "confidence": 0.581,
+        "odds": -113
+      },
+      {
+        "date": "2025-07-01T22:18:25.179489",
+        "line": 12.5,
+        "pick_side": "OVER",
+        "actual_result": 5,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.581,
+        "odds": -113,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:25.260994",
+        "line": 12.5,
+        "pick_side": "UNDER",
+        "actual_result": 5,
+        "result": "WIN",
+        "ticket_id": "s_1751421824737664_86",
+        "confidence": 0.581,
+        "odds": -113
+      }
+    ],
+    "player_points_rebounds_assists": [
+      {
+        "date": "2025-06-29T20:05:00.371558",
+        "line": 24.5,
+        "pick_side": "UNDER",
+        "actual_result": 17,
+        "result": "WIN",
+        "ticket_id": "s_1751241863361471_15",
+        "confidence": 0.541,
+        "odds": -118
+      }
+    ],
+    "player_assists": [
+      {
+        "date": "2025-07-01T22:18:23.872454",
+        "line": 5.5,
+        "pick_side": "OVER",
+        "actual_result": 6,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.515,
+        "odds": -106,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:23.950341",
+        "line": 5.5,
+        "pick_side": "OVER",
+        "actual_result": 8,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.556,
+        "odds": -125,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:24.114458",
+        "line": 5.5,
+        "pick_side": "UNDER",
+        "actual_result": 6,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824713910_75",
+        "confidence": 0.515,
+        "odds": -106
+      },
+      {
+        "date": "2025-07-01T22:18:24.114458",
+        "line": 5.5,
+        "pick_side": "UNDER",
+        "actual_result": 8,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824713910_75",
+        "confidence": 0.556,
+        "odds": -125
+      },
+      {
+        "date": "2025-07-01T22:18:25.908402",
+        "line": 5.5,
+        "pick_side": "OVER",
+        "actual_result": 12,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.515,
+        "odds": -106,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:26.003073",
+        "line": 5.5,
+        "pick_side": "OVER",
+        "actual_result": 6,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.556,
+        "odds": -125,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:26.074288",
+        "line": 5.5,
+        "pick_side": "UNDER",
+        "actual_result": 12,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824697803_62",
+        "confidence": 0.515,
+        "odds": -106
+      },
+      {
+        "date": "2025-07-01T22:18:26.074288",
+        "line": 5.5,
+        "pick_side": "UNDER",
+        "actual_result": 6,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824697803_62",
+        "confidence": 0.556,
+        "odds": -125
+      },
+      {
+        "date": "2025-07-01T22:18:26.873722",
+        "line": 5.5,
+        "pick_side": "OVER",
+        "actual_result": 12,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.515,
+        "odds": -106,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:26.978213",
+        "line": 5.5,
+        "pick_side": "OVER",
+        "actual_result": 12,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.556,
+        "odds": -125,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:27.040862",
+        "line": 5.5,
+        "pick_side": "UNDER",
+        "actual_result": 12,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824730676_83",
+        "confidence": 0.515,
+        "odds": -106
+      },
+      {
+        "date": "2025-07-01T22:18:27.040862",
+        "line": 5.5,
+        "pick_side": "UNDER",
+        "actual_result": 12,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824730676_83",
+        "confidence": 0.556,
+        "odds": -125
+      }
+    ]
+  },
+  "Chelsea Gray": {
+    "player_points_rebounds_assists": [
+      {
+        "date": "2025-06-29T20:05:00.205797",
+        "line": 21.5,
+        "pick_side": "UNDER",
+        "actual_result": 20,
+        "result": "WIN",
+        "ticket_id": "s_1751241863344733_13",
+        "confidence": 0.545,
+        "odds": -120
+      }
+    ],
+    "player_threes": [
+      {
+        "date": "2025-06-29T20:05:00.263465",
+        "line": 1.5,
+        "pick_side": "OVER",
+        "actual_result": 0.5,
+        "result": "LOSS",
+        "ticket_id": "s_1751241863353000_14",
+        "confidence": 0.545,
+        "odds": -120
+      }
+    ]
+  },
+  "Veronica Burton": {
+    "player_rebounds": [
+      {
+        "date": "2025-06-29T20:05:00.205797",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 6,
+        "result": "WIN",
+        "ticket_id": "s_1751241863344733_13",
+        "confidence": 0.545,
+        "odds": -120
+      }
+    ],
+    "player_assists": [
+      {
+        "date": "2025-06-29T20:05:00.371558",
+        "line": 5.5,
+        "pick_side": "UNDER",
+        "actual_result": 6,
+        "result": "LOSS",
+        "ticket_id": "s_1751241863361471_15",
+        "confidence": 0.541,
+        "odds": -118
+      }
+    ]
+  },
+  "Skylar Diggins-Smith": {
+    "player_points_assists": [
+      {
+        "date": "2025-06-29T20:05:00.205797",
+        "line": 25.0,
+        "pick_side": "UNDER",
+        "actual_result": 21,
+        "result": "WIN",
+        "ticket_id": "s_1751241863344733_13",
+        "confidence": 0.545,
+        "odds": -120
+      }
+    ]
+  },
+  "Kayla McBride": {
+    "player_points": [
+      {
+        "date": "2025-06-29T20:05:00.263465",
+        "line": 15.5,
+        "pick_side": "UNDER",
+        "actual_result": 27,
+        "result": "LOSS",
+        "ticket_id": "s_1751241863353000_14",
+        "confidence": 0.541,
+        "odds": -118
+      },
+      {
+        "date": "2025-07-01T22:18:23.709642",
+        "line": 14.5,
+        "pick_side": "OVER",
+        "actual_result": 9,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.46,
+        "odds": -104,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:23.805941",
+        "line": 14.5,
+        "pick_side": "UNDER",
+        "actual_result": 9,
+        "result": "WIN",
+        "ticket_id": "s_1751421824718151_78",
+        "confidence": 0.46,
+        "odds": -104
+      },
+      {
+        "date": "2025-07-01T22:18:24.211512",
+        "line": 14.5,
+        "pick_side": "OVER",
+        "actual_result": 18,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.506,
+        "odds": -125,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:24.395430",
+        "line": 14.5,
+        "pick_side": "UNDER",
+        "actual_result": 18,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824704804_68",
+        "confidence": 0.506,
+        "odds": -125
+      },
+      {
+        "date": "2025-07-01T22:18:24.943747",
+        "line": 14.5,
+        "pick_side": "OVER",
+        "actual_result": 14,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.46,
+        "odds": -104,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:25.055084",
+        "line": 14.5,
+        "pick_side": "OVER",
+        "actual_result": 11,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.506,
+        "odds": -125,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:25.260994",
+        "line": 14.5,
+        "pick_side": "UNDER",
+        "actual_result": 14,
+        "result": "WIN",
+        "ticket_id": "s_1751421824737664_86",
+        "confidence": 0.46,
+        "odds": -104
+      },
+      {
+        "date": "2025-07-01T22:18:25.260994",
+        "line": 14.5,
+        "pick_side": "UNDER",
+        "actual_result": 11,
+        "result": "WIN",
+        "ticket_id": "s_1751421824737664_86",
+        "confidence": 0.506,
+        "odds": -125
+      },
+      {
+        "date": "2025-07-01T22:18:25.489626",
+        "line": 14.5,
+        "pick_side": "OVER",
+        "actual_result": 9,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.46,
+        "odds": -104,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:25.563305",
+        "line": 14.5,
+        "pick_side": "UNDER",
+        "actual_result": 9,
+        "result": "WIN",
+        "ticket_id": "s_1751421824703803_67",
+        "confidence": 0.46,
+        "odds": -104
+      }
+    ],
+    "player_points_assists": [
+      {
+        "date": "2025-06-29T20:05:00.428780",
+        "line": 19.0,
+        "pick_side": "UNDER",
+        "actual_result": 29,
+        "result": "LOSS",
+        "ticket_id": "s_1751241863368843_16",
+        "confidence": 0.535,
+        "odds": -115
+      }
+    ]
+  },
+  "Riley Greene": {
+    "batter_singles": [
+      {
+        "date": "2025-06-29T20:05:00.312536",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1.5,
+        "result": "WIN",
+        "ticket_id": "s_1751241862346876_4",
+        "confidence": 0.545,
+        "odds": -120
+      }
+    ],
+    "batter_runs_scored": [
+      {
+        "date": "2025-06-29T20:05:00.494711",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751241862355159_5",
+        "confidence": 0.524,
+        "odds": -110
+      }
+    ]
+  },
+  "Carlos Correa": {
+    "batter_singles": [
+      {
+        "date": "2025-06-29T20:05:00.312536",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751241862346876_4",
+        "confidence": 0.545,
+        "odds": -120
+      }
+    ]
+  },
+  "Tiffany Hayes": {
+    "player_points": [
+      {
+        "date": "2025-06-29T20:05:00.428780",
+        "line": 12.5,
+        "pick_side": "UNDER",
+        "actual_result": 23,
+        "result": "LOSS",
+        "ticket_id": "s_1751241863368843_16",
+        "confidence": 0.541,
+        "odds": -118
+      }
+    ]
+  },
+  "Eduardo": {
+    "batter_hits_runs_rbis": [
+      {
+        "date": "2025-06-29T20:05:00.494711",
+        "line": 0.0,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751241862355159_5",
+        "confidence": 0.524,
+        "odds": -110
+      }
+    ],
+    "batter_fantasy_score": [
+      {
+        "date": "2025-06-29T20:05:00.544787",
+        "line": 0.0,
+        "pick_side": "OVER",
+        "actual_result": 43,
+        "result": "WIN",
+        "ticket_id": "s_1751241862355816_6",
+        "confidence": 0.524,
+        "odds": -110
+      }
+    ]
+  },
+  "Cal": {
+    "batter_hits_runs_rbis": [
+      {
+        "date": "2025-06-29T20:05:00.494711",
+        "line": 0.0,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751241862355159_5",
+        "confidence": 0.524,
+        "odds": -110
+      }
+    ],
+    "batter_fantasy_score": [
+      {
+        "date": "2025-06-29T20:05:00.544787",
+        "line": 0.0,
+        "pick_side": "OVER",
+        "actual_result": 37,
+        "result": "WIN",
+        "ticket_id": "s_1751241862355816_6",
+        "confidence": 0.524,
+        "odds": -110
+      }
+    ]
+  },
+  "Kerry": {
+    "batter_hits_runs_rbis": [
+      {
+        "date": "2025-06-29T20:05:00.610992",
+        "line": 2.0,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "LOSS",
+        "ticket_id": "s_1751241862355816_7",
+        "confidence": 0.524,
+        "odds": -110
+      }
+    ]
+  },
+  "Gleyber": {
+    "batter_hits_runs_rbis": [
+      {
+        "date": "2025-06-29T20:05:00.610992",
+        "line": 2.0,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751241862355816_7",
+        "confidence": 0.524,
+        "odds": -110
+      }
+    ]
+  },
+  "Dillon": {
+    "batter_hits_runs_rbis": [
+      {
+        "date": "2025-06-29T20:05:00.610992",
+        "line": 2.0,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751241862355816_7",
+        "confidence": 0.524,
+        "odds": -110
+      }
+    ]
+  },
+  "Pavin Smith": {
+    "batter_hits": [
+      {
+        "date": "2025-07-01T22:18:21.817594",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.806,
+        "odds": -175,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:22.077089",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751421671291237_45",
+        "confidence": 0.806,
+        "odds": -175
+      },
+      {
+        "date": "2025-07-01T22:18:22.725261",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.806,
+        "odds": -175,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:22.785333",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751421671323353_58",
+        "confidence": 0.806,
+        "odds": -175
+      },
+      {
+        "date": "2025-07-02T23:22:52.516713",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.68,
+        "odds": -170,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:52.587346",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751483629857603_38",
+        "confidence": 0.68,
+        "odds": -170
+      }
+    ]
+  },
+  "Tyler Fitzgerald": {
+    "batter_hits": [
+      {
+        "date": "2025-07-01T22:18:21.909546",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.728,
+        "odds": -155,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:22.077089",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751421671291237_45",
+        "confidence": 0.728,
+        "odds": -155
+      },
+      {
+        "date": "2025-07-01T22:18:22.173855",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.728,
+        "odds": -155,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:22.333410",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751421671256229_27",
+        "confidence": 0.728,
+        "odds": -155
+      }
+    ]
+  },
+  "Jose Herrera": {
+    "batter_hits": [
+      {
+        "date": "2025-07-01T22:18:22.012706",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.703,
+        "odds": -140,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:22.077089",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751421671291237_45",
+        "confidence": 0.703,
+        "odds": -140
+      },
+      {
+        "date": "2025-07-01T22:18:22.272954",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.703,
+        "odds": -140,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:22.333410",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751421671256229_27",
+        "confidence": 0.703,
+        "odds": -140
+      }
+    ]
+  },
+  "Geraldo Perdomo": {
+    "batter_hits": [
+      {
+        "date": "2025-07-01T22:18:22.428596",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.447,
+        "odds": -200,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:22.785333",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751421671323353_58",
+        "confidence": 0.447,
+        "odds": -200
+      },
+      {
+        "date": "2025-07-01T22:18:22.880520",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.447,
+        "odds": -200,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:23.140319",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751421671290239_44",
+        "confidence": 0.447,
+        "odds": -200
+      },
+      {
+        "date": "2025-07-01T22:18:23.240127",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.447,
+        "odds": -200,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:23.395603",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751421671252907_25",
+        "confidence": 0.447,
+        "odds": -200
+      },
+      {
+        "date": "2025-07-02T23:22:48.988636",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.858,
+        "odds": -220,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:49.184659",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751483629814294_13",
+        "confidence": 0.858,
+        "odds": -220
+      },
+      {
+        "date": "2025-07-02T23:22:49.270914",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.858,
+        "odds": -220,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:49.553540",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629856703_36",
+        "confidence": 0.858,
+        "odds": -220
+      },
+      {
+        "date": "2025-07-02T23:22:49.910650",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.858,
+        "odds": -220,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:50.279146",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751483629884317_52",
+        "confidence": 0.858,
+        "odds": -220
+      }
+    ]
+  },
+  "Mike Yastrzemski": {
+    "batter_hits": [
+      {
+        "date": "2025-07-01T22:18:22.519853",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.781,
+        "odds": -195,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:22.785333",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751421671323353_58",
+        "confidence": 0.781,
+        "odds": -195
+      },
+      {
+        "date": "2025-07-01T22:18:22.981318",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.781,
+        "odds": -195,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:23.140319",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751421671290239_44",
+        "confidence": 0.781,
+        "odds": -195
+      },
+      {
+        "date": "2025-07-01T22:18:23.328849",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.781,
+        "odds": -195,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:23.395603",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751421671252907_25",
+        "confidence": 0.781,
+        "odds": -195
+      },
+      {
+        "date": "2025-07-02T23:22:52.161385",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.74,
+        "odds": -170,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:52.216589",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751483629823251_16",
+        "confidence": 0.74,
+        "odds": -170
+      },
+      {
+        "date": "2025-07-02T23:22:52.403052",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.74,
+        "odds": -170,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:52.587346",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751483629857603_38",
+        "confidence": 0.74,
+        "odds": -170
+      },
+      {
+        "date": "2025-07-02T23:22:52.991644",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.74,
+        "odds": -170,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:53.041854",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751483629886317_53",
+        "confidence": 0.74,
+        "odds": -170
+      }
+    ]
+  },
+  "Andrew Knizner": {
+    "batter_hits": [
+      {
+        "date": "2025-07-01T22:18:22.623298",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.763,
+        "odds": -180,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:22.785333",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751421671323353_58",
+        "confidence": 0.763,
+        "odds": -180
+      },
+      {
+        "date": "2025-07-01T22:18:23.079227",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.763,
+        "odds": -180,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:23.140319",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751421671290239_44",
+        "confidence": 0.763,
+        "odds": -180
+      },
+      {
+        "date": "2025-07-02T23:22:52.775934",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.705,
+        "odds": -190,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:53.041854",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751483629886317_53",
+        "confidence": 0.705,
+        "odds": -190
+      },
+      {
+        "date": "2025-07-02T23:22:53.239295",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.705,
+        "odds": -190,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:53.294561",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629822251_15",
+        "confidence": 0.705,
+        "odds": -190
+      },
+      {
+        "date": "2025-07-02T23:22:53.606643",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.705,
+        "odds": -190,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:53.688557",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629857603_37",
+        "confidence": 0.705,
+        "odds": -190
+      }
+    ]
+  },
+  "Kelsey Mitchell": {
+    "player_points": [
+      {
+        "date": "2025-07-01T22:18:23.503511",
+        "line": 18.5,
+        "pick_side": "OVER",
+        "actual_result": 6,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.565,
+        "odds": -130,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:23.805941",
+        "line": 18.5,
+        "pick_side": "UNDER",
+        "actual_result": 6,
+        "result": "WIN",
+        "ticket_id": "s_1751421824718151_78",
+        "confidence": 0.565,
+        "odds": -130
+      }
+    ]
+  },
+  "Lexie Hull": {
+    "player_points": [
+      {
+        "date": "2025-07-01T22:18:24.044342",
+        "line": 7.5,
+        "pick_side": "OVER",
+        "actual_result": 22,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.561,
+        "odds": -128,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:24.114458",
+        "line": 7.5,
+        "pick_side": "OVER",
+        "actual_result": 22,
+        "result": "WIN",
+        "ticket_id": "s_1751421824713910_75",
+        "confidence": 0.561,
+        "odds": -128
+      }
+    ]
+  },
+  "Aliyah Boston": {
+    "player_assists": [
+      {
+        "date": "2025-07-01T22:18:26.173908",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.463,
+        "odds": 116,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:26.273717",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 10,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.606,
+        "odds": -154,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-01T22:18:26.591026",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "LOSS",
+        "ticket_id": "s_1751421824727664_82",
+        "confidence": 0.463,
+        "odds": 116
+      },
+      {
+        "date": "2025-07-01T22:18:26.591026",
+        "line": 3.5,
+        "pick_side": "OVER",
+        "actual_result": 10,
+        "result": "WIN",
+        "ticket_id": "s_1751421824727664_82",
+        "confidence": 0.606,
+        "odds": -154
+      }
+    ]
+  },
+  "Dominic Smith": {
+    "batter_hits": [
+      {
+        "date": "2025-07-02T23:22:49.099864",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.688,
+        "odds": -220,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:49.184659",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629814294_13",
+        "confidence": 0.688,
+        "odds": -220
+      },
+      {
+        "date": "2025-07-02T23:22:49.379448",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.688,
+        "odds": -220,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:49.553540",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751483629856703_36",
+        "confidence": 0.688,
+        "odds": -220
+      },
+      {
+        "date": "2025-07-02T23:22:50.003257",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.688,
+        "odds": -220,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:50.279146",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751483629884317_52",
+        "confidence": 0.688,
+        "odds": -220
+      }
+    ]
+  },
+  "Wilmer Flores": {
+    "batter_hits": [
+      {
+        "date": "2025-07-02T23:22:49.484239",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.677,
+        "odds": -210,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:49.553540",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629856703_36",
+        "confidence": 0.677,
+        "odds": -210
+      },
+      {
+        "date": "2025-07-02T23:22:50.108191",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.677,
+        "odds": -210,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:50.279146",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751483629884317_52",
+        "confidence": 0.677,
+        "odds": -210
+      },
+      {
+        "date": "2025-07-02T23:22:53.786142",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.677,
+        "odds": -210,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:53.989152",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751483629814294_14",
+        "confidence": 0.677,
+        "odds": -210
+      }
+    ]
+  },
+  "Ketel Marte": {
+    "batter_hits": [
+      {
+        "date": "2025-07-02T23:22:49.650110",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.73,
+        "odds": -270,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:49.829655",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751483629814294_10",
+        "confidence": 0.73,
+        "odds": -270
+      },
+      {
+        "date": "2025-07-02T23:22:50.361540",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.73,
+        "odds": -270,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:50.645595",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751483629847350_34",
+        "confidence": 0.73,
+        "odds": -270
+      }
+    ]
+  },
+  "Heliot Ramos": {
+    "batter_hits": [
+      {
+        "date": "2025-07-02T23:22:49.752880",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.73,
+        "odds": -270,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:49.829655",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629814294_10",
+        "confidence": 0.73,
+        "odds": -270
+      },
+      {
+        "date": "2025-07-02T23:22:50.454811",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.73,
+        "odds": -270,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:50.645595",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629847350_34",
+        "confidence": 0.73,
+        "odds": -270
+      }
+    ]
+  },
+  "Eugenio Suarez": {
+    "batter_hits": [
+      {
+        "date": "2025-07-02T23:22:50.203433",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.677,
+        "odds": -210,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:50.279146",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751483629884317_52",
+        "confidence": 0.677,
+        "odds": -210
+      },
+      {
+        "date": "2025-07-02T23:22:53.368157",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.677,
+        "odds": -210,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:53.688557",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629857603_37",
+        "confidence": 0.677,
+        "odds": -210
+      },
+      {
+        "date": "2025-07-02T23:22:53.905497",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.677,
+        "odds": -210,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:53.989152",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629814294_14",
+        "confidence": 0.677,
+        "odds": -210
+      }
+    ]
+  },
+  "Lourdes Gurriel Jr.": {
+    "batter_hits": [
+      {
+        "date": "2025-07-02T23:22:50.563975",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.714,
+        "odds": -250,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:50.645595",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751483629847350_34",
+        "confidence": 0.714,
+        "odds": -250
+      },
+      {
+        "date": "2025-07-02T23:22:50.740209",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.714,
+        "odds": -250,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:50.893461",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 2,
+        "result": "WIN",
+        "ticket_id": "s_1751483629814294_11",
+        "confidence": 0.714,
+        "odds": -250
+      },
+      {
+        "date": "2025-07-02T23:22:50.978771",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 4,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.714,
+        "odds": -250,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:51.345691",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 4,
+        "result": "WIN",
+        "ticket_id": "s_1751483629882316_51",
+        "confidence": 0.714,
+        "odds": -250
+      }
+    ]
+  },
+  "Rafael Devers": {
+    "batter_hits": [
+      {
+        "date": "2025-07-02T23:22:50.829066",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.706,
+        "odds": -240,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:50.893461",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629814294_11",
+        "confidence": 0.706,
+        "odds": -240
+      },
+      {
+        "date": "2025-07-02T23:22:51.072991",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.706,
+        "odds": -240,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:51.345691",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629882316_51",
+        "confidence": 0.706,
+        "odds": -240
+      },
+      {
+        "date": "2025-07-02T23:22:51.430492",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.706,
+        "odds": -240,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:51.684205",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751483629847350_35",
+        "confidence": 0.706,
+        "odds": -240
+      }
+    ]
+  },
+  "Jung Hoo Lee": {
+    "batter_hits": [
+      {
+        "date": "2025-07-02T23:22:51.163669",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.697,
+        "odds": -230,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:51.345691",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751483629882316_51",
+        "confidence": 0.697,
+        "odds": -230
+      },
+      {
+        "date": "2025-07-02T23:22:51.543796",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.697,
+        "odds": -230,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:51.684205",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629847350_35",
+        "confidence": 0.697,
+        "odds": -230
+      },
+      {
+        "date": "2025-07-02T23:22:51.788944",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.697,
+        "odds": -230,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:51.962901",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629814294_12",
+        "confidence": 0.697,
+        "odds": -230
+      }
+    ]
+  },
+  "Josh Naylor": {
+    "batter_hits": [
+      {
+        "date": "2025-07-02T23:22:51.273164",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "",
+        "confidence": 0.697,
+        "odds": -230,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:51.345691",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 0,
+        "result": "LOSS",
+        "ticket_id": "s_1751483629882316_51",
+        "confidence": 0.697,
+        "odds": -230
+      },
+      {
+        "date": "2025-07-02T23:22:51.626825",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.697,
+        "odds": -230,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:51.684205",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629847350_35",
+        "confidence": 0.697,
+        "odds": -230
+      },
+      {
+        "date": "2025-07-02T23:22:51.898986",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 3,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.697,
+        "odds": -230,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:51.962901",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 3,
+        "result": "WIN",
+        "ticket_id": "s_1751483629814294_12",
+        "confidence": 0.697,
+        "odds": -230
+      }
+    ]
+  },
+  "Jake McCarthy": {
+    "batter_hits": [
+      {
+        "date": "2025-07-02T23:22:52.052560",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 3,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.649,
+        "odds": -185,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:52.216589",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 3,
+        "result": "WIN",
+        "ticket_id": "s_1751483629823251_16",
+        "confidence": 0.649,
+        "odds": -185
+      },
+      {
+        "date": "2025-07-02T23:22:52.309739",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.649,
+        "odds": -185,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:52.587346",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629857603_38",
+        "confidence": 0.649,
+        "odds": -185
+      },
+      {
+        "date": "2025-07-02T23:22:52.885944",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 3,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.649,
+        "odds": -185,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:53.041854",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 3,
+        "result": "WIN",
+        "ticket_id": "s_1751483629886317_53",
+        "confidence": 0.649,
+        "odds": -185
+      }
+    ]
+  },
+  "Willy Adames": {
+    "batter_hits": [
+      {
+        "date": "2025-07-02T23:22:52.675941",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.655,
+        "odds": -190,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:53.041854",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629886317_53",
+        "confidence": 0.655,
+        "odds": -190
+      },
+      {
+        "date": "2025-07-02T23:22:53.131423",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 4,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.655,
+        "odds": -190,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:53.294561",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 4,
+        "result": "WIN",
+        "ticket_id": "s_1751483629822251_15",
+        "confidence": 0.655,
+        "odds": -190
+      },
+      {
+        "date": "2025-07-02T23:22:53.478509",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "",
+        "confidence": 0.655,
+        "odds": -190,
+        "ghost_pick": null
+      },
+      {
+        "date": "2025-07-02T23:22:53.688557",
+        "line": 0.5,
+        "pick_side": "OVER",
+        "actual_result": 1,
+        "result": "WIN",
+        "ticket_id": "s_1751483629857603_37",
+        "confidence": 0.655,
+        "odds": -190
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+2025-07-04 23:39:22,115 - ticket_generator - WARNING - Player data cache not available - will fetch all data: No module named 'ghost_ai_core_memory.player_data_cache'

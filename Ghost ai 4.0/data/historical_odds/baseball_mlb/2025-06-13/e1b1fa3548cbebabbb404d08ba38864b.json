@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-13T17:55:37Z",
+  "previous_timestamp": "2025-06-13T17:50:37Z",
+  "next_timestamp": "2025-06-13T18:00:37Z",
+  "data": {
+    "id": "e1b1fa3548cbebabbb404d08ba38864b",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-14T23:16:00Z",
+    "home_team": "Boston Red Sox",
+    "away_team": "New York Yankees",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-13T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Boston Red Sox",
+                "price": 142
+              },
+              {
+                "name": "New York Yankees",
+                "price": -168
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Boston Red Sox",
+                "price": -125,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 104,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

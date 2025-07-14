@@ -1,0 +1,323 @@
+{
+  "name": "Eubanks C.",
+  "matches_played": 35,
+  "wins": 12,
+  "losses": 23,
+  "win_percentage": 0.343,
+  "tournaments_played": [
+    "Abierto Mexicano",
+    "Miami Open",
+    "Dallas Open",
+    "US Open",
+    "Australian Open",
+    "Wimbledon",
+    "Mallorca Championships",
+    "U.S. Men's Clay Court Championships",
+    "Internazionali BNL d'Italia",
+    "Halle Open",
+    "ASB Classic",
+    "Stuttgart Open",
+    "Open Sud de France",
+    "Mutua Madrid Open",
+    "Delray Beach Open",
+    "French Open",
+    "Winston-Salem Open at Wake Forest University",
+    "Geneva Open",
+    "Hall of Fame Championships",
+    "BNP Paribas Open"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2025",
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Halle Open",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Martinez P."
+    },
+    {
+      "tournament": "Halle Open",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Bublik A."
+    },
+    {
+      "tournament": "Halle Open",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Zhang Zh."
+    },
+    {
+      "tournament": "Mallorca Championships",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Mensik J."
+    },
+    {
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Halys Q."
+    },
+    {
+      "tournament": "Hall of Fame Championships",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Quinn E."
+    },
+    {
+      "tournament": "Hall of Fame Championships",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Vukic A."
+    },
+    {
+      "tournament": "Hall of Fame Championships",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Giron M."
+    },
+    {
+      "tournament": "Winston-Salem Open at Wake Forest University",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Walton A."
+    },
+    {
+      "tournament": "Winston-Salem Open at Wake Forest University",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Gaston H."
+    },
+    {
+      "tournament": "Winston-Salem Open at Wake Forest University",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Safiullin R."
+    },
+    {
+      "tournament": "Winston-Salem Open at Wake Forest University",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Michelsen A."
+    },
+    {
+      "tournament": "US Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Rinderknech A."
+    },
+    {
+      "tournament": "Open Sud de France",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Kachmazov A."
+    },
+    {
+      "tournament": "Open Sud de France",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Rublev A."
+    },
+    {
+      "tournament": "Dallas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Arnaldi M."
+    },
+    {
+      "tournament": "Delray Beach Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Opelka R."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Opelka R."
+    },
+    {
+      "tournament": "U.S. Men's Clay Court Championships",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Hijikata R."
+    },
+    {
+      "tournament": "U.S. Men's Clay Court Championships",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Nakashima B."
+    }
+  ],
+  "head_to_head": {
+    "Van De Zandschulp B.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Daniel T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Rublev A.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Johnson S.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Duckworth J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Ruud C.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Nakashima B.": {
+      "wins": 0,
+      "losses": 3
+    },
+    "Evans D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Zverev A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Hijikata R.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Atmane T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Griekspoor T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Sinner J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Martinez P.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Bublik A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Zhang Zh.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Mensik J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Halys Q.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Quinn E.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Vukic A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Giron M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Walton A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Gaston H.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Safiullin R.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Michelsen A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Rinderknech A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Kachmazov A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Arnaldi M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Opelka R.": {
+      "wins": 0,
+      "losses": 2
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 7,
+      "losses": 12
+    },
+    "Clay": {
+      "wins": 1,
+      "losses": 6
+    },
+    "Grass": {
+      "wins": 4,
+      "losses": 5
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 10,
+      "losses": 18
+    },
+    "2025": {
+      "wins": 2,
+      "losses": 5
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

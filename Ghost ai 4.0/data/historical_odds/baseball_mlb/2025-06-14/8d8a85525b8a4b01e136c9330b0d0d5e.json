@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-14T17:55:37Z",
+  "previous_timestamp": "2025-06-14T17:50:37Z",
+  "next_timestamp": "2025-06-14T18:00:37Z",
+  "data": {
+    "id": "8d8a85525b8a4b01e136c9330b0d0d5e",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-15T17:36:00Z",
+    "home_team": "Atlanta Braves",
+    "away_team": "Colorado Rockies",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-14T17:52:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -500
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 385
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -205,
+                "point": -1.5
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 168,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -114,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -106,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

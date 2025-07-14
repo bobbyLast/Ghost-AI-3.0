@@ -1,0 +1,20 @@
+{
+  "event_id": "e678b04e901c1d304a204c26850df1d3",
+  "home_team": "Miami Marlins",
+  "away_team": "Minnesota Twins",
+  "game_time": "2025-07-02T22:40:00Z",
+  "result": "away_win",
+  "odds_data": {
+    "Miami Marlins": {
+      "odds": 2.06,
+      "implied_probability": 0.9798157946306094,
+      "tags": []
+    },
+    "Minnesota Twins": {
+      "odds": 1.81,
+      "implied_probability": 0.9822217856792064,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-07-02T15:13:41.300301"
+}

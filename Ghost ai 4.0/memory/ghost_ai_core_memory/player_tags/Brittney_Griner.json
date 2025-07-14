@@ -1,0 +1,22 @@
+{
+  "player_name": "Brittney Griner",
+  "team": "Unknown",
+  "sport": "wnba",
+  "total_picks": 60,
+  "hits": 0,
+  "misses": 0,
+  "pushes": 0,
+  "current_streak": 0,
+  "best_streak": 0,
+  "prop_types": {
+    "player_points": {
+      "hits": 0,
+      "attempts": 30
+    },
+    "player_rebounds": {
+      "hits": 0,
+      "attempts": 30
+    }
+  },
+  "last_updated": "2025-06-23T04:04:15.081627"
+}

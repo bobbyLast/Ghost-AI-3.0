@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Jasson Dom\u00ednguez",
+    "team": "New York Yankees",
+    "confidence": 1.0,
+    "reasoning": "Jasson Dom\u00ednguez is a well-known prospect in the New York Yankees organization",
+    "position": "Outfielder",
+    "game_context": "Chicago Cubs vs New York Yankees"
+  },
+  {
+    "name": "Jacob Wilson",
+    "team": "Oakland Athletics",
+    "confidence": 0.8,
+    "reasoning": "Jacob Wilson is a known player for the Oakland Athletics in the MLB",
+    "position": "Infielder",
+    "game_context": "Toronto Blue Jays vs Oakland Athletics"
+  },
+  {
+    "name": "Denzel Clarke",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Toronto Blue Jays vs Oakland Athletics"
+  },
+  {
+    "name": "Nick Kurtz",
+    "team": "Unknown",
+    "confidence": 0,
+    "reasoning": "There is no player named Nick Kurtz currently listed on the rosters of either the Toronto Blue Jays or the Oakland Athletics in the MLB.",
+    "position": "Unknown",
+    "game_context": "Toronto Blue Jays vs Oakland Athletics"
+  },
+  {
+    "name": "Max Muncy",
+    "team": "Oakland Athletics",
+    "confidence": 1.0,
+    "reasoning": "Max Muncy is a known player for the Oakland Athletics",
+    "position": "Infielder",
+    "game_context": "Toronto Blue Jays vs Oakland Athletics"
+  },
+  {
+    "name": "Ernie Clement",
+    "team": "Cleveland Guardians",
+    "confidence": 1.0,
+    "reasoning": "Ernie Clement is a known player for the Cleveland Guardians in the MLB",
+    "position": "Infielder",
+    "game_context": "Toronto Blue Jays vs Oakland Athletics"
+  },
+  {
+    "name": "Tyler Heineman",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Toronto Blue Jays vs Oakland Athletics"
+  },
+  {
+    "name": "Myles Straw",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Toronto Blue Jays vs Oakland Athletics"
+  },
+  {
+    "name": "Leo Jimenez",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Toronto Blue Jays vs Oakland Athletics"
+  },
+  {
+    "name": "Jacob Lopez",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Toronto Blue Jays vs Oakland Athletics"
+  },
+  {
+    "name": "Matt Shaw",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Chicago Cubs vs New York Yankees"
+  },
+  {
+    "name": "Oswald Peraza",
+    "team": "New York Yankees",
+    "confidence": 1.0,
+    "reasoning": "Oswald Peraza is a known player for the New York Yankees",
+    "position": "Shortstop",
+    "game_context": "Chicago Cubs vs New York Yankees"
+  },
+  {
+    "name": "Reese McGuire",
+    "team": "Unknown",
+    "confidence": 0,
+    "reasoning": "Reese McGuire is not a player for either the Chicago Cubs or the New York Yankees. He is a catcher for the Toronto Blue Jays in the MLB.",
+    "position": "Catcher",
+    "game_context": "Chicago Cubs vs New York Yankees"
+  },
+  {
+    "name": "Cam Smith",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Texas Rangers vs Houston Astros"
+  },
+  {
+    "name": "Wyatt Langford",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Texas Rangers vs Houston Astros"
+  },
+  {
+    "name": "Josh Smith",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "There is no current player named Josh Smith on either the Texas Rangers or Houston Astros MLB rosters",
+    "position": "Unknown",
+    "game_context": "Texas Rangers vs Houston Astros"
+  },
+  {
+    "name": "Christian Walker",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Texas Rangers vs Houston Astros"
+  },
+  {
+    "name": "Brice Matthews",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Texas Rangers vs Houston Astros"
+  },
+  {
+    "name": "Zack Short",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Texas Rangers vs Houston Astros"
+  },
+  {
+    "name": "Ezequiel Duran",
+    "team": "Texas Rangers",
+    "confidence": 0.8,
+    "reasoning": "Ezequiel Duran is a known prospect in the Texas Rangers organization",
+    "position": "Second Baseman",
+    "game_context": "Texas Rangers vs Houston Astros"
+  },
+  {
+    "name": "Taylor Trammell",
+    "team": "Unknown",
+    "confidence": 0,
+    "reasoning": "Taylor Trammell is not a player for either the Texas Rangers or the Houston Astros",
+    "position": "Unknown",
+    "game_context": "Texas Rangers vs Houston Astros"
+  },
+  {
+    "name": "Martin Maldonado",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Philadelphia Phillies vs San Diego Padres"
+  },
+  {
+    "name": "Trenton Brooks",
+    "team": "San Diego Padres",
+    "confidence": 0.9,
+    "reasoning": "Trenton Brooks is a known player for the San Diego Padres",
+    "position": "Outfielder",
+    "game_context": "Philadelphia Phillies vs San Diego Padres"
+  },
+  {
+    "name": "Randal Grichuk",
+    "team": "Los Angeles Angels",
+    "confidence": 0.9,
+    "reasoning": "Randal Grichuk is a known MLB player who currently plays for the Los Angeles Angels",
+    "position": "Outfielder",
+    "game_context": "Arizona Diamondbacks vs Los Angeles Angels"
+  },
+  {
+    "name": "Travis d'Arnaud",
+    "team": "Atlanta Braves",
+    "confidence": 0.9,
+    "reasoning": "Travis d'Arnaud is a known player for the Atlanta Braves, even though the game context does not include the Braves, players can be traded or loaned.",
+    "position": "Catcher",
+    "game_context": "Arizona Diamondbacks vs Los Angeles Angels"
+  },
+  {
+    "name": "Alek Thomas",
+    "team": "Arizona Diamondbacks",
+    "confidence": 1.0,
+    "reasoning": "Alek Thomas is a known prospect in the Arizona Diamondbacks organization",
+    "position": "Outfielder",
+    "game_context": "Arizona Diamondbacks vs Los Angeles Angels"
+  },
+  {
+    "name": "Miguel Rojas",
+    "team": "Unknown",
+    "confidence": 0,
+    "reasoning": "Miguel Rojas is not currently on the roster for either the Los Angeles Dodgers or the San Francisco Giants",
+    "position": "Unknown",
+    "game_context": "Los Angeles Dodgers vs San Francisco Giants"
+  },
+  {
+    "name": "Dominic Smith",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Los Angeles Dodgers vs San Francisco Giants"
+  },
+  {
+    "name": "Mike Yastrzemski",
+    "team": "San Francisco Giants",
+    "confidence": 1.0,
+    "reasoning": "Mike Yastrzemski is a known player for the San Francisco Giants",
+    "position": "Outfielder",
+    "game_context": "Los Angeles Dodgers vs San Francisco Giants"
+  },
+  {
+    "name": "Casey Schmitt",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Los Angeles Dodgers vs San Francisco Giants"
+  },
+  {
+    "name": "Robbie Ray",
+    "team": "Unknown",
+    "confidence": 0,
+    "reasoning": "Robbie Ray is not a player for either the Los Angeles Dodgers or the San Francisco Giants. He is a pitcher for the Toronto Blue Jays.",
+    "position": "Pitcher",
+    "game_context": "Los Angeles Dodgers vs San Francisco Giants"
+  },
+  {
+    "name": "Li Yueru",
+    "team": "Dallas Wings",
+    "confidence": 1.0,
+    "reasoning": "Li Yueru is a known player for the Dallas Wings in the WNBA",
+    "position": "Center",
+    "game_context": "Dallas Wings vs Indiana Fever"
+  },
+  {
+    "name": "Kelsey Plum",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Connecticut Sun vs Los Angeles Sparks"
+  },
+  {
+    "name": "Gabby Williams",
+    "team": "Chicago Sky",
+    "confidence": 0.9,
+    "reasoning": "Gabby Williams is a known player for the Chicago Sky in the WNBA. However, she was suspended for the 2021 season and traded to the Los Angeles Sparks, but she is not playing for either of the teams in the game context.",
+    "position": "Forward",
+    "game_context": "Washington Mystics vs Seattle Storm"
+  },
+  {
+    "name": "Erica Wheeler",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Washington Mystics vs Seattle Storm"
+  },
+  {
+    "name": "Kiki Iriafen",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Washington Mystics vs Seattle Storm"
+  },
+  {
+    "name": "Sonia Citron",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Washington Mystics vs Seattle Storm"
+  },
+  {
+    "name": "Shakira Austin",
+    "team": "Unknown",
+    "confidence": 0.0,
+    "reasoning": "Error: Expecting value: line 1 column 1 (char 0)",
+    "position": "Unknown",
+    "game_context": "Washington Mystics vs Seattle Storm"
+  }
+]

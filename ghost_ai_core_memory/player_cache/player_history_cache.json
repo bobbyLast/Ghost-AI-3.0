@@ -1,0 +1,97 @@
+{
+  "2ecb63e3735c30ef41ce62930eb7b05c": {
+    "player_name": "Test Player",
+    "prop_type": "Fantasy Score",
+    "sport": "MLB",
+    "data": [
+      {
+        "date": "2025-01-01",
+        "result": "win",
+        "line": 20.5,
+        "actual": 28.0
+      },
+      {
+        "date": "2025-01-02",
+        "result": "loss",
+        "line": 22.0,
+        "actual": 18.0
+      }
+    ],
+    "last_updated": "2025-06-30T01:59:06.622575",
+    "cache_type": "history"
+  },
+  "d7c16975c47f7468ab294766a7dda293": {
+    "player_name": "TestPlayer123",
+    "prop_type": "fantasy_score",
+    "sport": "mlb",
+    "data": [
+      {
+        "result": "win",
+        "line": 22.5,
+        "actual": 28.0,
+        "date": "2024-01-01"
+      },
+      {
+        "result": "loss",
+        "line": 23.0,
+        "actual": 20.0,
+        "date": "2024-01-02"
+      }
+    ],
+    "last_updated": "2025-06-30T02:03:32.496794",
+    "cache_type": "history"
+  },
+  "169fb0597a741393f0720339288da1b5": {
+    "player_name": "Aaron Judge",
+    "prop_type": "batter_total_bases",
+    "sport": "mlb",
+    "data": [
+      {
+        "result": "win",
+        "line": 1.5,
+        "actual": 2.0,
+        "date": "2024-09-15",
+        "opponent": "Red Sox"
+      },
+      {
+        "result": "loss",
+        "line": 2.0,
+        "actual": 1.0,
+        "date": "2024-09-14",
+        "opponent": "Red Sox"
+      },
+      {
+        "result": "win",
+        "line": 1.5,
+        "actual": 3.0,
+        "date": "2024-09-13",
+        "opponent": "Blue Jays"
+      }
+    ],
+    "last_updated": "2025-06-30T02:07:37.647896",
+    "cache_type": "history"
+  },
+  "a1c3dbad379557dbf73c273ca9e32889": {
+    "player_name": "Julio Rodriguez",
+    "prop_type": "batter_total_bases",
+    "sport": "mlb",
+    "data": [
+      {
+        "result": "win",
+        "line": 1.5,
+        "actual": 2.0,
+        "date": "2024-09-15",
+        "opponent": "Astros"
+      },
+      {
+        "result": "win",
+        "line": 1.5,
+        "actual": 2.0,
+        "date": "2024-09-14",
+        "opponent": "Astros"
+      }
+    ],
+    "last_updated": "2025-06-30T02:07:37.699647",
+    "cache_type": "history"
+  }
+}

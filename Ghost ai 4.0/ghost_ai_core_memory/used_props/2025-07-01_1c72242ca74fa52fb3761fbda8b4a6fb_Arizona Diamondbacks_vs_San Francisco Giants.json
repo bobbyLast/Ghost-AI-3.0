@@ -1,0 +1,20 @@
+{
+  "event_id": "1c72242ca74fa52fb3761fbda8b4a6fb",
+  "home_team": "Arizona Diamondbacks",
+  "away_team": "San Francisco Giants",
+  "game_time": "2025-07-02T01:41:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "Arizona Diamondbacks": {
+      "odds": 1.77,
+      "implied_probability": 0.9826078412105729,
+      "tags": []
+    },
+    "San Francisco Giants": {
+      "odds": 2.02,
+      "implied_probability": 0.9801999607920016,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-07-01T21:58:18.125025"
+}

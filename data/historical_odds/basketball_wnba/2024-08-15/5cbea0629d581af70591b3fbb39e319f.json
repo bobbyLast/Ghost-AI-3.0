@@ -1,0 +1,545 @@
+{
+  "timestamp": "2024-08-15T17:55:38Z",
+  "previous_timestamp": "2024-08-15T17:50:39Z",
+  "next_timestamp": "2024-08-15T18:00:38Z",
+  "data": {
+    "id": "5cbea0629d581af70591b3fbb39e319f",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-16T01:00:00Z",
+    "home_team": "Los Angeles Sparks",
+    "away_team": "New York Liberty",
+    "bookmakers": [
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-15T17:54:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 510
+              },
+              {
+                "name": "New York Liberty",
+                "price": -835
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -113,
+                "point": 11.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -113,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 164.0
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 164.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-15T17:54:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 490
+              },
+              {
+                "name": "New York Liberty",
+                "price": -750
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -112,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -108,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-15T17:54:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 500
+              },
+              {
+                "name": "New York Liberty",
+                "price": -700
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -115,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -105,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-08-15T17:53:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-15T17:53:04Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 482
+              },
+              {
+                "name": "New York Liberty",
+                "price": -769
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-15T17:53:04Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-15T17:53:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-15T17:54:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-15T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 490
+              },
+              {
+                "name": "New York Liberty",
+                "price": -675
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-15T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-15T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-08-15T17:53:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-15T17:53:05Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 550
+              },
+              {
+                "name": "New York Liberty",
+                "price": -800
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-15T17:53:05Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -115,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -105,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-15T17:53:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-08-15T17:54:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-15T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 515
+              },
+              {
+                "name": "New York Liberty",
+                "price": -665
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-15T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -114,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -106,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-15T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-08-15T17:54:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-15T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 525
+              },
+              {
+                "name": "New York Liberty",
+                "price": -800
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-15T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -115,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -105,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-15T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-08-15T17:54:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 515
+              },
+              {
+                "name": "New York Liberty",
+                "price": -667
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -112,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -104,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -106,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-08-15T17:54:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 495
+              },
+              {
+                "name": "New York Liberty",
+                "price": -665
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -115,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -105,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-15T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

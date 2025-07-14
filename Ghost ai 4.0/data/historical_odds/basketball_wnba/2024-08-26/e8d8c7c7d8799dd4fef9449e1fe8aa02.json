@@ -1,0 +1,492 @@
+{
+  "timestamp": "2024-08-26T17:55:39Z",
+  "previous_timestamp": "2024-08-26T17:50:38Z",
+  "next_timestamp": "2024-08-26T18:00:39Z",
+  "data": {
+    "id": "e8d8c7c7d8799dd4fef9449e1fe8aa02",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-27T02:00:00Z",
+    "home_team": "Seattle Storm",
+    "away_team": "Washington Mystics",
+    "bookmakers": [
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-26T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -530
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 370
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -113,
+                "point": -10.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -113,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 161.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 161.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-26T17:44:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:44:37Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -590
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 410
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:44:37Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -112,
+                "point": -10.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -108,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:44:37Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 161.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 161.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-26T17:55:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -575
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 425
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -105,
+                "point": -10.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -115,
+                "point": 10.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 161.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 161.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-08-26T17:51:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:51:48Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -600
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 430
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:51:48Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:51:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 161.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 161.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-08-26T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -549
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 430
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -108,
+                "point": -10.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -108,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -103,
+                "point": 161.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 161.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-08-26T17:54:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -550
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 430
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 161.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 161.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-08-26T17:55:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -550
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 415
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 161.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 161.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-08-26T17:54:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -600
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 425
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 161.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 161.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-26T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -550
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 400
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -10.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 10.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 161.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 161.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "name": "Navone M.",
+  "matches_played": 66,
+  "wins": 29,
+  "losses": 37,
+  "win_percentage": 0.439,
+  "tournaments_played": [
+    "Chile Open",
+    "BMW Open",
+    "Japan Open Tennis Championships",
+    "Rio Open",
+    "BNP Paribas Masters",
+    "Miami Open",
+    "European Open",
+    "Canadian Open",
+    "US Open",
+    "Australian Open",
+    "Argentina Open",
+    "Wimbledon",
+    "Cordoba Open",
+    "Internazionali BNL d'Italia",
+    "Vienna Open",
+    "ASB Classic",
+    "Monte Carlo Masters",
+    "Belgrade Open",
+    "Mutua Madrid Open",
+    "Grand Prix Hassan II",
+    "Nordea Open",
+    "French Open",
+    "Queen's Club Championships",
+    "Winston-Salem Open at Wake Forest University",
+    "Western & Southern Financial Group Masters",
+    "Eastbourne International",
+    "Tiriac Open",
+    "Brisbane International",
+    "Shanghai Masters",
+    "Croatia Open",
+    "BNP Paribas Open"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2025",
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Argentina Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Fonseca J."
+    },
+    {
+      "tournament": "Rio Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Carballes Baena R."
+    },
+    {
+      "tournament": "Rio Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Baez S."
+    },
+    {
+      "tournament": "Chile Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Shevchenko A."
+    },
+    {
+      "tournament": "Chile Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Dzumhur D."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Tien L."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Shelton B."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Sonego L."
+    },
+    {
+      "tournament": "Tiriac Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Djere L."
+    },
+    {
+      "tournament": "Tiriac Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Fucsovics M."
+    },
+    {
+      "tournament": "Monte Carlo Masters",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Berrettini M."
+    },
+    {
+      "tournament": "BMW Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Auger-Aliassime F."
+    },
+    {
+      "tournament": "BMW Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Goffin D."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Mpetshi G."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Shelton B."
+    },
+    {
+      "tournament": "Internazionali BNL d'Italia",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Cina F."
+    },
+    {
+      "tournament": "Internazionali BNL d'Italia",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Sinner J."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Nakashima B."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Opelka R."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Musetti L."
+    }
+  ],
+  "head_to_head": {
+    "Carballes Baena R.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Darderi L.": {
+      "wins": 2,
+      "losses": 2
+    },
+    "Coria F.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Hanfmann Y.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Fonseca J.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Norrie C.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Baez S.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Dougaz A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Wawrinka S.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Vukic A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Berrettini M.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Seyboth Wild T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Cerundolo F.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Barrere G.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Fucsovics M.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Popyrin A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Rune H.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Carreno Busta P.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Machac T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Draper J.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Hussey G.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Sonego L.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Nagal S.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Nadal R.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Cobolli F.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Fritz T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Lehecka J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Shang J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Altmaier D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Evans D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Shelton B.": {
+      "wins": 0,
+      "losses": 3
+    },
+    "Nishikori K.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Monteiro T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Gaston H.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Kecmanovic M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "De Minaur A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Lajovic D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Jarry N.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Mannarino A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Borges N.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Comesana F.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Shevchenko A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Dzumhur D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Tien L.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Djere L.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Auger-Aliassime F.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Goffin D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Mpetshi G.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Cina F.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Sinner J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Nakashima B.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Opelka R.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Musetti L.": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "performance_by_surface": {
+    "Clay": {
+      "wins": 24,
+      "losses": 19
+    },
+    "Grass": {
+      "wins": 0,
+      "losses": 3
+    },
+    "Hard": {
+      "wins": 5,
+      "losses": 15
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 17,
+      "losses": 24
+    },
+    "2025": {
+      "wins": 12,
+      "losses": 13
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

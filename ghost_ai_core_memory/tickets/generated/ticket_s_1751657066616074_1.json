@@ -1,0 +1,40 @@
+{
+  "ticket_id": "s_1751657066616074_1",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 1-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "3f9e726575e9cdd999a67f15bfcef5d7",
+  "home_team": "Cleveland Guardians",
+  "away_team": "Detroit Tigers",
+  "commence_time": "2025-07-04T23:11:00Z",
+  "selections": [
+    {
+      "player_name": "Slade Cecconi",
+      "prop_type": "pitcher_outs",
+      "line": 15.5,
+      "odds": -120,
+      "bookmaker": "DraftKings",
+      "confidence": 0.545,
+      "value_rating": 0.0,
+      "team": "Arizona Diamondbacks",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T19:24:26.624574+00:00",
+  "confidence_score": 0.545,
+  "avg_odds": -120.0,
+  "potential_payout": 14.37,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Arizona Diamondbacks"
+  ],
+  "team_count": 1,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.84
+}

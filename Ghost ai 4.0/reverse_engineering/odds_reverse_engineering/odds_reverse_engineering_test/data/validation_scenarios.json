@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Hot Streak Falling Odds",
+    "description": "Player hitting well, odds getting more negative",
+    "player": "Juan Soto",
+    "prop_type": "batter_total_bases",
+    "historical_data": [
+      {
+        "date": "2024-06-15",
+        "odds": -110,
+        "result": "W"
+      },
+      {
+        "date": "2024-06-16",
+        "odds": -125,
+        "result": "W"
+      },
+      {
+        "date": "2024-06-17",
+        "odds": -140,
+        "result": "W"
+      },
+      {
+        "date": "2024-06-18",
+        "odds": -155,
+        "result": "W"
+      },
+      {
+        "date": "2024-06-19",
+        "odds": -170,
+        "result": "L"
+      }
+    ],
+    "today_odds": -160,
+    "expected_analysis": "\ud83d\udd25 rising confidence, \u2705 play"
+  },
+  {
+    "name": "Cold Streak Rising Odds",
+    "description": "Player struggling, odds getting more positive",
+    "player": "Aaron Judge",
+    "prop_type": "batter_home_runs",
+    "historical_data": [
+      {
+        "date": "2024-06-15",
+        "odds": -120,
+        "result": "L"
+      },
+      {
+        "date": "2024-06-16",
+        "odds": -105,
+        "result": "L"
+      },
+      {
+        "date": "2024-06-17",
+        "odds": -90,
+        "result": "L"
+      },
+      {
+        "date": "2024-06-18",
+        "odds": -75,
+        "result": "W"
+      },
+      {
+        "date": "2024-06-19",
+        "odds": -60,
+        "result": "L"
+      }
+    ],
+    "today_odds": -50,
+    "expected_analysis": "\ud83d\udd3b falling confidence, \u26d4 avoid"
+  },
+  {
+    "name": "Mixed Signals Volatile",
+    "description": "Inconsistent performance with volatile odds",
+    "player": "Mookie Betts",
+    "prop_type": "batter_hits",
+    "historical_data": [
+      {
+        "date": "2024-06-15",
+        "odds": -110,
+        "result": "W"
+      },
+      {
+        "date": "2024-06-16",
+        "odds": -95,
+        "result": "L"
+      },
+      {
+        "date": "2024-06-17",
+        "odds": -120,
+        "result": "W"
+      },
+      {
+        "date": "2024-06-18",
+        "odds": -105,
+        "result": "L"
+      },
+      {
+        "date": "2024-06-19",
+        "odds": -115,
+        "result": "W"
+      }
+    ],
+    "today_odds": -110,
+    "expected_analysis": "\u27a1\ufe0f stable confidence, \u26a0\ufe0f caution"
+  }
+]

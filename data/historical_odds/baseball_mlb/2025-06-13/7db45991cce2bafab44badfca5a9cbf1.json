@@ -1,0 +1,492 @@
+{
+  "timestamp": "2025-06-13T17:55:37Z",
+  "previous_timestamp": "2025-06-13T17:50:37Z",
+  "next_timestamp": "2025-06-13T18:00:37Z",
+  "data": {
+    "id": "7db45991cce2bafab44badfca5a9cbf1",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-13T23:16:00Z",
+    "home_team": "Atlanta Braves",
+    "away_team": "Colorado Rockies",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-13T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -320
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 260
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -152,
+                "point": -1.5
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 126,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-13T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -315
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 277
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -154,
+                "point": -1.5
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 136,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-13T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -315
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 277
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -155,
+                "point": -1.5
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 135,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-13T17:54:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -345
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 270
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -160,
+                "point": -1.5
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 135,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-13T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -337
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 262
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -157,
+                "point": -1.5
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 129,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-13T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -310
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 262
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -155,
+                "point": -1.5
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 135,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-13T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -325
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 260
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 105,
+                "point": -2.5
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": -130,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-13T17:55:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -310
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 250
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -150,
+                "point": -1.5
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 130,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-13T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -360
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 270
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -152,
+                "point": -1.5
+              },
+              {
+                "name": "Colorado Rockies",
+                "price": 123,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

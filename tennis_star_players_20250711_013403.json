@@ -1,0 +1,113 @@
+{
+  "fetch_date": "2025-07-11T01:34:03.792260",
+  "star_players": [
+    "C. Eubanks",
+    "C. Alcaraz",
+    "Q. Zheng",
+    "K. Day",
+    "A. Mannarino",
+    "C. Garcia",
+    "T. Fritz",
+    "E. Navarro",
+    "A. Krueger",
+    "J. Sinner",
+    "S. Wawrinka",
+    "N. Djokovic",
+    "F. Diaz Acosta"
+  ],
+  "star_matches": [
+    {
+      "tournament": "ATP Wimbledon",
+      "round": "ATP Wimbledon - Semi-finals",
+      "player1": "T. Fritz",
+      "player2": "C. Alcaraz",
+      "player1_key": 2832,
+      "player2_key": 2382,
+      "match_time": "14:30",
+      "match_date": "2025-07-11",
+      "status": "",
+      "result": "-",
+      "has_star_players": true
+    },
+    {
+      "tournament": "Newport Challenger Men",
+      "round": "Newport Challenger Men - 1/8-finals",
+      "player1": "C. Eubanks",
+      "player2": "B. Tomic",
+      "player1_key": 1059,
+      "player2_key": 3145,
+      "match_time": "17:00",
+      "match_date": "2025-07-11",
+      "status": "",
+      "result": "-",
+      "has_star_players": true
+    },
+    {
+      "tournament": "Newport Challenger Men",
+      "round": "Newport Challenger Men - 1/8-finals",
+      "player1": "T. Zink",
+      "player2": "A. Mannarino",
+      "player1_key": 2214,
+      "player2_key": 438,
+      "match_time": "17:00",
+      "match_date": "2025-07-11",
+      "status": "",
+      "result": "-",
+      "has_star_players": true
+    },
+    {
+      "tournament": "ATP Wimbledon",
+      "round": "ATP Wimbledon - Semi-finals",
+      "player1": "J. Sinner",
+      "player2": "N. Djokovic",
+      "player1_key": 2072,
+      "player2_key": 1905,
+      "match_time": "16:30",
+      "match_date": "2025-07-11",
+      "status": "",
+      "result": "-",
+      "has_star_players": true
+    },
+    {
+      "tournament": "Iasi Challenger Men",
+      "round": null,
+      "player1": "S. Wawrinka",
+      "player2": "R. Albot",
+      "player1_key": 2168,
+      "player2_key": 363,
+      "match_time": "17:00",
+      "match_date": "2025-07-11",
+      "status": "",
+      "result": "-",
+      "has_star_players": true
+    },
+    {
+      "tournament": "Trieste Challenger Men",
+      "round": null,
+      "player1": "F. Diaz Acosta",
+      "player2": "S. Travaglia",
+      "player1_key": 2002,
+      "player2_key": 2672,
+      "match_time": "17:00",
+      "match_date": "2025-07-11",
+      "status": "",
+      "result": "-",
+      "has_star_players": true
+    },
+    {
+      "tournament": "ITF W15 San Diego, CA 4 Women",
+      "round": null,
+      "player1": "K. Day",
+      "player2": "M. Castillo Meza",
+      "player1_key": 132,
+      "player2_key": 19547,
+      "match_time": "19:00",
+      "match_date": "2025-07-11",
+      "status": "",
+      "result": "-",
+      "has_star_players": true
+    }
+  ],
+  "fixtures_count": 274,
+  "star_matches_count": 7
+}

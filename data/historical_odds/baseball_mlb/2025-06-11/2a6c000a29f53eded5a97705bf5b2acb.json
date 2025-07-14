@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-11T17:55:37Z",
+  "previous_timestamp": "2025-06-11T17:50:37Z",
+  "next_timestamp": "2025-06-11T18:00:37Z",
+  "data": {
+    "id": "2a6c000a29f53eded5a97705bf5b2acb",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-12T17:11:00Z",
+    "home_team": "New York Mets",
+    "away_team": "Washington Nationals",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-11T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -240
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 198
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -110,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

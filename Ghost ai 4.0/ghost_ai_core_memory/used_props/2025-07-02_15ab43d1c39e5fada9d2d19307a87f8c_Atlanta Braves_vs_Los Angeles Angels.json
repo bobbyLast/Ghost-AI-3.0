@@ -1,0 +1,20 @@
+{
+  "event_id": "15ab43d1c39e5fada9d2d19307a87f8c",
+  "home_team": "Atlanta Braves",
+  "away_team": "Los Angeles Angels",
+  "game_time": "2025-07-03T23:16:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "Atlanta Braves": {
+      "odds": 1.7,
+      "implied_probability": 0.983284169124877,
+      "tags": []
+    },
+    "Los Angeles Angels": {
+      "odds": 2.2,
+      "implied_probability": 0.9784735812133072,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-07-02T15:13:41.353539"
+}

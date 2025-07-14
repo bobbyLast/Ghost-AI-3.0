@@ -1,0 +1,263 @@
+{
+  "name": "Cilic M.",
+  "matches_played": 19,
+  "wins": 8,
+  "losses": 11,
+  "win_percentage": 0.421,
+  "tournaments_played": [
+    "Japan Open Tennis Championships",
+    "Argentina Open",
+    "Hong Kong Tennis Open",
+    "Qatar Exxon Mobil Open",
+    "Swiss Indoors",
+    "Belgrade Open",
+    "BNP Paribas Masters",
+    "Mutua Madrid Open",
+    "Shanghai Masters",
+    "Hangzhou Open",
+    "French Open",
+    "Dubai Tennis Championships"
+  ],
+  "surfaces": [
+    "Hard",
+    "Clay"
+  ],
+  "years_active": [
+    "2025",
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Hong Kong Tennis Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Struff J.L."
+    },
+    {
+      "tournament": "Argentina Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Djere L."
+    },
+    {
+      "tournament": "Hangzhou Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Svajda Z."
+    },
+    {
+      "tournament": "Hangzhou Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Nishioka Y."
+    },
+    {
+      "tournament": "Hangzhou Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Uchiyama Y."
+    },
+    {
+      "tournament": "Hangzhou Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Nakashima B."
+    },
+    {
+      "tournament": "Hangzhou Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Zhang Zh."
+    },
+    {
+      "tournament": "Japan Open Tennis Championships",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Nishikori K."
+    },
+    {
+      "tournament": "Shanghai Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Cazaux A."
+    },
+    {
+      "tournament": "Swiss Indoors",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Tabilo A."
+    },
+    {
+      "tournament": "BNP Paribas Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Fils A."
+    },
+    {
+      "tournament": "Belgrade Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Muller A."
+    },
+    {
+      "tournament": "Belgrade Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Lehecka J."
+    },
+    {
+      "tournament": "Qatar Exxon Mobil Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Alcaraz C."
+    },
+    {
+      "tournament": "Dubai Tennis Championships",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "De Minaur A."
+    },
+    {
+      "tournament": "Dubai Tennis Championships",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Popyrin A."
+    },
+    {
+      "tournament": "Dubai Tennis Championships",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Auger-Aliassime F."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Bonzi B."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Cobolli F."
+    }
+  ],
+  "head_to_head": {
+    "Struff J.L.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Djere L.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Svajda Z.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Nishioka Y.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Uchiyama Y.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Nakashima B.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Zhang Zh.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Nishikori K.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Cazaux A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Tabilo A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Fils A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Muller A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Lehecka J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Alcaraz C.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "De Minaur A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Popyrin A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Auger-Aliassime F.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Bonzi B.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Cobolli F.": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 8,
+      "losses": 8
+    },
+    "Clay": {
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2025": {
+      "wins": 2,
+      "losses": 4
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

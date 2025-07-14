@@ -1,0 +1,40 @@
+{
+  "ticket_id": "s_1751657084196416_45",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 1-Leg Ticket",
+  "tier": "standard",
+  "sport": "WNBA",
+  "game_id": "1999c831c4b70b4360923597f50660d3",
+  "home_team": "Minnesota Lynx",
+  "away_team": "Chicago Sky",
+  "commence_time": "2025-07-06T23:00:00Z",
+  "selections": [
+    {
+      "player_name": "Angel Reese",
+      "prop_type": "player_points_rebounds",
+      "line": 28.5,
+      "odds": -110,
+      "bookmaker": "FanDuel",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Chicago Sky",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T19:24:44.217950+00:00",
+  "confidence_score": 0.524,
+  "avg_odds": -110.0,
+  "potential_payout": 14.66,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Chicago Sky"
+  ],
+  "team_count": 1,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.68
+}

@@ -1,0 +1,26 @@
+{
+  "game_id": "mlb_20250714_1",
+  "home_team": "Houston Astros",
+  "away_team": "Toronto Blue Jays",
+  "commence_time": "2025-07-14T19:05:00Z",
+  "player_props": [
+    {
+      "player": "Vladimir Guerrero Jr.",
+      "team": "Toronto Blue Jays",
+      "prop_type": "runs",
+      "line": 1.3,
+      "over_odds": -115,
+      "under_odds": -110,
+      "game_time": "2025-07-14T20:05:00Z"
+    },
+    {
+      "player": "Vladimir Guerrero Jr.",
+      "team": "Toronto Blue Jays",
+      "prop_type": "rbis",
+      "line": 1.4,
+      "over_odds": -115,
+      "under_odds": -110,
+      "game_time": "2025-07-14T20:05:00Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "event_id": "aa281183d51d3e2261e8e3632ad9a49b",
+  "home_team": "Boston Red Sox",
+  "away_team": "Cincinnati Reds",
+  "game_time": "2025-07-02T23:10:00Z",
+  "result": "away_win",
+  "odds_data": {
+    "Boston Red Sox": {
+      "odds": 1.77,
+      "implied_probability": 0.9826078412105729,
+      "tags": []
+    },
+    "Cincinnati Reds": {
+      "odds": 2.1,
+      "implied_probability": 0.9794319294809012,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-07-02T15:13:41.312200"
+}

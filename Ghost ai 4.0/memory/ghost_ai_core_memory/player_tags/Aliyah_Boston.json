@@ -1,0 +1,30 @@
+{
+  "player_name": "Aliyah Boston",
+  "team": "Unknown",
+  "sport": "wnba",
+  "total_picks": 120,
+  "hits": 0,
+  "misses": 0,
+  "pushes": 0,
+  "current_streak": 0,
+  "best_streak": 0,
+  "prop_types": {
+    "player_rebounds": {
+      "hits": 0,
+      "attempts": 30
+    },
+    "player_assists": {
+      "hits": 0,
+      "attempts": 30
+    },
+    "player_points": {
+      "hits": 0,
+      "attempts": 30
+    },
+    "player_points_rebounds_assists": {
+      "hits": 0,
+      "attempts": 30
+    }
+  },
+  "last_updated": "2025-06-23T04:04:18.765761"
+}

@@ -1,0 +1,65 @@
+{
+  "timestamp": "20250705_134043",
+  "ticket": {
+    "ticket_type": "best_bet",
+    "legs": [
+      {
+        "game_id": "3228f9b80daeec530a5d115e984cc12c",
+        "home_team": "Chicago Cubs",
+        "away_team": "St. Louis Cardinals",
+        "commence_time": "2025-07-05T18:21:00Z",
+        "team": "St. Louis Cardinals",
+        "odds": 138,
+        "market": "h2h",
+        "bookmaker": "bovada",
+        "opponent": "Chicago Cubs",
+        "line": null,
+        "label": "St. Louis Cardinals",
+        "ghost_prob": 0.7,
+        "implied_prob": 0.42016806722689076,
+        "value_edge": 0.2798319327731092,
+        "confidence": 0.7,
+        "trap": false
+      },
+      {
+        "game_id": "b5c7a5d7c8b514f9a2962c355346946d",
+        "home_team": "Seattle Mariners",
+        "away_team": "Pittsburgh Pirates",
+        "commence_time": "2025-07-06T02:10:00Z",
+        "team": "Pittsburgh Pirates",
+        "odds": 136,
+        "market": "h2h",
+        "bookmaker": "bovada",
+        "opponent": "Seattle Mariners",
+        "line": null,
+        "label": "Pittsburgh Pirates",
+        "ghost_prob": 0.7,
+        "implied_prob": 0.423728813559322,
+        "value_edge": 0.27627118644067794,
+        "confidence": 0.7,
+        "trap": false
+      },
+      {
+        "game_id": "97fa82fcb0e8c45cc8d95138ba318b24",
+        "home_team": "Atlanta Braves",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-07-05T20:11:00Z",
+        "team": "Baltimore Orioles",
+        "odds": 127,
+        "market": "h2h",
+        "bookmaker": "bovada",
+        "opponent": "Atlanta Braves",
+        "line": null,
+        "label": "Baltimore Orioles",
+        "ghost_prob": 0.7,
+        "implied_prob": 0.44052863436123346,
+        "value_edge": 0.2594713656387665,
+        "confidence": 0.7,
+        "trap": false
+      }
+    ],
+    "total_legs": 3,
+    "combined_payout": 12.75,
+    "confidence_floor": 0.7
+  }
+}

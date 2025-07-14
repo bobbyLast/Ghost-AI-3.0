@@ -1,0 +1,598 @@
+{
+  "timestamp": "2025-06-11T17:55:37Z",
+  "previous_timestamp": "2025-06-11T17:50:37Z",
+  "next_timestamp": "2025-06-11T18:00:37Z",
+  "data": {
+    "id": "459aa45350b254e3e90de6278e8a7511",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-11T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 108
+              },
+              {
+                "name": "New York Yankees",
+                "price": -126
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -152,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 126,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-11T17:55:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 112
+              },
+              {
+                "name": "New York Yankees",
+                "price": -123
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -151,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 133,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 107,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -123,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-11T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 112
+              },
+              {
+                "name": "New York Yankees",
+                "price": -123
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -152,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 132,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 105,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-11T17:53:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:53:58Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 110
+              },
+              {
+                "name": "New York Yankees",
+                "price": -130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:53:58Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -155,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:53:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 105,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-11T17:54:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:54:53Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 108
+              },
+              {
+                "name": "New York Yankees",
+                "price": -132
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:54:53Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -158,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 129,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:54:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -123,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 101,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-06-11T17:43:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:43:53Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 110
+              },
+              {
+                "name": "New York Yankees",
+                "price": -130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:43:53Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -155,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 135,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:43:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -101,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-11T17:55:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 105
+              },
+              {
+                "name": "New York Yankees",
+                "price": -125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -160,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 135,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-11T17:54:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:54:10Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 112
+              },
+              {
+                "name": "New York Yankees",
+                "price": -123
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:54:10Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -150,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:54:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-11T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 110
+              },
+              {
+                "name": "New York Yankees",
+                "price": -130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -155,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-11T17:55:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 108
+              },
+              {
+                "name": "New York Yankees",
+                "price": -130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -150,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-11T17:54:56Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:54:56Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 104
+              },
+              {
+                "name": "New York Yankees",
+                "price": -127
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:54:56Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -157,
+                "point": 1.5
+              },
+              {
+                "name": "New York Yankees",
+                "price": 125,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:54:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -122,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -103,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

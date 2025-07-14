@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-12T17:55:37Z",
+  "previous_timestamp": "2025-06-12T17:50:37Z",
+  "next_timestamp": "2025-06-12T18:00:37Z",
+  "data": {
+    "id": "9424145152fcbd77847c63772b87c0a4",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-14T01:41:00Z",
+    "home_team": "Arizona Diamondbacks",
+    "away_team": "San Diego Padres",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-12T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-12T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -130
+              },
+              {
+                "name": "San Diego Padres",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-12T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 158,
+                "point": -1.5
+              },
+              {
+                "name": "San Diego Padres",
+                "price": -192,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-12T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

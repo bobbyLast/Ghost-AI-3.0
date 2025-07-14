@@ -1,0 +1,545 @@
+{
+  "timestamp": "2025-06-27T17:55:38Z",
+  "previous_timestamp": "2025-06-27T17:50:37Z",
+  "next_timestamp": "2025-06-27T18:00:38Z",
+  "data": {
+    "id": "9e545389ca8028ac891e7da277261a4e",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-28T00:10:00Z",
+    "home_team": "Houston Astros",
+    "away_team": "Chicago Cubs",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-27T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 101
+              },
+              {
+                "name": "Houston Astros",
+                "price": -111
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -205,
+                "point": 1.5
+              },
+              {
+                "name": "Houston Astros",
+                "price": 177,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-27T17:55:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:21Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 101
+              },
+              {
+                "name": "Houston Astros",
+                "price": -111
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:21Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -204,
+                "point": 1.5
+              },
+              {
+                "name": "Houston Astros",
+                "price": 179,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-27T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -105
+              },
+              {
+                "name": "Houston Astros",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -210,
+                "point": 1.5
+              },
+              {
+                "name": "Houston Astros",
+                "price": 175,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-27T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -106
+              },
+              {
+                "name": "Houston Astros",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 151,
+                "point": -1.5
+              },
+              {
+                "name": "Houston Astros",
+                "price": -186,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -119,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-27T17:55:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 101
+              },
+              {
+                "name": "Houston Astros",
+                "price": -111
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -205,
+                "point": 1.5
+              },
+              {
+                "name": "Houston Astros",
+                "price": 176,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-27T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -104
+              },
+              {
+                "name": "Houston Astros",
+                "price": -112
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 150,
+                "point": -1.5
+              },
+              {
+                "name": "Houston Astros",
+                "price": -182,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-27T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -105
+              },
+              {
+                "name": "Houston Astros",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "Houston Astros",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-27T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -105
+              },
+              {
+                "name": "Houston Astros",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -220,
+                "point": 1.5
+              },
+              {
+                "name": "Houston Astros",
+                "price": 180,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-27T17:54:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:54:57Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -107
+              },
+              {
+                "name": "Houston Astros",
+                "price": -112
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:54:57Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 150,
+                "point": -1.5
+              },
+              {
+                "name": "Houston Astros",
+                "price": -195,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:54:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-27T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -105
+              },
+              {
+                "name": "Houston Astros",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 160,
+                "point": -1.5
+              },
+              {
+                "name": "Houston Astros",
+                "price": -195,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

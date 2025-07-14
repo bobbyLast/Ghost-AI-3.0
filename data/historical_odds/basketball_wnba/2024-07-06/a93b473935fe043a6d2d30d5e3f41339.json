@@ -1,0 +1,386 @@
+{
+  "timestamp": "2024-07-06T17:55:37Z",
+  "previous_timestamp": "2024-07-06T17:50:37Z",
+  "next_timestamp": "2024-07-06T18:00:37Z",
+  "data": {
+    "id": "a93b473935fe043a6d2d30d5e3f41339",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-07-06T17:03:59Z",
+    "home_team": "Indiana Fever",
+    "away_team": "New York Liberty",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-07-06T17:54:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 290
+              },
+              {
+                "name": "New York Liberty",
+                "price": -410
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -113,
+                "point": 6.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -113,
+                "point": -6.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -111,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-07-06T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 160
+              },
+              {
+                "name": "New York Liberty",
+                "price": -200
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -118,
+                "point": 4.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -111,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -111,
+                "point": 167.5
+              },
+              {
+                "name": "Under",
+                "price": -118,
+                "point": 167.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-07-06T17:54:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 230
+              },
+              {
+                "name": "New York Liberty",
+                "price": -360
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": 5.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -120,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 161.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 161.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-07-06T17:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 280
+              },
+              {
+                "name": "New York Liberty",
+                "price": -380
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -125,
+                "point": 6.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -105,
+                "point": -6.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 162.5
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 162.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-07-06T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 300
+              },
+              {
+                "name": "New York Liberty",
+                "price": -400
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -120,
+                "point": 7.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -105,
+                "point": -7.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-07-06T17:54:49Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 210
+              },
+              {
+                "name": "New York Liberty",
+                "price": -290
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -130,
+                "point": 6.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": 100,
+                "point": -6.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -130,
+                "point": 161.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 161.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2024-07-06T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 215
+              },
+              {
+                "name": "New York Liberty",
+                "price": -300
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -115,
+                "point": 6.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -115,
+                "point": -6.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

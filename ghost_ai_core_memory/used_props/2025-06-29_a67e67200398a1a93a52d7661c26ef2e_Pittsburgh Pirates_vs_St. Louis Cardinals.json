@@ -1,0 +1,20 @@
+{
+  "event_id": "a67e67200398a1a93a52d7661c26ef2e",
+  "home_team": "Pittsburgh Pirates",
+  "away_team": "St. Louis Cardinals",
+  "game_time": "2025-06-30T22:41:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "Pittsburgh Pirates": {
+      "odds": 2.06,
+      "implied_probability": 0.9798157946306094,
+      "tags": []
+    },
+    "St. Louis Cardinals": {
+      "odds": 1.81,
+      "implied_probability": 0.9822217856792064,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-29T20:04:20.653434"
+}

@@ -1,0 +1,42 @@
+{
+  "player_name": "Pete Alonso",
+  "team": "New York Mets",
+  "sport": "mlb",
+  "total_picks": 165,
+  "hits": 0,
+  "misses": 0,
+  "pushes": 0,
+  "current_streak": 0,
+  "best_streak": 0,
+  "prop_types": {
+    "batter_hits": {
+      "hits": 0,
+      "attempts": 15
+    },
+    "batter_doubles": {
+      "hits": 0,
+      "attempts": 15
+    },
+    "batter_home_runs": {
+      "hits": 0,
+      "attempts": 30
+    },
+    "batter_rbis": {
+      "hits": 0,
+      "attempts": 45
+    },
+    "batter_runs_scored": {
+      "hits": 0,
+      "attempts": 15
+    },
+    "batter_singles": {
+      "hits": 0,
+      "attempts": 15
+    },
+    "batter_total_bases": {
+      "hits": 0,
+      "attempts": 30
+    }
+  },
+  "last_updated": "2025-06-23T04:04:11.517596"
+}

@@ -1,0 +1,2264 @@
+{
+  "id": "96c692dc5328fc7fdc499c6a211c5844",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-05T01:41:00Z",
+  "home_team": "Arizona Diamondbacks",
+  "away_team": "Kansas City Royals",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-05T03:32:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 700,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 800,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Herrera",
+              "price": 900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 950,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Geraldo Perdomo",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Freddy Fermin",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Vinnie Pasquantino",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Eugenio Suarez",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Salvador Perez",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Randal Grichuk",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Blaze Alexander",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tim Tawa",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-05T03:32:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Freddy Fermin",
+              "price": 150,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 1800,
+              "point": 2.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 2500,
+              "point": 2.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Eugenio Suarez",
+              "price": 2900,
+              "point": 2.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 3100,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Maikel Garcia",
+              "price": 4600,
+              "point": 2.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 115,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 115,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 175,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 170,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 200,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 200,
+              "point": 1.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Eugenio Suarez",
+              "price": 210,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Maikel Garcia",
+              "price": 220,
+              "point": 1.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Blaze Alexander",
+              "price": 280,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tim Tawa",
+              "price": 310,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 180,
+              "point": 3.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Vinnie Pasquantino",
+              "price": 220,
+              "point": 3.5,
+              "team": "Kansas City Royals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Freddy Fermin",
+              "price": 1600,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Herrera",
+              "price": 162,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Geraldo Perdomo",
+              "price": 178,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Salvador Perez",
+              "price": 270,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Randal Grichuk",
+              "price": 280,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-05T03:32:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 850,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Randal Grichuk",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Salvador Perez",
+              "price": 2100,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Freddy Fermin",
+              "price": 2300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 2400,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Tim Tawa",
+              "price": 2400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 2400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 2700,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Blaze Alexander",
+              "price": 3000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Herrera",
+              "price": 3200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Geraldo Perdomo",
+              "price": 3200,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Maikel Garcia",
+              "price": 3700,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Eugenio Suarez",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 2800,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 14000,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-05T03:32:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Eugenio Suarez",
+              "price": 1500,
+              "point": 3.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 3400,
+              "point": 3.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Salvador Perez",
+              "price": 5500,
+              "point": 3.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 7500,
+              "point": 3.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 430,
+              "point": 1.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Salvador Perez",
+              "price": 650,
+              "point": 1.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 650,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 650,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 1500,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 1500,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 1600,
+              "point": 1.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 1600,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 380,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 400,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 440,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 440,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Eugenio Suarez",
+              "price": 470,
+              "point": 2.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 2100,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Salvador Perez",
+              "price": 2200,
+              "point": 2.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 2900,
+              "point": 2.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 4600,
+              "point": 2.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 4800,
+              "point": 2.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 4900,
+              "point": 2.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-05T03:32:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 360,
+              "point": 2.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 390,
+              "point": 2.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Vinnie Pasquantino",
+              "price": 480,
+              "point": 2.5,
+              "team": "Kansas City Royals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 3000,
+              "point": 2.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 3800,
+              "point": 2.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Freddy Fermin",
+              "price": 4700,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 4700,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 260,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 290,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Freddy Fermin",
+              "price": 390,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 390,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Eugenio Suarez",
+              "price": 400,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Geraldo Perdomo",
+              "price": 500,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Herrera",
+              "price": 280,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 360,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-05T03:32:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 185,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Herrera",
+              "price": 240,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Geraldo Perdomo",
+              "price": 260,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 320,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Maikel Garcia",
+              "price": 360,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Eugenio Suarez",
+              "price": 420,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Salvador Perez",
+              "price": 460,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Randal Grichuk",
+              "price": 500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-05T03:32:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 110,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 165,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 175,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 195,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Blaze Alexander",
+              "price": 270,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tim Tawa",
+              "price": 300,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 180,
+              "point": 3.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Freddy Fermin",
+              "price": 550,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 600,
+              "point": 3.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 650,
+              "point": 3.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Maikel Garcia",
+              "price": 750,
+              "point": 3.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 1100,
+              "point": 3.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 1300,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Randal Grichuk",
+              "price": 1600,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 1800,
+              "point": 3.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Salvador Perez",
+              "price": 1900,
+              "point": 3.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tim Tawa",
+              "price": 1900,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Blaze Alexander",
+              "price": 2300,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Freddy Fermin",
+              "price": 145,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 200,
+              "point": 2.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Maikel Garcia",
+              "price": 220,
+              "point": 2.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 310,
+              "point": 2.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 500,
+              "point": 2.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 500,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 650,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Tim Tawa",
+              "price": 900,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Blaze Alexander",
+              "price": 950,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 115,
+              "point": 4.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Eugenio Suarez",
+              "price": 210,
+              "point": 4.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 460,
+              "point": 4.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 750,
+              "point": 4.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 1400,
+              "point": 4.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Freddy Fermin",
+              "price": 1400,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 1600,
+              "point": 4.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Maikel Garcia",
+              "price": 2000,
+              "point": 4.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 2000,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tim Tawa",
+              "price": 2200,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 2400,
+              "point": 4.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Blaze Alexander",
+              "price": 2700,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-05T03:32:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 3100,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Maikel Garcia",
+              "price": 4800,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-05T03:30:37Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jac Caglianone",
+              "price": 700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 750,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-05T03:30:37Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 133,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Ketel Marte",
+              "price": -184,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 178,
+              "point": 3.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Bobby Witt Jr.",
+              "price": -254,
+              "point": 3.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 178,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lourdes Gurriel Jr.",
+              "price": -254,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-05T03:19:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Maikel Garcia",
+              "price": 700,
+              "point": 1.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Maikel Garcia",
+              "price": -1300,
+              "point": 1.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 900,
+              "point": 1.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Jonathan India",
+              "price": -1850,
+              "point": 1.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Randal Grichuk",
+              "price": 575,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Randal Grichuk",
+              "price": -1025,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Vinnie Pasquantino",
+              "price": 600,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Vinnie Pasquantino",
+              "price": -1100,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jac Caglianone",
+              "price": 625,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jac Caglianone",
+              "price": -1150,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Salvador Perez",
+              "price": 625,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Salvador Perez",
+              "price": -1150,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Eugenio Suarez",
+              "price": 700,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Eugenio Suarez",
+              "price": -1300,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 750,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Bobby Witt Jr.",
+              "price": -1450,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 750,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Naylor",
+              "price": -1450,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Blaze Alexander",
+              "price": 800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Blaze Alexander",
+              "price": -1600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 800,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Ketel Marte",
+              "price": -1600,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Tim Tawa",
+              "price": 800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Tim Tawa",
+              "price": -1600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Freddy Fermin",
+              "price": 900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Freddy Fermin",
+              "price": -1850,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 950,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "John Rave",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 950,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Mark Canha",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lourdes Gurriel Jr.",
+              "price": -2200,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Geraldo Perdomo",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Geraldo Perdomo",
+              "price": -3000,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Herrera",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Herrera",
+              "price": -3500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-05T03:19:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Vinnie Pasquantino",
+              "price": -110,
+              "point": 11.5,
+              "team": "Kansas City Royals",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Vinnie Pasquantino",
+              "price": -120,
+              "point": 11.5,
+              "team": "Kansas City Royals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 140,
+              "point": 6.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Bobby Witt Jr.",
+              "price": -182,
+              "point": 6.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Freddy Fermin",
+              "price": 115,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Freddy Fermin",
+              "price": -148,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 140,
+              "point": 3.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Mark Canha",
+              "price": -182,
+              "point": 3.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 150,
+              "point": 3.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Jonathan India",
+              "price": -198,
+              "point": 3.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": -105,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Naylor",
+              "price": -125,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 120,
+              "point": 2.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Ketel Marte",
+              "price": -154,
+              "point": 2.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 150,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "John Rave",
+              "price": -198,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Maikel Garcia",
+              "price": -130,
+              "point": 1.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Maikel Garcia",
+              "price": 100,
+              "point": 1.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Eugenio Suarez",
+              "price": -105,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Eugenio Suarez",
+              "price": -125,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Salvador Perez",
+              "price": -105,
+              "point": 1.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Salvador Perez",
+              "price": -125,
+              "point": 1.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jac Caglianone",
+              "price": 105,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jac Caglianone",
+              "price": -135,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tim Tawa",
+              "price": 130,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Tim Tawa",
+              "price": -168,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 155,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lourdes Gurriel Jr.",
+              "price": -204,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Geraldo Perdomo",
+              "price": 165,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Geraldo Perdomo",
+              "price": -218,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Randal Grichuk",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Randal Grichuk",
+              "price": -130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Blaze Alexander",
+              "price": 110,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Blaze Alexander",
+              "price": -142,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Herrera",
+              "price": 165,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Herrera",
+              "price": -218,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-05T03:19:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 300,
+              "point": 3.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Bobby Witt Jr.",
+              "price": -440,
+              "point": 3.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Freddy Fermin",
+              "price": 195,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Freddy Fermin",
+              "price": -265,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Naylor",
+              "price": 185,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Naylor",
+              "price": -248,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Vinnie Pasquantino",
+              "price": 195,
+              "point": 1.5,
+              "team": "Kansas City Royals",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Vinnie Pasquantino",
+              "price": -265,
+              "point": 1.5,
+              "team": "Kansas City Royals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jac Caglianone",
+              "price": 220,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jac Caglianone",
+              "price": -300,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ketel Marte",
+              "price": 250,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Ketel Marte",
+              "price": -350,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Tim Tawa",
+              "price": 270,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Tim Tawa",
+              "price": -385,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lourdes Gurriel Jr.",
+              "price": 280,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lourdes Gurriel Jr.",
+              "price": -400,
+              "point": 1.5,
+              "team": "Arizona Diamondbacks",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 300,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "John Rave",
+              "price": -440,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Maikel Garcia",
+              "price": 155,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Maikel Garcia",
+              "price": -204,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Salvador Perez",
+              "price": 190,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Salvador Perez",
+              "price": -255,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Blaze Alexander",
+              "price": 210,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Blaze Alexander",
+              "price": -285,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Randal Grichuk",
+              "price": 210,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Randal Grichuk",
+              "price": -285,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Eugenio Suarez",
+              "price": 220,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Eugenio Suarez",
+              "price": -300,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Mark Canha",
+              "price": 260,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Mark Canha",
+              "price": -370,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Herrera",
+              "price": 280,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Herrera",
+              "price": -400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Geraldo Perdomo",
+              "price": 290,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Geraldo Perdomo",
+              "price": -420,
+              "point": 0.5,
+              "team": "Arizona Diamondbacks",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jonathan India",
+              "price": 290,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Jonathan India",
+              "price": -420,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-05T03:19:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Maikel Garcia",
+              "price": 475,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Maikel Garcia",
+              "price": -775,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Bobby Witt Jr.",
+              "price": 900,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Bobby Witt Jr.",
+              "price": -1850,
+              "point": 0.5,
+              "team": "Kansas City Royals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "John Rave",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "John Rave",
+              "price": -2200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

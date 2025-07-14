@@ -1,0 +1,152 @@
+[
+  {
+    "sport": "tennis",
+    "match": "Novak Djokovic vs Carlos Alcaraz",
+    "confidence": 0.8035806875403227,
+    "reasoning": "AI analysis based on player stats for Novak Djokovic vs Carlos Alcaraz",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 46.5,
+        "over_odds": -116,
+        "under_odds": -111,
+        "confidence": 0.6014633813080787
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -147,
+        "away_odds": 111,
+        "confidence": 0.7044829631920297
+      },
+      {
+        "type": "Total Aces",
+        "line": 17.0,
+        "over_odds": -119,
+        "under_odds": -113,
+        "confidence": 0.5043843106978487
+      }
+    ],
+    "timestamp": "2025-07-12T14:45:12.108402",
+    "source": "tennis_ai_integration"
+  },
+  {
+    "sport": "tennis",
+    "match": "Daniil Medvedev vs Jannik Sinner",
+    "confidence": 0.8086144614138382,
+    "reasoning": "AI analysis based on player stats for Daniil Medvedev vs Jannik Sinner",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 41.0,
+        "over_odds": -116,
+        "under_odds": -115,
+        "confidence": 0.7454372918092881
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": 134,
+        "away_odds": -143,
+        "confidence": 0.6587008829006195
+      },
+      {
+        "type": "Total Aces",
+        "line": 13.5,
+        "over_odds": -113,
+        "under_odds": -114,
+        "confidence": 0.6715831929329541
+      }
+    ],
+    "timestamp": "2025-07-12T14:45:12.108402",
+    "source": "tennis_ai_integration"
+  },
+  {
+    "sport": "tennis",
+    "match": "Stefanos Tsitsipas vs Alexander Zverev",
+    "confidence": 0.8001463210127141,
+    "reasoning": "AI analysis based on player stats for Stefanos Tsitsipas vs Alexander Zverev",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 45.0,
+        "over_odds": -114,
+        "under_odds": -115,
+        "confidence": 0.6786920940956693
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -141,
+        "away_odds": 135,
+        "confidence": 0.6604699134088807
+      },
+      {
+        "type": "Total Aces",
+        "line": 19.0,
+        "over_odds": -112,
+        "under_odds": -111,
+        "confidence": 0.564640243135976
+      }
+    ],
+    "timestamp": "2025-07-12T14:45:12.108402",
+    "source": "tennis_ai_integration"
+  },
+  {
+    "sport": "tennis",
+    "match": "Andrey Rublev vs Casper Ruud",
+    "confidence": 0.715702255054301,
+    "reasoning": "AI analysis based on player stats for Andrey Rublev vs Casper Ruud",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 39.0,
+        "over_odds": -120,
+        "under_odds": -111,
+        "confidence": 0.7305353398212353
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -125,
+        "away_odds": 129,
+        "confidence": 0.7088764381851778
+      },
+      {
+        "type": "Total Aces",
+        "line": 9.0,
+        "over_odds": -112,
+        "under_odds": -113,
+        "confidence": 0.5238831108308976
+      }
+    ],
+    "timestamp": "2025-07-12T14:45:12.108402",
+    "source": "tennis_ai_integration"
+  },
+  {
+    "sport": "tennis",
+    "match": "Taylor Fritz vs Frances Tiafoe",
+    "confidence": 0.8313304279474223,
+    "reasoning": "AI analysis based on player stats for Taylor Fritz vs Frances Tiafoe",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 42.5,
+        "over_odds": -110,
+        "under_odds": -115,
+        "confidence": 0.6152409263790677
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": 128,
+        "away_odds": -134,
+        "confidence": 0.7947573125494972
+      },
+      {
+        "type": "Total Aces",
+        "line": 12.5,
+        "over_odds": -112,
+        "under_odds": -113,
+        "confidence": 0.6990995896364132
+      }
+    ],
+    "timestamp": "2025-07-12T14:45:12.108402",
+    "source": "tennis_ai_integration"
+  }
+]

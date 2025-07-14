@@ -1,0 +1,14 @@
+{
+  "total_tickets_posted": 0,
+  "training_mode_tickets": 0,
+  "production_mode_tickets": 0,
+  "special_tickets": 0,
+  "regular_tickets": 0,
+  "posted_tickets": [],
+  "daily_stats": {},
+  "confidence_stats": {
+    "high_confidence": 0,
+    "medium_confidence": 0,
+    "low_confidence": 0
+  }
+}

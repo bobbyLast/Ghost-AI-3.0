@@ -1,0 +1,651 @@
+{
+  "timestamp": "2024-07-07T17:55:36Z",
+  "previous_timestamp": "2024-07-07T17:50:36Z",
+  "next_timestamp": "2024-07-07T18:00:36Z",
+  "data": {
+    "id": "f82cb32e61816c0e2942f973ab27199b",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-07-07T22:00:00Z",
+    "home_team": "Seattle Storm",
+    "away_team": "Chicago Sky",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-07-07T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-07T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 390
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -520
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-07T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -112,
+                "point": 9.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -108,
+                "point": -9.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-07T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 163.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 163.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-07-07T17:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-07T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 360
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-07T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -112,
+                "point": 9.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -108,
+                "point": -9.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-07T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-07-07T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-07T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 365
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-07T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 9.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-07T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-07-07T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-07T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 360
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -480
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-07T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -115,
+                "point": 9.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -105,
+                "point": -9.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-07T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 163.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 163.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-07-07T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-07T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 385
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -474
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-07T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -103,
+                "point": 9.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -113,
+                "point": -9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-07T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 162.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 162.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-07-07T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-07T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 385
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -475
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-07T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -105,
+                "point": 9.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -115,
+                "point": -9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-07T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 162.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 162.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-07-07T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-07T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 360
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -475
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-07T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 9.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-07T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 162.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 162.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-07-07T17:54:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-07T17:54:19Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 375
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-07T17:54:19Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -115,
+                "point": 9.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -105,
+                "point": -9.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-07T17:54:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-07-07T17:54:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-07T17:54:21Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 370
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -510
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-07T17:54:21Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -105,
+                "point": 9.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -115,
+                "point": -9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-07T17:54:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 162.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 162.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2024-07-07T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-07T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 385
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-07T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 9.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-07T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-07-07T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-07T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 370
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-07T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -112,
+                "point": 9.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -112,
+                "point": -9.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-07T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 163.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 163.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2024-07-07T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-07T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 400
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-07T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 9.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-07T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

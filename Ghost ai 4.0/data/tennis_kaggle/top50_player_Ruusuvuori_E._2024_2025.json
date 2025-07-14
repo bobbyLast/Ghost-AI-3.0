@@ -1,0 +1,296 @@
+{
+  "name": "Ruusuvuori E.",
+  "matches_played": 27,
+  "wins": 15,
+  "losses": 12,
+  "win_percentage": 0.556,
+  "tournaments_played": [
+    "Australian Open",
+    "Citi Open",
+    "Hong Kong Tennis Open",
+    "Eastbourne International",
+    "Open 13",
+    "Qatar Exxon Mobil Open",
+    "Geneva Open",
+    "Wimbledon",
+    "Mutua Madrid Open",
+    "Miami Open",
+    "Internazionali BNL d'Italia",
+    "French Open",
+    "BNP Paribas Open",
+    "ABN AMRO World Tennis Tournament"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Open 13",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Van Assche L."
+    },
+    {
+      "tournament": "Open 13",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Davidovich Fokina A."
+    },
+    {
+      "tournament": "ABN AMRO World Tennis Tournament",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Humbert U."
+    },
+    {
+      "tournament": "ABN AMRO World Tennis Tournament",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Struff J.L."
+    },
+    {
+      "tournament": "ABN AMRO World Tennis Tournament",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Griekspoor T."
+    },
+    {
+      "tournament": "Qatar Exxon Mobil Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Zeppieri G."
+    },
+    {
+      "tournament": "Qatar Exxon Mobil Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "O Connell C."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Lajovic D."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Hanfmann Y."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Machac T."
+    },
+    {
+      "tournament": "Internazionali BNL d'Italia",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Giron M."
+    },
+    {
+      "tournament": "Geneva Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Giron M."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Kwon S.W."
+    },
+    {
+      "tournament": "Eastbourne International",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Norrie C."
+    },
+    {
+      "tournament": "Eastbourne International",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Shang J."
+    },
+    {
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Mcdonald M."
+    },
+    {
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Tsitsipas S."
+    },
+    {
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Mpetshi G."
+    },
+    {
+      "tournament": "Citi Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Coric B."
+    },
+    {
+      "tournament": "Citi Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Mpetshi G."
+    }
+  ],
+  "head_to_head": {
+    "Bonzi B.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Khachanov K.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Kotov P.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Ofner S.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Rublev A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Kypson P.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Medvedev D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Van Assche L.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Davidovich Fokina A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Humbert U.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Struff J.L.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Griekspoor T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Zeppieri G.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "O Connell C.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Lajovic D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Hanfmann Y.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Machac T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Giron M.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Kwon S.W.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Norrie C.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Shang J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Mcdonald M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Tsitsipas S.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Mpetshi G.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Coric B.": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 11,
+      "losses": 7
+    },
+    "Clay": {
+      "wins": 1,
+      "losses": 3
+    },
+    "Grass": {
+      "wins": 3,
+      "losses": 2
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 15,
+      "losses": 12
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

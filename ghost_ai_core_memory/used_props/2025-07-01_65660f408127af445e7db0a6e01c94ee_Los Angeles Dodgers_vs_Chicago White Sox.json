@@ -1,0 +1,20 @@
+{
+  "event_id": "65660f408127af445e7db0a6e01c94ee",
+  "home_team": "Los Angeles Dodgers",
+  "away_team": "Chicago White Sox",
+  "game_time": "2025-07-03T02:11:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "Chicago White Sox": {
+      "odds": 3.6,
+      "implied_probability": 0.9652509652509653,
+      "tags": []
+    },
+    "Los Angeles Dodgers": {
+      "odds": 1.31,
+      "implied_probability": 0.9870693909781857,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-07-01T21:58:18.155204"
+}

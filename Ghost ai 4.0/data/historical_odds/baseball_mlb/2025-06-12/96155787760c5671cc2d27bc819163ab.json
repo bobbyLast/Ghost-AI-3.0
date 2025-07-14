@@ -1,0 +1,333 @@
+{
+  "timestamp": "2025-06-12T17:55:37Z",
+  "previous_timestamp": "2025-06-12T17:50:37Z",
+  "next_timestamp": "2025-06-12T18:00:37Z",
+  "data": {
+    "id": "96155787760c5671cc2d27bc819163ab",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-12T17:11:00Z",
+    "home_team": "Minnesota Twins",
+    "away_team": "Texas Rangers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-12T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-12T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 320
+              },
+              {
+                "name": "Texas Rangers",
+                "price": -460
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-12T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -130,
+                "point": 3.5
+              },
+              {
+                "name": "Texas Rangers",
+                "price": -102,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-12T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -146,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "price": 110,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-12T17:55:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-12T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 315
+              },
+              {
+                "name": "Texas Rangers",
+                "price": -475
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-12T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -130,
+                "point": 3.5
+              },
+              {
+                "name": "Texas Rangers",
+                "price": 100,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-12T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-12T17:54:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-12T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 290
+              },
+              {
+                "name": "Texas Rangers",
+                "price": -400
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-12T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -130,
+                "point": 3.5
+              },
+              {
+                "name": "Texas Rangers",
+                "price": 100,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-12T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -135,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "price": 105,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-12T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-12T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 330
+              },
+              {
+                "name": "Texas Rangers",
+                "price": -494
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-12T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -118,
+                "point": 3.5
+              },
+              {
+                "name": "Texas Rangers",
+                "price": -110,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-12T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -116,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-12T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-12T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 300
+              },
+              {
+                "name": "Texas Rangers",
+                "price": -425
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-12T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -120,
+                "point": 3.5
+              },
+              {
+                "name": "Texas Rangers",
+                "price": -105,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-12T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -145,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "price": 110,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-12T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-12T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 225
+              },
+              {
+                "name": "Texas Rangers",
+                "price": -310
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-12T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -115,
+                "point": 2.5
+              },
+              {
+                "name": "Texas Rangers",
+                "price": -115,
+                "point": -2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-12T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

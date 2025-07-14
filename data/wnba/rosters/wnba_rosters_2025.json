@@ -1,0 +1,231 @@
+{
+  "league": "WNBA",
+  "season": 2025,
+  "teams": [
+    {
+      "team": "Atlanta Dream",
+      "players": [
+        {"name": "Jordin Canada", "position": "G", "status": "Active"},
+        {"name": "Nia Coffey", "position": "F", "status": "Active"},
+        {"name": "Allisha Gray", "position": "G", "status": "Active"},
+        {"name": "Brittney Griner", "position": "C", "status": "Active"},
+        {"name": "Brionna Jones", "position": "F", "status": "Active"},
+        {"name": "Shatori Walker-Kimbrough", "position": "G", "status": "Active"},
+        {"name": "Naz Hillmon", "position": "F", "status": "Active"},
+        {"name": "Rhyne Howard", "position": "G", "status": "Active"},
+        {"name": "Te-Hina Paopao", "position": "G", "status": "Active"},
+        {"name": "Taylor Thierry", "position": "F", "status": "Active"},
+        {"name": "Maya Caldwell", "position": "G", "status": "Active"}
+      ]
+    },
+    {
+      "team": "Chicago Sky",
+      "players": [
+        {"name": "Rebecca Allen", "position": "F", "status": "Active"},
+        {"name": "Ariel Atkins", "position": "G", "status": "Active"},
+        {"name": "Rachel Banham", "position": "G", "status": "Active"},
+        {"name": "Moriah Jefferson", "position": "G", "status": "Active"},
+        {"name": "Kamilla Cardoso", "position": "C", "status": "Active"},
+        {"name": "Kia Nurse", "position": "G", "status": "Active"},
+        {"name": "Michaela Onyenwere", "position": "F", "status": "Active"},
+        {"name": "Angel Reese", "position": "F", "status": "Active"},
+        {"name": "Courtney Vandersloot", "position": "G", "status": "Active"},
+        {"name": "Elizabeth Williams", "position": "C", "status": "Active"},
+        {"name": "Hailey Van Lith", "position": "G", "status": "Active"},
+        {"name": "Maddy Westbeld", "position": "F", "status": "Active"}
+      ]
+    },
+    {
+      "team": "Connecticut Sun",
+      "players": [
+        {"name": "Tina Charles", "position": "F", "status": "Active"},
+        {"name": "Marina Mabrey", "position": "G", "status": "Active"},
+        {"name": "Olivia Nelson-Ododa", "position": "C", "status": "Active"},
+        {"name": "Lindsay Allen", "position": "G", "status": "Active"},
+        {"name": "Jacy Sheldon", "position": "G", "status": "Active"},
+        {"name": "Leïla Lacan", "position": "G", "status": "Active"},
+        {"name": "Rayah Marshall", "position": "C", "status": "Active"},
+        {"name": "Aneesah Morrow", "position": "F", "status": "Active"},
+        {"name": "Saniya Rivers", "position": "G", "status": "Active"},
+        {"name": "Kariata Diaby", "position": "C", "status": "Active"},
+        {"name": "Bria Hartley", "position": "G", "status": "Active"},
+        {"name": "Robyn Parks", "position": "F", "status": "Active"},
+        {"name": "Haley Peters", "position": "F", "status": "Active"}
+      ]
+    },
+    {
+      "team": "Dallas Wings",
+      "players": [
+        {"name": "DiJonai Carrington", "position": "G", "status": "Active"},
+        {"name": "Myisha Hines-Allen", "position": "F", "status": "Active"},
+        {"name": "Teaira McCowan", "position": "C", "status": "Active"},
+        {"name": "Arike Ogunbowale", "position": "G", "status": "Active"},
+        {"name": "NaLyssa Smith", "position": "F", "status": "Active"},
+        {"name": "Tyasha Harris", "position": "G", "status": "Active"},
+        {"name": "Maddy Siegrist", "position": "F", "status": "Active"},
+        {"name": "Paige Bueckers", "position": "G", "status": "Active"},
+        {"name": "Aziaha James", "position": "G", "status": "Active"},
+        {"name": "JJ Quinerly", "position": "G", "status": "Active"},
+        {"name": "Kaila Charles", "position": "G", "status": "Active"},
+        {"name": "Luisa Geiselsoder", "position": "C", "status": "Active"}
+      ]
+    },
+    {
+      "team": "Golden State Valkyries",
+      "players": [
+        {"name": "Monique Billings", "position": "F", "status": "Active"},
+        {"name": "Stephanie Talbot", "position": "F", "status": "Active"},
+        {"name": "Kayla Thornton", "position": "F", "status": "Active"},
+        {"name": "Temi Fagbenle", "position": "F", "status": "Active"},
+        {"name": "Tiffany Hayes", "position": "G", "status": "Active"},
+        {"name": "Kate Martin", "position": "G", "status": "Active"},
+        {"name": "Cecilia Zandalasini", "position": "F", "status": "Active"},
+        {"name": "Carla Leite", "position": "G", "status": "Active"},
+        {"name": "Veronica Burton", "position": "G", "status": "Active"},
+        {"name": "Kyara Linskens", "position": "C", "status": "Active"},
+        {"name": "Janelle Salaün", "position": "F", "status": "Active"},
+        {"name": "Julie Vanloo", "position": "G", "status": "Active"}
+      ]
+    },
+    {
+      "team": "Indiana Fever",
+      "players": [
+        {"name": "Damiris Dantas", "position": "F", "status": "Active"},
+        {"name": "Natasha Howard", "position": "F", "status": "Active"},
+        {"name": "Kelsey Mitchell", "position": "G", "status": "Active"},
+        {"name": "Lexie Hull", "position": "G", "status": "Active"},
+        {"name": "DeWanna Bonner", "position": "F", "status": "Active"},
+        {"name": "Aliyah Boston", "position": "C", "status": "Active"},
+        {"name": "Caitlin Clark", "position": "G", "status": "Active"},
+        {"name": "Sydney Colson", "position": "G", "status": "Active"},
+        {"name": "Sophie Cunningham", "position": "G", "status": "Active"},
+        {"name": "Brianna Turner", "position": "F", "status": "Active"},
+        {"name": "Makayla Timpson", "position": "C", "status": "Active"}
+      ]
+    },
+    {
+      "team": "Las Vegas Aces",
+      "players": [
+        {"name": "Dana Evans", "position": "G", "status": "Active"},
+        {"name": "Chelsea Gray", "position": "G", "status": "Active"},
+        {"name": "Jewell Loyd", "position": "G", "status": "Active"},
+        {"name": "A'ja Wilson", "position": "F", "status": "Active"},
+        {"name": "Jackie Young", "position": "G", "status": "Active"},
+        {"name": "Kierstan Bell", "position": "F", "status": "Active"},
+        {"name": "Megan Gustafson", "position": "C", "status": "Active"},
+        {"name": "Tiffany Mitchell", "position": "G", "status": "Active"},
+        {"name": "Kiah Stokes", "position": "C", "status": "Active"},
+        {"name": "Elizabeth Kitley", "position": "C", "status": "Active"},
+        {"name": "Aaliyah Nye", "position": "G", "status": "Active"},
+        {"name": "Crystal Bradford", "position": "F", "status": "Active"},
+        {"name": "Cheyenne Parker-Tyus", "position": "F", "status": "Active"}
+      ]
+    },
+    {
+      "team": "Los Angeles Sparks",
+      "players": [
+        {"name": "Nneka Ogwumike", "position": "F", "status": "Active"},
+        {"name": "Dearica Hamby", "position": "F", "status": "Active"},
+        {"name": "Lexie Brown", "position": "G", "status": "Active"},
+        {"name": "Layshia Clarendon", "position": "G", "status": "Active"},
+        {"name": "Azurá Stevens", "position": "F", "status": "Active"},
+        {"name": "Kia Nurse", "position": "G", "status": "Active"},
+        {"name": "Liatu King", "position": "F", "status": "Active"},
+        {"name": "Rae Burrell", "position": "G", "status": "Active"},
+        {"name": "Cameron Brink", "position": "F", "status": "Active"},
+        {"name": "Rickea Jackson", "position": "F", "status": "Active"},
+        {"name": "Stephanie Soares", "position": "F", "status": "Active"},
+        {"name": "Charlisse Leger-Walker", "position": "G", "status": "Active"},
+        {"name": "Aari McDonald", "position": "G", "status": "Active"}
+      ]
+    },
+    {
+      "team": "Minnesota Lynx",
+      "players": [
+        {"name": "Napheesa Collier", "position": "F", "status": "Active"},
+        {"name": "Kayla McBride", "position": "G", "status": "Active"},
+        {"name": "Bridget Carleton", "position": "F", "status": "Active"},
+        {"name": "Courtney Williams", "position": "G", "status": "Active"},
+        {"name": "Alanna Smith", "position": "F", "status": "Active"},
+        {"name": "Cecilia Zandalasini", "position": "F", "status": "Active"},
+        {"name": "Dorka Juhász", "position": "F", "status": "Active"},
+        {"name": "Taylor Soule", "position": "F", "status": "Active"},
+        {"name": "Brea Beal", "position": "G", "status": "Active"},
+        {"name": "Alissa Pili", "position": "F", "status": "Active"},
+        {"name": "Celeste Taylor", "position": "G", "status": "Active"},
+        {"name": "Quinesha Lockett", "position": "F", "status": "Active"},
+        {"name": "Paige Crozon", "position": "G", "status": "Active"}
+      ]
+    },
+    {
+      "team": "New York Liberty",
+      "players": [
+        {"name": "Breanna Stewart", "position": "F", "status": "Active"},
+        {"name": "Sabrina Ionescu", "position": "G", "status": "Active"},
+        {"name": "Jonquel Jones", "position": "C", "status": "Active"},
+        {"name": "Betnijah Laney-Hamilton", "position": "F", "status": "Active"},
+        {"name": "Kayla Thornton", "position": "F", "status": "Active"},
+        {"name": "Courtney Vandersloot", "position": "G", "status": "Active"},
+        {"name": "Ivana Dojkic", "position": "G", "status": "Active"},
+        {"name": "Leonie Fiebich", "position": "F", "status": "Active"},
+        {"name": "Rebekah Gardner", "position": "G", "status": "Active"},
+        {"name": "Sika Koné", "position": "C", "status": "Active"},
+        {"name": "Marquesha Davis", "position": "G", "status": "Active"},
+        {"name": "Nyadiew Puoch", "position": "F", "status": "Active"},
+        {"name": "Jaylyn Agnew", "position": "F", "status": "Active"}
+      ]
+    },
+    {
+      "team": "Phoenix Mercury",
+      "players": [
+        {"name": "Kahleah Copper", "position": "F", "status": "Active"},
+        {"name": "Natasha Cloud", "position": "G", "status": "Active"},
+        {"name": "Sophie Cunningham", "position": "G", "status": "Active"},
+        {"name": "Sug Sutton", "position": "G", "status": "Active"},
+        {"name": "Rebecca Allen", "position": "F", "status": "Active"},
+        {"name": "Liz Dixon", "position": "C", "status": "Active"},
+        {"name": "Natasha Mack", "position": "F", "status": "Active"},
+        {"name": "Mikiah Herbert Harrigan", "position": "F", "status": "Active"},
+        {"name": "Charisma Osborne", "position": "G", "status": "Active"},
+        {"name": "Jaz Shelley", "position": "G", "status": "Active"},
+        {"name": "Jazmon Gwathney", "position": "F", "status": "Active"},
+        {"name": "Liz Kitley", "position": "C", "status": "Active"}
+      ]
+    },
+    {
+      "team": "Seattle Storm",
+      "players": [
+        {"name": "Nneka Ogwumike", "position": "F", "status": "Active"},
+        {"name": "Skylar Diggins-Smith", "position": "G", "status": "Active"},
+        {"name": "Ezi Magbegor", "position": "C", "status": "Active"},
+        {"name": "Jordan Horston", "position": "F", "status": "Active"},
+        {"name": "Ivana Dojkic", "position": "G", "status": "Active"},
+        {"name": "Joyner Holmes", "position": "F", "status": "Active"},
+        {"name": "Sami Whitcomb", "position": "G", "status": "Active"},
+        {"name": "Dulcy Fankam Mendjiadeu", "position": "C", "status": "Active"},
+        {"name": "Mackenzie Holmes", "position": "C", "status": "Active"},
+        {"name": "Nika Mühl", "position": "G", "status": "Active"},
+        {"name": "Jade Loville", "position": "G", "status": "Active"},
+        {"name": "Madi Williams", "position": "F", "status": "Active"}
+      ]
+    },
+    {
+      "team": "Washington Mystics",
+      "players": [
+        {"name": "Stefanie Dolson", "position": "C", "status": "Active"},
+        {"name": "Brittney Sykes", "position": "G", "status": "Active"},
+        {"name": "Shatori Walker-Kimbrough", "position": "G", "status": "Active"},
+        {"name": "Karlie Samuelson", "position": "G", "status": "Active"},
+        {"name": "Queen Egbo", "position": "C", "status": "Active"},
+        {"name": "Emily Engstler", "position": "F", "status": "Active"},
+        {"name": "Li Meng", "position": "F", "status": "Active"},
+        {"name": "Stefanie Bergsma", "position": "F", "status": "Active"},
+        {"name": "Aaliyah Edwards", "position": "F", "status": "Active"},
+        {"name": "Leila Lacan", "position": "G", "status": "Active"},
+        {"name": "Stephanie Soares", "position": "F", "status": "Active"},
+        {"name": "Elena Tsineke", "position": "G", "status": "Active"},
+        {"name": "Jade Loville", "position": "G", "status": "Active"}
+      ]
+    }
+  ]
+}

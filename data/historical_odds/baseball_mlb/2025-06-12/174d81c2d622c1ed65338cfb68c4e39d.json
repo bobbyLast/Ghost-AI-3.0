@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-12T17:55:37Z",
+  "previous_timestamp": "2025-06-12T17:50:37Z",
+  "next_timestamp": "2025-06-12T18:00:37Z",
+  "data": {
+    "id": "174d81c2d622c1ed65338cfb68c4e39d",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-13T18:21:00Z",
+    "home_team": "Chicago Cubs",
+    "away_team": "Pittsburgh Pirates",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-12T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-12T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -112
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -104
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-12T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -205,
+                "point": 1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": 168,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-12T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

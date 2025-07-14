@@ -1,0 +1,118 @@
+[
+  {
+    "sport": "tennis",
+    "match": "Novak Djokovic vs Carlos Alcaraz",
+    "confidence": 0.8086285472611757,
+    "reasoning": "Analysis based on Kaggle data for Novak Djokovic vs Carlos Alcaraz",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 47.5,
+        "over_odds": -110,
+        "under_odds": -115,
+        "confidence": 0.6855843643116337
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -142,
+        "away_odds": 136,
+        "confidence": 0.6736900350820215
+      },
+      {
+        "type": "Total Aces",
+        "line": 20.5,
+        "over_odds": -119,
+        "under_odds": -110,
+        "confidence": 0.5768953653652623
+      }
+    ],
+    "timestamp": "2025-07-12T14:34:00.242851"
+  },
+  {
+    "sport": "tennis",
+    "match": "Stefanos Tsitsipas vs Alexander Zverev",
+    "confidence": 0.8092277629516673,
+    "reasoning": "Analysis based on Kaggle data for Stefanos Tsitsipas vs Alexander Zverev",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 49.0,
+        "over_odds": -116,
+        "under_odds": -116,
+        "confidence": 0.7982606007319504
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -139,
+        "away_odds": 124,
+        "confidence": 0.7567854488468262
+      },
+      {
+        "type": "Total Aces",
+        "line": 9.0,
+        "over_odds": -119,
+        "under_odds": -110,
+        "confidence": 0.6390425288708018
+      }
+    ],
+    "timestamp": "2025-07-12T14:34:00.242851"
+  },
+  {
+    "sport": "tennis",
+    "match": "Andrey Rublev vs Casper Ruud",
+    "confidence": 0.7507014411697241,
+    "reasoning": "Analysis based on Kaggle data for Andrey Rublev vs Casper Ruud",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 38.5,
+        "over_odds": -112,
+        "under_odds": -120,
+        "confidence": 0.6913364172485187
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -126,
+        "away_odds": 114,
+        "confidence": 0.7710683638719934
+      },
+      {
+        "type": "Total Aces",
+        "line": 9.0,
+        "over_odds": -115,
+        "under_odds": -112,
+        "confidence": 0.6934437455443061
+      }
+    ],
+    "timestamp": "2025-07-12T14:34:00.242851"
+  },
+  {
+    "sport": "tennis",
+    "match": "Taylor Fritz vs Frances Tiafoe",
+    "confidence": 0.7553746357552268,
+    "reasoning": "Analysis based on Kaggle data for Taylor Fritz vs Frances Tiafoe",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 48.0,
+        "over_odds": -119,
+        "under_odds": -118,
+        "confidence": 0.6823939794089052
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -138,
+        "away_odds": 127,
+        "confidence": 0.617189244978796
+      },
+      {
+        "type": "Total Aces",
+        "line": 11.5,
+        "over_odds": -119,
+        "under_odds": -115,
+        "confidence": 0.5415493746321618
+      }
+    ],
+    "timestamp": "2025-07-12T14:34:00.242851"
+  }
+]

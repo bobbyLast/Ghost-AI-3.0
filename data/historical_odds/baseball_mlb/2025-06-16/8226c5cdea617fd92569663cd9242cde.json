@@ -1,0 +1,492 @@
+{
+  "timestamp": "2025-06-16T17:55:37Z",
+  "previous_timestamp": "2025-06-16T17:50:37Z",
+  "next_timestamp": "2025-06-16T18:00:37Z",
+  "data": {
+    "id": "8226c5cdea617fd92569663cd9242cde",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-17T02:06:00Z",
+    "home_team": "Oakland Athletics",
+    "away_team": "Houston Astros",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -156
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 132
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 100,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -120,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-16T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -155
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 100,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -120,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-16T17:55:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -158
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 132
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 100,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -120,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-06-16T17:49:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:49:30Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -156
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 133
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:49:30Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 105,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -125,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:49:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -116,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-16T17:54:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -155
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -105,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -115,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-16T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -157
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 128
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -102,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -119,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -103,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "price": -118,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-16T17:55:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:35Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -150
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:35Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -105,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -115,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-16T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -152
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 104,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -129,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -148
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 133
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 100,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -120,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

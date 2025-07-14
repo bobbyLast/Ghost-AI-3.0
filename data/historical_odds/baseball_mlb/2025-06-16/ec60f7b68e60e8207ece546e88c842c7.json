@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-16T17:55:37Z",
+  "previous_timestamp": "2025-06-16T17:50:37Z",
+  "next_timestamp": "2025-06-16T18:00:37Z",
+  "data": {
+    "id": "ec60f7b68e60e8207ece546e88c842c7",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-18T00:06:00Z",
+    "home_team": "Texas Rangers",
+    "away_team": "Kansas City Royals",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 100
+              },
+              {
+                "name": "Texas Rangers",
+                "price": -118
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 176,
+                "point": -1.5
+              },
+              {
+                "name": "Texas Rangers",
+                "price": -215,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "event_id": "sample_event_001",
+  "player": "Mike Trout",
+  "market": "batter_hits",
+  "line": 1.5,
+  "side": "over",
+  "odds": 120,
+  "bookmaker": "fanduel",
+  "closing_time": "2025-06-29T15:00:00",
+  "result": "hit",
+  "final_stat": 2.0,
+  "tags": [
+    "demon"
+  ],
+  "confidence_predicted": 0.45454545454545453,
+  "ghost_pick": "over"
+}

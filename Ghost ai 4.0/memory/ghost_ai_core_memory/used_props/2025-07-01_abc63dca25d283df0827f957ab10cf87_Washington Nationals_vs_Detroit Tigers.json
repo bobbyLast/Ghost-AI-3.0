@@ -1,0 +1,20 @@
+{
+  "event_id": "abc63dca25d283df0827f957ab10cf87",
+  "home_team": "Washington Nationals",
+  "away_team": "Detroit Tigers",
+  "game_time": "2025-07-02T22:46:00Z",
+  "result": "away_win",
+  "odds_data": {
+    "Detroit Tigers": {
+      "odds": 1.93,
+      "implied_probability": 0.9810654370646521,
+      "tags": []
+    },
+    "Washington Nationals": {
+      "odds": 1.93,
+      "implied_probability": 0.9810654370646521,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-07-01T21:58:18.142768"
+}

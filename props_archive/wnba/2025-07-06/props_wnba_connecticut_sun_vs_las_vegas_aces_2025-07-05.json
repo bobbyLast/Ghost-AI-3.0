@@ -1,0 +1,772 @@
+{
+  "id": "e3f2627b86f4dae2fc98a365c3d7adb3",
+  "sport_key": "basketball_wnba",
+  "sport_title": "WNBA",
+  "commence_time": "2025-07-06T20:00:00Z",
+  "home_team": "Connecticut Sun",
+  "away_team": "Las Vegas Aces",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-07-05T18:04:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chelsea Gray",
+              "price": -158,
+              "point": 4.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Chelsea Gray",
+              "price": 118,
+              "point": 4.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Jackie Young",
+              "price": 140,
+              "point": 4.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jackie Young",
+              "price": -188,
+              "point": 4.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "A'ja Wilson",
+              "price": 104,
+              "point": 3.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "A'ja Wilson",
+              "price": -138,
+              "point": 3.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-07-05T18:04:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jackie Young",
+              "price": -120,
+              "point": 15.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jackie Young",
+              "price": -108,
+              "point": 15.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Chelsea Gray",
+              "price": 102,
+              "point": 12.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Chelsea Gray",
+              "price": -132,
+              "point": 12.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "A'ja Wilson",
+              "price": -104,
+              "point": 23.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "A'ja Wilson",
+              "price": -125,
+              "point": 23.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Tina Charles",
+              "price": 102,
+              "point": 14.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Tina Charles",
+              "price": -132,
+              "point": 14.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Jewell Loyd",
+              "price": 106,
+              "point": 11.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jewell Loyd",
+              "price": -138,
+              "point": 11.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points_assists",
+          "last_update": "2025-07-05T18:04:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chelsea Gray",
+              "price": 100,
+              "point": 17.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Chelsea Gray",
+              "price": -132,
+              "point": 17.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "A'ja Wilson",
+              "price": -118,
+              "point": 26.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "A'ja Wilson",
+              "price": -112,
+              "point": 26.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Jackie Young",
+              "price": -130,
+              "point": 19.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jackie Young",
+              "price": -102,
+              "point": 19.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points_rebounds",
+          "last_update": "2025-07-05T18:04:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jackie Young",
+              "price": -130,
+              "point": 19.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jackie Young",
+              "price": -102,
+              "point": 19.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Chelsea Gray",
+              "price": -106,
+              "point": 16.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Chelsea Gray",
+              "price": -125,
+              "point": 16.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Jewell Loyd",
+              "price": -102,
+              "point": 15.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jewell Loyd",
+              "price": -130,
+              "point": 15.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Tina Charles",
+              "price": -130,
+              "point": 18.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Tina Charles",
+              "price": -102,
+              "point": 18.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "A'ja Wilson",
+              "price": -104,
+              "point": 33.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "A'ja Wilson",
+              "price": -128,
+              "point": 33.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_points_rebounds_assists",
+          "last_update": "2025-07-05T18:04:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chelsea Gray",
+              "price": -108,
+              "point": 21.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Chelsea Gray",
+              "price": -122,
+              "point": 21.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Jackie Young",
+              "price": -104,
+              "point": 24.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jackie Young",
+              "price": -128,
+              "point": 24.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "A'ja Wilson",
+              "price": -118,
+              "point": 36.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "A'ja Wilson",
+              "price": -112,
+              "point": 36.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-05T18:04:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jewell Loyd",
+              "price": -166,
+              "point": 3.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jewell Loyd",
+              "price": 124,
+              "point": 3.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Olivia Nelson-Ododa",
+              "price": 112,
+              "point": 6.5,
+              "team": "Connecticut Sun",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Olivia Nelson-Ododa",
+              "price": -148,
+              "point": 6.5,
+              "team": "Connecticut Sun",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "A'ja Wilson",
+              "price": 116,
+              "point": 10.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "A'ja Wilson",
+              "price": -154,
+              "point": 10.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Jackie Young",
+              "price": 128,
+              "point": 4.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jackie Young",
+              "price": -172,
+              "point": 4.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Tina Charles",
+              "price": -132,
+              "point": 4.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Tina Charles",
+              "price": 100,
+              "point": 4.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Chelsea Gray",
+              "price": 122,
+              "point": 4.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Chelsea Gray",
+              "price": -162,
+              "point": 4.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds_assists",
+          "last_update": "2025-07-05T18:04:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chelsea Gray",
+              "price": 108,
+              "point": 9.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Chelsea Gray",
+              "price": -144,
+              "point": 9.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Jackie Young",
+              "price": 108,
+              "point": 8.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jackie Young",
+              "price": -144,
+              "point": 8.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "A'ja Wilson",
+              "price": -108,
+              "point": 13.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "A'ja Wilson",
+              "price": -122,
+              "point": 13.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_threes",
+          "last_update": "2025-07-05T18:04:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jackie Young",
+              "price": -120,
+              "point": 1.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jackie Young",
+              "price": -110,
+              "point": 1.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Jewell Loyd",
+              "price": -144,
+              "point": 1.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jewell Loyd",
+              "price": 108,
+              "point": 1.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Chelsea Gray",
+              "price": 110,
+              "point": 1.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Chelsea Gray",
+              "price": -146,
+              "point": 1.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_points",
+          "last_update": "2025-07-05T18:06:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "A'ja Wilson",
+              "price": -105,
+              "point": 23.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "A'ja Wilson",
+              "price": -125,
+              "point": 23.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Jackie Young",
+              "price": -120,
+              "point": 15.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jackie Young",
+              "price": -110,
+              "point": 15.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Tina Charles",
+              "price": 105,
+              "point": 14.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Tina Charles",
+              "price": -135,
+              "point": 14.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Chelsea Gray",
+              "price": 100,
+              "point": 12.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Chelsea Gray",
+              "price": -130,
+              "point": 12.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-05T18:06:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "A'ja Wilson",
+              "price": 114,
+              "point": 10.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "A'ja Wilson",
+              "price": -145,
+              "point": 10.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_points",
+          "last_update": "2025-07-05T18:05:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jackie Young",
+              "price": -120,
+              "point": 15.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jackie Young",
+              "price": -110,
+              "point": 15.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "A'ja Wilson",
+              "price": -110,
+              "point": 23.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "A'ja Wilson",
+              "price": -120,
+              "point": 23.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Chelsea Gray",
+              "price": 100,
+              "point": 12.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Chelsea Gray",
+              "price": -130,
+              "point": 12.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Tina Charles",
+              "price": -105,
+              "point": 14.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Tina Charles",
+              "price": -125,
+              "point": 14.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-05T18:05:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jewell Loyd",
+              "price": -160,
+              "point": 3.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Jewell Loyd",
+              "price": 125,
+              "point": 3.5,
+              "team": "Las Vegas Aces",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "A'ja Wilson",
+              "price": -140,
+              "point": 9.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "A'ja Wilson",
+              "price": 110,
+              "point": 9.5,
+              "team": "Las Vegas Aces",
+              "position": "F"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "timestamp": "2025-07-01T17:55:37Z",
+  "previous_timestamp": "2025-07-01T17:50:37Z",
+  "next_timestamp": "2025-07-01T18:00:38Z",
+  "data": {
+    "id": "943cb20cfe89667c526872bd3c558cf7",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-07-02T01:40:00Z",
+    "home_team": "Seattle Mariners",
+    "away_team": "Kansas City Royals",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-07-01T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-07-01T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 124
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -137
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-07-01T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -173,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 152,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-07-01T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -114,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -106,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-07-01T17:54:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-07-01T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 124
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -137
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-07-01T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -173,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 153,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-07-01T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -103,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-07-01T17:54:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-07-01T17:54:21Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 118
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -140
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-07-01T17:54:21Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -178,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 150,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-07-01T17:54:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-07-01T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-07-01T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 116
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -136
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-07-01T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -176,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 146,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-07-01T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-07-01T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-07-01T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 118
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -144
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-07-01T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -181,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 147,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-07-01T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-07-01T17:54:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-07-01T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 121
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -143
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-07-01T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -170,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 145,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-07-01T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -116,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-07-01T17:55:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-07-01T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 121
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -144
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-07-01T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -175,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 150,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-07-01T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-07-01T17:54:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-07-01T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 115
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -140
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-07-01T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -185,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 150,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-07-01T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-07-01T17:54:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-07-01T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 122
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -135
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-07-01T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -175,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 152,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-07-01T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-07-01T17:54:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-07-01T17:54:52Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 115
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -140
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-07-01T17:54:52Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -175,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 145,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-07-01T17:54:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-07-01T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-07-01T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 112
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -136
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-07-01T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -190,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 150,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-07-01T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -117,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -106,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

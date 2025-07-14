@@ -1,0 +1,119 @@
+{
+  "predictions": [
+    {
+      "id": "mixed_5leg_1_20250621_230450",
+      "player_name": "Aaron Judge",
+      "prop_type": "batter_home_runs",
+      "line": 0.5,
+      "actual_value": 1,
+      "status": "w",
+      "created_at": "2025-06-22",
+      "updated_at": "2025-06-28T13:13:50.794281",
+      "notes": "Judge hit 1 HR vs Orioles"
+    },
+    {
+      "id": "mixed_5leg_1_20250621_230450",
+      "player_name": "Dean Kremer",
+      "prop_type": "pitcher_strikeouts",
+      "line": 4.5,
+      "actual_value": 3,
+      "status": "l",
+      "created_at": "2025-06-22",
+      "updated_at": "2025-06-28T13:13:50.794281",
+      "notes": "Kremer had 3 Ks vs Yankees"
+    },
+    {
+      "id": "mixed_5leg_1_20250621_230450",
+      "player_name": "Dean Kremer",
+      "prop_type": "pitcher_strikeouts_alternate",
+      "line": 4.5,
+      "actual_value": 3,
+      "status": "l",
+      "created_at": "2025-06-22",
+      "updated_at": "2025-06-28T13:13:50.794281",
+      "notes": "Kremer had 3 Ks vs Yankees"
+    },
+    {
+      "id": "mixed_5leg_1_20250621_230450",
+      "player_name": "Brayan Bello",
+      "prop_type": "pitcher_strikeouts",
+      "line": 4.5,
+      "actual_value": 6,
+      "status": "w",
+      "created_at": "2025-06-21",
+      "updated_at": "2025-06-28T13:13:50.794281",
+      "notes": "Bello had 6 Ks vs Giants"
+    },
+    {
+      "id": "mixed_5leg_1_20250621_230450",
+      "player_name": "Brayan Bello",
+      "prop_type": "pitcher_strikeouts_alternate",
+      "line": 4.5,
+      "actual_value": 6,
+      "status": "w",
+      "created_at": "2025-06-21",
+      "updated_at": "2025-06-28T13:13:50.794281",
+      "notes": "Bello had 6 Ks vs Giants"
+    },
+    {
+      "id": "mixed_5leg_2_20250621_230450",
+      "player_name": "Dean Kremer",
+      "prop_type": "pitcher_strikeouts",
+      "line": 4.5,
+      "actual_value": 3,
+      "status": "l",
+      "created_at": "2025-06-22",
+      "updated_at": "2025-06-28T13:13:50.794281",
+      "notes": "Kremer had 3 Ks vs Yankees"
+    },
+    {
+      "id": "mixed_5leg_2_20250621_230450",
+      "player_name": "Dean Kremer",
+      "prop_type": "pitcher_strikeouts_alternate",
+      "line": 4.5,
+      "actual_value": 3,
+      "status": "l",
+      "created_at": "2025-06-22",
+      "updated_at": "2025-06-28T13:13:50.794281",
+      "notes": "Kremer had 3 Ks vs Yankees"
+    },
+    {
+      "id": "mixed_5leg_2_20250621_230450",
+      "player_name": "Brayan Bello",
+      "prop_type": "pitcher_strikeouts",
+      "line": 4.5,
+      "actual_value": 6,
+      "status": "w",
+      "created_at": "2025-06-21",
+      "updated_at": "2025-06-28T13:13:50.794281",
+      "notes": "Bello had 6 Ks vs Giants"
+    },
+    {
+      "id": "mixed_5leg_2_20250621_230450",
+      "player_name": "Brayan Bello",
+      "prop_type": "pitcher_strikeouts_alternate",
+      "line": 4.5,
+      "actual_value": 6,
+      "status": "w",
+      "created_at": "2025-06-21",
+      "updated_at": "2025-06-28T13:13:50.794281",
+      "notes": "Bello had 6 Ks vs Giants"
+    },
+    {
+      "id": "mixed_5leg_2_20250621_230450",
+      "player_name": "Cade Horton",
+      "prop_type": "pitcher_strikeouts",
+      "line": 4.5,
+      "actual_value": 5,
+      "status": "w",
+      "created_at": "2025-06-21",
+      "updated_at": "2025-06-28T13:13:50.794281",
+      "notes": "Horton had 5 Ks vs Mariners"
+    }
+  ],
+  "last_updated": "2025-07-08T05:31:49.162040+00:00",
+  "total_predictions": 10,
+  "total_wins": 6,
+  "total_losses": 4,
+  "win_rate": 60.0
+}

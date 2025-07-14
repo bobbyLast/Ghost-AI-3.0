@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-14T17:55:37Z",
+  "previous_timestamp": "2025-06-14T17:50:37Z",
+  "next_timestamp": "2025-06-14T18:00:37Z",
+  "data": {
+    "id": "6726bffb5ebf54a83b1484e3d88b6464",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-15T20:11:00Z",
+    "home_team": "Seattle Mariners",
+    "away_team": "Cleveland Guardians",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-14T17:52:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -108
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -108
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": 146,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -176,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

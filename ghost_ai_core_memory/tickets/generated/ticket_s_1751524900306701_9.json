@@ -1,0 +1,58 @@
+{
+  "ticket_id": "s_1751524900306701_9",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "17189d6293e5b4eb93ed1431a6f312d6",
+  "home_team": "Arizona Diamondbacks",
+  "away_team": "San Francisco Giants",
+  "commence_time": "2025-07-03T01:40:00Z",
+  "selections": [
+    {
+      "player_name": "Brett Wisely",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 1.5,
+      "odds": 135,
+      "bookmaker": "DraftKings",
+      "confidence": 0.426,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "UNDER",
+      "over_under": "UNDER"
+    },
+    {
+      "player_name": "Jung Hoo Lee",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 0.5,
+      "odds": -110,
+      "bookmaker": "Underdog",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    },
+    {
+      "player_name": "Jose Herrera",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 1.5,
+      "odds": -110,
+      "bookmaker": "Underdog",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "UNDER",
+      "over_under": "UNDER"
+    }
+  ],
+  "generated_at": "2025-07-03T06:41:40.311153+00:00",
+  "confidence_score": 0.4913,
+  "avg_odds": -28.33,
+  "stake": 7.44,
+  "potential_payout": 63.72,
+  "no_duplicate_players": true,
+  "team_diversity": false,
+  "unique_teams": [],
+  "team_count": 0
+}

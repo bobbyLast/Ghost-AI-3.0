@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-27T17:55:38Z",
+  "previous_timestamp": "2025-06-27T17:50:37Z",
+  "next_timestamp": "2025-06-27T18:00:38Z",
+  "data": {
+    "id": "f0018fd38eb24ee28666e82477426987",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-28T20:11:00Z",
+    "home_team": "Boston Red Sox",
+    "away_team": "Toronto Blue Jays",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-27T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Boston Red Sox",
+                "price": 120
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": -142
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Boston Red Sox",
+                "price": -137,
+                "point": 1.5
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 114,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

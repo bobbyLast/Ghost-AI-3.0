@@ -1,0 +1,57 @@
+{
+  "ticket_id": "s_1751524908201297_13",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Different Teams)",
+  "tier": "standard",
+  "sport": "WNBA",
+  "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+  "home_team": "Indiana Fever",
+  "away_team": "Las Vegas Aces",
+  "commence_time": "2025-07-03T23:00:00Z",
+  "selections": [
+    {
+      "player_name": "Chelsea Gray",
+      "prop_type": "player_points",
+      "line": 12.5,
+      "odds": -118,
+      "bookmaker": "FanDuel",
+      "confidence": 0.541,
+      "value_rating": 0.0,
+      "team": "Las Vegas Aces",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    },
+    {
+      "player_name": "Aari McDonald",
+      "prop_type": "player_points",
+      "line": 10.5,
+      "odds": -115,
+      "bookmaker": "FanDuel",
+      "confidence": 0.535,
+      "value_rating": 0.0,
+      "team": "Los Angeles Sparks",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    }
+  ],
+  "generated_at": "2025-07-03T06:41:48.209144+00:00",
+  "confidence_score": 0.538,
+  "avg_odds": -116.5,
+  "stake": 7.79,
+  "potential_payout": 26.91,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Los Angeles Sparks",
+    "Las Vegas Aces"
+  ],
+  "team_count": 2,
+  "streak_id": "streak_1751524908201297_13",
+  "no_duplicate_team_rule": true,
+  "streak_info": {
+    "is_streak": true,
+    "legs": 2,
+    "target_amount": 1000,
+    "entry_amount": 1.0
+  }
+}

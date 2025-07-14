@@ -1,0 +1,80 @@
+[
+  {
+    "player_name": "Kansas City Royals",
+    "prop_type": "spreads",
+    "line": 5.5,
+    "price": 2.0,
+    "bookmaker": "fanduel",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "sport": "baseball_mlb",
+    "event_id": "459aa45350b254e3e90de6278e8a7511",
+    "last_updated": "2025-06-12T01:09:55.619167"
+  },
+  {
+    "player_name": "Kansas City Royals",
+    "prop_type": "spreads",
+    "line": 6.5,
+    "price": 1.94,
+    "bookmaker": "draftkings",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "sport": "baseball_mlb",
+    "event_id": "459aa45350b254e3e90de6278e8a7511",
+    "last_updated": "2025-06-12T01:09:55.624243"
+  },
+  {
+    "player_name": "Kansas City Royals",
+    "prop_type": "spreads",
+    "line": 6.5,
+    "price": 1.88,
+    "bookmaker": "fanduel",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "sport": "baseball_mlb",
+    "event_id": "459aa45350b254e3e90de6278e8a7511",
+    "last_updated": "2025-06-12T01:11:50.476115"
+  },
+  {
+    "player_name": "Kansas City Royals",
+    "prop_type": "spreads",
+    "line": 6.5,
+    "price": 1.94,
+    "bookmaker": "draftkings",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "sport": "baseball_mlb",
+    "event_id": "459aa45350b254e3e90de6278e8a7511",
+    "last_updated": "2025-06-12T01:11:50.482076"
+  },
+  {
+    "player_name": "Kansas City Royals",
+    "prop_type": "spreads",
+    "line": 6.5,
+    "price": 1.88,
+    "bookmaker": "fanduel",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "sport": "baseball_mlb",
+    "event_id": "459aa45350b254e3e90de6278e8a7511",
+    "last_updated": "2025-06-12T01:12:50.624077"
+  },
+  {
+    "player_name": "Kansas City Royals",
+    "prop_type": "spreads",
+    "line": 6.5,
+    "price": 1.85,
+    "bookmaker": "draftkings",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "sport": "baseball_mlb",
+    "event_id": "459aa45350b254e3e90de6278e8a7511",
+    "last_updated": "2025-06-12T01:12:50.633390"
+  }
+]

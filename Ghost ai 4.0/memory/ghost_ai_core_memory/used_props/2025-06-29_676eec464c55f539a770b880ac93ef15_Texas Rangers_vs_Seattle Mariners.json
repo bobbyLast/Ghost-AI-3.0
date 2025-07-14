@@ -1,0 +1,20 @@
+{
+  "event_id": "676eec464c55f539a770b880ac93ef15",
+  "home_team": "Texas Rangers",
+  "away_team": "Seattle Mariners",
+  "game_time": "2025-06-29T18:36:00Z",
+  "result": "away_win",
+  "odds_data": {
+    "Seattle Mariners": {
+      "odds": 1.06,
+      "implied_probability": 0.9895111814763506,
+      "tags": []
+    },
+    "Texas Rangers": {
+      "odds": 8.5,
+      "implied_probability": 0.9216589861751152,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-29T18:04:50.875460"
+}

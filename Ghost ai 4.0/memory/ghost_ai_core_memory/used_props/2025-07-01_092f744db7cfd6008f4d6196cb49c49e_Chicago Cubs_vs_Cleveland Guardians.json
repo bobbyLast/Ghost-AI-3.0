@@ -1,0 +1,20 @@
+{
+  "event_id": "092f744db7cfd6008f4d6196cb49c49e",
+  "home_team": "Chicago Cubs",
+  "away_team": "Cleveland Guardians",
+  "game_time": "2025-07-02T00:05:02Z",
+  "result": "away_win",
+  "odds_data": {
+    "Chicago Cubs": {
+      "odds": 1.04,
+      "implied_probability": 0.9897070467141725,
+      "tags": []
+    },
+    "Cleveland Guardians": {
+      "odds": 10.0,
+      "implied_probability": 0.9090909090909091,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-07-01T21:58:18.117026"
+}

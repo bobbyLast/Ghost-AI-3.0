@@ -1,0 +1,386 @@
+{
+  "timestamp": "2025-06-28T17:55:37Z",
+  "previous_timestamp": "2025-06-28T17:50:37Z",
+  "next_timestamp": "2025-06-28T18:00:38Z",
+  "data": {
+    "id": "81f7b3f0f5d24db9f45695430896d738",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-28T17:11:00Z",
+    "home_team": "Detroit Tigers",
+    "away_team": "Minnesota Twins",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-28T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -120
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": -106
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -230,
+                "point": 1.5
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": 168,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -106,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-28T17:55:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -120
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": -110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -215,
+                "point": 1.5
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": 160,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -130,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-28T17:54:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -115
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -200,
+                "point": 1.5
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": 160,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-28T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -122
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": -106
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -223,
+                "point": 1.5
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": 167,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -106,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -123,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-28T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -118
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": -105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -220,
+                "point": 1.5
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": 170,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-28T17:55:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -115
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -165,
+                "point": 1.0
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": 125,
+                "point": -1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-28T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -120
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Detroit Tigers",
+                "price": -177,
+                "point": 1.0
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": 128,
+                "point": -1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -109,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -129,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

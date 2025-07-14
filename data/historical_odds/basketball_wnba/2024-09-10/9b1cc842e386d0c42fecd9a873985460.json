@@ -1,0 +1,358 @@
+{
+  "timestamp": "2024-09-10T17:55:39Z",
+  "previous_timestamp": "2024-09-10T17:50:39Z",
+  "next_timestamp": "2024-09-10T18:00:39Z",
+  "data": {
+    "id": "9b1cc842e386d0c42fecd9a873985460",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-12T00:00:00Z",
+    "home_team": "Chicago Sky",
+    "away_team": "Washington Mystics",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-10T17:55:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-10T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -148
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 124
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-10T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": -2.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 2.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-10T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 161.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 161.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-10T17:54:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-10T17:54:35Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -154
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 126
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-10T17:54:35Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-10T17:54:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-10T17:54:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-10T17:54:53Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -155
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-10T17:54:53Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -115,
+                "point": -2.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -105,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-10T17:54:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 161.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 161.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-10T17:55:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-10T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -162
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-10T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -114,
+                "point": -3.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -112,
+                "point": 3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-10T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 161.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 161.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-10T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-10T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -150
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 126
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-10T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": -2.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 2.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-10T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 161.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 161.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-09-10T17:55:14Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-09-10T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -108,
+                "point": -2.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -108,
+                "point": 2.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-10T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 161.0
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 161.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-10T17:54:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-09-10T17:54:35Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": -2.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 2.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-10T17:54:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 161.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 161.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "player_points": [
+    [
+      "betmgm",
+      "BetMGM"
+    ],
+    [
+      "betonlineag",
+      "BetOnline.ag"
+    ],
+    [
+      "draftkings",
+      "DraftKings"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ],
+    [
+      "williamhill_us",
+      "Caesars"
+    ]
+  ],
+  "player_rebounds": [
+    [
+      "betmgm",
+      "BetMGM"
+    ],
+    [
+      "betonlineag",
+      "BetOnline.ag"
+    ],
+    [
+      "draftkings",
+      "DraftKings"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ],
+    [
+      "williamhill_us",
+      "Caesars"
+    ]
+  ],
+  "player_assists": [
+    [
+      "betmgm",
+      "BetMGM"
+    ],
+    [
+      "betonlineag",
+      "BetOnline.ag"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ],
+    [
+      "williamhill_us",
+      "Caesars"
+    ]
+  ],
+  "player_threes": [
+    [
+      "betmgm",
+      "BetMGM"
+    ],
+    [
+      "betonlineag",
+      "BetOnline.ag"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ],
+    [
+      "williamhill_us",
+      "Caesars"
+    ]
+  ],
+  "player_blocks": [],
+  "player_steals": [],
+  "player_blocks_steals": [],
+  "player_turnovers": [],
+  "player_points_rebounds_assists": [
+    [
+      "betmgm",
+      "BetMGM"
+    ],
+    [
+      "betonlineag",
+      "BetOnline.ag"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "player_points_rebounds": [
+    [
+      "betmgm",
+      "BetMGM"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "player_points_assists": [
+    [
+      "betmgm",
+      "BetMGM"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "player_rebounds_assists": [
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ]
+}

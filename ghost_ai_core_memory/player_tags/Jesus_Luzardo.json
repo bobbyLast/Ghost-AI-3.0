@@ -1,0 +1,18 @@
+{
+  "player_name": "Jesus Luzardo",
+  "team": "Miami Marlins",
+  "sport": "mlb",
+  "total_picks": 89,
+  "hits": 0,
+  "misses": 0,
+  "pushes": 0,
+  "current_streak": 0,
+  "best_streak": 0,
+  "prop_types": {
+    "pitcher_strikeouts_alternate": {
+      "hits": 0,
+      "attempts": 89
+    }
+  },
+  "last_updated": "2025-06-23T05:03:05.691962"
+}

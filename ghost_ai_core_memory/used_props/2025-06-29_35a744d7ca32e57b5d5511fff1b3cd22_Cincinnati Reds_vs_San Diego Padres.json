@@ -1,0 +1,20 @@
+{
+  "event_id": "35a744d7ca32e57b5d5511fff1b3cd22",
+  "home_team": "Cincinnati Reds",
+  "away_team": "San Diego Padres",
+  "game_time": "2025-06-29T17:42:00Z",
+  "result": "away_win",
+  "odds_data": {
+    "Cincinnati Reds": {
+      "odds": 1.14,
+      "implied_probability": 0.9887284951552303,
+      "tags": []
+    },
+    "San Diego Padres": {
+      "odds": 5.5,
+      "implied_probability": 0.9478672985781991,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-29T16:40:46.756511"
+}

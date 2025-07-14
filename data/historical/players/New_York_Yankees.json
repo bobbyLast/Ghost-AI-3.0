@@ -1,0 +1,80 @@
+[
+  {
+    "player_name": "New York Yankees",
+    "prop_type": "spreads",
+    "line": -5.5,
+    "price": 1.76,
+    "bookmaker": "fanduel",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "sport": "baseball_mlb",
+    "event_id": "459aa45350b254e3e90de6278e8a7511",
+    "last_updated": "2025-06-12T01:09:55.621006"
+  },
+  {
+    "player_name": "New York Yankees",
+    "prop_type": "spreads",
+    "line": -6.5,
+    "price": 1.81,
+    "bookmaker": "draftkings",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "sport": "baseball_mlb",
+    "event_id": "459aa45350b254e3e90de6278e8a7511",
+    "last_updated": "2025-06-12T01:09:55.638441"
+  },
+  {
+    "player_name": "New York Yankees",
+    "prop_type": "spreads",
+    "line": -6.5,
+    "price": 1.88,
+    "bookmaker": "fanduel",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "sport": "baseball_mlb",
+    "event_id": "459aa45350b254e3e90de6278e8a7511",
+    "last_updated": "2025-06-12T01:11:50.478427"
+  },
+  {
+    "player_name": "New York Yankees",
+    "prop_type": "spreads",
+    "line": -6.5,
+    "price": 1.81,
+    "bookmaker": "draftkings",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "sport": "baseball_mlb",
+    "event_id": "459aa45350b254e3e90de6278e8a7511",
+    "last_updated": "2025-06-12T01:11:50.504485"
+  },
+  {
+    "player_name": "New York Yankees",
+    "prop_type": "spreads",
+    "line": -6.5,
+    "price": 1.88,
+    "bookmaker": "fanduel",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "sport": "baseball_mlb",
+    "event_id": "459aa45350b254e3e90de6278e8a7511",
+    "last_updated": "2025-06-12T01:12:50.627142"
+  },
+  {
+    "player_name": "New York Yankees",
+    "prop_type": "spreads",
+    "line": -6.5,
+    "price": 1.9,
+    "bookmaker": "draftkings",
+    "commence_time": "2025-06-11T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "New York Yankees",
+    "sport": "baseball_mlb",
+    "event_id": "459aa45350b254e3e90de6278e8a7511",
+    "last_updated": "2025-06-12T01:12:50.649584"
+  }
+]

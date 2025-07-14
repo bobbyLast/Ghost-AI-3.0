@@ -1,0 +1,545 @@
+{
+  "timestamp": "2025-06-25T17:55:37Z",
+  "previous_timestamp": "2025-06-25T17:50:37Z",
+  "next_timestamp": "2025-06-25T18:00:37Z",
+  "data": {
+    "id": "0cdc784258183116252ac5d1378951d3",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-25T23:41:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "Tampa Bay Rays",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-25T17:53:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:53:42Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 112
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -132
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:53:42Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -142,
+                "point": 1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 118,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:53:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-25T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 114
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -126
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -143,
+                "point": 1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 127,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -102,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-25T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 114
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -126
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -145,
+                "point": 1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 125,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-25T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 110
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -155,
+                "point": 1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-25T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 108
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -132
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -149,
+                "point": 1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 123,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -102,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -119,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-06-25T17:52:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:52:06Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 110
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -128
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:52:06Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -148,
+                "point": 1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 128,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:52:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-25T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 108
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -150,
+                "point": 1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-25T17:55:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 116
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -127
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -145,
+                "point": 1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 125,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-25T17:54:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:54:17Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 105
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:54:17Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -155,
+                "point": 1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 125,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:54:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -107,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-25T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 110
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -155,
+                "point": 1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -102,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -118,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

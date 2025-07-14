@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-13T17:55:37Z",
+  "previous_timestamp": "2025-06-13T17:50:37Z",
+  "next_timestamp": "2025-06-13T18:00:37Z",
+  "data": {
+    "id": "a8949b2cdea105832c8e772f06f6b3b3",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-14T20:11:00Z",
+    "home_team": "New York Mets",
+    "away_team": "Tampa Bay Rays",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-13T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -132
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 112
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 164,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -200,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

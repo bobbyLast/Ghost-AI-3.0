@@ -1,0 +1,598 @@
+{
+  "timestamp": "2025-06-14T17:55:37Z",
+  "previous_timestamp": "2025-06-14T17:50:37Z",
+  "next_timestamp": "2025-06-14T18:00:37Z",
+  "data": {
+    "id": "94ff6a85e0db091590e388d117e79125",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-14T20:11:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "Oakland Athletics",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-14T17:52:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -156
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 132
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 126,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -152,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -106,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -114,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-14T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -150
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 125,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -157,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -109,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-06-14T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -156
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 132
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 125,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -145,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -106,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-14T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -155
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 130,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -155,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-14T17:54:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:54:52Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -160
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 135
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:54:52Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 130,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -155,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:54:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-14T17:55:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -150
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 136
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 131,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -148,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -102,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-14T17:55:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -150
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 136
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 129,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -149,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-14T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -154
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 129
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 130,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -150,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-14T17:55:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -158
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 129
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 129,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -157,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-14T17:55:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:34Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -160
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 135
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:34Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 125,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -155,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-14T17:55:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -152
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 136
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 130,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -150,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

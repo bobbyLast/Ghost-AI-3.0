@@ -1,0 +1,99 @@
+{
+  "total_players_analyzed": 51,
+  "players_with_data": 47,
+  "total_matches": 3203,
+  "date_generated": "2025-07-12T02:11:09.650949",
+  "top_players_by_matches": [
+    [
+      "Zverev A.",
+      123
+    ],
+    [
+      "Alcaraz C.",
+      99
+    ],
+    [
+      "Rublev A.",
+      98
+    ],
+    [
+      "Sinner J.",
+      97
+    ],
+    [
+      "Rune H.",
+      96
+    ],
+    [
+      "Fritz T.",
+      96
+    ],
+    [
+      "Shelton B.",
+      95
+    ],
+    [
+      "Paul T.",
+      93
+    ],
+    [
+      "Medvedev D.",
+      92
+    ],
+    [
+      "Ruud C.",
+      92
+    ]
+  ],
+  "top_players_by_win_percentage": [
+    [
+      "Sinner J.",
+      0.907
+    ],
+    [
+      "Alcaraz C.",
+      0.838
+    ],
+    [
+      "Djokovic N.",
+      0.762
+    ],
+    [
+      "Zverev A.",
+      0.748
+    ],
+    [
+      "Dimitrov G.",
+      0.728
+    ],
+    [
+      "Paul T.",
+      0.71
+    ],
+    [
+      "Rune H.",
+      0.688
+    ],
+    [
+      "Medvedev D.",
+      0.685
+    ],
+    [
+      "Fritz T.",
+      0.677
+    ],
+    [
+      "Hurkacz H.",
+      0.676
+    ]
+  ],
+  "surfaces_covered": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_covered": [
+    "2025",
+    "2024"
+  ]
+}

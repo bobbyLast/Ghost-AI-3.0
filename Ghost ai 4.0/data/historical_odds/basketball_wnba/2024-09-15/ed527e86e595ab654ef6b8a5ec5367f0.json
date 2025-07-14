@@ -1,0 +1,545 @@
+{
+  "timestamp": "2024-09-15T17:55:38Z",
+  "previous_timestamp": "2024-09-15T17:50:37Z",
+  "next_timestamp": "2024-09-15T18:00:37Z",
+  "data": {
+    "id": "ed527e86e595ab654ef6b8a5ec5367f0",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-15T19:00:00Z",
+    "home_team": "New York Liberty",
+    "away_team": "Minnesota Lynx",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-15T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 185
+              },
+              {
+                "name": "New York Liberty",
+                "price": -225
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -115,
+                "point": 5.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -105,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 160.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 160.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-09-15T17:50:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:50:28Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 201
+              },
+              {
+                "name": "New York Liberty",
+                "price": -256
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:50:28Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": 6.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -6.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:50:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 159.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 159.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-15T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 186
+              },
+              {
+                "name": "New York Liberty",
+                "price": -230
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -112,
+                "point": 5.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -108,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 160.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 160.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-15T17:52:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:52:45Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 195
+              },
+              {
+                "name": "New York Liberty",
+                "price": -250
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:52:45Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -105,
+                "point": 5.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -115,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:52:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 159.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 159.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-15T17:55:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 185
+              },
+              {
+                "name": "New York Liberty",
+                "price": -225
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": 5.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 160.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 160.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-15T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 188
+              },
+              {
+                "name": "New York Liberty",
+                "price": -235
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -112,
+                "point": 5.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -112,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 160.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 160.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-15T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 180
+              },
+              {
+                "name": "New York Liberty",
+                "price": -210
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": 5.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 105,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-09-15T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 180
+              },
+              {
+                "name": "New York Liberty",
+                "price": -210
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -108,
+                "point": 5.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -108,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 107,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -123,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-15T17:53:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:53:52Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 185
+              },
+              {
+                "name": "New York Liberty",
+                "price": -225
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:53:52Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -115,
+                "point": 5.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -105,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:53:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 160.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 160.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-09-15T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 200
+              },
+              {
+                "name": "New York Liberty",
+                "price": -240
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": 5.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 160.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 160.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

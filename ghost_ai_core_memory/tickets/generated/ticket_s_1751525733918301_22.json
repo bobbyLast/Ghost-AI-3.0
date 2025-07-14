@@ -1,0 +1,49 @@
+{
+  "ticket_id": "s_1751525733918301_22",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Different Teams)",
+  "tier": "standard",
+  "sport": "WNBA",
+  "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+  "home_team": "Indiana Fever",
+  "away_team": "Las Vegas Aces",
+  "commence_time": "2025-07-03T23:00:00Z",
+  "selections": [
+    {
+      "player_name": "Natasha Howard",
+      "prop_type": "player_points",
+      "line": 12.5,
+      "odds": -120,
+      "bookmaker": "Caesars",
+      "confidence": 0.545,
+      "value_rating": 0.0,
+      "team": "Indiana Fever",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    },
+    {
+      "player_name": "Aari McDonald",
+      "prop_type": "player_points",
+      "line": 11.5,
+      "odds": 120,
+      "bookmaker": "Caesars",
+      "confidence": 0.455,
+      "value_rating": 0.0,
+      "team": "Los Angeles Sparks",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    }
+  ],
+  "generated_at": "2025-07-03T06:55:33.927179+00:00",
+  "confidence_score": 0.5,
+  "avg_odds": 0.0,
+  "stake": 7.5,
+  "potential_payout": 30.25,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Indiana Fever",
+    "Los Angeles Sparks"
+  ],
+  "team_count": 2
+}

@@ -1,0 +1,333 @@
+{
+  "timestamp": "2025-06-15T17:55:37Z",
+  "previous_timestamp": "2025-06-15T17:50:37Z",
+  "next_timestamp": "2025-06-15T18:00:37Z",
+  "data": {
+    "id": "4f712cf2995ca63bd635b39ee527a88f",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-15T17:38:00Z",
+    "home_team": "Baltimore Orioles",
+    "away_team": "Los Angeles Angels",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-15T17:54:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-15T17:54:27Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -265
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": 200
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-15T17:54:27Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -128,
+                "point": -1.5
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": -104,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-15T17:54:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 110,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "price": -146,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-15T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-15T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -190
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": 145
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-15T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": 115,
+                "point": -1.5
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": -150,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-15T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-15T17:54:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-15T17:54:05Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -280
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": 215
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-15T17:54:05Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -140,
+                "point": -1.5
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": 110,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-15T17:54:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "price": -130,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-15T17:55:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-15T17:55:22Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -178
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": 136
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-15T17:55:22Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": 118,
+                "point": -1.5
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": -155,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-15T17:55:22Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -126,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "price": -103,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-15T17:54:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-15T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -190
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": 150
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-15T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": 110,
+                "point": -1.5
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": -145,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-15T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -130,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-15T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-15T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -230
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": 175
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-15T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "Los Angeles Angels",
+                "price": -120,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-15T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

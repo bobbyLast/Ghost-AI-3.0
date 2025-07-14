@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-11T17:55:37Z",
+  "previous_timestamp": "2025-06-11T17:50:37Z",
+  "next_timestamp": "2025-06-11T18:00:37Z",
+  "data": {
+    "id": "9388b3c02c9d2727e6d6fbc76c63861b",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-12T23:41:00Z",
+    "home_team": "Milwaukee Brewers",
+    "away_team": "St. Louis Cardinals",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-11T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Milwaukee Brewers",
+                "price": 104
+              },
+              {
+                "name": "St. Louis Cardinals",
+                "price": -122
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Milwaukee Brewers",
+                "price": -156,
+                "point": 1.5
+              },
+              {
+                "name": "St. Louis Cardinals",
+                "price": 130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -122,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

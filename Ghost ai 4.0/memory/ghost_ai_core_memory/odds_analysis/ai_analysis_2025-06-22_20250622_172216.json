@@ -1,0 +1,345 @@
+{
+  "timestamp": "2025-06-22T21:22:16.943551+00:00",
+  "source_file": "2025-06-22.json",
+  "players_analyzed": {
+    "Jewell Loyd_player_threes": {
+      "player_name": "Jewell Loyd",
+      "prop_type": "player_threes",
+      "current_odds": -215,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Caitlin Clark_player_threes": {
+      "player_name": "Caitlin Clark",
+      "prop_type": "player_threes",
+      "current_odds": -192,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Allisha Gray_player_threes": {
+      "player_name": "Allisha Gray",
+      "prop_type": "player_threes",
+      "current_odds": -205,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Rhyne Howard_player_threes": {
+      "player_name": "Rhyne Howard",
+      "prop_type": "player_threes",
+      "current_odds": -192,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Kayla Thornton_player_threes": {
+      "player_name": "Kayla Thornton",
+      "prop_type": "player_threes",
+      "current_odds": -200,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "A'ja Wilson_player_assists": {
+      "player_name": "A'ja Wilson",
+      "prop_type": "player_assists",
+      "current_odds": -182,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Jackie Young_player_rebounds": {
+      "player_name": "Jackie Young",
+      "prop_type": "player_rebounds",
+      "current_odds": -180,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Ariel Atkins_player_threes": {
+      "player_name": "Ariel Atkins",
+      "prop_type": "player_threes",
+      "current_odds": -160,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Brittney Sykes_player_rebounds": {
+      "player_name": "Brittney Sykes",
+      "prop_type": "player_rebounds",
+      "current_odds": -160,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Napheesa Collier_player_assists": {
+      "player_name": "Napheesa Collier",
+      "prop_type": "player_assists",
+      "current_odds": -160,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Jackie Young_player_assists": {
+      "player_name": "Jackie Young",
+      "prop_type": "player_assists",
+      "current_odds": -160,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Chelsea Gray_player_threes": {
+      "player_name": "Chelsea Gray",
+      "prop_type": "player_threes",
+      "current_odds": -158,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Skylar Diggins-Smith_player_assists": {
+      "player_name": "Skylar Diggins-Smith",
+      "prop_type": "player_assists",
+      "current_odds": -158,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Kamilla Cardoso_player_rebounds": {
+      "player_name": "Kamilla Cardoso",
+      "prop_type": "player_rebounds",
+      "current_odds": -154,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "Veronica Burton_player_assists": {
+      "player_name": "Veronica Burton",
+      "prop_type": "player_assists",
+      "current_odds": -148,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-22T21:22:16.943551+00:00"
+    }
+  },
+  "hot_picks": [],
+  "trap_risks": [],
+  "trend_summary": {
+    "total_tickets": 3,
+    "hot_picks_count": 0,
+    "trap_risks_count": 0,
+    "rising_confidence_count": 0,
+    "falling_confidence_count": 0
+  }
+}

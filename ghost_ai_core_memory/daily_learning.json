@@ -1,0 +1,41 @@
+{
+  "days": {
+    "2025-07-05": {
+      "props_processed": true,
+      "processed_at": "2025-07-05T15:17:00.540847"
+    },
+    "2025-07-06": {
+      "props_processed": true,
+      "processed_at": "2025-07-06T13:46:13.078552"
+    },
+    "2025-07-07": {
+      "props_processed": true,
+      "processed_at": "2025-07-07T13:08:17.952434"
+    },
+    "2025-07-10": {
+      "tickets_posted": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "win_rate": 0.0,
+      "timestamp": "2025-07-10T23:48:17.697435"
+    },
+    "2025-07-12": {
+      "tickets_posted": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "win_rate": 0.0,
+      "timestamp": "2025-07-12T18:49:56.324667"
+    },
+    "2025-07-13": {
+      "tickets_posted": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "win_rate": 0.0,
+      "timestamp": "2025-07-13T20:23:49.618885"
+    }
+  },
+  "last_updated": "2025-07-13T20:23:49.618885"
+}

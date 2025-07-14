@@ -1,0 +1,2986 @@
+{
+  "id": "d7115ecb2be778f6cd10f7d7d96807ec",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-05T19:08:00Z",
+  "home_team": "Toronto Blue Jays",
+  "away_team": "Los Angeles Angels",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-05T03:29:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": 280,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 330,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 340,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 350,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 350,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 360,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 370,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 370,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 380,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Leo Jimenez",
+              "price": 400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 410,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": 410,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 430,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": 430,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 490,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": 490,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 500,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Travis d'Arnaud",
+              "price": 500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-05T03:29:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": -350,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": -300,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": -270,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": -260,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": -260,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": -230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": -230,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": -230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": -210,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Leo Jimenez",
+              "price": -200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": -195,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": -190,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": -175,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": -165,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": -160,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": -160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": -160,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Travis d'Arnaud",
+              "price": -130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": 700,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 900,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 1000,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 1100,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 1300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 1300,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 1400,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 1600,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Leo Jimenez",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 1800,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": 2100,
+              "point": 2.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": 2300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 2400,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": 2800,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Travis d'Arnaud",
+              "price": 3400,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": 150,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 185,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 200,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 200,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 220,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 240,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 240,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 240,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 250,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 290,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 300,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Leo Jimenez",
+              "price": 300,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 330,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": 360,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": 380,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 390,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": 410,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Travis d'Arnaud",
+              "price": 500,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-05T03:29:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 240,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 350,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 350,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 400,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 420,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 420,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": 420,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Travis d'Arnaud",
+              "price": 500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 520,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": 560,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 560,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": 560,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": 630,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Leo Jimenez",
+              "price": 630,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 700,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 830,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 900,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-05T03:29:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 115,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 130,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 140,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 155,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": 150,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 165,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Leo Jimenez",
+              "price": 160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 175,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 170,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": 170,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 180,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 190,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": 190,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 210,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": 230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Travis d'Arnaud",
+              "price": 230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 240,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 360,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 370,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 370,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 460,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 500,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 500,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": 500,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 500,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Leo Jimenez",
+              "price": 500,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": 550,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 600,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": 600,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 650,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 650,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Travis d'Arnaud",
+              "price": 700,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 800,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": 800,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 900,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-05T03:29:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": -150,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": -145,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": -145,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": -130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": -130,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": -115,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": -110,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": -110,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 100,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Leo Jimenez",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 105,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 105,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 115,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": 120,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": 145,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 150,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Travis d'Arnaud",
+              "price": 155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 500,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": 500,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 500,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 550,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 600,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 650,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 650,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 750,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": 750,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Leo Jimenez",
+              "price": 800,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 850,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 900,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": 900,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 950,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 950,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Travis d'Arnaud",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-05T03:29:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": -185,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": -155,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": -155,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": -145,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": -145,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": -140,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": -125,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": -115,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Leo Jimenez",
+              "price": -110,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 100,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": 120,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": 125,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 135,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": 135,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 145,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 150,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Travis d'Arnaud",
+              "price": 175,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-05T03:29:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 390,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 550,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 640,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 700,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 880,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": 920,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 1280,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 1280,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-05T03:29:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 170,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 185,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": 195,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 200,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 230,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 230,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 250,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 260,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 260,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": 270,
+              "point": 2.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 290,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 320,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Leo Jimenez",
+              "price": 320,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": 340,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": 350,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 360,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Travis d'Arnaud",
+              "price": 360,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 370,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": -130,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": -120,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 105,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 105,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 110,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 110,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 120,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 120,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 125,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 135,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 145,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": 140,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Leo Jimenez",
+              "price": 140,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 155,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Chad Stevens",
+              "price": 165,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Davis Schneider",
+              "price": 165,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Travis d'Arnaud",
+              "price": 185,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-05T03:29:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 3500,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 4500,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-05T03:29:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Max Scherzer",
+              "price": -164,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Max Scherzer",
+              "price": 128,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jack Kochanowicz",
+              "price": -136,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Jack Kochanowicz",
+              "price": 102,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "P"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-05T03:32:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 225,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 290,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 320,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 320,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 320,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 333,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": 340,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 380,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": 400,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 400,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 450,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 500,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Wagner",
+              "price": 500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 550,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 550,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-05T03:32:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 116,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Alejandro Kirk",
+              "price": -160,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Addison Barger",
+              "price": -137,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 133,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ernie Clement",
+              "price": -184,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 100,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Vladimir Guerrero Jr.",
+              "price": -137,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 108,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "George Springer",
+              "price": -148,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": -117,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Bo Bichette",
+              "price": -117,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 120,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Zach Neto",
+              "price": -166,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 116,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Trout",
+              "price": -160,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-05T03:32:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": 145,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Bo Bichette",
+              "price": -200,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 170,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Vladimir Guerrero Jr.",
+              "price": -235,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 185,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Alejandro Kirk",
+              "price": -255,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 195,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Addison Barger",
+              "price": -270,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": -265,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ernie Clement",
+              "price": 190,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": -240,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "George Springer",
+              "price": 175,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": -235,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Nathan Lukes",
+              "price": 170,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": -200,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Nolan Schanuel",
+              "price": 150,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": -195,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Zach Neto",
+              "price": 145,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": -185,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Trout",
+              "price": 140,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Myles Straw",
+              "price": -180,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Myles Straw",
+              "price": 130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": -175,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Rengifo",
+              "price": 130,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": -170,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Jo Adell",
+              "price": 125,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": -170,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Taylor Ward",
+              "price": 125,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Logan O'Hoppe",
+              "price": -160,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Logan O'Hoppe",
+              "price": 120,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Will Wagner",
+              "price": -155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Will Wagner",
+              "price": 115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jorge Soler",
+              "price": -140,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Jorge Soler",
+              "price": 105,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Kevin Newman",
+              "price": -135,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kevin Newman",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-05T03:32:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 450,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Zach Neto",
+              "price": -750,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 550,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "George Springer",
+              "price": -1000,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Rengifo",
+              "price": 600,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Rengifo",
+              "price": -1100,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Myles Straw",
+              "price": 700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Myles Straw",
+              "price": -1400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jo Adell",
+              "price": 950,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Jo Adell",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 950,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Trout",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Kevin Newman",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kevin Newman",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ernie Clement",
+              "price": -2500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Bo Bichette",
+              "price": -3000,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Nolan Schanuel",
+              "price": -3000,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Ward",
+              "price": 2000,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Taylor Ward",
+              "price": -8000,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 2200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Addison Barger",
+              "price": -8000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": 2200,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Vladimir Guerrero Jr.",
+              "price": -10000,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Will Wagner",
+              "price": 2500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Will Wagner",
+              "price": -20000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-05T03:32:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bo Bichette",
+              "price": -115,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Bo Bichette",
+              "price": -120,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Vladimir Guerrero Jr.",
+              "price": -105,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Vladimir Guerrero Jr.",
+              "price": -130,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Addison Barger",
+              "price": 100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Addison Barger",
+              "price": -135,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Kirk",
+              "price": 110,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Alejandro Kirk",
+              "price": -145,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "George Springer",
+              "price": 115,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "George Springer",
+              "price": -155,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Trout",
+              "price": 115,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Trout",
+              "price": -160,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Zach Neto",
+              "price": 125,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Zach Neto",
+              "price": -170,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Ernie Clement",
+              "price": 130,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ernie Clement",
+              "price": -175,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Lukes",
+              "price": 130,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Nathan Lukes",
+              "price": -180,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Schanuel",
+              "price": 135,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Nolan Schanuel",
+              "price": -185,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "1B"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_outs",
+          "last_update": "2025-07-05T03:33:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jack Kochanowicz",
+              "price": 120,
+              "point": 15.5,
+              "team": "Los Angeles Angels",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Jack Kochanowicz",
+              "price": -155,
+              "point": 15.5,
+              "team": "Los Angeles Angels",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Max Scherzer",
+              "price": 120,
+              "point": 15.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Max Scherzer",
+              "price": -155,
+              "point": 15.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-05T03:33:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Max Scherzer",
+              "price": -160,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Max Scherzer",
+              "price": 120,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jack Kochanowicz",
+              "price": -120,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Jack Kochanowicz",
+              "price": -110,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "P"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

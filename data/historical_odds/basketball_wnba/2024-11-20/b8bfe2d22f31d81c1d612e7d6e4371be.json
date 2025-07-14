@@ -1,0 +1,138 @@
+{
+  "timestamp": "2024-10-21T02:45:38Z",
+  "previous_timestamp": "2024-10-21T02:40:38Z",
+  "next_timestamp": "2025-05-13T11:45:38Z",
+  "data": {
+    "id": "b8bfe2d22f31d81c1d612e7d6e4371be",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-10-21T00:09:20Z",
+    "home_team": "New York Liberty",
+    "away_team": "Minnesota Lynx",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-21T02:33:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-21T02:33:23Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 1000
+              },
+              {
+                "name": "New York Liberty",
+                "price": -2100
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-21T02:33:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-21T02:33:47Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 1060
+              },
+              {
+                "name": "New York Liberty",
+                "price": -3500
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-21T02:36:39Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-10-21T02:36:39Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 185,
+                "point": 4.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -250,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-10-21T02:36:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -155,
+                "point": 130.5
+              },
+              {
+                "name": "Under",
+                "price": 120,
+                "point": 130.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-10-21T02:31:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-21T02:31:50Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 850
+              },
+              {
+                "name": "New York Liberty",
+                "price": -1800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-21T02:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-21T02:35:38Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": 750
+              },
+              {
+                "name": "New York Liberty",
+                "price": -1900
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

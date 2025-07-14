@@ -1,0 +1,32 @@
+{
+  "sport": "tennis",
+  "match": "Novak Djokovic vs Carlos Alcaraz",
+  "confidence": 0.8132759136207428,
+  "reasoning": "Analysis based on Kaggle data for Novak Djokovic vs Carlos Alcaraz",
+  "props": [
+    {
+      "type": "Total Games",
+      "line": 42.5,
+      "over_odds": -110,
+      "under_odds": -118,
+      "confidence": 0.6869002556426772
+    },
+    {
+      "type": "Match Winner",
+      "home_odds": -129,
+      "away_odds": 144,
+      "confidence": 0.6671770556271629
+    },
+    {
+      "type": "Total Aces",
+      "line": 14.0,
+      "over_odds": -118,
+      "under_odds": -116,
+      "confidence": 0.5212325316029635
+    }
+  ],
+  "timestamp": "2025-07-12T20:38:09.599847",
+  "ticket_id": "standard_20250712_203809_1",
+  "saved_at": "2025-07-13T00:38:09.605409+00:00",
+  "ticket_type": "standard"
+}

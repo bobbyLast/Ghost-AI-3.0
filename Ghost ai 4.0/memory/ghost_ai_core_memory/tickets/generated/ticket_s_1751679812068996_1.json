@@ -1,0 +1,68 @@
+{
+  "ticket_id": "s_1751679812068996_1",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "0ef6aeabc52167f6cf36201c3a7a9939",
+  "home_team": "Oakland Athletics",
+  "away_team": "San Francisco Giants",
+  "commence_time": "2025-07-05T02:06:00Z",
+  "selections": [
+    {
+      "player_name": "JP Sears",
+      "prop_type": "pitcher_outs",
+      "line": 15.5,
+      "odds": -115,
+      "bookmaker": "DraftKings",
+      "confidence": 0.535,
+      "value_rating": 0.0,
+      "team": "Oakland Athletics",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Lourdes Gurriel Jr.",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 0.5,
+      "odds": -110,
+      "bookmaker": "Underdog",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Kyle Tucker",
+      "prop_type": "fantasy_score",
+      "line": 17.5,
+      "odds": -110,
+      "bookmaker": "Underdog",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-05T01:43:32.079989+00:00",
+  "confidence_score": 0.5277,
+  "avg_odds": -111.67,
+  "potential_payout": 52.53,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Oakland Athletics"
+  ],
+  "team_count": 1,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.68
+}

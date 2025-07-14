@@ -1,0 +1,52 @@
+{
+  "cc78bf6f397257f6c5e4ca2508ecf04c": {
+    "player_name": "Test Player",
+    "sport": "MLB",
+    "data": {
+      "avg_fantasy_score": 25.5,
+      "games_played": 10,
+      "hit_rate": 0.7
+    },
+    "last_updated": "2025-06-30T01:59:06.619695",
+    "cache_type": "stats"
+  },
+  "c96a5a383ff1e53d0c454502b080e3c2": {
+    "player_name": "TestPlayer123",
+    "sport": "mlb",
+    "data": {
+      "avg_fantasy_score": 25.5,
+      "games_played": 10,
+      "hit_rate": 0.7
+    },
+    "last_updated": "2025-06-30T02:03:32.493905",
+    "cache_type": "stats"
+  },
+  "7771bd8315f99f394f2fb01ca90bb70b": {
+    "player_name": "Aaron Judge",
+    "sport": "mlb",
+    "data": {
+      "avg_fantasy_score": 28.5,
+      "games_played": 145,
+      "hit_rate": 0.75,
+      "avg_total_bases": 2.1,
+      "home_runs": 62,
+      "rbi": 131
+    },
+    "last_updated": "2025-06-30T02:07:37.645287",
+    "cache_type": "stats"
+  },
+  "902438a8df5fbf2f94920ce2b725ebe4": {
+    "player_name": "Julio Rodriguez",
+    "sport": "mlb",
+    "data": {
+      "avg_fantasy_score": 24.2,
+      "games_played": 155,
+      "hit_rate": 0.68,
+      "avg_total_bases": 1.8,
+      "home_runs": 32,
+      "rbi": 103
+    },
+    "last_updated": "2025-06-30T02:07:37.678853",
+    "cache_type": "stats"
+  }
+}

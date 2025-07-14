@@ -1,0 +1,21 @@
+{
+  "Persist Player_batter_runs": {
+    "player_name": "Persist Player",
+    "prop_type": "batter_runs",
+    "odds_log": [
+      {
+        "date": "2024-06-20",
+        "odds": -110,
+        "result": "W",
+        "line_movement": null,
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": null,
+    "risk_level": null,
+    "book_movement": null,
+    "ghost_read": null,
+    "hit_rate": null,
+    "avg_odds": null
+  }
+}

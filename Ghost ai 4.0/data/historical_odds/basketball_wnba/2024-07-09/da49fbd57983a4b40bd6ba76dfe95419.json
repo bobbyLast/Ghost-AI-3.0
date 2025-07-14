@@ -1,0 +1,411 @@
+{
+  "timestamp": "2024-07-09T17:55:37Z",
+  "previous_timestamp": "2024-07-09T17:50:37Z",
+  "next_timestamp": "2024-07-09T18:00:37Z",
+  "data": {
+    "id": "da49fbd57983a4b40bd6ba76dfe95419",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-07-10T16:00:00Z",
+    "home_team": "Indiana Fever",
+    "away_team": "Washington Mystics",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-07-09T17:54:49Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-09T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -238
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 195
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-09T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -5.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-09T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 167.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 167.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-07-09T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-09T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -235
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 186
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-09T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -5.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-09T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 167.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 167.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-07-09T17:54:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-09T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -240
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 185
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-09T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -113,
+                "point": -5.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -113,
+                "point": 5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-09T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 168.0
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 168.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-07-09T17:53:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-09T17:53:52Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -225
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 185
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-09T17:53:52Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -5.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-09T17:53:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 167.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 167.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-07-09T17:54:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-07-09T17:54:29Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -103,
+                "point": -6.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -113,
+                "point": 6.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-09T17:54:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 168.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 168.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-07-09T17:54:28Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-07-09T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -105,
+                "point": -6.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -115,
+                "point": 6.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-09T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 168.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 168.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-07-09T17:54:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-09T17:54:29Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -225
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 185
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-09T17:54:29Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -5.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-09T17:54:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 167.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 167.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-07-09T17:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-09T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -240
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 200
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-09T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -6.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 6.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-09T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 168.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 168.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

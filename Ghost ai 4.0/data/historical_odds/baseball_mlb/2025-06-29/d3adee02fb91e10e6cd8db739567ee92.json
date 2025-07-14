@@ -1,0 +1,598 @@
+{
+  "timestamp": "2025-06-29T17:55:37Z",
+  "previous_timestamp": "2025-06-29T17:50:37Z",
+  "next_timestamp": "2025-06-29T18:00:38Z",
+  "data": {
+    "id": "d3adee02fb91e10e6cd8db739567ee92",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-29T20:08:00Z",
+    "home_team": "Los Angeles Angels",
+    "away_team": "Washington Nationals",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-29T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": -130
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": 150,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -184,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -104,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -118,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-29T17:55:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": -120
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 109
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": 157,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -180,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-29T17:55:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": -120
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 109
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": 158,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -180,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -107,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-29T17:55:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": -130
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": 152,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -180,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-29T17:55:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": -133
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": 151,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -185,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-29T17:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": -125
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": 150,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -185,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-06-29T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": -132
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 112
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": 152,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -178,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -111,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-29T17:54:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": -130
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-29T17:55:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": -132
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": 150,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -175,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-29T17:55:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": -125
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 114
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": 156,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -180,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-29T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": -129
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 107
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Angels",
+                "price": 150,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -195,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

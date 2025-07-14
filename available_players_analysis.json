@@ -1,0 +1,6207 @@
+{
+  "total_fixtures": 278,
+  "total_players": 543,
+  "all_players": [
+    "A. Ahn",
+    "A. Andrade",
+    "A. Anisimova",
+    "A. Blockx",
+    "A. Bonnaud",
+    "A. Deckers",
+    "A. F. Oana",
+    "A. Fiorentini",
+    "A. Gasanova",
+    "A. Geerlings Martinez",
+    "A. Ghibaudo",
+    "A. Gillan",
+    "A. Gobat",
+    "A. Granwehr",
+    "A. Gray",
+    "A. Hartono",
+    "A. Hertel",
+    "A. Ito",
+    "A. Kim",
+    "A. Kubareva",
+    "A. Magadan",
+    "A. Mannarino",
+    "A. Markham",
+    "A. Martin",
+    "A. McHugh",
+    "A. Miyamoto",
+    "A. Molcan",
+    "A. Obradovic",
+    "A. Pedrico Kravtsov",
+    "A. Pisaric",
+    "A. Prisacariu",
+    "A. Reguer",
+    "A. Ruzic",
+    "A. Rybakov",
+    "A. S. Rogers",
+    "A. Sahdiieva",
+    "A. Santillan",
+    "A. Smith",
+    "A. Soriano Barrera",
+    "A. Stankovic",
+    "A. Vasilev",
+    "A. Vatutin",
+    "A. Wang",
+    "Abderrahman/ Trifi",
+    "Agostini/ Cadenasso",
+    "Aguilar Cardozo/ Garcia Longo",
+    "Aixirefu/ Xu",
+    "Anderson/ Rivera",
+    "Andrienko/ Maquet",
+    "Aney/ Failla",
+    "Ann/ Sueoka",
+    "Appleton/ Haverlag",
+    "Ardila/ Brown",
+    "Ayukawa/ Szabo",
+    "B. Artnak",
+    "B. Bobrov",
+    "B. Bonardi",
+    "B. Dessolis",
+    "B. Holt",
+    "B. Kostecka",
+    "B. Passola",
+    "B. Straszewska",
+    "B. Tomic",
+    "Badenhorst/ Koenig",
+    "Bakhmutkina/ Kroitor",
+    "Balciunas/ De Lange",
+    "Balshaw/ Piatti",
+    "Banerjee/ Kuzuhara",
+    "Banthia/ Donski",
+    "Barroso Campos/ Montes-De La Torre",
+    "Barton/ Vrbensky",
+    "Bayerlova/ Kuczer",
+    "Bayldon/ Hilderbrand",
+    "Beaven/ Van Der Merwe",
+    "Berkieta/ Lange",
+    "Berta/ Justo",
+    "Bertea/ Lodikova",
+    "Bertran/ Echazu",
+    "Bhatia/ Micic",
+    "Bhunu/ Van Poppel",
+    "Bilardo/ Kobierski",
+    "Binda/ Simakin",
+    "Blando/ Blando",
+    "Boehner/ Fontenel",
+    "Bogatov/ Tiurnev",
+    "Bolkvadze/ Miyazaki",
+    "Bonding/ Leach",
+    "Bosio/ Sakellaridis",
+    "Bouchard/ Lincer",
+    "Britto/ Oliveira",
+    "Broom/ Whitehouse",
+    "Bueno Gil/ Zhu",
+    "Bynoe/ Kobelt",
+    "C. Alcaraz",
+    "C. Chidekh",
+    "C. Eubanks",
+    "C. Gennaro",
+    "C. Keitel",
+    "C. McNally",
+    "C. McNeil",
+    "C. Sanchez Jover",
+    "C. Sinclair",
+    "C. Vandermeersch",
+    "C. Vazquez",
+    "C. Williams",
+    "C. Zhao",
+    "Cabaj Awad/ Visscher",
+    "Capurro Taborda/ Guzman",
+    "Cash/ Glasspool",
+    "Cash/ Tracy",
+    "Castillo Meza/ Fulgenzi",
+    "Catini/ Mashtakov",
+    "Cavalle-Reimers/ Herrero Linana",
+    "Chan/ Tirunelveli",
+    "Chandrasekar/ Stalder",
+    "Chong/ Liang",
+    "Chopra/ Martin",
+    "Cigarran/ Farjat",
+    "Collins/ Sahdiieva",
+    "Coppez/ De Koning",
+    "Costoulas/ Korneeva",
+    "Cross/ Zamarripa",
+    "D. Ajdukovic",
+    "D. Back",
+    "D. Havermans",
+    "D. Hewitt",
+    "D. Ivanova",
+    "D. Jakupovic",
+    "D. Klok",
+    "D. Novak",
+    "D. Papamichail",
+    "D. Singh",
+    "D. Siniakov",
+    "D. Suresh",
+    "D. Sweeny",
+    "D. Yesypchuk",
+    "D. Zelinskaya",
+    "Daems/ Firman",
+    "Dang/ You",
+    "De La Fuente/ Hollender",
+    "De Zeeuw/ Rus",
+    "Del Pino/ Hess",
+    "Dellien Velasco/ Zeballos",
+    "Dessolis/ Dessolis",
+    "Dev S D/ Sinha",
+    "Dols/ Steur",
+    "Dragoni/ Parenti",
+    "Drozd/ Krajmer",
+    "Drugdova/ Sebestova",
+    "Dudeney/ Paukstyte",
+    "Duncan/ MacKinlay",
+    "E. Cocciaretto",
+    "E. Demanet",
+    "E. Ejupovic",
+    "E. Gorgodze",
+    "E. Jacquemot",
+    "E. Kaliadina",
+    "E. Kalieva",
+    "E. Kirkin",
+    "E. Mandlik",
+    "E. Moller",
+    "E. Ovcharenko",
+    "E. R. Bertea",
+    "E. Reyngold",
+    "E. S. Liang",
+    "E. Slavikova",
+    "E. Tverijonaite",
+    "E. Vanshelboim",
+    "E. Vasa",
+    "E. Vedder",
+    "E. Winter",
+    "El Allami/ El Jardi",
+    "El Sallaly/ Montsi",
+    "F. Balshaw",
+    "F. Diaz Acosta",
+    "F. Jones",
+    "F. Juarez",
+    "F. Maestrelli",
+    "F. Mattioli",
+    "F. Misolic",
+    "F. Peliwo",
+    "F. Ribero",
+    "F. Sun",
+    "Falabella/ Ribecai",
+    "Filar/ Gschwendtner",
+    "Fita Boluda/ Pigossi",
+    "Fix/ Poertner",
+    "Forti/ Romano",
+    "Freire Da Silva/ Ghazouani Durand",
+    "Frodin/ Pareja",
+    "Fukuda/ Matsuoka",
+    "Fullana/ Markus",
+    "G. A. Musat",
+    "G. Brunkow",
+    "G. Cadenasso",
+    "G. Ceschi",
+    "G. Georgiev",
+    "G. I. Justo",
+    "G. Knutson",
+    "G. Maristany",
+    "G. Oradini",
+    "G. Paterno",
+    "G. Ribeiro de Almeida",
+    "Gadamauri/ Longueville",
+    "Gadecki/ Krawczyk",
+    "Genier/ Nikles",
+    "Gennaro/ Ruggeri",
+    "George/ Tudorica",
+    "Georgiev/ Markov",
+    "Giavara/ Osborne",
+    "Gleason/ Martins",
+    "Glushkova/ Pislak",
+    "Gniewkowska/ Kolonus",
+    "Goldhoff/ Jacq",
+    "Gorska/ Slavikova",
+    "Grammatikopoulou/ Hutchinson",
+    "H. Abe",
+    "H. Giavara",
+    "H. Stewart",
+    "Haase/ Ingildsen",
+    "Haliak/ Lobanov",
+    "Hands/ Wendelken",
+    "Harper/ Seggerman",
+    "Hartono/ Thombare",
+    "Herea/ Pawlikowska",
+    "Hewitt/ Ivanova",
+    "Hijikata/ Pel",
+    "Hinojosa Gomez/ Navarro",
+    "Horak/ Pecak",
+    "Hrazdil/ Zahraj",
+    "Hsieh S-/Ostapenko",
+    "Huang Yujia",
+    "Hule/ Lee",
+    "I. Becroft",
+    "I. Gakhov",
+    "I. Gimenez",
+    "I. Ivanov",
+    "I. Marton",
+    "I. Millan Acosta",
+    "I. Oz",
+    "I. Sebestova",
+    "I. Simakin",
+    "I. Swiatek",
+    "I. Xilas",
+    "Ihlenfeld/ Novak",
+    "Im/ Kim",
+    "Imamura/ Noguchi",
+    "J. Cabaj Awad",
+    "J. D. Hara Friend",
+    "J. Duerst",
+    "J. Echeverria",
+    "J. Forejtek",
+    "J. Guilleme",
+    "J. Hinojosa Gomez",
+    "J. J. Schwaerzler",
+    "J. Lim",
+    "J. Loge",
+    "J. Lu",
+    "J. M. Cerundolo",
+    "J. McCabe",
+    "J. Pareja",
+    "J. Pieri",
+    "J. Pinnington Jones",
+    "J. Reis Da Silva",
+    "J. Ruggeri",
+    "J. Sinner",
+    "J. Stamatova",
+    "J. Wang",
+    "Ja. Delaney",
+    "Jans/ Visker",
+    "Jasika/ Tomic",
+    "Jeran/ Vetrih",
+    "Jones/ Rogers",
+    "Jubb/ Mejia",
+    "K. Bartel",
+    "K. Bigun",
+    "K. Day",
+    "K. Edmund",
+    "K. Feldbausch",
+    "K. Friberg",
+    "K. Isomura",
+    "K. Juhas",
+    "K. Kang",
+    "K. Kawa",
+    "K. Kirci",
+    "K. Knitter",
+    "K. Matsuda",
+    "K. Ozolins",
+    "K. Paskauskas",
+    "K. Pavlova",
+    "K. Samrej",
+    "K. Singh",
+    "K. Smith",
+    "K. Swan",
+    "K. Szymkowiak",
+    "Kadhe/ Prashanth",
+    "Kaliyanda Poonacha/ Nedunchezhiyan",
+    "Katayama/ Kono",
+    "Kawachi/ Kikuchi",
+    "Kielan/ Pieczonka",
+    "Kiger/ Spizzirri",
+    "Kirkov/ Stevens",
+    "Klaassen/ Paardekooper",
+    "Kostecka/ Pawelska",
+    "Kovackova/ Kovackova",
+    "Kubareva/ Zhabrailova",
+    "Kudermetova/ Mertens",
+    "Kulambayeva/ Strakhova",
+    "L. A. Falabella",
+    "L. Cilekova",
+    "L. Draxl",
+    "L. Gagliardo",
+    "L. J. Rodriguez",
+    "L. Klimovicova",
+    "L. Koenig",
+    "L. Marmousez",
+    "L. Maxted",
+    "L. Neumayer",
+    "L. Perez Alarcon",
+    "L. Plaza Araujo",
+    "L. Radivojevic",
+    "L. S. Steur J.",
+    "L. Samson",
+    "L. Sevcikova",
+    "L. Stefanini",
+    "L. Svatikova",
+    "L. Van Herck",
+    "L. Vithoontien",
+    "L. Xiao",
+    "Labrana/ Pereira",
+    "Lacides/ Lestir",
+    "Lahey/ Lemaitre",
+    "Lazar/ Zuchanska",
+    "Lazarevic/ Stankovic",
+    "Lechno-Wasiutynski/ Stepanov",
+    "Leon/ Mediorreal",
+    "Liutarevich/ Veldheer",
+    "Lock/ Loof",
+    "Lootsma/ Orlov",
+    "Loureiro/  Ribeiro",
+    "Lukosiute/ Nahum",
+    "M. A. Dellien Velasco",
+    "M. Bertimon",
+    "M. Bolkvadze",
+    "M. Capurro Taborda",
+    "M. Castillo Meza",
+    "M. Cerny",
+    "M. Dodig",
+    "M. Donald",
+    "M. Drozd",
+    "M. Efstathiou",
+    "M. El Allami",
+    "M. F. Urrutia",
+    "M. Geerts",
+    "M. Hoedt",
+    "M. Hurrion",
+    "M. Krueger",
+    "M. Kubka",
+    "M. Leonard",
+    "M. Matoula",
+    "M. Mrva",
+    "M. Nannelli",
+    "M. Navone",
+    "M. Ozeki",
+    "M. Pohankova",
+    "M. Refaat",
+    "M. Ribecai",
+    "M. Ristic",
+    "M. Schoenhaus",
+    "M. Sherif",
+    "M. Sholokhova",
+    "M. Soriano Santiago",
+    "M. Timofeeva",
+    "M. Tona",
+    "M. Van Der Merwe",
+    "M. Viriant",
+    "M. Xu",
+    "M. Zeitune",
+    "M. Zhabrailova",
+    "Maldonado/ Perez",
+    "Maleckova/ Skoch",
+    "Maloney/ Zink",
+    "Mansilla Diez/ Pujol Navarro",
+    "Marcondes/ Slavic",
+    "Martinez Vaquero/ Rey Garcia",
+    "Masur/ Sanchez Martinez",
+    "McAdoo/ Okutoyi",
+    "Melleiro/ Da Cruz Mendonca",
+    "Merino/ Negritu",
+    "Mi/ Sholokhova",
+    "Mikaul/ Sartz-Lunde",
+    "Mikovic/ Mikovic",
+    "Miyamoto/ Nakashima",
+    "N. Bartunkova",
+    "N. Berecoechea",
+    "N. Brancaccio",
+    "N. Djokovic",
+    "N. Hardt",
+    "N. Mashtakov",
+    "N. Sousa Salazar",
+    "N. Visker",
+    "Nakagawa/ van Wyk",
+    "Nava Elkin/ Senties",
+    "Nesterov/ Ovcharenko",
+    "O. Babel",
+    "O. Crawford",
+    "O. Horak",
+    "O. Milic",
+    "O. Oliynykova",
+    "O. Selekhmeteva",
+    "O. Weightman",
+    "Obrul/ Premzl",
+    "Ogescu/ Sava",
+    "Ogura/ Vithoontien",
+    "Omarkhanov/ Pleshivtsev",
+    "Ortenzi/ Sanchez",
+    "P. A. Saraiva Dos Santos",
+    "P. Bertran",
+    "P. Henning",
+    "P. Konjikusic",
+    "P. Leykina",
+    "P. M. Tig",
+    "P. Marcinko",
+    "P. Marino",
+    "P. Montiel",
+    "P. R. Scomparin",
+    "P. Rachapudi",
+    "P. Zahraj",
+    "Paldanius/ Wazny",
+    "Park/ Zheng",
+    "Pastikova/ Stusek",
+    "Paul/ Vocel",
+    "Payne/ Shumate",
+    "Penickova/ Valdmannova",
+    "Pereira/ Saraiva Dos Santos",
+    "Pichler/ Pokorny",
+    "Pieri/ Vulpitta",
+    "Pignaton/ Liu",
+    "Pisaric/ Stefanovic",
+    "Quan/ van Loben Sels",
+    "R. Albot",
+    "R. De Koning",
+    "R. Faucon",
+    "R. Karki",
+    "R. Masarova",
+    "R. Murali",
+    "R. Nijboer",
+    "R. Noguchi",
+    "R. Pascual Ferra",
+    "R. Peniston",
+    "R. Smith",
+    "R. Tokuda",
+    "R. Zusman",
+    "Raina/ Robbe",
+    "Ramskogler/ Wehnelt",
+    "Rankin/ Williams",
+    "Remondy Pagotto/ Scramin do Lago",
+    "Reynolds/ Watt",
+    "Robledo/ Tobon",
+    "Rottgering/ Schoenmakers",
+    "Rybakov/ Vance",
+    "S. A. Linde Palacios",
+    "S. Banerjee",
+    "S. D'Agostino",
+    "S. Danilov",
+    "S. De La Fuente",
+    "S. Dols",
+    "S. Drugdova",
+    "S. Fomin",
+    "S. Gueymard Wayenburg",
+    "S. Hosogi",
+    "S. Imai",
+    "S. Ishii",
+    "S. J. Visscher",
+    "S. Johnson",
+    "S. Nagal",
+    "S. Park",
+    "S. Popovic",
+    "S. Price",
+    "S. Rodriguez Taverna",
+    "S. Shimabukuro",
+    "S. Shin",
+    "S. Sorger",
+    "S. Travaglia",
+    "S. Waltert",
+    "S. Wawrinka",
+    "Saigo/ Saigo",
+    "Salkova/ Samson",
+    "Santillan/ Yang",
+    "Seelig/ Sinclair",
+    "Sevcikova/ Svatikova",
+    "Shubladze/ Sidorova",
+    "Siniakova/ Townsend",
+    "T. A. Tirante",
+    "T. Berkieta",
+    "T. Chanta",
+    "T. Colson",
+    "T. Di Girolami",
+    "T. Droguet",
+    "T. Farjat",
+    "T. Faurel",
+    "T. Fritz",
+    "T. Lamasine",
+    "T. Longwe-Smit",
+    "T. Maria",
+    "T. Martinez",
+    "T. Sahtali",
+    "T. Schoolkate",
+    "T. Svajda",
+    "T. T. Deng",
+    "T. Wang",
+    "T. Wuerth",
+    "T. Zink",
+    "Trongcharoenchaikul/ Zeng",
+    "V. Bhunu",
+    "V. Diatchenko",
+    "V. Gracheva",
+    "V. Grammatikopoulou",
+    "V. Hruncakova",
+    "V. Kan",
+    "V. Morvayova",
+    "V. Valdmannova",
+    "Vishal Balsekar/ Sarksian",
+    "W. Shin",
+    "Wang/ Zhang",
+    "Watanuki/ Yuzuki",
+    "X. Yao",
+    "X. You",
+    "Y. Erel",
+    "Y. H. Hsu",
+    "Y. In-Albon",
+    "Y. Kusuhara",
+    "Y. Milev",
+    "Y. Ren",
+    "Y. Shimizu",
+    "Y. Watanuki",
+    "Y. Yang",
+    "Y. Zhou",
+    "Z. Diyas",
+    "Z. Frankowska",
+    "Z. Ludoski",
+    "Z. Pawlikowska",
+    "Z. Svajda"
+  ],
+  "player_matches": {
+    "Britto/ Oliveira": [
+      {
+        "opponent": "Kiger/ Spizzirri",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "21:30"
+      }
+    ],
+    "Kiger/ Spizzirri": [
+      {
+        "opponent": "Britto/ Oliveira",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "21:30"
+      }
+    ],
+    "Cash/ Tracy": [
+      {
+        "opponent": "Reynolds/ Watt",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "20:00"
+      }
+    ],
+    "Reynolds/ Watt": [
+      {
+        "opponent": "Cash/ Tracy",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "20:00"
+      }
+    ],
+    "Maloney/ Zink": [
+      {
+        "opponent": "Kaliyanda Poonacha/ Nedunchezhiyan",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "Kaliyanda Poonacha/ Nedunchezhiyan": [
+      {
+        "opponent": "Maloney/ Zink",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "Bolkvadze/ Miyazaki": [
+      {
+        "opponent": "Jones/ Rogers",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "00:20"
+      }
+    ],
+    "Jones/ Rogers": [
+      {
+        "opponent": "Bolkvadze/ Miyazaki",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "00:20"
+      },
+      {
+        "opponent": "Bouchard/ Lincer",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "23:00"
+      }
+    ],
+    "T. Schoolkate": [
+      {
+        "opponent": "J. McCabe",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "J. McCabe": [
+      {
+        "opponent": "T. Schoolkate",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "A. Smith": [
+      {
+        "opponent": "A. Hartono",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "A. Hartono": [
+      {
+        "opponent": "A. Smith",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "A. Gray": [
+      {
+        "opponent": "L. Maxted",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      },
+      {
+        "opponent": "O. Crawford",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "L. Maxted": [
+      {
+        "opponent": "A. Gray",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Lechno-Wasiutynski/ Stepanov": [
+      {
+        "opponent": "Filar/ Gschwendtner",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      },
+      {
+        "opponent": "Catini/ Mashtakov",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:30"
+      }
+    ],
+    "Filar/ Gschwendtner": [
+      {
+        "opponent": "Lechno-Wasiutynski/ Stepanov",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "T. Fritz": [
+      {
+        "opponent": "C. Alcaraz",
+        "tournament": "ATP Wimbledon",
+        "event_type": "Atp Singles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "C. Alcaraz": [
+      {
+        "opponent": "T. Fritz",
+        "tournament": "ATP Wimbledon",
+        "event_type": "Atp Singles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "Gadecki/ Krawczyk": [
+      {
+        "opponent": "Kudermetova/ Mertens",
+        "tournament": "WTA Wimbledon",
+        "event_type": "Wta Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "Kudermetova/ Mertens": [
+      {
+        "opponent": "Gadecki/ Krawczyk",
+        "tournament": "WTA Wimbledon",
+        "event_type": "Wta Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "B. Holt": [
+      {
+        "opponent": "Z. Svajda",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Z. Svajda": [
+      {
+        "opponent": "B. Holt",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "M. Krueger": [
+      {
+        "opponent": "A. Ghibaudo",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "A. Ghibaudo": [
+      {
+        "opponent": "M. Krueger",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "E. Kalieva": [
+      {
+        "opponent": "C. Zhao",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "C. Zhao": [
+      {
+        "opponent": "E. Kalieva",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "E. Mandlik": [
+      {
+        "opponent": "H. Giavara",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "H. Giavara": [
+      {
+        "opponent": "E. Mandlik",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "C. Eubanks": [
+      {
+        "opponent": "B. Tomic",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "B. Tomic": [
+      {
+        "opponent": "C. Eubanks",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "T. Zink": [
+      {
+        "opponent": "A. Mannarino",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "A. Mannarino": [
+      {
+        "opponent": "T. Zink",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "M. Bolkvadze": [
+      {
+        "opponent": "C. McNally",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "C. McNally": [
+      {
+        "opponent": "M. Bolkvadze",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "L. Stefanini": [
+      {
+        "opponent": "A. S. Rogers",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "A. S. Rogers": [
+      {
+        "opponent": "L. Stefanini",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "Lock/ Loof": [
+      {
+        "opponent": "Kadhe/ Prashanth",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "Kadhe/ Prashanth": [
+      {
+        "opponent": "Lock/ Loof",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "O. Weightman": [
+      {
+        "opponent": "Y. Watanuki",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Y. Watanuki": [
+      {
+        "opponent": "O. Weightman",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Bayldon/ Hilderbrand": [
+      {
+        "opponent": "Jasika/ Tomic",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Jasika/ Tomic": [
+      {
+        "opponent": "Bayldon/ Hilderbrand",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Watanuki/ Yuzuki": [
+      {
+        "opponent": "Chandrasekar/ Stalder",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Chandrasekar/ Stalder": [
+      {
+        "opponent": "Watanuki/ Yuzuki",
+        "tournament": "Newport Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Hartono/ Thombare": [
+      {
+        "opponent": "Hule/ Lee",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "23:00"
+      }
+    ],
+    "Hule/ Lee": [
+      {
+        "opponent": "Hartono/ Thombare",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "23:00"
+      }
+    ],
+    "Cross/ Zamarripa": [
+      {
+        "opponent": "Giavara/ Osborne",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "23:00"
+      }
+    ],
+    "Giavara/ Osborne": [
+      {
+        "opponent": "Cross/ Zamarripa",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "23:00"
+      }
+    ],
+    "J. Sinner": [
+      {
+        "opponent": "N. Djokovic",
+        "tournament": "ATP Wimbledon",
+        "event_type": "Atp Singles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "N. Djokovic": [
+      {
+        "opponent": "J. Sinner",
+        "tournament": "ATP Wimbledon",
+        "event_type": "Atp Singles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "Siniakova/ Townsend": [
+      {
+        "opponent": "Hsieh S-/Ostapenko",
+        "tournament": "WTA Wimbledon",
+        "event_type": "Wta Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Hsieh S-/Ostapenko": [
+      {
+        "opponent": "Siniakova/ Townsend",
+        "tournament": "WTA Wimbledon",
+        "event_type": "Wta Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "R. Peniston": [
+      {
+        "opponent": "H. Stewart",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "H. Stewart": [
+      {
+        "opponent": "R. Peniston",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "J. Pinnington Jones": [
+      {
+        "opponent": "E. Winter",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "E. Winter": [
+      {
+        "opponent": "J. Pinnington Jones",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "F. Jones": [
+      {
+        "opponent": "R. Masarova",
+        "tournament": "Contrexeville Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "13:15"
+      }
+    ],
+    "R. Masarova": [
+      {
+        "opponent": "F. Jones",
+        "tournament": "Contrexeville Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "13:15"
+      }
+    ],
+    "P. Marcinko": [
+      {
+        "opponent": "L. Radivojevic",
+        "tournament": "Contrexeville Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "L. Radivojevic": [
+      {
+        "opponent": "P. Marcinko",
+        "tournament": "Contrexeville Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "T. Maria": [
+      {
+        "opponent": "S. Ishii",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "21:30"
+      }
+    ],
+    "S. Ishii": [
+      {
+        "opponent": "T. Maria",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "21:30"
+      }
+    ],
+    "Aney/ Failla": [
+      {
+        "opponent": "Maleckova/ Skoch",
+        "tournament": "Bastad Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "Maleckova/ Skoch": [
+      {
+        "opponent": "Aney/ Failla",
+        "tournament": "Bastad Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "Glushkova/ Pislak": [
+      {
+        "opponent": "Ortenzi/ Sanchez",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "Ortenzi/ Sanchez": [
+      {
+        "opponent": "Glushkova/ Pislak",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "Park/ Zheng": [
+      {
+        "opponent": "Labrana/ Pereira",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "Labrana/ Pereira": [
+      {
+        "opponent": "Park/ Zheng",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "Robledo/ Tobon": [
+      {
+        "opponent": "Remondy Pagotto/ Scramin do Lago",
+        "tournament": "ITF M25 Villavicencio Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "01:20"
+      },
+      {
+        "opponent": "Pereira/ Saraiva Dos Santos",
+        "tournament": "ITF M25 Villavicencio Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Remondy Pagotto/ Scramin do Lago": [
+      {
+        "opponent": "Robledo/ Tobon",
+        "tournament": "ITF M25 Villavicencio Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "01:20"
+      }
+    ],
+    "Anderson/ Rivera": [
+      {
+        "opponent": "Pignaton/ Liu",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "00:05"
+      },
+      {
+        "opponent": "Blando/ Blando",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "22:00"
+      }
+    ],
+    "Pignaton/ Liu": [
+      {
+        "opponent": "Anderson/ Rivera",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "00:05"
+      }
+    ],
+    "Maldonado/ Perez": [
+      {
+        "opponent": "Bertran/ Echazu",
+        "tournament": "ITF M25 Villavicencio Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "01:00"
+      },
+      {
+        "opponent": "Loureiro/  Ribeiro",
+        "tournament": "ITF M25 Villavicencio Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Bertran/ Echazu": [
+      {
+        "opponent": "Maldonado/ Perez",
+        "tournament": "ITF M25 Villavicencio Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "01:00"
+      }
+    ],
+    "Hewitt/ Ivanova": [
+      {
+        "opponent": "Mi/ Sholokhova",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "00:30"
+      },
+      {
+        "opponent": "Nava Elkin/ Senties",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "21:00"
+      }
+    ],
+    "Mi/ Sholokhova": [
+      {
+        "opponent": "Hewitt/ Ivanova",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "00:30"
+      }
+    ],
+    "Nava Elkin/ Senties": [
+      {
+        "opponent": "Mikaul/ Sartz-Lunde",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "00:30"
+      },
+      {
+        "opponent": "Hewitt/ Ivanova",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "21:00"
+      }
+    ],
+    "Mikaul/ Sartz-Lunde": [
+      {
+        "opponent": "Nava Elkin/ Senties",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "00:30"
+      }
+    ],
+    "A. Markham": [
+      {
+        "opponent": "I. Marton",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "00:00"
+      },
+      {
+        "opponent": "C. McNeil",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "20:30"
+      }
+    ],
+    "I. Marton": [
+      {
+        "opponent": "A. Markham",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "00:00"
+      }
+    ],
+    "P. Rachapudi": [
+      {
+        "opponent": "K. Paskauskas",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "00:00"
+      }
+    ],
+    "K. Paskauskas": [
+      {
+        "opponent": "P. Rachapudi",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "00:00"
+      },
+      {
+        "opponent": "A. Ahn",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "20:30"
+      }
+    ],
+    "Chopra/ Martin": [
+      {
+        "opponent": "Jubb/ Mejia",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      },
+      {
+        "opponent": "George/ Tudorica",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "Jubb/ Mejia": [
+      {
+        "opponent": "Chopra/ Martin",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "A. Wang": [
+      {
+        "opponent": "K. Ozolins",
+        "tournament": "ITF M15 Maanshan 5 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "06:15"
+      }
+    ],
+    "K. Ozolins": [
+      {
+        "opponent": "A. Wang",
+        "tournament": "ITF M15 Maanshan 5 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "06:15"
+      }
+    ],
+    "I. Xilas": [
+      {
+        "opponent": "L. Gagliardo",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "L. Gagliardo": [
+      {
+        "opponent": "I. Xilas",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "A. Fiorentini": [
+      {
+        "opponent": "G. Georgiev",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "G. Georgiev": [
+      {
+        "opponent": "A. Fiorentini",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "Ja. Delaney": [
+      {
+        "opponent": "R. Tokuda",
+        "tournament": "ITF M15 Tokyo 2 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "03:10"
+      }
+    ],
+    "R. Tokuda": [
+      {
+        "opponent": "Ja. Delaney",
+        "tournament": "ITF M15 Tokyo 2 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "03:10"
+      }
+    ],
+    "K. Kirci": [
+      {
+        "opponent": "S. Imai",
+        "tournament": "ITF M15 Tokyo 2 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "05:45"
+      }
+    ],
+    "S. Imai": [
+      {
+        "opponent": "K. Kirci",
+        "tournament": "ITF M15 Tokyo 2 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "05:45"
+      }
+    ],
+    "W. Shin": [
+      {
+        "opponent": "Y. Kusuhara",
+        "tournament": "ITF M15 Tokyo 2 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "05:00"
+      }
+    ],
+    "Y. Kusuhara": [
+      {
+        "opponent": "W. Shin",
+        "tournament": "ITF M15 Tokyo 2 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "05:00"
+      }
+    ],
+    "C. Sinclair": [
+      {
+        "opponent": "K. Isomura",
+        "tournament": "ITF M15 Tokyo 2 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "03:10"
+      }
+    ],
+    "K. Isomura": [
+      {
+        "opponent": "C. Sinclair",
+        "tournament": "ITF M15 Tokyo 2 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "03:10"
+      }
+    ],
+    "T. Chanta": [
+      {
+        "opponent": "K. Samrej",
+        "tournament": "ITF M15 Maanshan 5 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "06:15"
+      }
+    ],
+    "K. Samrej": [
+      {
+        "opponent": "T. Chanta",
+        "tournament": "ITF M15 Maanshan 5 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "06:15"
+      }
+    ],
+    "A. Santillan": [
+      {
+        "opponent": "L. Xiao",
+        "tournament": "ITF M15 Maanshan 5 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "06:15"
+      }
+    ],
+    "L. Xiao": [
+      {
+        "opponent": "A. Santillan",
+        "tournament": "ITF M15 Maanshan 5 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "06:15"
+      }
+    ],
+    "Santillan/ Yang": [
+      {
+        "opponent": "Ann/ Sueoka",
+        "tournament": "ITF M15 Maanshan 5 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "08:00"
+      }
+    ],
+    "Ann/ Sueoka": [
+      {
+        "opponent": "Santillan/ Yang",
+        "tournament": "ITF M15 Maanshan 5 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "08:00"
+      }
+    ],
+    "V. Grammatikopoulou": [
+      {
+        "opponent": "J. Duerst",
+        "tournament": "ITF W35 Don Benito Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "08:30"
+      }
+    ],
+    "J. Duerst": [
+      {
+        "opponent": "V. Grammatikopoulou",
+        "tournament": "ITF W35 Don Benito Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "08:30"
+      }
+    ],
+    "M. A. Dellien Velasco": [
+      {
+        "opponent": "D. Ajdukovic",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "12:30"
+      }
+    ],
+    "D. Ajdukovic": [
+      {
+        "opponent": "M. A. Dellien Velasco",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "12:30"
+      }
+    ],
+    "T. Droguet": [
+      {
+        "opponent": "J. Reis Da Silva",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "J. Reis Da Silva": [
+      {
+        "opponent": "T. Droguet",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "T. A. Tirante": [
+      {
+        "opponent": "S. Rodriguez Taverna",
+        "tournament": "Trieste Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "S. Rodriguez Taverna": [
+      {
+        "opponent": "T. A. Tirante",
+        "tournament": "Trieste Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "Forti/ Romano": [
+      {
+        "opponent": "Haase/ Ingildsen",
+        "tournament": "Trieste Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Haase/ Ingildsen": [
+      {
+        "opponent": "Forti/ Romano",
+        "tournament": "Trieste Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "M. Efstathiou": [
+      {
+        "opponent": "F. Peliwo",
+        "tournament": "ITF M15 Hillcrest Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "F. Peliwo": [
+      {
+        "opponent": "M. Efstathiou",
+        "tournament": "ITF M15 Hillcrest Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "L. Koenig": [
+      {
+        "opponent": "T. Longwe-Smit",
+        "tournament": "ITF M15 Hillcrest Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "T. Longwe-Smit": [
+      {
+        "opponent": "L. Koenig",
+        "tournament": "ITF M15 Hillcrest Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "A. Pisaric": [
+      {
+        "opponent": "F. Ribero",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "F. Ribero": [
+      {
+        "opponent": "A. Pisaric",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "P. R. Scomparin": [
+      {
+        "opponent": "Z. Ludoski",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "Z. Ludoski": [
+      {
+        "opponent": "P. R. Scomparin",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "M. Ribecai": [
+      {
+        "opponent": "B. Artnak",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "B. Artnak": [
+      {
+        "opponent": "M. Ribecai",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "K. Matsuda": [
+      {
+        "opponent": "S. Shin",
+        "tournament": "ITF M15 Maanshan 5 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "07:15"
+      }
+    ],
+    "S. Shin": [
+      {
+        "opponent": "K. Matsuda",
+        "tournament": "ITF M15 Maanshan 5 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "07:15"
+      }
+    ],
+    "I. Becroft": [
+      {
+        "opponent": "T. Sahtali",
+        "tournament": "ITF M15 Monastir 27 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "T. Sahtali": [
+      {
+        "opponent": "I. Becroft",
+        "tournament": "ITF M15 Monastir 27 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "Y. Erel": [
+      {
+        "opponent": "J. Guilleme",
+        "tournament": "ITF M15 Monastir 27 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "J. Guilleme": [
+      {
+        "opponent": "Y. Erel",
+        "tournament": "ITF M15 Monastir 27 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "K. Singh": [
+      {
+        "opponent": "M. Bertimon",
+        "tournament": "ITF M15 Monastir 27 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "M. Bertimon": [
+      {
+        "opponent": "K. Singh",
+        "tournament": "ITF M15 Monastir 27 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "S. Sorger": [
+      {
+        "opponent": "L. Van Herck",
+        "tournament": "ITF M15 Telfs Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "L. Van Herck": [
+      {
+        "opponent": "S. Sorger",
+        "tournament": "ITF M15 Telfs Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "T. Lamasine": [
+      {
+        "opponent": "J. J. Schwaerzler",
+        "tournament": "ITF M25+H Bastia-Lucciana Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "J. J. Schwaerzler": [
+      {
+        "opponent": "T. Lamasine",
+        "tournament": "ITF M25+H Bastia-Lucciana Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "J. Echeverria": [
+      {
+        "opponent": "C. Chidekh",
+        "tournament": "ITF M25 Roda de Bara Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "C. Chidekh": [
+      {
+        "opponent": "J. Echeverria",
+        "tournament": "ITF M25 Roda de Bara Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "X. Yao": [
+      {
+        "opponent": "Huang Yujia",
+        "tournament": "ITF W15 Maanshan 9 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "Huang Yujia": [
+      {
+        "opponent": "X. Yao",
+        "tournament": "ITF W15 Maanshan 9 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "D. Zelinskaya": [
+      {
+        "opponent": "J. Wang",
+        "tournament": "ITF W15 Maanshan 9 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "J. Wang": [
+      {
+        "opponent": "D. Zelinskaya",
+        "tournament": "ITF W15 Maanshan 9 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      },
+      {
+        "opponent": "Y. Yang",
+        "tournament": "ITF W15 Maanshan 9 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "15:30"
+      }
+    ],
+    "V. Morvayova": [
+      {
+        "opponent": "T. T. Deng",
+        "tournament": "ITF W15 Maanshan 9 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "T. T. Deng": [
+      {
+        "opponent": "V. Morvayova",
+        "tournament": "ITF W15 Maanshan 9 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Y. Yang": [
+      {
+        "opponent": "J. Wang",
+        "tournament": "ITF W15 Maanshan 9 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "15:30"
+      }
+    ],
+    "M. Ristic": [
+      {
+        "opponent": "M. Matoula",
+        "tournament": "ITF W35 Buzau Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "M. Matoula": [
+      {
+        "opponent": "M. Ristic",
+        "tournament": "ITF W35 Buzau Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "V. Hruncakova": [
+      {
+        "opponent": "A. Gillan",
+        "tournament": "ITF W35 Don Benito Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "A. Gillan": [
+      {
+        "opponent": "V. Hruncakova",
+        "tournament": "ITF W35 Don Benito Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "C. Keitel": [
+      {
+        "opponent": "N. Berecoechea",
+        "tournament": "ITF W35 Don Benito Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "08:30"
+      }
+    ],
+    "N. Berecoechea": [
+      {
+        "opponent": "C. Keitel",
+        "tournament": "ITF W35 Don Benito Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "08:30"
+      }
+    ],
+    "V. Bhunu": [
+      {
+        "opponent": "J. Cabaj Awad",
+        "tournament": "ITF W35 Hillcrest Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "J. Cabaj Awad": [
+      {
+        "opponent": "V. Bhunu",
+        "tournament": "ITF W35 Hillcrest Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "P. Leykina": [
+      {
+        "opponent": "K. Pavlova",
+        "tournament": "ITF W35 Hillcrest Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "K. Pavlova": [
+      {
+        "opponent": "P. Leykina",
+        "tournament": "ITF W35 Hillcrest Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "S. J. Visscher": [
+      {
+        "opponent": "A. Miyamoto",
+        "tournament": "ITF W35 Hillcrest Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "A. Miyamoto": [
+      {
+        "opponent": "S. J. Visscher",
+        "tournament": "ITF W35 Hillcrest Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "M. Kubka": [
+      {
+        "opponent": "D. Back",
+        "tournament": "ITF W35 Monastir Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "D. Back": [
+      {
+        "opponent": "M. Kubka",
+        "tournament": "ITF W35 Monastir Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "J. Lu": [
+      {
+        "opponent": "A. Gasanova",
+        "tournament": "ITF W35 Monastir Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "A. Gasanova": [
+      {
+        "opponent": "J. Lu",
+        "tournament": "ITF W35 Monastir Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "M. Refaat": [
+      {
+        "opponent": "S. Hosogi",
+        "tournament": "ITF W35 Monastir Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "S. Hosogi": [
+      {
+        "opponent": "M. Refaat",
+        "tournament": "ITF W35 Monastir Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "M. Leonard": [
+      {
+        "opponent": "E. Ovcharenko",
+        "tournament": "ITF W50 Corroios-Seixal Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "E. Ovcharenko": [
+      {
+        "opponent": "M. Leonard",
+        "tournament": "ITF W50 Corroios-Seixal Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "Trongcharoenchaikul/ Zeng": [
+      {
+        "opponent": "Wang/ Zhang",
+        "tournament": "ITF M15 Maanshan 5 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "08:00"
+      }
+    ],
+    "Wang/ Zhang": [
+      {
+        "opponent": "Trongcharoenchaikul/ Zeng",
+        "tournament": "ITF M15 Maanshan 5 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "08:00"
+      }
+    ],
+    "Katayama/ Kono": [
+      {
+        "opponent": "Fukuda/ Matsuoka",
+        "tournament": "ITF M15 Tokyo 2 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "07:30"
+      }
+    ],
+    "Fukuda/ Matsuoka": [
+      {
+        "opponent": "Katayama/ Kono",
+        "tournament": "ITF M15 Tokyo 2 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "07:30"
+      }
+    ],
+    "Seelig/ Sinclair": [
+      {
+        "opponent": "Kawachi/ Kikuchi",
+        "tournament": "ITF M15 Tokyo 2 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "06:20"
+      }
+    ],
+    "Kawachi/ Kikuchi": [
+      {
+        "opponent": "Seelig/ Sinclair",
+        "tournament": "ITF M15 Tokyo 2 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "06:20"
+      }
+    ],
+    "Im/ Kim": [
+      {
+        "opponent": "Aixirefu/ Xu",
+        "tournament": "ITF W15 Maanshan 9 Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "Aixirefu/ Xu": [
+      {
+        "opponent": "Im/ Kim",
+        "tournament": "ITF W15 Maanshan 9 Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "I. Ivanov": [
+      {
+        "opponent": "M. Schoenhaus",
+        "tournament": "Boys Wimbledon",
+        "event_type": "Boys Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "M. Schoenhaus": [
+      {
+        "opponent": "I. Ivanov",
+        "tournament": "Boys Wimbledon",
+        "event_type": "Boys Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "K. Kawa": [
+      {
+        "opponent": "M. Sherif",
+        "tournament": "Bastad Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "M. Sherif": [
+      {
+        "opponent": "K. Kawa",
+        "tournament": "Bastad Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "Fita Boluda/ Pigossi": [
+      {
+        "opponent": "Appleton/ Haverlag",
+        "tournament": "Contrexeville Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Appleton/ Haverlag": [
+      {
+        "opponent": "Fita Boluda/ Pigossi",
+        "tournament": "Contrexeville Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "M. Van Der Merwe": [
+      {
+        "opponent": "E. Kirkin",
+        "tournament": "ITF M15 Hillcrest Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "E. Kirkin": [
+      {
+        "opponent": "M. Van Der Merwe",
+        "tournament": "ITF M15 Hillcrest Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "A. Granwehr": [
+      {
+        "opponent": "K. Swan",
+        "tournament": "ITF W35 Don Benito Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "K. Swan": [
+      {
+        "opponent": "A. Granwehr",
+        "tournament": "ITF W35 Don Benito Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "Obrul/ Premzl": [
+      {
+        "opponent": "Falabella/ Ribecai",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "Falabella/ Ribecai": [
+      {
+        "opponent": "Obrul/ Premzl",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "D. Klok": [
+      {
+        "opponent": "P. Marino",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "P. Marino": [
+      {
+        "opponent": "D. Klok",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "Banthia/ Donski": [
+      {
+        "opponent": "Barton/ Vrbensky",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:30"
+      }
+    ],
+    "Barton/ Vrbensky": [
+      {
+        "opponent": "Banthia/ Donski",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:30"
+      }
+    ],
+    "Balshaw/ Piatti": [
+      {
+        "opponent": "Mikovic/ Mikovic",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "Mikovic/ Mikovic": [
+      {
+        "opponent": "Balshaw/ Piatti",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "Dragoni/ Parenti": [
+      {
+        "opponent": "Pieri/ Vulpitta",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "Pieri/ Vulpitta": [
+      {
+        "opponent": "Dragoni/ Parenti",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "M. Nannelli": [
+      {
+        "opponent": "Y. Milev",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "Y. Milev": [
+      {
+        "opponent": "M. Nannelli",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "K. Juhas": [
+      {
+        "opponent": "B. Bobrov",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "B. Bobrov": [
+      {
+        "opponent": "K. Juhas",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "Bosio/ Sakellaridis": [
+      {
+        "opponent": "Jeran/ Vetrih",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "Jeran/ Vetrih": [
+      {
+        "opponent": "Bosio/ Sakellaridis",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "Harper/ Seggerman": [
+      {
+        "opponent": "Dellien Velasco/ Zeballos",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "15:30"
+      }
+    ],
+    "Dellien Velasco/ Zeballos": [
+      {
+        "opponent": "Harper/ Seggerman",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "15:30"
+      }
+    ],
+    "J. M. Cerundolo": [
+      {
+        "opponent": "A. Molcan",
+        "tournament": "Braunschweig Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "A. Molcan": [
+      {
+        "opponent": "J. M. Cerundolo",
+        "tournament": "Braunschweig Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "F. Misolic": [
+      {
+        "opponent": "M. Navone",
+        "tournament": "Braunschweig Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "M. Navone": [
+      {
+        "opponent": "F. Misolic",
+        "tournament": "Braunschweig Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "S. Wawrinka": [
+      {
+        "opponent": "R. Albot",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "R. Albot": [
+      {
+        "opponent": "S. Wawrinka",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "K. Edmund": [
+      {
+        "opponent": "P. Zahraj",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "P. Zahraj": [
+      {
+        "opponent": "K. Edmund",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "M. Dodig": [
+      {
+        "opponent": "L. Neumayer",
+        "tournament": "Trieste Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "15:30"
+      }
+    ],
+    "L. Neumayer": [
+      {
+        "opponent": "M. Dodig",
+        "tournament": "Trieste Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "15:30"
+      }
+    ],
+    "S. Nagal": [
+      {
+        "opponent": "M. Mrva",
+        "tournament": "Trieste Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "M. Mrva": [
+      {
+        "opponent": "S. Nagal",
+        "tournament": "Trieste Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "A. Andrade": [
+      {
+        "opponent": "Y. Zhou",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "19:30"
+      }
+    ],
+    "Y. Zhou": [
+      {
+        "opponent": "A. Andrade",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "19:30"
+      }
+    ],
+    "R. Noguchi": [
+      {
+        "opponent": "L. Draxl",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "L. Draxl": [
+      {
+        "opponent": "R. Noguchi",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "A. Ruzic": [
+      {
+        "opponent": "E. Cocciaretto",
+        "tournament": "Bastad Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "12:30"
+      }
+    ],
+    "E. Cocciaretto": [
+      {
+        "opponent": "A. Ruzic",
+        "tournament": "Bastad Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "12:30"
+      }
+    ],
+    "V. Gracheva": [
+      {
+        "opponent": "O. Selekhmeteva",
+        "tournament": "Contrexeville Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "O. Selekhmeteva": [
+      {
+        "opponent": "V. Gracheva",
+        "tournament": "Contrexeville Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "E. Jacquemot": [
+      {
+        "opponent": "S. Waltert",
+        "tournament": "Contrexeville Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "14:45"
+      }
+    ],
+    "S. Waltert": [
+      {
+        "opponent": "E. Jacquemot",
+        "tournament": "Contrexeville Challenger Women",
+        "event_type": "Challenger Women Singles",
+        "date": "2025-07-11",
+        "time": "14:45"
+      }
+    ],
+    "Merino/ Negritu": [
+      {
+        "opponent": "Masur/ Sanchez Martinez",
+        "tournament": "Braunschweig Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Masur/ Sanchez Martinez": [
+      {
+        "opponent": "Merino/ Negritu",
+        "tournament": "Braunschweig Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Kirkov/ Stevens": [
+      {
+        "opponent": "Liutarevich/ Veldheer",
+        "tournament": "Braunschweig Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Liutarevich/ Veldheer": [
+      {
+        "opponent": "Kirkov/ Stevens",
+        "tournament": "Braunschweig Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Kielan/ Pieczonka": [
+      {
+        "opponent": "Goldhoff/ Jacq",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "Goldhoff/ Jacq": [
+      {
+        "opponent": "Kielan/ Pieczonka",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "Broom/ Whitehouse": [
+      {
+        "opponent": "Hands/ Wendelken",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Hands/ Wendelken": [
+      {
+        "opponent": "Broom/ Whitehouse",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Duncan/ MacKinlay": [
+      {
+        "opponent": "Hrazdil/ Zahraj",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "Hrazdil/ Zahraj": [
+      {
+        "opponent": "Duncan/ MacKinlay",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "Pichler/ Pokorny": [
+      {
+        "opponent": "Paul/ Vocel",
+        "tournament": "Trieste Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "Paul/ Vocel": [
+      {
+        "opponent": "Pichler/ Pokorny",
+        "tournament": "Trieste Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "Gleason/ Martins": [
+      {
+        "opponent": "Cavalle-Reimers/ Herrero Linana",
+        "tournament": "Contrexeville Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Cavalle-Reimers/ Herrero Linana": [
+      {
+        "opponent": "Gleason/ Martins",
+        "tournament": "Contrexeville Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "P. Henning": [
+      {
+        "opponent": "D. Singh",
+        "tournament": "ITF M15 Hillcrest Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "D. Singh": [
+      {
+        "opponent": "P. Henning",
+        "tournament": "ITF M15 Hillcrest Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "S. Popovic": [
+      {
+        "opponent": "O. Milic",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "O. Milic": [
+      {
+        "opponent": "S. Popovic",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "L. Marmousez": [
+      {
+        "opponent": "L. A. Falabella",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "L. A. Falabella": [
+      {
+        "opponent": "L. Marmousez",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "F. Balshaw": [
+      {
+        "opponent": "M. Hurrion",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "M. Hurrion": [
+      {
+        "opponent": "F. Balshaw",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "E. Demanet": [
+      {
+        "opponent": "J. Loge",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "J. Loge": [
+      {
+        "opponent": "E. Demanet",
+        "tournament": "ITF M15 Litija Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "M. Cerny": [
+      {
+        "opponent": "T. Berkieta",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "T. Berkieta": [
+      {
+        "opponent": "M. Cerny",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "T. Colson": [
+      {
+        "opponent": "K. Szymkowiak",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "K. Szymkowiak": [
+      {
+        "opponent": "T. Colson",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "K. Knitter": [
+      {
+        "opponent": "A. Gobat",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "A. Gobat": [
+      {
+        "opponent": "K. Knitter",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "N. Mashtakov": [
+      {
+        "opponent": "E. Vasa",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "E. Vasa": [
+      {
+        "opponent": "N. Mashtakov",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "C. Vandermeersch": [
+      {
+        "opponent": "C. Williams",
+        "tournament": "ITF M15 Monastir 27 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "C. Williams": [
+      {
+        "opponent": "C. Vandermeersch",
+        "tournament": "ITF M15 Monastir 27 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "S. De La Fuente": [
+      {
+        "opponent": "T. Farjat",
+        "tournament": "ITF M15 Salta Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "T. Farjat": [
+      {
+        "opponent": "S. De La Fuente",
+        "tournament": "ITF M15 Salta Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "G. I. Justo": [
+      {
+        "opponent": "I. Gimenez",
+        "tournament": "ITF M15 Salta Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "I. Gimenez": [
+      {
+        "opponent": "G. I. Justo",
+        "tournament": "ITF M15 Salta Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "M. Zeitune": [
+      {
+        "opponent": "L. J. Rodriguez",
+        "tournament": "ITF M15 Salta Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "L. J. Rodriguez": [
+      {
+        "opponent": "M. Zeitune",
+        "tournament": "ITF M15 Salta Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "S. D'Agostino": [
+      {
+        "opponent": "K. Friberg",
+        "tournament": "ITF M15 Telfs Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "K. Friberg": [
+      {
+        "opponent": "S. D'Agostino",
+        "tournament": "ITF M15 Telfs Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "D. Novak": [
+      {
+        "opponent": "M. Donald",
+        "tournament": "ITF M15 Telfs Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "M. Donald": [
+      {
+        "opponent": "D. Novak",
+        "tournament": "ITF M15 Telfs Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "G. Oradini": [
+      {
+        "opponent": "O. Horak",
+        "tournament": "ITF M15 Telfs Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "O. Horak": [
+      {
+        "opponent": "G. Oradini",
+        "tournament": "ITF M15 Telfs Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "S. Banerjee": [
+      {
+        "opponent": "A. McHugh",
+        "tournament": "ITF M25 Dallas, TX Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "A. McHugh": [
+      {
+        "opponent": "S. Banerjee",
+        "tournament": "ITF M25 Dallas, TX Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "A. Rybakov": [
+      {
+        "opponent": "A. Magadan",
+        "tournament": "ITF M25 Dallas, TX Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "A. Magadan": [
+      {
+        "opponent": "A. Rybakov",
+        "tournament": "ITF M25 Dallas, TX Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "S. Gueymard Wayenburg": [
+      {
+        "opponent": "G. Cadenasso",
+        "tournament": "ITF M25+H Bastia-Lucciana Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "G. Cadenasso": [
+      {
+        "opponent": "S. Gueymard Wayenburg",
+        "tournament": "ITF M25+H Bastia-Lucciana Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "F. Juarez": [
+      {
+        "opponent": "A. Bonnaud",
+        "tournament": "ITF M25+H Bastia-Lucciana Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "A. Bonnaud": [
+      {
+        "opponent": "F. Juarez",
+        "tournament": "ITF M25+H Bastia-Lucciana Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "E. Ejupovic": [
+      {
+        "opponent": "A. Vatutin",
+        "tournament": "ITF M25+H Kassel Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "A. Vatutin": [
+      {
+        "opponent": "E. Ejupovic",
+        "tournament": "ITF M25+H Kassel Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "J. Forejtek": [
+      {
+        "opponent": "A. Martin",
+        "tournament": "ITF M25+H Kassel Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "A. Martin": [
+      {
+        "opponent": "J. Forejtek",
+        "tournament": "ITF M25+H Kassel Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "D. Siniakov": [
+      {
+        "opponent": "N. Hardt",
+        "tournament": "ITF M25+H Kassel Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "N. Hardt": [
+      {
+        "opponent": "D. Siniakov",
+        "tournament": "ITF M25+H Kassel Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "C. Sanchez Jover": [
+      {
+        "opponent": "S. Fomin",
+        "tournament": "ITF M25+H Kassel Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "S. Fomin": [
+      {
+        "opponent": "C. Sanchez Jover",
+        "tournament": "ITF M25+H Kassel Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "R. Pascual Ferra": [
+      {
+        "opponent": "F. Sun",
+        "tournament": "ITF M25 Roda de Bara Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "F. Sun": [
+      {
+        "opponent": "R. Pascual Ferra",
+        "tournament": "ITF M25 Roda de Bara Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "A. Pedrico Kravtsov": [
+      {
+        "opponent": "R. Zusman",
+        "tournament": "ITF M25 Roda de Bara Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "R. Zusman": [
+      {
+        "opponent": "A. Pedrico Kravtsov",
+        "tournament": "ITF M25 Roda de Bara Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "I. Simakin": [
+      {
+        "opponent": "A. Soriano Barrera",
+        "tournament": "ITF M25 Roda de Bara Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "A. Soriano Barrera": [
+      {
+        "opponent": "I. Simakin",
+        "tournament": "ITF M25 Roda de Bara Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "R. Faucon": [
+      {
+        "opponent": "R. Nijboer",
+        "tournament": "ITF M25 The Hague Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "R. Nijboer": [
+      {
+        "opponent": "R. Faucon",
+        "tournament": "ITF M25 The Hague Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "I. Gakhov": [
+      {
+        "opponent": "E. Vanshelboim",
+        "tournament": "ITF M25 The Hague Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "E. Vanshelboim": [
+      {
+        "opponent": "I. Gakhov",
+        "tournament": "ITF M25 The Hague Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "N. Visker": [
+      {
+        "opponent": "J. D. Hara Friend",
+        "tournament": "ITF M25 The Hague Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "J. D. Hara Friend": [
+      {
+        "opponent": "N. Visker",
+        "tournament": "ITF M25 The Hague Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "M. Drozd": [
+      {
+        "opponent": "A. Hertel",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "A. Hertel": [
+      {
+        "opponent": "M. Drozd",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "S. Drugdova": [
+      {
+        "opponent": "K. Bartel",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "K. Bartel": [
+      {
+        "opponent": "S. Drugdova",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "Z. Frankowska": [
+      {
+        "opponent": "I. Sebestova",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "I. Sebestova": [
+      {
+        "opponent": "Z. Frankowska",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "D. Yesypchuk": [
+      {
+        "opponent": "B. Straszewska",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "B. Straszewska": [
+      {
+        "opponent": "D. Yesypchuk",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "D. Havermans": [
+      {
+        "opponent": "L. Sevcikova",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "L. Sevcikova": [
+      {
+        "opponent": "D. Havermans",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "E. Slavikova": [
+      {
+        "opponent": "B. Kostecka",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "B. Kostecka": [
+      {
+        "opponent": "E. Slavikova",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "L. Svatikova": [
+      {
+        "opponent": "R. De Koning",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "R. De Koning": [
+      {
+        "opponent": "L. Svatikova",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "E. Tverijonaite": [
+      {
+        "opponent": "M. Hoedt",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "M. Hoedt": [
+      {
+        "opponent": "E. Tverijonaite",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "L. Cilekova": [
+      {
+        "opponent": "B. Dessolis",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "B. Dessolis": [
+      {
+        "opponent": "L. Cilekova",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "E. Kaliadina": [
+      {
+        "opponent": "G. Ceschi",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "G. Ceschi": [
+      {
+        "opponent": "E. Kaliadina",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "A. Kubareva": [
+      {
+        "opponent": "M. Soriano Santiago",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "M. Soriano Santiago": [
+      {
+        "opponent": "A. Kubareva",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "B. Passola": [
+      {
+        "opponent": "M. Zhabrailova",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "M. Zhabrailova": [
+      {
+        "opponent": "B. Passola",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "J. Stamatova": [
+      {
+        "opponent": "G. A. Musat",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "G. A. Musat": [
+      {
+        "opponent": "J. Stamatova",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "M. Viriant": [
+      {
+        "opponent": "T. Di Girolami",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "T. Di Girolami": [
+      {
+        "opponent": "M. Viriant",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "G. Paterno": [
+      {
+        "opponent": "A. Obradovic",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "A. Obradovic": [
+      {
+        "opponent": "G. Paterno",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "A. Stankovic": [
+      {
+        "opponent": "P. Konjikusic",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "P. Konjikusic": [
+      {
+        "opponent": "A. Stankovic",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "Z. Pawlikowska": [
+      {
+        "opponent": "D. Papamichail",
+        "tournament": "ITF W35 Buzau Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "D. Papamichail": [
+      {
+        "opponent": "Z. Pawlikowska",
+        "tournament": "ITF W35 Buzau Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "P. M. Tig": [
+      {
+        "opponent": "E. R. Bertea",
+        "tournament": "ITF W35 Buzau Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "E. R. Bertea": [
+      {
+        "opponent": "P. M. Tig",
+        "tournament": "ITF W35 Buzau Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "09:00"
+      }
+    ],
+    "A. Prisacariu": [
+      {
+        "opponent": "A. F. Oana",
+        "tournament": "ITF W35 Buzau Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "A. F. Oana": [
+      {
+        "opponent": "A. Prisacariu",
+        "tournament": "ITF W35 Buzau Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:00"
+      }
+    ],
+    "A. Reguer": [
+      {
+        "opponent": "M. Ozeki",
+        "tournament": "ITF W35 Hillcrest Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "M. Ozeki": [
+      {
+        "opponent": "A. Reguer",
+        "tournament": "ITF W35 Hillcrest Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "H. Abe": [
+      {
+        "opponent": "Y. Ren",
+        "tournament": "ITF W35 Monastir Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "Y. Ren": [
+      {
+        "opponent": "H. Abe",
+        "tournament": "ITF W35 Monastir Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "F. Mattioli": [
+      {
+        "opponent": "M. Tona",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "M. Tona": [
+      {
+        "opponent": "F. Mattioli",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "L. Perez Alarcon": [
+      {
+        "opponent": "M. F. Urrutia",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      },
+      {
+        "opponent": "M. Capurro Taborda",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "M. F. Urrutia": [
+      {
+        "opponent": "L. Perez Alarcon",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "L. Plaza Araujo": [
+      {
+        "opponent": "C. Vazquez",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "C. Vazquez": [
+      {
+        "opponent": "L. Plaza Araujo",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "X. You": [
+      {
+        "opponent": "B. Bonardi",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "B. Bonardi": [
+      {
+        "opponent": "X. You",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "N. Brancaccio": [
+      {
+        "opponent": "Y. In-Albon",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Y. In-Albon": [
+      {
+        "opponent": "N. Brancaccio",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "S. Park": [
+      {
+        "opponent": "E. Gorgodze",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "E. Gorgodze": [
+      {
+        "opponent": "S. Park",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "D. Jakupovic": [
+      {
+        "opponent": "N. Bartunkova",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "N. Bartunkova": [
+      {
+        "opponent": "D. Jakupovic",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "M. Timofeeva": [
+      {
+        "opponent": "T. Wuerth",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "T. Wuerth": [
+      {
+        "opponent": "M. Timofeeva",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "E. S. Liang": [
+      {
+        "opponent": "V. Diatchenko",
+        "tournament": "ITF W50 Corroios-Seixal Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "V. Diatchenko": [
+      {
+        "opponent": "E. S. Liang",
+        "tournament": "ITF W50 Corroios-Seixal Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "Z. Diyas": [
+      {
+        "opponent": "G. Knutson",
+        "tournament": "ITF W50 Corroios-Seixal Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "G. Knutson": [
+      {
+        "opponent": "Z. Diyas",
+        "tournament": "ITF W50 Corroios-Seixal Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "A. Ito": [
+      {
+        "opponent": "L. Klimovicova",
+        "tournament": "ITF W50 Corroios-Seixal Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "L. Klimovicova": [
+      {
+        "opponent": "A. Ito",
+        "tournament": "ITF W50 Corroios-Seixal Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "A. Geerlings Martinez": [
+      {
+        "opponent": "J. Pieri",
+        "tournament": "ITF W75 The Hague Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "J. Pieri": [
+      {
+        "opponent": "A. Geerlings Martinez",
+        "tournament": "ITF W75 The Hague Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "G. Maristany": [
+      {
+        "opponent": "J. Lim",
+        "tournament": "ITF W75 The Hague Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "J. Lim": [
+      {
+        "opponent": "G. Maristany",
+        "tournament": "ITF W75 The Hague Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "L. Samson": [
+      {
+        "opponent": "O. Oliynykova",
+        "tournament": "ITF W75 The Hague Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "O. Oliynykova": [
+      {
+        "opponent": "L. Samson",
+        "tournament": "ITF W75 The Hague Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "E. Vedder": [
+      {
+        "opponent": "I. Oz",
+        "tournament": "ITF W75 The Hague Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "I. Oz": [
+      {
+        "opponent": "E. Vedder",
+        "tournament": "ITF W75 The Hague Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "El Sallaly/ Montsi": [
+      {
+        "opponent": "Beaven/ Van Der Merwe",
+        "tournament": "ITF M15 Hillcrest Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Beaven/ Van Der Merwe": [
+      {
+        "opponent": "El Sallaly/ Montsi",
+        "tournament": "ITF M15 Hillcrest Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Vishal Balsekar/ Sarksian": [
+      {
+        "opponent": "Badenhorst/ Koenig",
+        "tournament": "ITF M15 Hillcrest Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Badenhorst/ Koenig": [
+      {
+        "opponent": "Vishal Balsekar/ Sarksian",
+        "tournament": "ITF M15 Hillcrest Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Haliak/ Lobanov": [
+      {
+        "opponent": "Pisaric/ Stefanovic",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "15:30"
+      }
+    ],
+    "Pisaric/ Stefanovic": [
+      {
+        "opponent": "Haliak/ Lobanov",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "15:30"
+      }
+    ],
+    "Georgiev/ Markov": [
+      {
+        "opponent": "Del Pino/ Hess",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "15:30"
+      }
+    ],
+    "Del Pino/ Hess": [
+      {
+        "opponent": "Georgiev/ Markov",
+        "tournament": "ITF M15 Kursumlijska Banja 10 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "15:30"
+      }
+    ],
+    "Marcondes/ Slavic": [
+      {
+        "opponent": "Berkieta/ Lange",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "Berkieta/ Lange": [
+      {
+        "opponent": "Marcondes/ Slavic",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "Lacides/ Lestir": [
+      {
+        "opponent": "Bogatov/ Tiurnev",
+        "tournament": "ITF M15 Monastir 27 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "Bogatov/ Tiurnev": [
+      {
+        "opponent": "Lacides/ Lestir",
+        "tournament": "ITF M15 Monastir 27 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "Rankin/ Williams": [
+      {
+        "opponent": "Abderrahman/ Trifi",
+        "tournament": "ITF M15 Monastir 27 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "Abderrahman/ Trifi": [
+      {
+        "opponent": "Rankin/ Williams",
+        "tournament": "ITF M15 Monastir 27 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "Horak/ Pecak": [
+      {
+        "opponent": "Ihlenfeld/ Novak",
+        "tournament": "ITF M15 Telfs Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "Ihlenfeld/ Novak": [
+      {
+        "opponent": "Horak/ Pecak",
+        "tournament": "ITF M15 Telfs Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "13:00"
+      }
+    ],
+    "Ramskogler/ Wehnelt": [
+      {
+        "opponent": "Bilardo/ Kobierski",
+        "tournament": "ITF M15 Telfs Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Bilardo/ Kobierski": [
+      {
+        "opponent": "Ramskogler/ Wehnelt",
+        "tournament": "ITF M15 Telfs Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Agostini/ Cadenasso": [
+      {
+        "opponent": "Genier/ Nikles",
+        "tournament": "ITF M25+H Bastia-Lucciana Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "Genier/ Nikles": [
+      {
+        "opponent": "Agostini/ Cadenasso",
+        "tournament": "ITF M25+H Bastia-Lucciana Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "Freire Da Silva/ Ghazouani Durand": [
+      {
+        "opponent": "Dev S D/ Sinha",
+        "tournament": "ITF M25+H Bastia-Lucciana Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "Dev S D/ Sinha": [
+      {
+        "opponent": "Freire Da Silva/ Ghazouani Durand",
+        "tournament": "ITF M25+H Bastia-Lucciana Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "Fix/ Poertner": [
+      {
+        "opponent": "Nesterov/ Ovcharenko",
+        "tournament": "ITF M25+H Kassel Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "Nesterov/ Ovcharenko": [
+      {
+        "opponent": "Fix/ Poertner",
+        "tournament": "ITF M25+H Kassel Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "Mansilla Diez/ Pujol Navarro": [
+      {
+        "opponent": "Bueno Gil/ Zhu",
+        "tournament": "ITF M25 Roda de Bara Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Bueno Gil/ Zhu": [
+      {
+        "opponent": "Mansilla Diez/ Pujol Navarro",
+        "tournament": "ITF M25 Roda de Bara Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Binda/ Simakin": [
+      {
+        "opponent": "Barroso Campos/ Montes-De La Torre",
+        "tournament": "ITF M25 Roda de Bara Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "Barroso Campos/ Montes-De La Torre": [
+      {
+        "opponent": "Binda/ Simakin",
+        "tournament": "ITF M25 Roda de Bara Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "Klaassen/ Paardekooper": [
+      {
+        "opponent": "Lootsma/ Orlov",
+        "tournament": "ITF M25 The Hague Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Lootsma/ Orlov": [
+      {
+        "opponent": "Klaassen/ Paardekooper",
+        "tournament": "ITF M25 The Hague Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Drugdova/ Sebestova": [
+      {
+        "opponent": "Drozd/ Krajmer",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Drozd/ Krajmer": [
+      {
+        "opponent": "Drugdova/ Sebestova",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Lazarevic/ Stankovic": [
+      {
+        "opponent": "Dessolis/ Dessolis",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "Dessolis/ Dessolis": [
+      {
+        "opponent": "Lazarevic/ Stankovic",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "Kubareva/ Zhabrailova": [
+      {
+        "opponent": "Gadamauri/ Longueville",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "Gadamauri/ Longueville": [
+      {
+        "opponent": "Kubareva/ Zhabrailova",
+        "tournament": "ITF W15 Kursumlijska Banja 10 Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "10:30"
+      }
+    ],
+    "Bertea/ Lodikova": [
+      {
+        "opponent": "Ogescu/ Sava",
+        "tournament": "ITF W35 Buzau Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "Ogescu/ Sava": [
+      {
+        "opponent": "Bertea/ Lodikova",
+        "tournament": "ITF W35 Buzau Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "Ayukawa/ Szabo": [
+      {
+        "opponent": "Herea/ Pawlikowska",
+        "tournament": "ITF W35 Buzau Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "Herea/ Pawlikowska": [
+      {
+        "opponent": "Ayukawa/ Szabo",
+        "tournament": "ITF W35 Buzau Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "11:00"
+      }
+    ],
+    "Grammatikopoulou/ Hutchinson": [
+      {
+        "opponent": "Martinez Vaquero/ Rey Garcia",
+        "tournament": "ITF W35 Don Benito Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "Martinez Vaquero/ Rey Garcia": [
+      {
+        "opponent": "Grammatikopoulou/ Hutchinson",
+        "tournament": "ITF W35 Don Benito Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "11:30"
+      }
+    ],
+    "Miyamoto/ Nakashima": [
+      {
+        "opponent": "Cabaj Awad/ Visscher",
+        "tournament": "ITF W35 Hillcrest Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Cabaj Awad/ Visscher": [
+      {
+        "opponent": "Miyamoto/ Nakashima",
+        "tournament": "ITF W35 Hillcrest Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Bhunu/ Van Poppel": [
+      {
+        "opponent": "Lukosiute/ Nahum",
+        "tournament": "ITF W35 Hillcrest Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Lukosiute/ Nahum": [
+      {
+        "opponent": "Bhunu/ Van Poppel",
+        "tournament": "ITF W35 Hillcrest Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Dudeney/ Paukstyte": [
+      {
+        "opponent": "Shubladze/ Sidorova",
+        "tournament": "ITF W35 Monastir Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "Shubladze/ Sidorova": [
+      {
+        "opponent": "Dudeney/ Paukstyte",
+        "tournament": "ITF W35 Monastir Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "Saigo/ Saigo": [
+      {
+        "opponent": "Lahey/ Lemaitre",
+        "tournament": "ITF W35 Monastir Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "Lahey/ Lemaitre": [
+      {
+        "opponent": "Saigo/ Saigo",
+        "tournament": "ITF W35 Monastir Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "14:30"
+      }
+    ],
+    "Melleiro/ Da Cruz Mendonca": [
+      {
+        "opponent": "Fullana/ Markus",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "Fullana/ Markus": [
+      {
+        "opponent": "Melleiro/ Da Cruz Mendonca",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "Bayerlova/ Kuczer": [
+      {
+        "opponent": "McAdoo/ Okutoyi",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "McAdoo/ Okutoyi": [
+      {
+        "opponent": "Bayerlova/ Kuczer",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Boehner/ Fontenel": [
+      {
+        "opponent": "Daems/ Firman",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "Daems/ Firman": [
+      {
+        "opponent": "Boehner/ Fontenel",
+        "tournament": "ITF W50 Aschaffenburg Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "Costoulas/ Korneeva": [
+      {
+        "opponent": "Bhatia/ Micic",
+        "tournament": "ITF W50 Corroios-Seixal Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "Bhatia/ Micic": [
+      {
+        "opponent": "Costoulas/ Korneeva",
+        "tournament": "ITF W50 Corroios-Seixal Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "Chong/ Liang": [
+      {
+        "opponent": "Raina/ Robbe",
+        "tournament": "ITF W50 Corroios-Seixal Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "Raina/ Robbe": [
+      {
+        "opponent": "Chong/ Liang",
+        "tournament": "ITF W50 Corroios-Seixal Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "16:00"
+      }
+    ],
+    "Salkova/ Samson": [
+      {
+        "opponent": "De Zeeuw/ Rus",
+        "tournament": "ITF W75 The Hague Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "De Zeeuw/ Rus": [
+      {
+        "opponent": "Salkova/ Samson",
+        "tournament": "ITF W75 The Hague Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Kulambayeva/ Strakhova": [
+      {
+        "opponent": "Bakhmutkina/ Kroitor",
+        "tournament": "ITF W75 The Hague Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "Bakhmutkina/ Kroitor": [
+      {
+        "opponent": "Kulambayeva/ Strakhova",
+        "tournament": "ITF W75 The Hague Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "14:00"
+      }
+    ],
+    "A. Vasilev": [
+      {
+        "opponent": "R. Karki",
+        "tournament": "Boys Wimbledon",
+        "event_type": "Boys Singles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "R. Karki": [
+      {
+        "opponent": "A. Vasilev",
+        "tournament": "Boys Wimbledon",
+        "event_type": "Boys Singles",
+        "date": "2025-07-11",
+        "time": "15:00"
+      }
+    ],
+    "M. Pohankova": [
+      {
+        "opponent": "V. Valdmannova",
+        "tournament": "Girls Wimbledon",
+        "event_type": "Girls Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "V. Valdmannova": [
+      {
+        "opponent": "M. Pohankova",
+        "tournament": "Girls Wimbledon",
+        "event_type": "Girls Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "M. Xu": [
+      {
+        "opponent": "J. Pareja",
+        "tournament": "Girls Wimbledon",
+        "event_type": "Girls Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "J. Pareja": [
+      {
+        "opponent": "M. Xu",
+        "tournament": "Girls Wimbledon",
+        "event_type": "Girls Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Bonding/ Leach": [
+      {
+        "opponent": "Rottgering/ Schoenmakers",
+        "tournament": "Boys Wimbledon",
+        "event_type": "Boys Doubles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "Rottgering/ Schoenmakers": [
+      {
+        "opponent": "Bonding/ Leach",
+        "tournament": "Boys Wimbledon",
+        "event_type": "Boys Doubles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "Paldanius/ Wazny": [
+      {
+        "opponent": "Omarkhanov/ Pleshivtsev",
+        "tournament": "Boys Wimbledon",
+        "event_type": "Boys Doubles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "Omarkhanov/ Pleshivtsev": [
+      {
+        "opponent": "Paldanius/ Wazny",
+        "tournament": "Boys Wimbledon",
+        "event_type": "Boys Doubles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "Kovackova/ Kovackova": [
+      {
+        "opponent": "Penickova/ Valdmannova",
+        "tournament": "Girls Wimbledon",
+        "event_type": "Girls Doubles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "Penickova/ Valdmannova": [
+      {
+        "opponent": "Kovackova/ Kovackova",
+        "tournament": "Girls Wimbledon",
+        "event_type": "Girls Doubles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "Frodin/ Pareja": [
+      {
+        "opponent": "Pastikova/ Stusek",
+        "tournament": "Girls Wimbledon",
+        "event_type": "Girls Doubles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "Pastikova/ Stusek": [
+      {
+        "opponent": "Frodin/ Pareja",
+        "tournament": "Girls Wimbledon",
+        "event_type": "Girls Doubles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "George/ Tudorica": [
+      {
+        "opponent": "Chopra/ Martin",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "F. Maestrelli": [
+      {
+        "opponent": "E. Moller",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "E. Moller": [
+      {
+        "opponent": "F. Maestrelli",
+        "tournament": "Iasi Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "S. Dols": [
+      {
+        "opponent": "L. S. Steur J.",
+        "tournament": "ITF W15 Casablanca Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "L. S. Steur J.": [
+      {
+        "opponent": "S. Dols",
+        "tournament": "ITF W15 Casablanca Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "J. Ruggeri": [
+      {
+        "opponent": "M. El Allami",
+        "tournament": "ITF W15 Casablanca Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "M. El Allami": [
+      {
+        "opponent": "J. Ruggeri",
+        "tournament": "ITF W15 Casablanca Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "V. Kan": [
+      {
+        "opponent": "C. Gennaro",
+        "tournament": "ITF W15 Casablanca Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "C. Gennaro": [
+      {
+        "opponent": "V. Kan",
+        "tournament": "ITF W15 Casablanca Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "E. Reyngold": [
+      {
+        "opponent": "O. Babel",
+        "tournament": "ITF W15 Casablanca Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "O. Babel": [
+      {
+        "opponent": "E. Reyngold",
+        "tournament": "ITF W15 Casablanca Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "13:30"
+      }
+    ],
+    "Jans/ Visker": [
+      {
+        "opponent": "Balciunas/ De Lange",
+        "tournament": "ITF M25 The Hague Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "Balciunas/ De Lange": [
+      {
+        "opponent": "Jans/ Visker",
+        "tournament": "ITF M25 The Hague Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "El Allami/ El Jardi": [
+      {
+        "opponent": "Andrienko/ Maquet",
+        "tournament": "ITF W15 Casablanca Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "Andrienko/ Maquet": [
+      {
+        "opponent": "El Allami/ El Jardi",
+        "tournament": "ITF W15 Casablanca Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "Gennaro/ Ruggeri": [
+      {
+        "opponent": "Dols/ Steur",
+        "tournament": "ITF W15 Casablanca Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "Dols/ Steur": [
+      {
+        "opponent": "Gennaro/ Ruggeri",
+        "tournament": "ITF W15 Casablanca Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "Gniewkowska/ Kolonus": [
+      {
+        "opponent": "Coppez/ De Koning",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Coppez/ De Koning": [
+      {
+        "opponent": "Gniewkowska/ Kolonus",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Kostecka/ Pawelska": [
+      {
+        "opponent": "Sevcikova/ Svatikova",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Sevcikova/ Svatikova": [
+      {
+        "opponent": "Kostecka/ Pawelska",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Gorska/ Slavikova": [
+      {
+        "opponent": "Lazar/ Zuchanska",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "Lazar/ Zuchanska": [
+      {
+        "opponent": "Gorska/ Slavikova",
+        "tournament": "ITF W15 Grodzisk Mazowiecki Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "O. Crawford": [
+      {
+        "opponent": "A. Gray",
+        "tournament": "Nottingham 4 Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "12:00"
+      }
+    ],
+    "F. Diaz Acosta": [
+      {
+        "opponent": "S. Travaglia",
+        "tournament": "Trieste Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "S. Travaglia": [
+      {
+        "opponent": "F. Diaz Acosta",
+        "tournament": "Trieste Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "A. Blockx": [
+      {
+        "opponent": "Y. Shimizu",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "22:30"
+      }
+    ],
+    "Y. Shimizu": [
+      {
+        "opponent": "A. Blockx",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "22:30"
+      }
+    ],
+    "S. Shimabukuro": [
+      {
+        "opponent": "Y. H. Hsu",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "21:00"
+      }
+    ],
+    "Y. H. Hsu": [
+      {
+        "opponent": "S. Shimabukuro",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Singles",
+        "date": "2025-07-11",
+        "time": "21:00"
+      }
+    ],
+    "G. Ribeiro de Almeida": [
+      {
+        "opponent": "T. Martinez",
+        "tournament": "ITF M15 Salta Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "T. Martinez": [
+      {
+        "opponent": "G. Ribeiro de Almeida",
+        "tournament": "ITF M15 Salta Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "S. Danilov": [
+      {
+        "opponent": "S. Johnson",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "S. Johnson": [
+      {
+        "opponent": "S. Danilov",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "R. Murali": [
+      {
+        "opponent": "D. Sweeny",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "20:30"
+      }
+    ],
+    "D. Sweeny": [
+      {
+        "opponent": "R. Murali",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "20:30"
+      }
+    ],
+    "K. Smith": [
+      {
+        "opponent": "K. Bigun",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "20:30"
+      }
+    ],
+    "K. Bigun": [
+      {
+        "opponent": "K. Smith",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "20:30"
+      }
+    ],
+    "D. Suresh": [
+      {
+        "opponent": "L. Vithoontien",
+        "tournament": "ITF M25 Dallas, TX Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "L. Vithoontien": [
+      {
+        "opponent": "D. Suresh",
+        "tournament": "ITF M25 Dallas, TX Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "T. Svajda": [
+      {
+        "opponent": "A. Kim",
+        "tournament": "ITF M25 Dallas, TX Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "A. Kim": [
+      {
+        "opponent": "T. Svajda",
+        "tournament": "ITF M25 Dallas, TX Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "18:30"
+      }
+    ],
+    "K. Feldbausch": [
+      {
+        "opponent": "T. Faurel",
+        "tournament": "ITF M25+H Bastia-Lucciana Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "T. Faurel": [
+      {
+        "opponent": "K. Feldbausch",
+        "tournament": "ITF M25+H Bastia-Lucciana Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "A. Deckers": [
+      {
+        "opponent": "M. Geerts",
+        "tournament": "ITF M25 The Hague Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "M. Geerts": [
+      {
+        "opponent": "A. Deckers",
+        "tournament": "ITF M25 The Hague Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "P. A. Saraiva Dos Santos": [
+      {
+        "opponent": "P. Bertran",
+        "tournament": "ITF M25 Villavicencio Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "P. Bertran": [
+      {
+        "opponent": "P. A. Saraiva Dos Santos",
+        "tournament": "ITF M25 Villavicencio Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Catini/ Mashtakov": [
+      {
+        "opponent": "Lechno-Wasiutynski/ Stepanov",
+        "tournament": "ITF M15 Lodz Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "12:30"
+      }
+    ],
+    "De La Fuente/ Hollender": [
+      {
+        "opponent": "Aguilar Cardozo/ Garcia Longo",
+        "tournament": "ITF M15 Salta Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "Aguilar Cardozo/ Garcia Longo": [
+      {
+        "opponent": "De La Fuente/ Hollender",
+        "tournament": "ITF M15 Salta Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "Berta/ Justo": [
+      {
+        "opponent": "Cigarran/ Farjat",
+        "tournament": "ITF M15 Salta Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "Cigarran/ Farjat": [
+      {
+        "opponent": "Berta/ Justo",
+        "tournament": "ITF M15 Salta Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "Ogura/ Vithoontien": [
+      {
+        "opponent": "Rybakov/ Vance",
+        "tournament": "ITF M25 Dallas, TX Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "20:00"
+      }
+    ],
+    "Rybakov/ Vance": [
+      {
+        "opponent": "Ogura/ Vithoontien",
+        "tournament": "ITF M25 Dallas, TX Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "20:00"
+      }
+    ],
+    "Dang/ You": [
+      {
+        "opponent": "Capurro Taborda/ Guzman",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "19:30"
+      }
+    ],
+    "Capurro Taborda/ Guzman": [
+      {
+        "opponent": "Dang/ You",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "19:30"
+      }
+    ],
+    "Imamura/ Noguchi": [
+      {
+        "opponent": "Nakagawa/ van Wyk",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "20:30"
+      }
+    ],
+    "Nakagawa/ van Wyk": [
+      {
+        "opponent": "Imamura/ Noguchi",
+        "tournament": "Winnipeg Challenger Men",
+        "event_type": "Challenger Men Doubles",
+        "date": "2025-07-11",
+        "time": "20:30"
+      }
+    ],
+    "Bouchard/ Lincer": [
+      {
+        "opponent": "Jones/ Rogers",
+        "tournament": "Newport Challenger Women",
+        "event_type": "Challenger Women Doubles",
+        "date": "2025-07-11",
+        "time": "23:00"
+      }
+    ],
+    "K. Kang": [
+      {
+        "opponent": "G. Brunkow",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "G. Brunkow": [
+      {
+        "opponent": "K. Kang",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "S. A. Linde Palacios": [
+      {
+        "opponent": "S. Price",
+        "tournament": "ITF M25 Villavicencio Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "S. Price": [
+      {
+        "opponent": "S. A. Linde Palacios",
+        "tournament": "ITF M25 Villavicencio Men",
+        "event_type": "Itf Men Singles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Blando/ Blando": [
+      {
+        "opponent": "Anderson/ Rivera",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "22:00"
+      }
+    ],
+    "Quan/ van Loben Sels": [
+      {
+        "opponent": "Bynoe/ Kobelt",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "22:00"
+      }
+    ],
+    "Bynoe/ Kobelt": [
+      {
+        "opponent": "Quan/ van Loben Sels",
+        "tournament": "ITF M15 San Diego, CA 4 Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "22:00"
+      }
+    ],
+    "Ardila/ Brown": [
+      {
+        "opponent": "Banerjee/ Kuzuhara",
+        "tournament": "ITF M25 Dallas, TX Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "21:00"
+      }
+    ],
+    "Banerjee/ Kuzuhara": [
+      {
+        "opponent": "Ardila/ Brown",
+        "tournament": "ITF M25 Dallas, TX Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "21:00"
+      }
+    ],
+    "M. Capurro Taborda": [
+      {
+        "opponent": "L. Perez Alarcon",
+        "tournament": "ITF W35 Rio Claro Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "16:30"
+      }
+    ],
+    "Loureiro/  Ribeiro": [
+      {
+        "opponent": "Maldonado/ Perez",
+        "tournament": "ITF M25 Villavicencio Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "Pereira/ Saraiva Dos Santos": [
+      {
+        "opponent": "Robledo/ Tobon",
+        "tournament": "ITF M25 Villavicencio Men",
+        "event_type": "Itf Men Doubles",
+        "date": "2025-07-11",
+        "time": "17:00"
+      }
+    ],
+    "K. Day": [
+      {
+        "opponent": "M. Castillo Meza",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "M. Castillo Meza": [
+      {
+        "opponent": "K. Day",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "T. Wang": [
+      {
+        "opponent": "A. Sahdiieva",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "A. Sahdiieva": [
+      {
+        "opponent": "T. Wang",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "19:00"
+      }
+    ],
+    "A. Ahn": [
+      {
+        "opponent": "K. Paskauskas",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "20:30"
+      }
+    ],
+    "C. McNeil": [
+      {
+        "opponent": "A. Markham",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "20:30"
+      }
+    ],
+    "Castillo Meza/ Fulgenzi": [
+      {
+        "opponent": "Chan/ Tirunelveli",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "22:00"
+      }
+    ],
+    "Chan/ Tirunelveli": [
+      {
+        "opponent": "Castillo Meza/ Fulgenzi",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "22:00"
+      }
+    ],
+    "Payne/ Shumate": [
+      {
+        "opponent": "Collins/ Sahdiieva",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "22:00"
+      }
+    ],
+    "Collins/ Sahdiieva": [
+      {
+        "opponent": "Payne/ Shumate",
+        "tournament": "ITF W15 San Diego, CA 4 Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "22:00"
+      }
+    ],
+    "D. Hewitt": [
+      {
+        "opponent": "N. Sousa Salazar",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "N. Sousa Salazar": [
+      {
+        "opponent": "D. Hewitt",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "J. Hinojosa Gomez": [
+      {
+        "opponent": "P. Montiel",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "P. Montiel": [
+      {
+        "opponent": "J. Hinojosa Gomez",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "D. Ivanova": [
+      {
+        "opponent": "M. Sholokhova",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "M. Sholokhova": [
+      {
+        "opponent": "D. Ivanova",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "17:30"
+      }
+    ],
+    "I. Millan Acosta": [
+      {
+        "opponent": "R. Smith",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "R. Smith": [
+      {
+        "opponent": "I. Millan Acosta",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Singles",
+        "date": "2025-07-11",
+        "time": "18:00"
+      }
+    ],
+    "Leon/ Mediorreal": [
+      {
+        "opponent": "Hinojosa Gomez/ Navarro",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "21:00"
+      }
+    ],
+    "Hinojosa Gomez/ Navarro": [
+      {
+        "opponent": "Leon/ Mediorreal",
+        "tournament": "ITF W15 Huamantla Women",
+        "event_type": "Itf Women Doubles",
+        "date": "2025-07-11",
+        "time": "21:00"
+      }
+    ],
+    "A. Anisimova": [
+      {
+        "opponent": "I. Swiatek",
+        "tournament": "WTA Wimbledon",
+        "event_type": "Wta Singles",
+        "date": "2025-07-12",
+        "time": "17:00"
+      }
+    ],
+    "I. Swiatek": [
+      {
+        "opponent": "A. Anisimova",
+        "tournament": "WTA Wimbledon",
+        "event_type": "Wta Singles",
+        "date": "2025-07-12",
+        "time": "17:00"
+      }
+    ],
+    "Hijikata/ Pel": [
+      {
+        "opponent": "Cash/ Glasspool",
+        "tournament": "ATP Wimbledon",
+        "event_type": "Atp Doubles",
+        "date": "2025-07-12",
+        "time": "14:00"
+      }
+    ],
+    "Cash/ Glasspool": [
+      {
+        "opponent": "Hijikata/ Pel",
+        "tournament": "ATP Wimbledon",
+        "event_type": "Atp Doubles",
+        "date": "2025-07-12",
+        "time": "14:00"
+      }
+    ]
+  },
+  "potential_matches": [
+    {
+      "underdog_player": "Carlos Alcaraz",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Taylor Fritz",
+      "api_player": "T. Fritz",
+      "matches": [
+        {
+          "opponent": "C. Alcaraz",
+          "tournament": "ATP Wimbledon",
+          "event_type": "Atp Singles",
+          "date": "2025-07-11",
+          "time": "14:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Mariano Navone",
+      "api_player": "T. Maria",
+      "matches": [
+        {
+          "opponent": "S. Ishii",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Filip Misolic",
+      "api_player": "F. Misolic",
+      "matches": [
+        {
+          "opponent": "M. Navone",
+          "tournament": "Braunschweig Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "15:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Lucrezia Stefanini",
+      "api_player": "L. Stefanini",
+      "matches": [
+        {
+          "opponent": "A. S. Rogers",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Shelby Rogers",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Elisabetta Cocciaretto",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Antonia Ruzic",
+      "api_player": "A. Ruzic",
+      "matches": [
+        {
+          "opponent": "E. Cocciaretto",
+          "tournament": "Bastad Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "12:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Elizabeth Mandlik",
+      "api_player": "M. El Allami",
+      "matches": [
+        {
+          "opponent": "J. Ruggeri",
+          "tournament": "ITF W15 Casablanca Women",
+          "event_type": "Itf Women Singles",
+          "date": "2025-07-11",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Clara Giavara",
+      "api_player": "Giavara/ Osborne",
+      "matches": [
+        {
+          "opponent": "Cross/ Zamarripa",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Doubles",
+          "date": "2025-07-11",
+          "time": "23:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Juan Manuel Cerundolo",
+      "api_player": "Remondy Pagotto/ Scramin do Lago",
+      "matches": [
+        {
+          "opponent": "Robledo/ Tobon",
+          "tournament": "ITF M25 Villavicencio Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "01:20"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Alex Molcan",
+      "api_player": "A. Molcan",
+      "matches": [
+        {
+          "opponent": "J. M. Cerundolo",
+          "tournament": "Braunschweig Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "13:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Tatjana Maria",
+      "api_player": "T. Maria",
+      "matches": [
+        {
+          "opponent": "S. Ishii",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Mai Hontama",
+      "api_player": "S. Imai",
+      "matches": [
+        {
+          "opponent": "K. Kirci",
+          "tournament": "ITF M15 Tokyo 2 Men",
+          "event_type": "Itf Men Singles",
+          "date": "2025-07-11",
+          "time": "05:45"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Novak Djokovic",
+      "api_player": "Ihlenfeld/ Novak",
+      "matches": [
+        {
+          "opponent": "Horak/ Pecak",
+          "tournament": "ITF M15 Telfs Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "13:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Jannik Sinner",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Matej Dodig",
+      "api_player": "Remondy Pagotto/ Scramin do Lago",
+      "matches": [
+        {
+          "opponent": "Robledo/ Tobon",
+          "tournament": "ITF M25 Villavicencio Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "01:20"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Lukas Neumayer",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Thiago Agustin Tirante",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Santiago Rodriguez Taverna",
+      "api_player": "L. J. Rodriguez",
+      "matches": [
+        {
+          "opponent": "M. Zeitune",
+          "tournament": "ITF M15 Salta Men",
+          "event_type": "Itf Men Singles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Ryan Peniston",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Hamish Stewart",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Murkel Dellien",
+      "api_player": "S. De La Fuente",
+      "matches": [
+        {
+          "opponent": "T. Farjat",
+          "tournament": "ITF M15 Salta Men",
+          "event_type": "Itf Men Singles",
+          "date": "2025-07-11",
+          "time": "16:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Duje Ajdukovic",
+      "api_player": "D. Ajdukovic",
+      "matches": [
+        {
+          "opponent": "M. A. Dellien Velasco",
+          "tournament": "Iasi Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "12:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Edward Winter",
+      "api_player": "E. Winter",
+      "matches": [
+        {
+          "opponent": "J. Pinnington Jones",
+          "tournament": "Nottingham 4 Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "13:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Jack Pinnington Jones",
+      "api_player": "J. Pinnington Jones",
+      "matches": [
+        {
+          "opponent": "E. Winter",
+          "tournament": "Nottingham 4 Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "13:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Sumit Nagal",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Maxim Mrva",
+      "api_player": "M. Mrva",
+      "matches": [
+        {
+          "opponent": "S. Nagal",
+          "tournament": "Trieste Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "14:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Patrick Zahraj",
+      "api_player": "Hrazdil/ Zahraj",
+      "matches": [
+        {
+          "opponent": "Duncan/ MacKinlay",
+          "tournament": "Nottingham 4 Challenger Men",
+          "event_type": "Challenger Men Doubles",
+          "date": "2025-07-11",
+          "time": "15:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Kyle Edmund",
+      "api_player": "K. Edmund",
+      "matches": [
+        {
+          "opponent": "P. Zahraj",
+          "tournament": "Nottingham 4 Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Radu Albot",
+      "api_player": "R. Albot",
+      "matches": [
+        {
+          "opponent": "S. Wawrinka",
+          "tournament": "Iasi Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Stan Wawrinka",
+      "api_player": "S. Wawrinka",
+      "matches": [
+        {
+          "opponent": "R. Albot",
+          "tournament": "Iasi Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Yi Zhou",
+      "api_player": "McAdoo/ Okutoyi",
+      "matches": [
+        {
+          "opponent": "Bayerlova/ Kuczer",
+          "tournament": "ITF W50 Aschaffenburg Women",
+          "event_type": "Itf Women Doubles",
+          "date": "2025-07-11",
+          "time": "13:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Andres Andrade",
+      "api_player": "S. De La Fuente",
+      "matches": [
+        {
+          "opponent": "T. Farjat",
+          "tournament": "ITF M15 Salta Men",
+          "event_type": "Itf Men Singles",
+          "date": "2025-07-11",
+          "time": "16:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Lola Radivojevic",
+      "api_player": "S. De La Fuente",
+      "matches": [
+        {
+          "opponent": "T. Farjat",
+          "tournament": "ITF M15 Salta Men",
+          "event_type": "Itf Men Singles",
+          "date": "2025-07-11",
+          "time": "16:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Petra Marcinko",
+      "api_player": "P. Marcinko",
+      "matches": [
+        {
+          "opponent": "L. Radivojevic",
+          "tournament": "Contrexeville Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "11:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Catherine McNally",
+      "api_player": "C. McNally",
+      "matches": [
+        {
+          "opponent": "M. Bolkvadze",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Mariam Bolkvadze",
+      "api_player": "M. Bolkvadze",
+      "matches": [
+        {
+          "opponent": "C. McNally",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Elvina Kalieva",
+      "api_player": "M. El Allami",
+      "matches": [
+        {
+          "opponent": "J. Ruggeri",
+          "tournament": "ITF W15 Casablanca Women",
+          "event_type": "Itf Women Singles",
+          "date": "2025-07-11",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Carol Zhao",
+      "api_player": "C. Zhao",
+      "matches": [
+        {
+          "opponent": "E. Kalieva",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Elsa Jacquemot",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Simona Waltert",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Rebeka Masarova",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Francesca Jones",
+      "api_player": "J. Pinnington Jones",
+      "matches": [
+        {
+          "opponent": "E. Winter",
+          "tournament": "Nottingham 4 Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "13:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Iga Swiatek",
+      "api_player": "Cigarran/ Farjat",
+      "matches": [
+        {
+          "opponent": "Berta/ Justo",
+          "tournament": "ITF M15 Salta Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Amanda Anisimova",
+      "api_player": "Dev S D/ Sinha",
+      "matches": [
+        {
+          "opponent": "Freire Da Silva/ Ghazouani Durand",
+          "tournament": "ITF M25+H Bastia-Lucciana Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Maiar Sherif Ahmed Abdelaziz",
+      "api_player": "S. De La Fuente",
+      "matches": [
+        {
+          "opponent": "T. Farjat",
+          "tournament": "ITF M15 Salta Men",
+          "event_type": "Itf Men Singles",
+          "date": "2025-07-11",
+          "time": "16:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Katarzyna Kawa",
+      "api_player": "Kawachi/ Kikuchi",
+      "matches": [
+        {
+          "opponent": "Seelig/ Sinclair",
+          "tournament": "ITF M15 Tokyo 2 Men",
+          "event_type": "Itf Men Doubles",
+          "date": "2025-07-11",
+          "time": "06:20"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Joao Lucas Reis Da Silva",
+      "api_player": "Z. Svajda",
+      "matches": [
+        {
+          "opponent": "B. Holt",
+          "tournament": "Newport Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Titouan Droguet",
+      "api_player": "T. Droguet",
+      "matches": [
+        {
+          "opponent": "J. Reis Da Silva",
+          "tournament": "Iasi Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "14:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Rio Noguchi",
+      "api_player": "R. Noguchi",
+      "matches": [
+        {
+          "opponent": "L. Draxl",
+          "tournament": "Winnipeg Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "underdog_player": "Liam Draxl",
+      "api_player": "C. Williams",
+      "matches": [
+        {
+          "opponent": "C. Vandermeersch",
+          "tournament": "ITF M15 Monastir 27 Men",
+          "event_type": "Itf Men Singles",
+          "date": "2025-07-11",
+          "time": "10:30"
+        }
+      ]
+    }
+  ]
+}

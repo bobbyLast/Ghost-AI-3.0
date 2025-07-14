@@ -1,0 +1,4172 @@
+{
+  "league": "MLB",
+  "season": 2025,
+  "teams": [
+    {
+      "team": "Arizona Diamondbacks",
+      "players": [
+        {
+          "name": "Jordan Adams",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Slade Cecconi",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Corbin Carroll",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Brandon Crawford",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Zac Gallen",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kevin Ginkel",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Josh Green",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Lourdes Gurriel Jr.",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Tommy Henry",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Brent Honeywell",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Drey Jameson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Merrill Kelly",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jake McCarthy",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Ketel Marte",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Jordan Montgomery",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Josh Naylor",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Geraldo Perdomo",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "A.J. Puk",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Eduardo Rodriguez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Pavin Smith",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Eugenio Su\u00e1rez",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Paul Sewald",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Andrew Saalfrank",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ryne Nelson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Gabriel Moreno",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Justin Martinez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Alek Thomas",
+          "position": "Outfielder",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "team": "Atlanta Braves",
+      "players": [
+        {
+          "name": "Ozzie Albies",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Orlando Arcia",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Raisel Iglesias",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Matt Olson",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Jurickson Profar",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Austin Riley",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Marcell Ozuna",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Sean Murphy",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Ronald Acu\u00f1a Jr.",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Michael Harris II",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Charlie Morton",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Chris Sale",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Reynaldo L\u00f3pez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Spencer Schwellenbach",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "A.J. Minter",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Aaron Bummer",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Dylan Lee",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Pierce Johnson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Luke Williams",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Eli White",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Whit Merrifield",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Chadwick Tromp",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Grant Holmes",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Daysbel Hern\u00e1ndez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Hurston Waldrep",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Luis Guillorme",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Travis d'Arnaud",
+          "position": "Catcher",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "team": "Boston Red Sox",
+      "players": [
+        {
+          "name": "Wilyer Abreu",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Roman Anthony",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Brayan Bello",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Brennan Bernardino",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Alex Bregman",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Walker Buehler",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Nick Burdi",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kristian Campbell",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Triston Casas",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Aroldis Chapman",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kutter Crawford",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Cooper Criswell",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Garrett Crochet",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Rafael Devers",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Hunter Dobbins",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jarren Duran",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Richard Fitts",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Michael Fulmer",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Lucas Giolito",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Romy Gonz\u00e1lez",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Luis Guerrero",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "David Hamilton",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Liam Hendriks",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tanner Houck",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Zack Kelly",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Marcelo Mayer",
+          "position": "3B",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Seattle Mariners",
+      "players": [
+        {
+          "name": "Julio Rodr\u00edguez",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Cal Raleigh",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "J.P. Crawford",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Luke Raley",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Mitch Haniger",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Dylan Moore",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Josh Rojas",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Jorge Polanco",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Cole Young",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Luis Castillo",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "George Kirby",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Logan Gilbert",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Bryce Miller",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Bryan Woo",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Andr\u00e9s Mu\u00f1oz",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Matt Brash",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Gregory Santos",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Trent Thornton",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Austin Voth",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Gabe Speier",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Emerson Hancock",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Mitch Garver",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Dominic Canzone",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Sam Haggerty",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Tayler Saucedo",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Cody Bolton",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Eduard Bazardo",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Dylan Moore",
+          "position": "IF",
+          "status": "Active"
+        },
+        {
+          "name": "Seby Zavala",
+          "position": "C",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Baltimore Orioles",
+      "players": [
+        {
+          "name": "Gunnar Henderson",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Adley Rutschman",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Corbin Burnes",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ryan Mountcastle",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Anthony Santander",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Cedric Mullins",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Austin Hays",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Jordan Westburg",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Jackson Holliday",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Bradish",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Grayson Rodriguez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Dean Kremer",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Cole Irvin",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Craig Kimbrel",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Yennier Cano",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Danny Coulombe",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Cionel P\u00e9rez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jacob Webb",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Mike Baumann",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Keegan Akin",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tyler Wells",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "John Means",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Stowers",
+          "position": "OF",
+          "status": "Active"
+        },
+        {
+          "name": "Ryan O'Hearn",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Jorge Mateo",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "James McCann",
+          "position": "C",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Chicago Cubs",
+      "players": [
+        {
+          "name": "Dansby Swanson",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Ian Happ",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Seiya Suzuki",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Christopher Morel",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Cody Bellinger",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Michael Busch",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Nico Hoerner",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Miguel Amaya",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Justin Steele",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Shota Imanaga",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jameson Taillon",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Hendricks",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Javier Assad",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "H\u00e9ctor Neris",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Adbert Alzolay",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Mark Leiter Jr.",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Julian Merryweather",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Yency Almonte",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Luke Little",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Hayden Wesneski",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jordan Wicks",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ben Brown",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Cade Horton",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Pete Crow-Armstrong",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Matt Mervis",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Yan Gomes",
+          "position": "C",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Chicago White Sox",
+      "players": [
+        {
+          "name": "Luis Robert Jr.",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Eloy Jim\u00e9nez",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Andrew Vaughn",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Yo\u00e1n Moncada",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Andrew Benintendi",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Paul DeJong",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Korey Lee",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Gavin Sheets",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Nicky Lopez",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Garrett Crochet",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Erick Fedde",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Michael Kopech",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Chris Flexen",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jonathan Cannon",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "John Brebbia",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jordan Leasure",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Steven Wilson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tanner Banks",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tim Hill",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jared Shuster",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jake Eder",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Noah Schultz",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Colson Montgomery",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Oscar Col\u00e1s",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Max Stassi",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Danny Mendick",
+          "position": "2B",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Cincinnati Reds",
+      "players": [
+        {
+          "name": "Elly De La Cruz",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Spencer Steer",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Christian Encarnacion-Strand",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Jonathan India",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "TJ Friedl",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Will Benson",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Jeimer Candelario",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Tyler Stephenson",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Hunter Greene",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Nick Lodolo",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Andrew Abbott",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Frankie Montas",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Graham Ashcraft",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Alexis D\u00edaz",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Fernando Cruz",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Lucas Sims",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Sam Moll",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Buck Farmer",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Emilio Pag\u00e1n",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Nick Martinez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Rhett Lowder",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Connor Phillips",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Noelvi Marte",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Stuart Fairchild",
+          "position": "OF",
+          "status": "Active"
+        },
+        {
+          "name": "Luke Maile",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Santiago Espinal",
+          "position": "2B",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Cleveland Guardians",
+      "players": [
+        {
+          "name": "Jos\u00e9 Ram\u00edrez",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Josh Naylor",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Steven Kwan",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Andr\u00e9s Gim\u00e9nez",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Brayan Rocchio",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Will Brennan",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Tyler Freeman",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Bo Naylor",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Tanner Bibee",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Logan Allen",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Triston McKenzie",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ben Lively",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Carlos Carrasco",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Emmanuel Clase",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Scott Barlow",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Hunter Gaddis",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Cade Smith",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tim Herrin",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Eli Morgan",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Gavin Williams",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Daniel Espino",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Chase DeLauter",
+          "position": "OF",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Manzardo",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Austin Hedges",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Gabriel Arias",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "David Fry",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Ernie Clement",
+          "position": "Infielder",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "team": "Colorado Rockies",
+      "players": [
+        {
+          "name": "Ezequiel Tovar",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Ryan McMahon",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Brenton Doyle",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Charlie Blackmon",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Elehuris Montero",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Brendan Rodgers",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Nolan Jones",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Elias D\u00edaz",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Freeland",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Austin Gomber",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Cal Quantrill",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Dakota Hudson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ryan Feltner",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Justin Lawrence",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tyler Kinley",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jake Bird",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Victor Vodnik",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Nick Mears",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Peter Lambert",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Chase Dollander",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Sean Bouchard",
+          "position": "OF",
+          "status": "Active"
+        },
+        {
+          "name": "Michael Toglia",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Jacob Stallings",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Alan Trejo",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Hunter Goodman",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Jordan Beck",
+          "position": "OF",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Detroit Tigers",
+      "players": [
+        {
+          "name": "Riley Greene",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Spencer Torkelson",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Mark Canha",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Kerry Carpenter",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Matt Vierling",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Colt Keith",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Javier B\u00e1ez",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Gio Urshela",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Jake Rogers",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Tarik Skubal",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jack Flaherty",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kenta Maeda",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Casey Mize",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Reese Olson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jason Foley",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Alex Lange",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Will Vest",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tyler Holton",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Shelby Miller",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Andrew Chafin",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Beau Brieske",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Mason Englert",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Brendan White",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Joey Wentz",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Zach McKinstry",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Akil Baddoo",
+          "position": "OF",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Houston Astros",
+      "players": [
+        {
+          "name": "Jose Altuve",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Alex Bregman",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Yordan Alvarez",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Tucker",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Jeremy Pe\u00f1a",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Chas McCormick",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Jose Abreu",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Victor Caratini",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Justin Verlander",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Framber Valdez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Cristian Javier",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Hunter Brown",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ronel Blanco",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ryan Pressly",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Bryan Abreu",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Rafael Montero",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Josh Hader",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kendall Graveman",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Seth Martinez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Parker Mushinski",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Shawn Dubin",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "J.P. France",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Luis Garcia",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Lance McCullers Jr.",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Forrest Whitley",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Grae Kessinger",
+          "position": "IF",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Kansas City Royals",
+      "players": [
+        {
+          "name": "Bobby Witt Jr.",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Vinnie Pasquantino",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Salvador Perez",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "MJ Melendez",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Hunter Renfroe",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Garrett Hampson",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Maikel Garcia",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Isbel",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Tommy Pham",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Cole Ragans",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Brady Singer",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Michael Wacha",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Seth Lugo",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kris Bubic",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Lucas Erceg",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Sam Long",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Alec Marsh",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jonathan Bowlan",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Michael Lorenzen",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Dairon Blanco",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Drew Waters",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Nick Pratto",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Nick Loftin",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "John Schreiber",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "\u00c1ngel Zerpa",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Steven Cruz",
+          "position": "P",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Los Angeles Angels",
+      "players": [
+        {
+          "name": "Mike Trout",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Zach Neto",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Logan O'Hoppe",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Taylor Ward",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Nolan Schanuel",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Anthony Rendon",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Luis Rengifo",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Mickey Moniak",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Jo Adell",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Reid Detmers",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tyler Anderson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jos\u00e9 Soriano",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Griffin Canning",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ben Joyce",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jos\u00e9 Quijada",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Carson Fulmer",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jack Kochanowicz",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ryan Miller",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Caden Dana",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ky Bush",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Brandon Drury",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Michael Stefanic",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Kevin Pillar",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Matt Thaiss",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Jos\u00e9 Suarez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Hunter Strickland",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Randal Grichuk",
+          "position": "Outfielder",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "team": "Los Angeles Dodgers",
+      "players": [
+        {
+          "name": "Mookie Betts",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Freddie Freeman",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Shohei Ohtani",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Will Smith",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Max Muncy",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Gavin Lux",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "James Outman",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Teoscar Hern\u00e1ndez",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Andy Pages",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Tyler Glasnow",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Yoshinobu Yamamoto",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Walker Buehler",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Bobby Miller",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "James Paxton",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Emmet Sheehan",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ryan Yarbrough",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Evan Phillips",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Daniel Hudson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Alex Vesia",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Blake Treinen",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Joe Kelly",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Brusdar Graterol",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Michael Grove",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "J.P. Feyereisen",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Hurt",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Miguel Vargas",
+          "position": "IF",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Miami Marlins",
+      "players": [
+        {
+          "name": "Jazz Chisholm Jr.",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Josh Bell",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Jake Burger",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Tim Anderson",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Bryan De La Cruz",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Jes\u00fas S\u00e1nchez",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Nick Fortes",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Christian Bethancourt",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Luis Arraez",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Edward Cabrera",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jes\u00fas Luzardo",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Braxton Garrett",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Trevor Rogers",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "A.J. Puk",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Anthony Bender",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Andrew Nardi",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tanner Scott",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "George Soriano",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Calvin Faucher",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "JT Chargois",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Bryan Hoeing",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Huascar Brazoban",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Sixto S\u00e1nchez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Max Meyer",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Sean Reynolds",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Dane Myers",
+          "position": "OF",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Milwaukee Brewers",
+      "players": [
+        {
+          "name": "William Contreras",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Rhys Hoskins",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Brice Turang",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Joey Ortiz",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Willy Adames",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Christian Yelich",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Sal Frelick",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Jackson Chourio",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Gary S\u00e1nchez",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Freddy Peralta",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Colin Rea",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "DL Hall",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Bryse Wilson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Hoby Milner",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Abner Uribe",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Joel Payamps",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Trevor Megill",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Thyago Vieira",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "J.B. Bukauskas",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Bryan Hudson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Elvis Peguero",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Janson Junk",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Aaron Ashby",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Robert Gasser",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tobias Myers",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Joe Ross",
+          "position": "P",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Minnesota Twins",
+      "players": [
+        {
+          "name": "Byron Buxton",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Carlos Correa",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Royce Lewis",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Edouard Julien",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Alex Kirilloff",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Trevor Larnach",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Max Kepler",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Ryan Jeffers",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Christian V\u00e1zquez",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Pablo L\u00f3pez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Joe Ryan",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Bailey Ober",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Chris Paddack",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Louie Varland",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jhoan Duran",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Griffin Jax",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Caleb Thielbar",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Brock Stewart",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Cole Sands",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jorge Alcala",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Simeon Woods Richardson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "David Festa",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Austin Martin",
+          "position": "OF",
+          "status": "Active"
+        },
+        {
+          "name": "Willi Castro",
+          "position": "IF",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Farmer",
+          "position": "IF",
+          "status": "Active"
+        },
+        {
+          "name": "Manuel Margot",
+          "position": "OF",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "New York Mets",
+      "players": [
+        {
+          "name": "Francisco Lindor",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Pete Alonso",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Brandon Nimmo",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Jeff McNeil",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Starling Marte",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Harrison Bader",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Brett Baty",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Francisco \u00c1lvarez",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Omar Narv\u00e1ez",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Sean Manaea",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jos\u00e9 Quintana",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Luis Severino",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Adrian Houser",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tylor Megill",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Edwin D\u00edaz",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Adam Ottavino",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Brooks Raley",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jorge L\u00f3pez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Drew Smith",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Michael Tonkin",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Reed Garrett",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Phil Bickford",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kodai Senga",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "David Peterson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Joey Lucchesi",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Mark Vientos",
+          "position": "3B",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "New York Yankees",
+      "players": [
+        {
+          "name": "Aaron Judge",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Juan Soto",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Gleyber Torres",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Anthony Rizzo",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Alex Verdugo",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "DJ LeMahieu",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Anthony Volpe",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Jose Trevino",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Austin Wells",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Gerrit Cole",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Carlos Rod\u00f3n",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Marcus Stroman",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Nestor Cortes",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Clarke Schmidt",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Clay Holmes",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ian Hamilton",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Luke Weaver",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Victor Gonz\u00e1lez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Caleb Ferguson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Dennis Santana",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ron Marinaccio",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Nick Burdi",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Luis Gil",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Will Warren",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Chase Hampton",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Oswaldo Cabrera",
+          "position": "IF",
+          "status": "Active"
+        },
+        {
+          "name": "Jasson Dom\u00ednguez",
+          "position": "Outfielder",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 1.0
+        },
+        {
+          "name": "Oswald Peraza",
+          "position": "Shortstop",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "team": "Oakland Athletics",
+      "players": [
+        {
+          "name": "Zack Gelof",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Brent Rooker",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "JJ Bleday",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Shea Langeliers",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Tyler Soderstrom",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Abraham Toro",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Max Schuemann",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Lawrence Butler",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Miguel Andujar",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "JP Sears",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Paul Blackburn",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Alex Wood",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ross Stripling",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Joe Boyle",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Mason Miller",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Lucas Erceg",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Dany Jim\u00e9nez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Austin Adams",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "T.J. McFarland",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Muller",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Hogan Harris",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Joey Estes",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jack O'Loughlin",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Darell Hernaiz",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Esteury Ruiz",
+          "position": "OF",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle McCann",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Jacob Wilson",
+          "position": "Infielder",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 0.8
+        },
+        {
+          "name": "Max Muncy",
+          "position": "Infielder",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "team": "Philadelphia Phillies",
+      "players": [
+        {
+          "name": "Bryce Harper",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Trea Turner",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Schwarber",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Nick Castellanos",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Alec Bohm",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "J.T. Realmuto",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Brandon Marsh",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Bryson Stott",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Whit Merrifield",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Zack Wheeler",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Aaron Nola",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ranger Su\u00e1rez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Cristopher S\u00e1nchez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Taijuan Walker",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jos\u00e9 Alvarado",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jeff Hoffman",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Gregory Soto",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Matt Strahm",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Seranthony Dom\u00ednguez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Orion Kerkering",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Dylan Covey",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kolby Allard",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Mick Abel",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Andrew Painter",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Johan Rojas",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Garrett Stubbs",
+          "position": "C",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Pittsburgh Pirates",
+      "players": [
+        {
+          "name": "Oneil Cruz",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Bryan Reynolds",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Ke'Bryan Hayes",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Rowdy Tellez",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Jack Suwinski",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Connor Joe",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Jared Triolo",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Henry Davis",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Yasmani Grandal",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Mitch Keller",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jared Jones",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Bailey Falter",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Marco Gonzales",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Martin P\u00e9rez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "David Bednar",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Aroldis Chapman",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Colin Holderman",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ryan Borucki",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Hunter Stratton",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Carmen Mlodzinski",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Nicolas",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Luis L. Ortiz",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Paul Skenes",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Quinn Priester",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ji Hwan Bae",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Alika Williams",
+          "position": "SS",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "San Diego Padres",
+      "players": [
+        {
+          "name": "Fernando Tatis Jr.",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Manny Machado",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Xander Bogaerts",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Jake Cronenworth",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Jurickson Profar",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Ha-Seong Kim",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Jackson Merrill",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Luis Campusano",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Higashioka",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Dylan Cease",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Yu Darvish",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Joe Musgrove",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Michael King",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Randy V\u00e1squez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Robert Suarez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Yuki Matsui",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Wandy Peralta",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tom Cosgrove",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Enyel De Los Santos",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Stephen Kolek",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Adrian Morejon",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Pedro Avila",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Adam Mazur",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jairo Iriarte",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Graham Pauley",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Eguy Rosario",
+          "position": "IF",
+          "status": "Active"
+        },
+        {
+          "name": "Trenton Brooks",
+          "position": "Outfielder",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "team": "San Francisco Giants",
+      "players": [
+        {
+          "name": "Jung Hoo Lee",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "LaMonte Wade Jr.",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Jorge Soler",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Michael Conforto",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Matt Chapman",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Thairo Estrada",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Nick Ahmed",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Patrick Bailey",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Tom Murphy",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Logan Webb",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Harrison",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jordan Hicks",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Keaton Winn",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Daulton Jefferies",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Camilo Doval",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tyler Rogers",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Taylor Rogers",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Luke Jackson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ryan Walker",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Erik Miller",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Sean Hjelle",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Mason Black",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Carson Whisenhunt",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Heliot Ramos",
+          "position": "OF",
+          "status": "Active"
+        },
+        {
+          "name": "Luis Matos",
+          "position": "OF",
+          "status": "Active"
+        },
+        {
+          "name": "Marco Luciano",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Mike Yastrzemski",
+          "position": "Outfielder",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "team": "St. Louis Cardinals",
+      "players": [
+        {
+          "name": "Paul Goldschmidt",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Nolan Arenado",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Willson Contreras",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Brendan Donovan",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Lars Nootbaar",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Jordan Walker",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Masyn Winn",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Victor Scott II",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Iv\u00e1n Herrera",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Sonny Gray",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Miles Mikolas",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Gibson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Lance Lynn",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Steven Matz",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ryan Helsley",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "JoJo Romero",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Andrew Kittredge",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Giovanny Gallegos",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Matthew Liberatore",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Riley O'Brien",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "John King",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Drew Rom",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Gordon Graceffo",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tommy Edman",
+          "position": "IF",
+          "status": "Active"
+        },
+        {
+          "name": "Alec Burleson",
+          "position": "OF",
+          "status": "Active"
+        },
+        {
+          "name": "Dylan Carlson",
+          "position": "OF",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Tampa Bay Rays",
+      "players": [
+        {
+          "name": "Yandy D\u00edaz",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Randy Arozarena",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Isaac Paredes",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Brandon Lowe",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Josh Lowe",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Jose Siri",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Jose Caballero",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Ren\u00e9 Pinto",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Alex Jackson",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Zach Eflin",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Aaron Civale",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Zack Littell",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ryan Pepiot",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Taj Bradley",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Pete Fairbanks",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jason Adam",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Colin Poche",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Garrett Cleavinger",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Shawn Armstrong",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kevin Kelly",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jacob Waguespack",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tyler Alexander",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Shane Baz",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Curtis Mead",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Jonathan Aranda",
+          "position": "IF",
+          "status": "Active"
+        },
+        {
+          "name": "Richie Palacios",
+          "position": "OF",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Texas Rangers",
+      "players": [
+        {
+          "name": "Marcus Semien",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Corey Seager",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Adolis Garc\u00eda",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Nathaniel Lowe",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Josh Jung",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Evan Carter",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Leody Taveras",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Jonah Heim",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Andrew Knizner",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Nathan Eovaldi",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jon Gray",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Dane Dunning",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Andrew Heaney",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Michael Lorenzen",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jos\u00e9 Leclerc",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kirby Yates",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "David Robertson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Josh Sborz",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Brock Burke",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Grant Anderson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Yerry Rodr\u00edguez",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jack Leiter",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Owen White",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Wyatt Flores",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Justin Foscue",
+          "position": "IF",
+          "status": "Active"
+        },
+        {
+          "name": "Travis Jankowski",
+          "position": "OF",
+          "status": "Active"
+        },
+        {
+          "name": "Ezequiel Duran",
+          "position": "Second Baseman",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "team": "Toronto Blue Jays",
+      "players": [
+        {
+          "name": "Vladimir Guerrero Jr.",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Bo Bichette",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "George Springer",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Justin Turner",
+          "position": "DH",
+          "status": "Active"
+        },
+        {
+          "name": "Daulton Varsho",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Cavan Biggio",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Isiah Kiner-Falefa",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Alejandro Kirk",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Danny Jansen",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Kevin Gausman",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jos\u00e9 Berr\u00edos",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Chris Bassitt",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Yusei Kikuchi",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Bowden Francis",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jordan Romano",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Erik Swanson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tim Mayza",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Yimi Garc\u00eda",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Chad Green",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Nate Pearson",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Trevor Richards",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Alek Manoah",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ricky Tiedemann",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Davis Schneider",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Spencer Horwitz",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Nathan Lukes",
+          "position": "OF",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Washington Nationals",
+      "players": [
+        {
+          "name": "CJ Abrams",
+          "position": "SS",
+          "status": "Active"
+        },
+        {
+          "name": "Lane Thomas",
+          "position": "RF",
+          "status": "Active"
+        },
+        {
+          "name": "Joey Meneses",
+          "position": "1B",
+          "status": "Active"
+        },
+        {
+          "name": "Keibert Ruiz",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Jesse Winker",
+          "position": "LF",
+          "status": "Active"
+        },
+        {
+          "name": "Nick Senzel",
+          "position": "3B",
+          "status": "Active"
+        },
+        {
+          "name": "Luis Garc\u00eda Jr.",
+          "position": "2B",
+          "status": "Active"
+        },
+        {
+          "name": "Jacob Young",
+          "position": "CF",
+          "status": "Active"
+        },
+        {
+          "name": "Riley Adams",
+          "position": "C",
+          "status": "Active"
+        },
+        {
+          "name": "Josiah Gray",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "MacKenzie Gore",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jake Irvin",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Patrick Corbin",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Trevor Williams",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Kyle Finnegan",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Hunter Harvey",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Dylan Floro",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Jordan Weems",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Robert Garcia",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Derek Law",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Tanner Rainey",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Mitchell Parker",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "DJ Herz",
+          "position": "P",
+          "status": "Active"
+        },
+        {
+          "name": "Ildemaro Vargas",
+          "position": "IF",
+          "status": "Active"
+        },
+        {
+          "name": "Alex Call",
+          "position": "OF",
+          "status": "Active"
+        },
+        {
+          "name": "Drew Millas",
+          "position": "C",
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "team": "Dallas Wings",
+      "players": [
+        {
+          "name": "Li Yueru",
+          "position": "Center",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "team": "Chicago Sky",
+      "players": [
+        {
+          "name": "Gabby Williams",
+          "position": "Forward",
+          "status": "Active",
+          "added_by": "OpenAI",
+          "confidence": 0.9
+        }
+      ]
+    }
+  ]
+}

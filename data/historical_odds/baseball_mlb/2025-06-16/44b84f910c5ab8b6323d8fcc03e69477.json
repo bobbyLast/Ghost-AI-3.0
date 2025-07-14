@@ -1,0 +1,598 @@
+{
+  "timestamp": "2025-06-16T17:55:37Z",
+  "previous_timestamp": "2025-06-16T17:50:37Z",
+  "next_timestamp": "2025-06-16T18:00:37Z",
+  "data": {
+    "id": "44b84f910c5ab8b6323d8fcc03e69477",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-16T22:41:00Z",
+    "home_team": "Miami Marlins",
+    "away_team": "Philadelphia Phillies",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -104
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -112
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -176,
+                "point": 1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 146,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-16T17:55:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -101
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -109
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -165,
+                "point": 1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 146,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-16T17:55:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -101
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -109
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -165,
+                "point": 1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 145,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-16T17:54:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -105
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -170,
+                "point": 1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 143,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-16T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -109
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -111
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -174,
+                "point": 1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 142,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-06-16T17:49:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:49:30Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -108
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:49:30Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -160,
+                "point": 1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 137,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:49:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -111,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-16T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -108
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -113
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -180,
+                "point": 1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 143,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -109,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-16T17:55:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:35Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -105
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:35Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -175,
+                "point": 1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 145,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -101
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -109
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -165,
+                "point": 1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 144,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-16T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -105
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -170,
+                "point": 1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 140,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-16T17:55:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -106
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -114
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -165,
+                "point": 1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 140,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

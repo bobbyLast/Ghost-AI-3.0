@@ -1,0 +1,40 @@
+{
+  "ticket_id": "s_1751659275621233_19",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 1-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "0ef6aeabc52167f6cf36201c3a7a9939",
+  "home_team": "Oakland Athletics",
+  "away_team": "San Francisco Giants",
+  "commence_time": "2025-07-05T02:06:00Z",
+  "selections": [
+    {
+      "player_name": "Justin Verlander",
+      "prop_type": "pitcher_outs",
+      "line": 15.5,
+      "odds": -110,
+      "bookmaker": "DraftKings",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Houston Astros",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T20:01:15.631340+00:00",
+  "confidence_score": 0.524,
+  "avg_odds": -110.0,
+  "potential_payout": 14.66,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Houston Astros"
+  ],
+  "team_count": 1,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.68
+}

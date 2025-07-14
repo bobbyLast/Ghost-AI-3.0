@@ -1,0 +1,545 @@
+{
+  "timestamp": "2025-06-26T17:55:37Z",
+  "previous_timestamp": "2025-06-26T17:50:37Z",
+  "next_timestamp": "2025-06-26T18:00:37Z",
+  "data": {
+    "id": "0b9a8e1237251a190ef4b70533ed9aae",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-26T18:10:00Z",
+    "home_team": "Houston Astros",
+    "away_team": "Philadelphia Phillies",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-26T17:54:49Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -154
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 146,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -178,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -122,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-26T17:55:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -145
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 131
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 156,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -178,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-26T17:55:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:55:06Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -145
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 131
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:55:06Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 157,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -178,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:55:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-26T17:55:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -155
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 158,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-26T17:54:55Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:54:55Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -150
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 123
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:54:55Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 160,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -197,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:54:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -101,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-26T17:54:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -150
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 150,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -185,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-26T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -152
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 127
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -180,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-26T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -146
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 131
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 152,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -175,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-26T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -150
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 123
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -195,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -117,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -106,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-26T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -150
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

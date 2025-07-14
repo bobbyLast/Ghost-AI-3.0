@@ -1,0 +1,549 @@
+{
+  "2025-06-27": {},
+  "2025-06-28": {},
+  "2025-06-29": {
+    "POTD": {
+      "type": "POTD",
+      "name": "Pick of the Day",
+      "player_name": "Eduardo Rodriguez",
+      "stat_type": "pitcher_strikeouts_alternate",
+      "line": 2.5,
+      "over_under": "O",
+      "odds": -3000,
+      "confidence": 0.95,
+      "sport": "Unknown",
+      "game_info": {
+        "id": "2c71433b2330c6f0f9870bd58a8bdec0",
+        "home_team": "Arizona Diamondbacks",
+        "away_team": "Miami Marlins",
+        "commence_time": "2025-06-29T20:11:00Z"
+      },
+      "analysis": {},
+      "timestamp": "2025-06-29T22:54:25.438772+00:00",
+      "risk_level": "low"
+    },
+    "RPOTD": {
+      "type": "RPOTD",
+      "name": "Risk Pick of the Day",
+      "player_name": "Dillon Dingler",
+      "stat_type": "batter_total_bases",
+      "line": 2.5,
+      "over_under": "O",
+      "odds": 300,
+      "confidence": 0.25,
+      "sport": "Unknown",
+      "game_info": {
+        "id": "bdbde6d29dc2bf4b13d18171857697f8",
+        "home_team": "Detroit Tigers",
+        "away_team": "Minnesota Twins",
+        "commence_time": "2025-06-29T23:11:00Z"
+      },
+      "analysis": {},
+      "trend_data": {
+        "trend": "\ud83d\udd25 HOT STREAK",
+        "strength": 1.0,
+        "recent_games": 5,
+        "win_rate": 0.8,
+        "recent_performance": [
+          "win",
+          "win",
+          "loss",
+          "win",
+          "win"
+        ]
+      },
+      "timestamp": "2025-06-29T22:54:25.446347+00:00",
+      "risk_level": "high",
+      "risk_reason": "Positive odds (+300) with strong trend"
+    },
+    "TOTD": {
+      "type": "TOTD",
+      "name": "Ticket of the Day",
+      "picks": [
+        {
+          "player_name": "Eduardo Rodriguez",
+          "team": "Arizona Diamondbacks",
+          "prop_type": "pitcher_strikeouts_alternate",
+          "line": 2.5,
+          "odds": -3000,
+          "bookmaker": "FanDuel",
+          "game_info": {
+            "id": "2c71433b2330c6f0f9870bd58a8bdec0",
+            "home_team": "Arizona Diamondbacks",
+            "away_team": "Miami Marlins",
+            "commence_time": "2025-06-29T20:11:00Z"
+          },
+          "confidence": 0.95,
+          "value_rating": 0.0,
+          "historical_boost": 0.0,
+          "over_under": "O"
+        },
+        {
+          "player_name": "Tarik Skubal",
+          "team": "Detroit Tigers",
+          "prop_type": "pitcher_strikeouts_alternate",
+          "line": 4.5,
+          "odds": -3000,
+          "bookmaker": "FanDuel",
+          "game_info": {
+            "id": "bdbde6d29dc2bf4b13d18171857697f8",
+            "home_team": "Detroit Tigers",
+            "away_team": "Minnesota Twins",
+            "commence_time": "2025-06-29T23:11:00Z"
+          },
+          "confidence": 0.95,
+          "value_rating": 0.0,
+          "historical_boost": 0.0,
+          "over_under": "O"
+        },
+        {
+          "player_name": "Kerry Carpenter",
+          "team": "Detroit Tigers",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 3.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "game_info": {
+            "id": "bdbde6d29dc2bf4b13d18171857697f8",
+            "home_team": "Detroit Tigers",
+            "away_team": "Minnesota Twins",
+            "commence_time": "2025-06-29T23:11:00Z"
+          },
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "auto_generated": true,
+          "calculated_total": 3.5,
+          "stat_breakdown": {
+            "hits": 1.5,
+            "runs": 1.5,
+            "rbis": 0.5
+          },
+          "historical_boost": 0.0,
+          "over_under": "O"
+        },
+        {
+          "player_name": "Gleyber Torres",
+          "team": "New York Yankees",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 3.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "game_info": {
+            "id": "bdbde6d29dc2bf4b13d18171857697f8",
+            "home_team": "Detroit Tigers",
+            "away_team": "Minnesota Twins",
+            "commence_time": "2025-06-29T23:11:00Z"
+          },
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "auto_generated": true,
+          "calculated_total": 3.5,
+          "stat_breakdown": {
+            "hits": 1.5,
+            "runs": 1.5,
+            "rbis": 0.5
+          },
+          "historical_boost": 0.0,
+          "over_under": "O"
+        },
+        {
+          "player_name": "Dillon Dingler",
+          "team": "Unknown",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 3.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "game_info": {
+            "id": "bdbde6d29dc2bf4b13d18171857697f8",
+            "home_team": "Detroit Tigers",
+            "away_team": "Minnesota Twins",
+            "commence_time": "2025-06-29T23:11:00Z"
+          },
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "auto_generated": true,
+          "calculated_total": 3.5,
+          "stat_breakdown": {
+            "hits": 1.5,
+            "runs": 1.5,
+            "rbis": 0.5
+          },
+          "historical_boost": 0.0,
+          "over_under": "O"
+        }
+      ],
+      "total_odds": -1197.9000000000003,
+      "confidence": 0.9199999999999999,
+      "legs": 5,
+      "timestamp": "2025-06-29T22:54:25.480107+00:00",
+      "risk_level": "medium"
+    },
+    "RTOTD": {
+      "type": "RTOTD",
+      "name": "Risk Ticket of the Day",
+      "picks": [
+        {
+          "player_name": "Eduardo Rodriguez",
+          "team": "Arizona Diamondbacks",
+          "prop_type": "pitcher_strikeouts",
+          "line": 5.5,
+          "odds": 104,
+          "bookmaker": "FanDuel",
+          "game_info": {
+            "id": "2c71433b2330c6f0f9870bd58a8bdec0",
+            "home_team": "Arizona Diamondbacks",
+            "away_team": "Miami Marlins",
+            "commence_time": "2025-06-29T20:11:00Z"
+          },
+          "confidence": 0.49,
+          "value_rating": 0.0,
+          "historical_boost": 0.0,
+          "trend_data": {
+            "trend": "\ud83d\udd25 HOT STREAK",
+            "strength": 1.0,
+            "recent_games": 5,
+            "win_rate": 0.8,
+            "recent_performance": [
+              "win",
+              "win",
+              "loss",
+              "win",
+              "win"
+            ]
+          },
+          "over_under": "O"
+        },
+        {
+          "player_name": "Riley Greene",
+          "team": "Detroit Tigers",
+          "prop_type": "batter_hits",
+          "line": 1.5,
+          "odds": 220,
+          "bookmaker": "FanDuel",
+          "game_info": {
+            "id": "bdbde6d29dc2bf4b13d18171857697f8",
+            "home_team": "Detroit Tigers",
+            "away_team": "Minnesota Twins",
+            "commence_time": "2025-06-29T23:11:00Z"
+          },
+          "confidence": 0.312,
+          "value_rating": 0.0,
+          "historical_boost": 0.0,
+          "trend_data": {
+            "trend": "\ud83d\udd25 HOT STREAK",
+            "strength": 1.0,
+            "recent_games": 5,
+            "win_rate": 0.8,
+            "recent_performance": [
+              "win",
+              "win",
+              "loss",
+              "win",
+              "win"
+            ]
+          },
+          "over_under": "O"
+        },
+        {
+          "player_name": "Dillon Dingler",
+          "team": "Unknown",
+          "prop_type": "batter_hits",
+          "line": 1.5,
+          "odds": 250,
+          "bookmaker": "FanDuel",
+          "game_info": {
+            "id": "bdbde6d29dc2bf4b13d18171857697f8",
+            "home_team": "Detroit Tigers",
+            "away_team": "Minnesota Twins",
+            "commence_time": "2025-06-29T23:11:00Z"
+          },
+          "confidence": 0.286,
+          "value_rating": 0.0,
+          "historical_boost": 0.0,
+          "trend_data": {
+            "trend": "\ud83d\udd25 HOT STREAK",
+            "strength": 1.0,
+            "recent_games": 5,
+            "win_rate": 0.8,
+            "recent_performance": [
+              "win",
+              "win",
+              "loss",
+              "win",
+              "win"
+            ]
+          },
+          "over_under": "O"
+        },
+        {
+          "player_name": "Carlos Correa",
+          "team": "Minnesota Twins",
+          "prop_type": "batter_hits",
+          "line": 1.5,
+          "odds": 290,
+          "bookmaker": "FanDuel",
+          "game_info": {
+            "id": "bdbde6d29dc2bf4b13d18171857697f8",
+            "home_team": "Detroit Tigers",
+            "away_team": "Minnesota Twins",
+            "commence_time": "2025-06-29T23:11:00Z"
+          },
+          "confidence": 0.256,
+          "value_rating": 0.0,
+          "historical_boost": 0.0,
+          "trend_data": {
+            "trend": "\ud83d\udd25 HOT STREAK",
+            "strength": 1.0,
+            "recent_games": 5,
+            "win_rate": 0.8,
+            "recent_performance": [
+              "win",
+              "win",
+              "loss",
+              "win",
+              "win"
+            ]
+          },
+          "over_under": "O"
+        },
+        {
+          "player_name": "Willi Castro",
+          "team": "Minnesota Twins",
+          "prop_type": "batter_hits",
+          "line": 1.5,
+          "odds": 350,
+          "bookmaker": "FanDuel",
+          "game_info": {
+            "id": "bdbde6d29dc2bf4b13d18171857697f8",
+            "home_team": "Detroit Tigers",
+            "away_team": "Minnesota Twins",
+            "commence_time": "2025-06-29T23:11:00Z"
+          },
+          "confidence": 0.222,
+          "value_rating": 0.0,
+          "historical_boost": 0.0,
+          "trend_data": {
+            "trend": "\ud83d\udd25 HOT STREAK",
+            "strength": 1.0,
+            "recent_games": 5,
+            "win_rate": 0.8,
+            "recent_performance": [
+              "win",
+              "win",
+              "loss",
+              "win",
+              "win"
+            ]
+          },
+          "over_under": "O"
+        }
+      ],
+      "total_odds": 58.05800000000001,
+      "confidence": 0.31320000000000003,
+      "legs": 5,
+      "timestamp": "2025-06-29T22:54:25.503807+00:00",
+      "risk_level": "high",
+      "risk_reason": "Multi-leg ticket with positive odds and strong trends"
+    },
+    "STREAK": {
+      "type": "STREAK",
+      "name": "Daily Streak",
+      "player_name": "Eduardo Rodriguez",
+      "stat_type": "pitcher_strikeouts_alternate",
+      "line": 2.5,
+      "over_under": "O",
+      "odds": -3000,
+      "confidence": 0.95,
+      "sport": "Unknown",
+      "game_info": {
+        "id": "2c71433b2330c6f0f9870bd58a8bdec0",
+        "home_team": "Arizona Diamondbacks",
+        "away_team": "Miami Marlins",
+        "commence_time": "2025-06-29T20:11:00Z"
+      },
+      "analysis": {},
+      "streak_score": 0,
+      "timestamp": "2025-06-29T22:54:25.587610+00:00",
+      "risk_level": "medium"
+    }
+  },
+  "2025-07-03": {
+    "POTD": {
+      "type": "POTD",
+      "name": "Pick of the Day",
+      "player_name": "Rafael Devers",
+      "stat_type": "batter_hits_runs_rbis",
+      "line": 0.5,
+      "over_under": "O",
+      "odds": -110,
+      "confidence": 0.9,
+      "sport": "Unknown",
+      "game_info": {
+        "id": "bb12adb66c2f6e3c102f5bc27d3ed473",
+        "home_team": "Arizona Diamondbacks",
+        "away_team": "San Francisco Giants",
+        "commence_time": "2025-07-04T01:41:00Z"
+      },
+      "analysis": {},
+      "timestamp": "2025-07-04T00:14:36.325001+00:00",
+      "risk_level": "low"
+    },
+    "TOTD": {
+      "type": "TOTD",
+      "name": "Ticket of the Day",
+      "picks": [
+        {
+          "player_name": "Rafael Devers",
+          "team": "Unknown",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 0.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "game_info": {
+            "id": "bb12adb66c2f6e3c102f5bc27d3ed473",
+            "home_team": "Arizona Diamondbacks",
+            "away_team": "San Francisco Giants",
+            "commence_time": "2025-07-04T01:41:00Z"
+          },
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "auto_generated": true,
+          "calculated_total": 1.5,
+          "stat_breakdown": {
+            "hits": 0.5,
+            "runs": 0.5,
+            "rbis": 0.5
+          },
+          "historical_boost": 0.0,
+          "over_under": "O"
+        },
+        {
+          "player_name": "Rafael Devers",
+          "team": "Unknown",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 2.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "game_info": {
+            "id": "bb12adb66c2f6e3c102f5bc27d3ed473",
+            "home_team": "Arizona Diamondbacks",
+            "away_team": "San Francisco Giants",
+            "commence_time": "2025-07-04T01:41:00Z"
+          },
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "auto_generated": true,
+          "calculated_total": 1.5,
+          "stat_breakdown": {
+            "hits": 0.5,
+            "runs": 0.5,
+            "rbis": 0.5
+          },
+          "historical_boost": 0.0,
+          "over_under": "O"
+        },
+        {
+          "player_name": "Rafael Devers",
+          "team": "Unknown",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 3.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "game_info": {
+            "id": "bb12adb66c2f6e3c102f5bc27d3ed473",
+            "home_team": "Arizona Diamondbacks",
+            "away_team": "San Francisco Giants",
+            "commence_time": "2025-07-04T01:41:00Z"
+          },
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "auto_generated": true,
+          "calculated_total": 1.5,
+          "stat_breakdown": {
+            "hits": 0.5,
+            "runs": 0.5,
+            "rbis": 0.5
+          },
+          "historical_boost": 0.0,
+          "over_under": "O"
+        },
+        {
+          "player_name": "Rafael Devers",
+          "team": "Unknown",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 4.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "game_info": {
+            "id": "bb12adb66c2f6e3c102f5bc27d3ed473",
+            "home_team": "Arizona Diamondbacks",
+            "away_team": "San Francisco Giants",
+            "commence_time": "2025-07-04T01:41:00Z"
+          },
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "auto_generated": true,
+          "calculated_total": 1.5,
+          "stat_breakdown": {
+            "hits": 0.5,
+            "runs": 0.5,
+            "rbis": 0.5
+          },
+          "historical_boost": 0.0,
+          "over_under": "O"
+        },
+        {
+          "player_name": "Rafael Devers",
+          "team": "Unknown",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 5.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "game_info": {
+            "id": "bb12adb66c2f6e3c102f5bc27d3ed473",
+            "home_team": "Arizona Diamondbacks",
+            "away_team": "San Francisco Giants",
+            "commence_time": "2025-07-04T01:41:00Z"
+          },
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "auto_generated": true,
+          "calculated_total": 1.5,
+          "stat_breakdown": {
+            "hits": 0.5,
+            "runs": 0.5,
+            "rbis": 0.5
+          },
+          "historical_boost": 0.0,
+          "over_under": "O"
+        }
+      ],
+      "total_odds": -1.6105100000000008,
+      "confidence": 0.9,
+      "legs": 5,
+      "timestamp": "2025-07-04T00:14:36.349970+00:00",
+      "risk_level": "medium"
+    },
+    "STREAK": {
+      "type": "STREAK",
+      "name": "Daily Streak",
+      "player_name": "Rafael Devers",
+      "stat_type": "batter_hits_runs_rbis",
+      "line": 0.5,
+      "over_under": "O",
+      "odds": -110,
+      "confidence": 0.9,
+      "sport": "Unknown",
+      "game_info": {
+        "id": "bb12adb66c2f6e3c102f5bc27d3ed473",
+        "home_team": "Arizona Diamondbacks",
+        "away_team": "San Francisco Giants",
+        "commence_time": "2025-07-04T01:41:00Z"
+      },
+      "analysis": {},
+      "streak_score": 0,
+      "timestamp": "2025-07-04T00:14:36.499122+00:00",
+      "risk_level": "medium"
+    }
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "timestamp": "2025-06-26T17:55:37Z",
+  "previous_timestamp": "2025-06-26T17:50:37Z",
+  "next_timestamp": "2025-06-26T18:00:37Z",
+  "data": {
+    "id": "2cda67407ee3cff847b48a47bedb2f3e",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-26T18:10:00Z",
+    "home_team": "Minnesota Twins",
+    "away_team": "Seattle Mariners",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-26T17:54:49Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -134
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 116
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 150,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -182,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -122,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-26T17:55:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:55:06Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -132
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:55:06Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 161,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -183,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:55:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-26T17:55:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -132
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 160,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -183,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -103,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -117,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-26T17:55:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -135
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 158,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-26T17:54:55Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:54:55Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -141
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 116
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:54:55Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 149,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -183,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:54:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 101,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-26T17:54:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -130
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 160,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-26T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -133
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 121
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 160,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -185,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-26T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -140
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 117
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -180,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-26T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -134
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 148,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 102,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -124,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-26T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-26T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": -140
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-26T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Twins",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-26T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

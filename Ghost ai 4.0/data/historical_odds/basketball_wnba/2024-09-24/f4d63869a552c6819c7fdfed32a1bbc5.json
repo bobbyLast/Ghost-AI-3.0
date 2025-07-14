@@ -1,0 +1,492 @@
+{
+  "timestamp": "2024-09-24T17:55:39Z",
+  "previous_timestamp": "2024-09-24T17:50:39Z",
+  "next_timestamp": "2024-09-24T18:00:39Z",
+  "data": {
+    "id": "f4d63869a552c6819c7fdfed32a1bbc5",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-25T01:30:00Z",
+    "home_team": "Las Vegas Aces",
+    "away_team": "Seattle Storm",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-24T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -380
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 300
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -105,
+                "point": -8.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -115,
+                "point": 8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 159.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 159.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-24T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -355
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 270
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -7.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": 7.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-24T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -380
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 310
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -105,
+                "point": -8.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -115,
+                "point": 8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-24T17:53:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-24T17:53:18Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -400
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 310
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-24T17:53:18Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -105,
+                "point": -7.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -115,
+                "point": 7.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-24T17:53:18Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-24T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -390
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 295
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -7.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": 7.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-09-24T17:45:56Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-24T17:45:56Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -435
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 307
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-24T17:45:56Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -8.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-24T17:45:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-24T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -375
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 290
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": 100,
+                "point": -8.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -120,
+                "point": 8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-24T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -385
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 295
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -108,
+                "point": -7.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -115,
+                "point": 7.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-09-24T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -380
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 300
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -105,
+                "point": -7.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -115,
+                "point": 7.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-24T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

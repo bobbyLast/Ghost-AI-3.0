@@ -1,0 +1,492 @@
+{
+  "timestamp": "2024-08-23T17:55:39Z",
+  "previous_timestamp": "2024-08-23T17:50:39Z",
+  "next_timestamp": "2024-08-23T18:00:40Z",
+  "data": {
+    "id": "b1329ed7fa64fa7a2cadbe6739677e0f",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-23T23:30:00Z",
+    "home_team": "Washington Mystics",
+    "away_team": "Los Angeles Sparks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 205
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -250
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 4.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-23T17:52:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:52:26Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 185
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -225
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:52:26Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -105,
+                "point": 4.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -115,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:52:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-23T17:54:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 184
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -230
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 4.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-08-23T17:52:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:52:27Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 185
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -225
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:52:27Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 4.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:52:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 185
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -215
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 4.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 164.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 164.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 185
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -215
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -108,
+                "point": 4.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -108,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 164.0
+              },
+              {
+                "name": "Under",
+                "price": -103,
+                "point": 164.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 178
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -215
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 4.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-08-23T17:54:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 190
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -230
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -105,
+                "point": 4.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -115,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 164.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 164.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 180
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -225
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 5.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -113,
+                "point": -5.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

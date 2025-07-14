@@ -1,0 +1,529 @@
+{
+  "timestamp": "2025-06-25T17:55:37Z",
+  "previous_timestamp": "2025-06-25T17:50:37Z",
+  "next_timestamp": "2025-06-25T18:00:37Z",
+  "data": {
+    "id": "916954b6348bb4701badb6ed6608ecab",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-25T23:11:00Z",
+    "home_team": "New York Mets",
+    "away_team": "Atlanta Braves",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-25T17:53:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:53:42Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 128
+              },
+              {
+                "name": "New York Mets",
+                "price": -152
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:53:42Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -156,
+                "point": 1.5
+              },
+              {
+                "name": "New York Mets",
+                "price": 130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:53:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-25T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 134
+              },
+              {
+                "name": "New York Mets",
+                "price": -148
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -154,
+                "point": 1.5
+              },
+              {
+                "name": "New York Mets",
+                "price": 136,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-25T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 134
+              },
+              {
+                "name": "New York Mets",
+                "price": -148
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -155,
+                "point": 1.5
+              },
+              {
+                "name": "New York Mets",
+                "price": 135,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-25T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 130
+              },
+              {
+                "name": "New York Mets",
+                "price": -155
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -160,
+                "point": 1.5
+              },
+              {
+                "name": "New York Mets",
+                "price": 135,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-25T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 128
+              },
+              {
+                "name": "New York Mets",
+                "price": -156
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -163,
+                "point": 1.5
+              },
+              {
+                "name": "New York Mets",
+                "price": 133,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -116,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-06-25T17:52:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:52:06Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 130
+              },
+              {
+                "name": "New York Mets",
+                "price": -154
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:52:06Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -156,
+                "point": 1.5
+              },
+              {
+                "name": "New York Mets",
+                "price": 134,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:52:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-25T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 130
+              },
+              {
+                "name": "New York Mets",
+                "price": -155
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -160,
+                "point": 1.5
+              },
+              {
+                "name": "New York Mets",
+                "price": 135,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-25T17:55:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 133
+              },
+              {
+                "name": "New York Mets",
+                "price": -148
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -155,
+                "point": 1.5
+              },
+              {
+                "name": "New York Mets",
+                "price": 135,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-25T17:54:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:54:17Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 125
+              },
+              {
+                "name": "New York Mets",
+                "price": -152
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-25T17:54:17Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -155,
+                "point": 1.5
+              },
+              {
+                "name": "New York Mets",
+                "price": 125,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:54:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-25T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-25T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 125
+              },
+              {
+                "name": "New York Mets",
+                "price": -150
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-25T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

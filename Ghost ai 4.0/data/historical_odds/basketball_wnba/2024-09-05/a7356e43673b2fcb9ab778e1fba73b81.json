@@ -1,0 +1,280 @@
+{
+  "timestamp": "2024-09-05T17:55:38Z",
+  "previous_timestamp": "2024-09-05T17:50:38Z",
+  "next_timestamp": "2024-09-05T18:00:38Z",
+  "data": {
+    "id": "a7356e43673b2fcb9ab778e1fba73b81",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-06T23:30:00Z",
+    "home_team": "Atlanta Dream",
+    "away_team": "Dallas Wings",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-05T17:55:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-05T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -135
+              },
+              {
+                "name": "Dallas Wings",
+                "price": 114
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-05T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -2.0
+              },
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 2.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-05T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-09-05T17:45:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-05T17:45:39Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -152
+              },
+              {
+                "name": "Dallas Wings",
+                "price": 105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-05T17:45:39Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -2.0
+              },
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 2.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-05T17:45:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-05T17:53:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-05T17:53:30Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -148
+              },
+              {
+                "name": "Dallas Wings",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-05T17:53:30Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-05T17:53:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-05T17:55:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-05T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -136
+              },
+              {
+                "name": "Dallas Wings",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-05T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "Dallas Wings",
+                "price": -115,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-05T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-05T17:51:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-05T17:51:50Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -130
+              },
+              {
+                "name": "Dallas Wings",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-05T17:51:50Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -2.0
+              },
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 2.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-05T17:51:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

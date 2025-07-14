@@ -1,0 +1,439 @@
+{
+  "timestamp": "2024-08-23T17:55:39Z",
+  "previous_timestamp": "2024-08-23T17:50:39Z",
+  "next_timestamp": "2024-08-23T18:00:40Z",
+  "data": {
+    "id": "d7037dd372ab599bfb401e0a28406d72",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-24T01:30:00Z",
+    "home_team": "Minnesota Lynx",
+    "away_team": "Las Vegas Aces",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -148
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": 124
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -112,
+                "point": -2.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -108,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 167.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 167.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-23T17:54:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -148
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -114,
+                "point": -2.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -106,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 167.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 167.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-08-23T17:52:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:52:27Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -155
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": 130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:52:27Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -115,
+                "point": -2.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -105,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:52:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 167.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 167.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-23T17:52:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:52:26Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -145
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:52:26Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:52:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -145
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": 125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -113,
+                "point": -2.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -107,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 167.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 167.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-08-23T17:54:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -150
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": 130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -115,
+                "point": -2.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -105,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 167.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 167.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -145
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": 125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -3.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": 3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 167.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 167.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -155
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": 128
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -113,
+                "point": -3.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": 3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

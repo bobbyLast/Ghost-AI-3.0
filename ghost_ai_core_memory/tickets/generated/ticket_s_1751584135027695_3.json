@@ -1,0 +1,69 @@
+{
+  "ticket_id": "s_1751584135027695_3",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "5684d70fbeb08bf94a9c094c801ab17b",
+  "home_team": "Washington Nationals",
+  "away_team": "Detroit Tigers",
+  "commence_time": "2025-07-03T22:46:00Z",
+  "selections": [
+    {
+      "player_name": "Spencer Torkelson",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 6.5,
+      "odds": 115,
+      "bookmaker": "DraftKings",
+      "confidence": 0.465,
+      "value_rating": 0.0,
+      "team": "Detroit Tigers",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Gleyber Torres",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 3.5,
+      "odds": -115,
+      "bookmaker": "DraftKings",
+      "confidence": 0.535,
+      "value_rating": 0.0,
+      "team": "New York Yankees",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Amed Rosario",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 6.5,
+      "odds": -110,
+      "bookmaker": "Underdog",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-03T23:08:55.036188+00:00",
+  "confidence_score": 0.508,
+  "avg_odds": -36.67,
+  "potential_payout": 58.01,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "New York Yankees",
+    "Detroit Tigers"
+  ],
+  "team_count": 2,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.24
+}

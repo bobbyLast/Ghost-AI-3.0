@@ -1,0 +1,127 @@
+{
+  "batter_home_runs": [
+    [
+      "fanduel",
+      "FanDuel"
+    ],
+    [
+      "williamhill_us",
+      "Caesars"
+    ]
+  ],
+  "batter_hits": [
+    [
+      "draftkings",
+      "DraftKings"
+    ],
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "batter_total_bases": [
+    [
+      "draftkings",
+      "DraftKings"
+    ],
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ],
+    [
+      "williamhill_us",
+      "Caesars"
+    ]
+  ],
+  "batter_rbis": [
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "batter_runs_scored": [
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "batter_hits_runs_rbis": [],
+  "batter_singles": [
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "batter_doubles": [
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "batter_triples": [
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "batter_walks": [],
+  "batter_strikeouts": [],
+  "batter_stolen_bases": [
+    [
+      "draftkings",
+      "DraftKings"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "pitcher_strikeouts": [
+    [
+      "draftkings",
+      "DraftKings"
+    ],
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "pitcher_record_a_win": [],
+  "pitcher_hits_allowed": [],
+  "pitcher_walks": [],
+  "pitcher_earned_runs": [],
+  "pitcher_outs": [
+    [
+      "draftkings",
+      "DraftKings"
+    ]
+  ]
+}

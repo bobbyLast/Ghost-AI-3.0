@@ -1,0 +1,810 @@
+{
+  "id": "da06273ceac1392dad28ca2b2db298d7",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-06T17:41:00Z",
+  "home_team": "Cleveland Guardians",
+  "away_team": "Detroit Tigers",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-06T19:13:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 650,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Parker Meadows",
+              "price": 950,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Javier Baez",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Colt Keith",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Trey Sweeney",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Vierling",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Torkelson",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Greene",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Wilson",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Johnathan Rodriguez",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brayan Rocchio",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "David Fry",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-06T19:13:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 124,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Parker Meadows",
+              "price": 188,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 220,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Colt Keith",
+              "price": 225,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Trey Sweeney",
+              "price": 230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Greene",
+              "price": 235,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Vierling",
+              "price": 235,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Torkelson",
+              "price": 270,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Javier Baez",
+              "price": 190,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 240,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Javier Baez",
+              "price": 2400,
+              "point": 2.5,
+              "team": "Detroit Tigers",
+              "position": "SS"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-06T19:13:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Greene",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Torkelson",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Parker Meadows",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Javier Baez",
+              "price": 2100,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "David Fry",
+              "price": 2600,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Colt Keith",
+              "price": 2700,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Trey Sweeney",
+              "price": 2700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 3100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Vierling",
+              "price": 3000,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Johnathan Rodriguez",
+              "price": 3800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Will Wilson",
+              "price": 3400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brayan Rocchio",
+              "price": 4500,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hedges",
+              "price": 3800,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-06T19:13:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Javier Baez",
+              "price": 460,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Greene",
+              "price": 1800,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-06T19:13:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 240,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Parker Meadows",
+              "price": 330,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Javier Baez",
+              "price": 360,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 360,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trey Sweeney",
+              "price": 370,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Greene",
+              "price": 380,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-06T19:13:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 220,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Parker Meadows",
+              "price": 320,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 310,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 320,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Colt Keith",
+              "price": 360,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Trey Sweeney",
+              "price": 360,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Vierling",
+              "price": 380,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Greene",
+              "price": 430,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Johnathan Rodriguez",
+              "price": 470,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Will Wilson",
+              "price": 490,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Torkelson",
+              "price": 500,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brayan Rocchio",
+              "price": 500,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "David Fry",
+              "price": 550,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hedges",
+              "price": 650,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-06T19:13:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 1000,
+              "point": 3.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 1100,
+              "point": 3.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Parker Meadows",
+              "price": 1400,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Javier Baez",
+              "price": 1400,
+              "point": 3.5,
+              "team": "Detroit Tigers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Greene",
+              "price": 1500,
+              "point": 3.5,
+              "team": "Detroit Tigers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Torkelson",
+              "price": 1500,
+              "point": 3.5,
+              "team": "Detroit Tigers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 1600,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Colt Keith",
+              "price": 2400,
+              "point": 3.5,
+              "team": "Detroit Tigers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "David Fry",
+              "price": 2400,
+              "point": 3.5,
+              "team": "Cleveland Guardians",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Trey Sweeney",
+              "price": 2400,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Javier Baez",
+              "price": 185,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 340,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Javier Baez",
+              "price": 1900,
+              "point": 4.5,
+              "team": "Detroit Tigers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 4700,
+              "point": 4.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 4400,
+              "point": 4.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 240,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Javier Baez",
+              "price": 600,
+              "point": 2.5,
+              "team": "Detroit Tigers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 850,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-06T19:08:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Parker Meadows",
+              "price": 4700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-06T19:13:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 650,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-06T19:13:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Johnathan Rodriguez",
+              "price": 287,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Johnathan Rodriguez",
+              "price": -454,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 208,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Martinez",
+              "price": -304,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 126,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Ramirez",
+              "price": -174,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

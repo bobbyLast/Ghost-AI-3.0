@@ -1,0 +1,44 @@
+{
+  "ticket_id": "TICKET_20250710_214353_vs6ani",
+  "sport": "Mixed",
+  "props": [
+    {
+      "sport": "MLB",
+      "game": "Oakland Athletics vs Atlanta Braves",
+      "player": "Over",
+      "prop": "batter_rbis",
+      "line": 2.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": 1500,
+      "reasoning": "Auto-extracted from OddsAPI: batter_rbis for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "Baltimore Orioles vs New York Mets",
+      "player": "Over",
+      "prop": "batter_hits",
+      "line": 1.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": 170,
+      "reasoning": "Auto-extracted from OddsAPI: batter_hits for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "Cincinnati Reds vs Miami Marlins",
+      "player": "Over",
+      "prop": "batter_singles",
+      "line": 0.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": -135,
+      "reasoning": "Auto-extracted from OddsAPI: batter_singles for Over"
+    }
+  ],
+  "total_confidence": 0.7,
+  "total_odds": -34425000.0,
+  "reasoning": "High-confidence ticket #1 using actual fetched props from multiple sports",
+  "timestamp": "2025-07-10T21:43:53.183550",
+  "openai_full_pipeline_feedback": "{\n  \"suggested_improvements\": [\n    {\n      \"improvement_id\": \"IMP_20250710_215353_vs6ani\",\n      \"description\": \"Consider implementing a more detailed reasoning for each pick. The current reasoning 'Auto-extracted from OddsAPI: batter_singles for Over' does not provide much insight into why the AI made that particular pick. It would be beneficial to include factors such as player performance, team performance, and recent trends in the reasoning.\",\n      \"code\": \"N/A\"\n    },\n    {\n      \"improvement_id\": \"IMP_20250710_215453_vs6ani\",\n      \"description\": \"The total odds calculation seems incorrect. The total odds should not be a sum but a product of individual odds (considering the odds are in decimal format).\",\n      \"code\": \"total_odds = reduce(lambda x, y: x*y, [prop['odds'] for prop in ticket['props']])\"\n    },\n    {\n      \"improvement_id\": \"IMP_20250710_215553_vs6ani\",\n      \"description\": \"The confidence level for each pick is the same. It would be more realistic if the confidence level varied based on factors such as player performance, team performance, and recent trends.\",\n      \"code\": \"N/A\"\n    },\n    {\n      \"improvement_id\": \"IMP_20250710_215653_vs6ani\",\n      \"description\": \"Consider adding a 'risk level' field to each prop. This could be calculated based on the odds and the confidence level, and would provide users with more information to make informed decisions.\",\n      \"code\": \"prop['risk_level'] = calculate_risk_level(prop['odds'], prop['confidence'])\"\n    }\n  ],\n  \"calibration\": [\n    {\n      \"calibration_id\": \"CAL_20250710_215753_vs6ani\",\n      \"description\": \"Adjust the confidence calculation algorithm to take into account more factors such as player performance, team performance, and recent trends.\",\n      \"code\": \"confidence = calculate_confidence(player_performance, team_performance, recent_trends)\"\n    },\n    {\n      \"calibration_id\": \"CAL_20250710_215853_vs6ani\",\n      \"description\": \"Correct the total odds calculation. The total odds should be a product of individual odds, not a sum.\",\n      \"code\": \"total_odds = reduce(lambda x, y: x*y, [prop['odds'] for prop in ticket['props']])\"\n    }\n  ]\n}"
+}

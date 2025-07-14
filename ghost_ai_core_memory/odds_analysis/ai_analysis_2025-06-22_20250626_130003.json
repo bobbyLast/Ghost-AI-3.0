@@ -1,0 +1,358 @@
+{
+  "timestamp": "2025-06-26T17:00:03.213724+00:00",
+  "source_file": "2025-06-22.json",
+  "players_analyzed": {
+    "Paige Bueckers_player_threes": {
+      "player_name": "Paige Bueckers",
+      "prop_type": "player_threes",
+      "current_odds": -225,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Arike Ogunbowale_player_threes": {
+      "player_name": "Arike Ogunbowale",
+      "prop_type": "player_threes",
+      "current_odds": -200,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Caitlin Clark_player_threes": {
+      "player_name": "Caitlin Clark",
+      "prop_type": "player_threes",
+      "current_odds": -192,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Arike Ogunbowale_player_rebounds": {
+      "player_name": "Arike Ogunbowale",
+      "prop_type": "player_rebounds",
+      "current_odds": -172,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Paige Bueckers_player_rebounds": {
+      "player_name": "Paige Bueckers",
+      "prop_type": "player_rebounds",
+      "current_odds": -162,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Rhyne Howard_player_threes": {
+      "player_name": "Rhyne Howard",
+      "prop_type": "player_threes",
+      "current_odds": -158,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\ud83d\udd3b falling",
+        "risk_rating": "\u26d4 avoid",
+        "recommendation": "Avoid - book increasing juice on declining performance",
+        "odds_drift": 36.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "red_flag",
+        "message": "\u26d4 RED FLAG - Book backed off significantly on poor performer",
+        "juice_change": 26.80000000000001,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Veronica Burton_player_assists": {
+      "player_name": "Veronica Burton",
+      "prop_type": "player_assists",
+      "current_odds": -188,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": -38.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -47.19999999999999,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Kayla Thornton_player_points": {
+      "player_name": "Kayla Thornton",
+      "prop_type": "player_points",
+      "current_odds": -138,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Erica Wheeler_player_threes": {
+      "player_name": "Erica Wheeler",
+      "prop_type": "player_threes",
+      "current_odds": -166,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Tina Charles_player_points": {
+      "player_name": "Tina Charles",
+      "prop_type": "player_points",
+      "current_odds": -138,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Tina Charles_player_rebounds": {
+      "player_name": "Tina Charles",
+      "prop_type": "player_rebounds",
+      "current_odds": -154,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Aliyah Boston_player_rebounds": {
+      "player_name": "Aliyah Boston",
+      "prop_type": "player_rebounds",
+      "current_odds": -154,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Natasha Howard_player_rebounds": {
+      "player_name": "Natasha Howard",
+      "prop_type": "player_rebounds",
+      "current_odds": -148,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Allisha Gray_player_threes": {
+      "player_name": "Allisha Gray",
+      "prop_type": "player_threes",
+      "current_odds": -154,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\ud83d\udd3b falling",
+        "risk_rating": "\u26d4 avoid",
+        "recommendation": "Avoid - book increasing juice on declining performance",
+        "odds_drift": 53.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "red_flag",
+        "message": "\u26d4 RED FLAG - Book backed off significantly on poor performer",
+        "juice_change": 43.80000000000001,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    },
+    "Napheesa Collier_player_rebounds": {
+      "player_name": "Napheesa Collier",
+      "prop_type": "player_rebounds",
+      "current_odds": -146,
+      "trend_tag": "\u2705 Book Was Right",
+      "ghost_read": "avoid - book validation",
+      "confidence_drift": {
+        "trend": "\u27a1\ufe0f stable",
+        "risk_rating": "\u26a0\ufe0f caution",
+        "recommendation": "Neutral - monitor for better opportunities",
+        "odds_drift": 2.0,
+        "result_drift": "declining"
+      },
+      "market_analysis": {
+        "status": "neutral",
+        "message": "Neutral odds movement",
+        "juice_change": -7.199999999999989,
+        "hit_rate": 0.2,
+        "trend_tag": "\u2705 Book Was Right"
+      },
+      "last_updated": "2025-06-26T17:00:03.213724+00:00"
+    }
+  },
+  "hot_picks": [],
+  "trap_risks": [
+    {
+      "player": "Rhyne Howard",
+      "prop": "player_threes",
+      "trend_tag": "\u2705 Book Was Right",
+      "risk_rating": "\u26d4 avoid"
+    },
+    {
+      "player": "Allisha Gray",
+      "prop": "player_threes",
+      "trend_tag": "\u2705 Book Was Right",
+      "risk_rating": "\u26d4 avoid"
+    }
+  ],
+  "trend_summary": {
+    "total_tickets": 3,
+    "hot_picks_count": 0,
+    "trap_risks_count": 2,
+    "rising_confidence_count": 0,
+    "falling_confidence_count": 2
+  }
+}

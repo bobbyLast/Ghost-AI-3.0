@@ -1,0 +1,20 @@
+{
+  "event_id": "2c71433b2330c6f0f9870bd58a8bdec0",
+  "home_team": "Arizona Diamondbacks",
+  "away_team": "Miami Marlins",
+  "game_time": "2025-06-29T20:11:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "Arizona Diamondbacks": {
+      "odds": 36.0,
+      "implied_probability": 0.7352941176470589,
+      "tags": []
+    },
+    "Miami Marlins": {
+      "odds": 1.0,
+      "implied_probability": 0.9900990099009901,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-29T19:30:12.456410"
+}

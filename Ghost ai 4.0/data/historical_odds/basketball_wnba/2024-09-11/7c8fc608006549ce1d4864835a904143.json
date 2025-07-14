@@ -1,0 +1,439 @@
+{
+  "timestamp": "2024-09-11T17:55:39Z",
+  "previous_timestamp": "2024-09-11T17:50:39Z",
+  "next_timestamp": "2024-09-11T18:00:39Z",
+  "data": {
+    "id": "7c8fc608006549ce1d4864835a904143",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-11T23:00:00Z",
+    "home_team": "Indiana Fever",
+    "away_team": "Las Vegas Aces",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-11T17:54:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-11T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 145
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -175
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-11T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-11T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 179.0
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 179.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-11T17:55:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-11T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 142
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -176
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-11T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -112,
+                "point": 4.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -108,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-11T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 178.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 178.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-11T17:55:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-11T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 150
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -175
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-11T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -105,
+                "point": 3.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -115,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-11T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 178.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 178.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-11T17:54:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-11T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 132
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -159
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-11T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -113,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-11T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 179.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 179.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-11T17:53:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-11T17:53:47Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 152
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -180
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-11T17:53:47Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -105,
+                "point": 3.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -115,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-11T17:53:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 179.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 179.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-11T17:54:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-11T17:54:29Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 152
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -172
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-11T17:54:29Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -105,
+                "point": 4.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -115,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-11T17:54:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 179.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 179.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-11T17:54:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-11T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 160
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -185
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-11T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": 4.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-11T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 179.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 179.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-09-11T17:54:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-11T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": 150
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -175
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-11T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-11T17:54:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 179.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 179.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

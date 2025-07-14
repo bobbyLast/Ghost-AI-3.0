@@ -1,0 +1,464 @@
+{
+  "timestamp": "2024-08-29T17:55:39Z",
+  "previous_timestamp": "2024-08-29T17:50:39Z",
+  "next_timestamp": "2024-08-29T18:00:39Z",
+  "data": {
+    "id": "609d04585264349b62c83cb43fb5fe96",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-30T23:30:00Z",
+    "home_team": "Chicago Sky",
+    "away_team": "Indiana Fever",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-29T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 185
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -225
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 5.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-29T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 170
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -210
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -115,
+                "point": 5.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -105,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-29T17:54:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:54:22Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 172
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -215
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:54:22Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 5.0
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -5.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:54:22Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 165.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 165.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-08-29T17:44:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:44:05Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 185
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -225
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:44:05Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 5.0
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -5.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:44:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-29T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 190
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -240
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -115,
+                "point": 5.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -108,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 165.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 165.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-08-29T17:55:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 5.0
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -5.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 165.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 165.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-08-29T17:55:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -108,
+                "point": 5.0
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -108,
+                "point": -5.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 165.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 165.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-08-29T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 180
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -220
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 5.0
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -5.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 165.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 165.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-08-29T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-29T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 166
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -250
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-29T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 5.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-29T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 165.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 165.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

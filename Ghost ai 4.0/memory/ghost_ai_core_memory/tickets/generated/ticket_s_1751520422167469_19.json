@@ -1,0 +1,48 @@
+{
+  "ticket_id": "s_1751520422167469_19",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Same Team - Check Required)",
+  "tier": "standard",
+  "sport": "WNBA",
+  "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+  "home_team": "Indiana Fever",
+  "away_team": "Las Vegas Aces",
+  "commence_time": "2025-07-03T23:00:00Z",
+  "selections": [
+    {
+      "player_name": "Natasha Howard",
+      "prop_type": "player_rebounds",
+      "line": 7.5,
+      "odds": 114,
+      "bookmaker": "FanDuel",
+      "confidence": 0.467,
+      "value_rating": 0.0,
+      "team": "Indiana Fever",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    },
+    {
+      "player_name": "Aliyah Boston",
+      "prop_type": "player_rebounds",
+      "line": 8.5,
+      "odds": -108,
+      "bookmaker": "FanDuel",
+      "confidence": 0.519,
+      "value_rating": 0.0,
+      "team": "Indiana Fever",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    }
+  ],
+  "generated_at": "2025-07-03T05:27:02.176092+00:00",
+  "confidence_score": 0.493,
+  "avg_odds": 3.0,
+  "stake": 7.45,
+  "potential_payout": 30.71,
+  "no_duplicate_players": true,
+  "team_diversity": false,
+  "unique_teams": [
+    "Indiana Fever"
+  ],
+  "team_count": 1
+}

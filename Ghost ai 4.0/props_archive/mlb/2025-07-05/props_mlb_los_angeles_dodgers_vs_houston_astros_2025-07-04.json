@@ -1,0 +1,1734 @@
+{
+  "id": "9e9bee3657097360682fe49ad0d26f23",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-05T23:16:00Z",
+  "home_team": "Los Angeles Dodgers",
+  "away_team": "Houston Astros",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-05T03:32:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 400,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 410,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 440,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 440,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 440,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Meyers",
+              "price": 440,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 440,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 450,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 450,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 460,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 460,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 490,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 490,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 500,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Conforto",
+              "price": 500,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Enrique Hernandez",
+              "price": 550,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-05T03:32:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 200,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 230,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 230,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 240,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 250,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Meyers",
+              "price": 250,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 260,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 280,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 280,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 280,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 290,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 310,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 330,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 340,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 350,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Enrique Hernandez",
+              "price": 450,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Conforto",
+              "price": 500,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": -270,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": -230,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": -230,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": -220,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": -220,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Meyers",
+              "price": -220,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": -210,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": -210,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": -200,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": -195,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": -190,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": -180,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": -175,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": -175,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": -165,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Enrique Hernandez",
+              "price": -150,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Conforto",
+              "price": -130,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 1000,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 1300,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Meyers",
+              "price": 1300,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 1400,
+              "point": 2.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 1500,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 1500,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 1500,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 1600,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 1600,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 2100,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 2100,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 2200,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Enrique Hernandez",
+              "price": 3200,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Conforto",
+              "price": 3200,
+              "point": 2.5,
+              "team": "San Francisco Giants",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-05T03:32:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 230,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 400,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 440,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 450,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 470,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 470,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 480,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 480,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 500,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 520,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Enrique Hernandez",
+              "price": 540,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 560,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 560,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 630,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Conforto",
+              "price": 630,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Meyers",
+              "price": 680,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 900,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-05T03:32:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 125,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 160,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 170,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 175,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 175,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 170,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 185,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 180,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 180,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 190,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Meyers",
+              "price": 195,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 190,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 200,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 210,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Enrique Hernandez",
+              "price": 210,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 210,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Conforto",
+              "price": 230,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 410,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 500,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 500,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 550,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 550,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 550,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 600,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 600,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 600,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 650,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Meyers",
+              "price": 650,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 650,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 650,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Enrique Hernandez",
+              "price": 700,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 700,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 800,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Conforto",
+              "price": 800,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-05T03:32:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 410,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 650,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 700,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 800,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 850,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 850,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 850,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 950,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 950,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 1000,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Meyers",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Enrique Hernandez",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Conforto",
+              "price": 1300,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 1600,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": -175,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": -115,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": -115,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 100,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 105,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 105,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 115,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 110,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Meyers",
+              "price": 120,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 125,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 120,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 125,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 125,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Enrique Hernandez",
+              "price": 130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Conforto",
+              "price": 145,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 175,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-05T03:32:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": -135,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Meyers",
+              "price": -130,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": -125,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": -120,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": -115,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": -115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": -110,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": -110,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": -110,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": -105,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": -105,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 100,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 105,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 105,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 120,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Enrique Hernandez",
+              "price": 130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Conforto",
+              "price": 155,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-05T03:32:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 130,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 240,
+              "point": 2.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 250,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 250,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 260,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 260,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 260,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 270,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 270,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 310,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Meyers",
+              "price": 310,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 310,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 330,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Enrique Hernandez",
+              "price": 360,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 420,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Conforto",
+              "price": 420,
+              "point": 2.5,
+              "team": "San Francisco Giants",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": -130,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 115,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 120,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 120,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 120,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 120,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Meyers",
+              "price": 135,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 130,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 130,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 130,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 145,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 150,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 155,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 155,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 165,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Enrique Hernandez",
+              "price": 180,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Conforto",
+              "price": 200,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-05T03:32:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 2000,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 4900,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-05T03:32:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Framber Valdez",
+              "price": 120,
+              "point": 5.5,
+              "team": "Houston Astros",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Framber Valdez",
+              "price": -160,
+              "point": 5.5,
+              "team": "Houston Astros",
+              "position": "P"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

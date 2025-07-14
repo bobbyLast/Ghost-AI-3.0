@@ -1,0 +1,492 @@
+{
+  "timestamp": "2024-09-12T17:55:39Z",
+  "previous_timestamp": "2024-09-12T17:50:40Z",
+  "next_timestamp": "2024-09-12T18:00:39Z",
+  "data": {
+    "id": "21b4f0741b21ad73b974330d9056903d",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-13T00:00:00Z",
+    "home_team": "Dallas Wings",
+    "away_team": "New York Liberty",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T17:55:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 525
+              },
+              {
+                "name": "New York Liberty",
+                "price": -750
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 178.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 178.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-12T17:54:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:54:19Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 490
+              },
+              {
+                "name": "New York Liberty",
+                "price": -750
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:54:19Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -106,
+                "point": 11.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -114,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:54:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 178.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 178.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-12T17:53:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:53:29Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 550
+              },
+              {
+                "name": "New York Liberty",
+                "price": -800
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:53:29Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:53:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 178.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 178.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-12T17:55:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 525
+              },
+              {
+                "name": "New York Liberty",
+                "price": -750
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -115,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -105,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 178.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 178.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-12T17:55:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 475
+              },
+              {
+                "name": "New York Liberty",
+                "price": -700
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -105,
+                "point": 10.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -115,
+                "point": -10.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 178.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 178.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-12T17:55:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 500
+              },
+              {
+                "name": "New York Liberty",
+                "price": -650
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -105,
+                "point": 11.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -115,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 178.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 178.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-09-12T17:55:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 500
+              },
+              {
+                "name": "New York Liberty",
+                "price": -649
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -103,
+                "point": 11.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -113,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 178.0
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 178.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-09-12T17:55:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 480
+              },
+              {
+                "name": "New York Liberty",
+                "price": -650
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 178.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 178.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-12T17:55:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 500
+              },
+              {
+                "name": "New York Liberty",
+                "price": -715
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -112,
+                "point": 11.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -112,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 178.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 178.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

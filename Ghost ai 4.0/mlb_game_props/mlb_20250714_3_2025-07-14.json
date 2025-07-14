@@ -1,0 +1,26 @@
+{
+  "game_id": "mlb_20250714_3",
+  "home_team": "Tampa Bay Rays",
+  "away_team": "Chicago White Sox",
+  "commence_time": "2025-07-14T22:05:00Z",
+  "player_props": [
+    {
+      "player": "Luis Robert Jr.",
+      "team": "Chicago White Sox",
+      "prop_type": "hits",
+      "line": 1.0,
+      "over_odds": -115,
+      "under_odds": -105,
+      "game_time": "2025-07-14T20:05:00Z"
+    },
+    {
+      "player": "Luis Robert Jr.",
+      "team": "Chicago White Sox",
+      "prop_type": "runs",
+      "line": 1.5,
+      "over_odds": -120,
+      "under_odds": -110,
+      "game_time": "2025-07-14T19:05:00Z"
+    }
+  ]
+}

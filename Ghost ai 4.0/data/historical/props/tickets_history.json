@@ -1,0 +1,632 @@
+{
+  "timestamp": "2025-06-29T12:54:06.255467",
+  "tickets": [
+    {
+      "ticket_id": "e_1751216046241542_1",
+      "ticket_type": "streak",
+      "title": "\ud83d\udd25 STREAK TO $1,000 - 2-Leg Ticket (Different Teams)",
+      "tier": "elite",
+      "sport": "MLB",
+      "game_id": "2c71433b2330c6f0f9870bd58a8bdec0",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "Miami Marlins",
+      "commence_time": "2025-06-29T20:11:00Z",
+      "selections": [
+        {
+          "player_name": "Eduardo Rodriguez",
+          "prop_type": "pitcher_strikeouts_alternate",
+          "line": 2.5,
+          "odds": -3000,
+          "bookmaker": null,
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "team": "Arizona Diamondbacks"
+        },
+        {
+          "player_name": "Tarik Skubal",
+          "prop_type": "pitcher_strikeouts_alternate",
+          "line": 4.5,
+          "odds": -3000,
+          "bookmaker": null,
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "team": "Detroit Tigers"
+        }
+      ],
+      "generated_at": "2025-06-29T16:54:06.241542+00:00",
+      "confidence_score": 0.9,
+      "avg_odds": -3000.0,
+      "stake": 14.0,
+      "potential_payout": 0.0,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Detroit Tigers",
+        "Arizona Diamondbacks"
+      ],
+      "team_count": 2,
+      "streak_id": "streak_1751216046241542_1",
+      "no_duplicate_team_rule": true,
+      "streak_info": {
+        "is_streak": true,
+        "legs": 2,
+        "target_amount": 1000,
+        "entry_amount": 1.0
+      }
+    },
+    {
+      "ticket_id": "e_1751216046241542_2",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Same Team - Check Required)",
+      "tier": "elite",
+      "sport": "MLB",
+      "game_id": "64e66efddfdd4a0b79dbf615938ec6c4",
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "New York Mets",
+      "commence_time": "2025-06-29T17:36:00Z",
+      "selections": [
+        {
+          "player_name": "Frankie Montas",
+          "prop_type": "pitcher_strikeouts_alternate",
+          "line": 2.5,
+          "odds": -1100,
+          "bookmaker": null,
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "team": "Cincinnati Reds"
+        },
+        {
+          "player_name": "Spencer Strider",
+          "prop_type": "pitcher_strikeouts_alternate",
+          "line": 4.5,
+          "odds": -1600,
+          "bookmaker": null,
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "team": "Unknown"
+        }
+      ],
+      "generated_at": "2025-06-29T16:54:06.241542+00:00",
+      "confidence_score": 0.9,
+      "avg_odds": -1350.0,
+      "stake": 14.0,
+      "potential_payout": 0.0,
+      "no_duplicate_players": true,
+      "team_diversity": false,
+      "unique_teams": [
+        "Cincinnati Reds"
+      ],
+      "team_count": 1
+    },
+    {
+      "ticket_id": "e_1751216046241542_3",
+      "ticket_type": "streak",
+      "title": "\ud83d\udd25 STREAK TO $1,000 - 2-Leg Ticket (Different Teams)",
+      "tier": "elite",
+      "sport": "MLB",
+      "game_id": "3225b36c199eed5d212a057f8e8807a8",
+      "home_team": "Atlanta Braves",
+      "away_team": "Philadelphia Phillies",
+      "commence_time": "2025-06-29T17:36:00Z",
+      "selections": [
+        {
+          "player_name": "Ranger Suarez",
+          "prop_type": "pitcher_strikeouts_alternate",
+          "line": 2.5,
+          "odds": -2000,
+          "bookmaker": null,
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "team": "Philadelphia Phillies"
+        },
+        {
+          "player_name": "Taj Bradley",
+          "prop_type": "pitcher_strikeouts_alternate",
+          "line": 2.5,
+          "odds": -3000,
+          "bookmaker": null,
+          "confidence": 0.9,
+          "value_rating": 0.0,
+          "team": "Tampa Bay Rays"
+        }
+      ],
+      "generated_at": "2025-06-29T16:54:06.241542+00:00",
+      "confidence_score": 0.9,
+      "avg_odds": -2500.0,
+      "stake": 14.0,
+      "potential_payout": 0.0,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Philadelphia Phillies",
+        "Tampa Bay Rays"
+      ],
+      "team_count": 2,
+      "streak_id": "streak_1751216046241542_3",
+      "no_duplicate_team_rule": true,
+      "streak_info": {
+        "is_streak": true,
+        "legs": 2,
+        "target_amount": 1000,
+        "entry_amount": 1.0
+      }
+    },
+    {
+      "ticket_id": "s_1751216046241542_4",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+      "tier": "standard",
+      "sport": "MLB",
+      "game_id": "bdbde6d29dc2bf4b13d18171857697f8",
+      "home_team": "Detroit Tigers",
+      "away_team": "Minnesota Twins",
+      "commence_time": "2025-06-29T23:11:00Z",
+      "selections": [
+        {
+          "player_name": "Riley Greene",
+          "prop_type": "batter_singles",
+          "line": 0.5,
+          "odds": -120,
+          "bookmaker": null,
+          "confidence": 0.545,
+          "value_rating": 0.0,
+          "team": "Detroit Tigers"
+        },
+        {
+          "player_name": "Carlos Correa",
+          "prop_type": "batter_singles",
+          "line": 0.5,
+          "odds": -120,
+          "bookmaker": null,
+          "confidence": 0.545,
+          "value_rating": 0.0,
+          "team": "Minnesota Twins"
+        },
+        {
+          "player_name": "Ronny Mauricio",
+          "prop_type": "batter_singles",
+          "line": 0.5,
+          "odds": -120,
+          "bookmaker": null,
+          "confidence": 0.545,
+          "value_rating": 0.0,
+          "team": "New York Mets"
+        }
+      ],
+      "generated_at": "2025-06-29T16:54:06.241542+00:00",
+      "confidence_score": 0.545,
+      "avg_odds": -120.0,
+      "stake": 7.84,
+      "potential_payout": 0.0,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "New York Mets",
+        "Detroit Tigers",
+        "Minnesota Twins"
+      ],
+      "team_count": 3
+    },
+    {
+      "ticket_id": "s_1751216046241542_5",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+      "tier": "standard",
+      "sport": "MLB",
+      "game_id": "21088d9bea317fdc388a593922262e5a",
+      "home_team": "New York Yankees",
+      "away_team": "Oakland Athletics",
+      "commence_time": "2025-06-29T17:36:00Z",
+      "selections": [
+        {
+          "player_name": "Paul Goldschmidt",
+          "prop_type": "batter_singles",
+          "line": 0.5,
+          "odds": -120,
+          "bookmaker": null,
+          "confidence": 0.545,
+          "value_rating": 0.0,
+          "team": "St. Louis Cardinals"
+        },
+        {
+          "player_name": "Kyle Schwarber",
+          "prop_type": "batter_runs_scored",
+          "line": 0.5,
+          "odds": -120,
+          "bookmaker": null,
+          "confidence": 0.545,
+          "value_rating": 0.0,
+          "team": "Philadelphia Phillies"
+        },
+        {
+          "player_name": "Austin Hedges",
+          "prop_type": "batter_hits",
+          "line": 0.5,
+          "odds": -120,
+          "bookmaker": null,
+          "confidence": 0.545,
+          "value_rating": 0.0,
+          "team": "Cleveland Guardians"
+        }
+      ],
+      "generated_at": "2025-06-29T16:54:06.241542+00:00",
+      "confidence_score": 0.545,
+      "avg_odds": -120.0,
+      "stake": 7.84,
+      "potential_payout": 0.0,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "St. Louis Cardinals",
+        "Philadelphia Phillies",
+        "Cleveland Guardians"
+      ],
+      "team_count": 3
+    },
+    {
+      "ticket_id": "s_1751216046241542_6",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+      "tier": "standard",
+      "sport": "MLB",
+      "game_id": "f65fde6816a5c98bf302cdd55c50d4af",
+      "home_team": "Cleveland Guardians",
+      "away_team": "St. Louis Cardinals",
+      "commence_time": "2025-06-29T16:06:00Z",
+      "selections": [
+        {
+          "player_name": "Masyn Winn",
+          "prop_type": "batter_runs_scored",
+          "line": 0.5,
+          "odds": -120,
+          "bookmaker": null,
+          "confidence": 0.545,
+          "value_rating": 0.0,
+          "team": "St. Louis Cardinals"
+        },
+        {
+          "player_name": "Alec Burleson",
+          "prop_type": "batter_total_bases",
+          "line": 1.5,
+          "odds": -120,
+          "bookmaker": null,
+          "confidence": 0.545,
+          "value_rating": 0.0,
+          "team": "St. Louis Cardinals"
+        },
+        {
+          "player_name": "Brandon Lowe",
+          "prop_type": "batter_total_bases",
+          "line": 1.5,
+          "odds": -120,
+          "bookmaker": null,
+          "confidence": 0.545,
+          "value_rating": 0.0,
+          "team": "Tampa Bay Rays"
+        }
+      ],
+      "generated_at": "2025-06-29T16:54:06.241542+00:00",
+      "confidence_score": 0.545,
+      "avg_odds": -120.0,
+      "stake": 7.84,
+      "potential_payout": 0.0,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "St. Louis Cardinals",
+        "Tampa Bay Rays"
+      ],
+      "team_count": 2
+    },
+    {
+      "ticket_id": "s_1751216046241542_7",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+      "tier": "standard",
+      "sport": "MLB",
+      "game_id": "f65fde6816a5c98bf302cdd55c50d4af",
+      "home_team": "Cleveland Guardians",
+      "away_team": "St. Louis Cardinals",
+      "commence_time": "2025-06-29T16:06:00Z",
+      "selections": [
+        {
+          "player_name": "Masyn Winn",
+          "prop_type": "batter_total_bases",
+          "line": 1.5,
+          "odds": -120,
+          "bookmaker": null,
+          "confidence": 0.545,
+          "value_rating": 0.0,
+          "team": "St. Louis Cardinals"
+        },
+        {
+          "player_name": "Frankie Montas",
+          "prop_type": "pitcher_strikeouts",
+          "line": 4.5,
+          "odds": -118,
+          "bookmaker": null,
+          "confidence": 0.541,
+          "value_rating": 0.0,
+          "team": "Cincinnati Reds"
+        },
+        {
+          "player_name": "Matt Wallner",
+          "prop_type": "batter_hits",
+          "line": 0.5,
+          "odds": -115,
+          "bookmaker": null,
+          "confidence": 0.535,
+          "value_rating": 0.0,
+          "team": "Unknown"
+        }
+      ],
+      "generated_at": "2025-06-29T16:54:06.241542+00:00",
+      "confidence_score": 0.5403,
+      "avg_odds": -117.67,
+      "stake": 7.8,
+      "potential_payout": 0.0,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "St. Louis Cardinals",
+        "Cincinnati Reds"
+      ],
+      "team_count": 2
+    },
+    {
+      "ticket_id": "s_1751216046241542_8",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+      "tier": "standard",
+      "sport": "MLB",
+      "game_id": "64e66efddfdd4a0b79dbf615938ec6c4",
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "New York Mets",
+      "commence_time": "2025-06-29T17:36:00Z",
+      "selections": [
+        {
+          "player_name": "Frankie Montas",
+          "prop_type": "pitcher_strikeouts_alternate",
+          "line": 4.5,
+          "odds": -118,
+          "bookmaker": null,
+          "confidence": 0.541,
+          "value_rating": 0.0,
+          "team": "Cincinnati Reds"
+        },
+        {
+          "player_name": "Kerry Carpenter",
+          "prop_type": "batter_runs_scored",
+          "line": 0.5,
+          "odds": -115,
+          "bookmaker": null,
+          "confidence": 0.535,
+          "value_rating": 0.0,
+          "team": "Detroit Tigers"
+        },
+        {
+          "player_name": "Spencer Horwitz",
+          "prop_type": "batter_singles",
+          "line": 0.5,
+          "odds": -115,
+          "bookmaker": null,
+          "confidence": 0.535,
+          "value_rating": 0.0,
+          "team": "Toronto Blue Jays"
+        }
+      ],
+      "generated_at": "2025-06-29T16:54:06.241542+00:00",
+      "confidence_score": 0.537,
+      "avg_odds": -116.0,
+      "stake": 7.78,
+      "potential_payout": 0.0,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Detroit Tigers",
+        "Cincinnati Reds",
+        "Toronto Blue Jays"
+      ],
+      "team_count": 3
+    },
+    {
+      "ticket_id": "f_1751216046252277_9",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 4-Leg Ticket",
+      "tier": "fallback",
+      "sport": "MLB",
+      "game_id": "2c71433b2330c6f0f9870bd58a8bdec0",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "Miami Marlins",
+      "commence_time": "2025-06-29T20:11:00Z",
+      "selections": [
+        {
+          "player_name": "Cal Quantrill",
+          "prop_type": "pitcher_strikeouts",
+          "line": 3.5,
+          "odds": 124,
+          "bookmaker": null,
+          "confidence": 0.446,
+          "value_rating": 0.0,
+          "team": "Colorado Rockies"
+        },
+        {
+          "player_name": "Luis Severino",
+          "prop_type": "pitcher_strikeouts",
+          "line": 4.5,
+          "odds": 124,
+          "bookmaker": null,
+          "confidence": 0.446,
+          "value_rating": 0.0,
+          "team": "New York Mets"
+        },
+        {
+          "player_name": "Logan Allen",
+          "prop_type": "pitcher_strikeouts_alternate",
+          "line": 4.5,
+          "odds": 124,
+          "bookmaker": null,
+          "confidence": 0.446,
+          "value_rating": 0.0,
+          "team": "Cleveland Guardians"
+        },
+        {
+          "player_name": "Dillon Dingler",
+          "prop_type": "batter_runs_scored",
+          "line": 0.5,
+          "odds": 125,
+          "bookmaker": null,
+          "confidence": 0.444,
+          "value_rating": 0.0,
+          "team": "Unknown"
+        }
+      ],
+      "generated_at": "2025-06-29T16:54:06.252277+00:00",
+      "confidence_score": 0.4455,
+      "avg_odds": 124.25,
+      "stake": 4.73,
+      "potential_payout": 0.0,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "New York Mets",
+        "Colorado Rockies",
+        "Cleveland Guardians"
+      ],
+      "team_count": 3
+    },
+    {
+      "ticket_id": "f_1751216046252277_10",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 4-Leg Ticket",
+      "tier": "fallback",
+      "sport": "MLB",
+      "game_id": "2c71433b2330c6f0f9870bd58a8bdec0",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "Miami Marlins",
+      "commence_time": "2025-06-29T20:11:00Z",
+      "selections": [
+        {
+          "player_name": "Cal Quantrill",
+          "prop_type": "pitcher_strikeouts_alternate",
+          "line": 3.5,
+          "odds": 124,
+          "bookmaker": null,
+          "confidence": 0.446,
+          "value_rating": 0.0,
+          "team": "Colorado Rockies"
+        },
+        {
+          "player_name": "Luis Severino",
+          "prop_type": "pitcher_strikeouts_alternate",
+          "line": 4.5,
+          "odds": 124,
+          "bookmaker": null,
+          "confidence": 0.446,
+          "value_rating": 0.0,
+          "team": "New York Mets"
+        },
+        {
+          "player_name": "Zach McKinstry",
+          "prop_type": "batter_runs_scored",
+          "line": 0.5,
+          "odds": 125,
+          "bookmaker": null,
+          "confidence": 0.444,
+          "value_rating": 0.0,
+          "team": "Detroit Tigers"
+        },
+        {
+          "player_name": "Parker Meadows",
+          "prop_type": "batter_runs_scored",
+          "line": 0.5,
+          "odds": 125,
+          "bookmaker": null,
+          "confidence": 0.444,
+          "value_rating": 0.0,
+          "team": "Unknown"
+        }
+      ],
+      "generated_at": "2025-06-29T16:54:06.252277+00:00",
+      "confidence_score": 0.445,
+      "avg_odds": 124.5,
+      "stake": 4.73,
+      "potential_payout": 0.0,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "New York Mets",
+        "Colorado Rockies",
+        "Detroit Tigers"
+      ],
+      "team_count": 3
+    },
+    {
+      "ticket_id": "f_1751216046252277_11",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 4-Leg Ticket",
+      "tier": "fallback",
+      "sport": "MLB",
+      "game_id": "bdbde6d29dc2bf4b13d18171857697f8",
+      "home_team": "Detroit Tigers",
+      "away_team": "Minnesota Twins",
+      "commence_time": "2025-06-29T23:11:00Z",
+      "selections": [
+        {
+          "player_name": "Harrison Bader",
+          "prop_type": "batter_singles",
+          "line": 0.5,
+          "odds": 125,
+          "bookmaker": null,
+          "confidence": 0.444,
+          "value_rating": 0.0,
+          "team": "New York Mets"
+        },
+        {
+          "player_name": "Spencer Torkelson",
+          "prop_type": "batter_singles",
+          "line": 0.5,
+          "odds": 125,
+          "bookmaker": null,
+          "confidence": 0.444,
+          "value_rating": 0.0,
+          "team": "Detroit Tigers"
+        },
+        {
+          "player_name": "Dillon Dingler",
+          "prop_type": "batter_total_bases",
+          "line": 1.5,
+          "odds": 125,
+          "bookmaker": null,
+          "confidence": 0.444,
+          "value_rating": 0.0,
+          "team": "Unknown"
+        },
+        {
+          "player_name": "Jeff McNeil",
+          "prop_type": "batter_rbis",
+          "line": 0.5,
+          "odds": 125,
+          "bookmaker": null,
+          "confidence": 0.444,
+          "value_rating": 0.0,
+          "team": "New York Mets"
+        }
+      ],
+      "generated_at": "2025-06-29T16:54:06.252277+00:00",
+      "confidence_score": 0.444,
+      "avg_odds": 125.0,
+      "stake": 4.72,
+      "potential_payout": 0.0,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "New York Mets",
+        "Detroit Tigers"
+      ],
+      "team_count": 2
+    }
+  ],
+  "props_analyzed": 1837,
+  "games_processed": 8
+}

@@ -1,0 +1,71 @@
+{
+  "Aaron Judge_player_total_bases_2025-01-27_under": {
+    "player_name": "Aaron Judge",
+    "prop_type": "player_total_bases",
+    "game_date": "2025-01-27",
+    "ghost_pick": "under",
+    "ghost_odds": 110,
+    "opening_odds": {
+      "over": -110,
+      "under": -110
+    },
+    "closing_odds": {
+      "over": -180,
+      "under": 140
+    },
+    "line": 1.5,
+    "final_result": 1.0,
+    "ghost_hit": true,
+    "market_expected_hit": false,
+    "ghost_vs_market": "disagree",
+    "trap_detected": false,
+    "confidence_grade": "alpha",
+    "notes": "\ud83d\udd25 Ghost fades juice and wins - ALPHA MOVE"
+  },
+  "Shohei Ohtani_player_hits_2025-01-27_over": {
+    "player_name": "Shohei Ohtani",
+    "prop_type": "player_hits",
+    "game_date": "2025-01-27",
+    "ghost_pick": "over",
+    "ghost_odds": -150,
+    "opening_odds": {
+      "over": -110,
+      "under": -110
+    },
+    "closing_odds": {
+      "over": -200,
+      "under": 160
+    },
+    "line": 1.5,
+    "final_result": 1.0,
+    "ghost_hit": false,
+    "market_expected_hit": true,
+    "ghost_vs_market": "disagree",
+    "trap_detected": true,
+    "confidence_grade": "bad_read",
+    "notes": "\u274c Ghost fades juice and loses - BAD READ | \ud83d\udea8 Heavy juice trap confirmed"
+  },
+  "Mookie Betts_player_runs_scored_2025-01-27_over": {
+    "player_name": "Mookie Betts",
+    "prop_type": "player_runs_scored",
+    "game_date": "2025-01-27",
+    "ghost_pick": "over",
+    "ghost_odds": -120,
+    "opening_odds": {
+      "over": -110,
+      "under": -110
+    },
+    "closing_odds": {
+      "over": -130,
+      "under": 100
+    },
+    "line": 0.5,
+    "final_result": 1.0,
+    "ghost_hit": true,
+    "market_expected_hit": true,
+    "ghost_vs_market": "agree",
+    "trap_detected": false,
+    "confidence_grade": "expected",
+    "notes": "Standard result"
+  }
+}

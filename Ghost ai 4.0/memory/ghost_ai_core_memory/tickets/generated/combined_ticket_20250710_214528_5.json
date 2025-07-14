@@ -1,0 +1,33 @@
+{
+  "ticket_id": "TICKET_20250710_214528_6qeb12",
+  "sport": "Mixed",
+  "props": [
+    {
+      "sport": "MLB",
+      "game": "Boston Red Sox vs Tampa Bay Rays",
+      "player": "Over",
+      "prop": "batter_singles",
+      "line": 0.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": -145,
+      "reasoning": "Auto-extracted from OddsAPI: batter_singles for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "New York Yankees vs Seattle Mariners",
+      "player": "Under",
+      "prop": "batter_doubles",
+      "line": 0.5,
+      "pick": "Under",
+      "confidence": 0.7,
+      "odds": -700,
+      "reasoning": "Auto-extracted from OddsAPI: batter_doubles for Under"
+    }
+  ],
+  "total_confidence": 0.7,
+  "total_odds": 101500.0,
+  "reasoning": "High-confidence ticket #5 using actual fetched props from multiple sports",
+  "timestamp": "2025-07-10T21:45:28.250961",
+  "openai_full_pipeline_feedback": "{\n  \"suggested_improvements\": [\n    {\n      \"improvement_id\": \"IMP_20250710_215000_y5i1p8\",\n      \"improvement_type\": \"Data Extraction\",\n      \"description\": \"Consider implementing a more sophisticated data extraction method from OddsAPI. The current method, 'Auto-extracted from OddsAPI', does not provide detailed information on how the data was extracted and processed. A more transparent method could improve the system's reliability and trustworthiness.\"\n    },\n    {\n      \"improvement_id\": \"IMP_20250710_215100_y5i1p8\",\n      \"improvement_type\": \"Confidence Calculation\",\n      \"description\": \"The confidence level for each prop is currently set at a flat rate of 0.7. Consider implementing a dynamic confidence level calculation based on factors such as player performance, team performance, and historical data. This could provide a more accurate representation of the confidence level for each prop.\"\n    },\n    {\n      \"improvement_id\": \"IMP_20250710_215200_y5i1p8\",\n      \"improvement_type\": \"Odds Calculation\",\n      \"description\": \"The total odds calculation seems to be incorrect. The total odds should be the product of the odds of each prop, not the sum. Consider revising the total odds calculation method.\"\n    }\n  ],\n  \"calibration\": [\n    {\n      \"calibration_id\": \"CAL_20250710_215300_y5i1p8\",\n      \"calibration_type\": \"Data Extraction\",\n      \"description\": \"Improve the data extraction method from OddsAPI to provide more detailed information on how the data was extracted and processed.\",\n      \"code_suggestion\": \"Implement a function that extracts data from OddsAPI and provides detailed information on the extraction process.\"\n    },\n    {\n      \"calibration_id\": \"CAL_20250710_215400_y5i1p8\",\n      \"calibration_type\": \"Confidence Calculation\",\n      \"description\": \"Implement a dynamic confidence level calculation based on factors such as player performance, team performance, and historical data.\",\n      \"code_suggestion\": \"Implement a function that calculates the confidence level based on various factors.\"\n    },\n    {\n      \"calibration_id\": \"CAL_20250710_215500_y5i1p8\",\n      \"calibration_type\": \"Odds Calculation\",\n      \"description\": \"Revise the total odds calculation method to be the product of the odds of each prop, not the sum.\",\n      \"code_suggestion\": \"Implement a function that calculates the total odds as the product of the odds of each prop.\"\n    }\n  ]\n}"
+}

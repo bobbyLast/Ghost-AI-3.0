@@ -1,0 +1,439 @@
+{
+  "timestamp": "2025-06-29T17:55:37Z",
+  "previous_timestamp": "2025-06-29T17:50:37Z",
+  "next_timestamp": "2025-06-29T18:00:38Z",
+  "data": {
+    "id": "49b52848c1647d0e1ed9c5e7a994a2ac",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-29T17:40:00Z",
+    "home_team": "Baltimore Orioles",
+    "away_team": "Tampa Bay Rays",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-29T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -164
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 128
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": 120,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -160,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -144,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 108,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-29T17:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -145
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": 130,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -170,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -140,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-29T17:55:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -160
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": 125,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -160,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -130,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-29T17:55:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -157
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": 126,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -164,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-06-29T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -154
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": 125,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -167,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -111,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-29T17:54:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -175
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 140
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": 125,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -160,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 110,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -140,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-29T17:55:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -130
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": 110,
+                "point": -1.0
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -145,
+                "point": 1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-29T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -155
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 112
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -107,
+                "point": -1.0
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -129,
+                "point": 1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -127,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

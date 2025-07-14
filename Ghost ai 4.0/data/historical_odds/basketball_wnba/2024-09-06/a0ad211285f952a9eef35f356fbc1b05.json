@@ -1,0 +1,492 @@
+{
+  "timestamp": "2024-09-06T17:55:38Z",
+  "previous_timestamp": "2024-09-06T17:50:39Z",
+  "next_timestamp": "2024-09-06T18:00:38Z",
+  "data": {
+    "id": "a0ad211285f952a9eef35f356fbc1b05",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-06T23:30:00Z",
+    "home_team": "Connecticut Sun",
+    "away_team": "Las Vegas Aces",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-06T17:54:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-06T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 105
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-06T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 1.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-06T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-09-06T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-06T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 102
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-06T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 1.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-06T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-06T17:54:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 104
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -128
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 1.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-06T17:54:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-06T17:54:36Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 102
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -124
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-06T17:54:36Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 1.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -113,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-06T17:54:36Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -114,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -109,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-06T17:54:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-06T17:54:20Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 100
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-06T17:54:20Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 1.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-06T17:54:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-06T17:54:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-06T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 105
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-06T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -105,
+                "point": 1.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -115,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-06T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-06T17:54:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-06T17:54:36Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -105
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-06T17:54:36Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -115,
+                "point": 1.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -105,
+                "point": -1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-06T17:54:36Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-06T17:54:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-06T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -105
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-06T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -105,
+                "point": 1.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -115,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-06T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-09-06T17:54:56Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-06T17:54:56Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 100
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-06T17:54:56Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 1.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-06T17:54:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

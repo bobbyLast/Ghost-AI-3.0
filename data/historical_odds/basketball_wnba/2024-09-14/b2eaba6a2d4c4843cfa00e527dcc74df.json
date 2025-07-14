@@ -1,0 +1,464 @@
+{
+  "timestamp": "2024-09-14T17:55:38Z",
+  "previous_timestamp": "2024-09-14T17:50:38Z",
+  "next_timestamp": "2024-09-14T18:00:38Z",
+  "data": {
+    "id": "b2eaba6a2d4c4843cfa00e527dcc74df",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-15T19:00:00Z",
+    "home_team": "Indiana Fever",
+    "away_team": "Dallas Wings",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-14T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 320
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -410
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 9.0
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 185.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 185.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-09-14T17:51:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-14T17:51:23Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 257
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -435
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-14T17:51:23Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-14T17:51:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 184.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 184.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-14T17:55:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-14T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 300
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -400
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-14T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -108,
+                "point": 8.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -112,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-14T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 186.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 186.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-14T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 310
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -400
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 184.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 184.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-14T17:54:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-14T17:54:21Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 320
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -420
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-14T17:54:21Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-14T17:54:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 185.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 185.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-14T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 285
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -385
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -113,
+                "point": 8.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -113,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 184.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 184.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-14T17:55:08Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-09-14T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 7.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -7.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-14T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 186.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 186.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-09-14T17:55:07Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -108,
+                "point": 7.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -108,
+                "point": -7.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 186.0
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 186.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-14T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 300
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -400
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-14T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 186.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 186.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

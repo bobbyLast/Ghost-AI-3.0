@@ -1,0 +1,545 @@
+{
+  "timestamp": "2024-09-15T17:55:38Z",
+  "previous_timestamp": "2024-09-15T17:50:37Z",
+  "next_timestamp": "2024-09-15T18:00:37Z",
+  "data": {
+    "id": "9e27c5b7ec58617b37b1eeb25c6c516f",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-15T19:00:00Z",
+    "home_team": "Washington Mystics",
+    "away_team": "Atlanta Dream",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-15T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -112
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -108
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -1.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-09-15T17:50:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:50:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -123
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 101
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:50:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:50:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-15T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -132
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 108
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -2.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 2.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 153.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 153.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-15T17:52:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:52:45Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -115
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:52:45Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -105,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -115,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:52:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-15T17:55:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -115
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -1.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-15T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -115
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -112,
+                "point": -1.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -112,
+                "point": 1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-15T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -118
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -102
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -108,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -112,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-09-15T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -118
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -102
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -106,
+                "point": -1.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-15T17:53:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:53:52Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -115
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:53:52Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -1.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:53:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-09-15T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -120
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -1.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-15T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

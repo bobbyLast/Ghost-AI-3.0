@@ -1,0 +1,227 @@
+{
+  "timestamp": "2024-09-12T17:55:39Z",
+  "previous_timestamp": "2024-09-12T17:50:40Z",
+  "next_timestamp": "2024-09-12T18:00:39Z",
+  "data": {
+    "id": "39f098321e420a5243292fb44bf818d4",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-13T23:30:00Z",
+    "home_team": "Dallas Wings",
+    "away_team": "Seattle Storm",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T17:55:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 225
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -278
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -108,
+                "point": 6.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -112,
+                "point": -6.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 170.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 170.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-12T17:53:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:53:29Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 222
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -278
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:53:29Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 6.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -6.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:53:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 170.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 170.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-12T17:55:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 220
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -286
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -113,
+                "point": 6.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -113,
+                "point": -6.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:55:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 171.0
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 171.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-12T17:54:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T17:54:19Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 210
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -265
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-12T17:54:19Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -108,
+                "point": 6.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -112,
+                "point": -6.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-12T17:54:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 170.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 170.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

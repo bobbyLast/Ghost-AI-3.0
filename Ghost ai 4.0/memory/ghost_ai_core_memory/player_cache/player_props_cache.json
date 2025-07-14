@@ -1,0 +1,50 @@
+{
+  "ccc0c8fd0139fd0db79f0a4c822aaaf9": {
+    "player_name": "Test Player",
+    "game_id": "test_game",
+    "data": {
+      "fantasy_score": 24.5,
+      "odds": -110,
+      "line": 22.5
+    },
+    "last_updated": "2025-06-30T01:59:06.624593",
+    "cache_type": "props"
+  },
+  "e667ac2fbeb2fb9b2356dd99e386fde7": {
+    "player_name": "TestPlayer123",
+    "game_id": "test_game_123",
+    "data": {
+      "fantasy_score": 24.5,
+      "odds": -110,
+      "line": 22.5
+    },
+    "last_updated": "2025-06-30T02:03:32.496794",
+    "cache_type": "props"
+  },
+  "76e35e887e1d274483a57103c9390766": {
+    "player_name": "Aaron Judge",
+    "game_id": "nyy_vs_bos_20240916",
+    "data": {
+      "batter_total_bases": 2.0,
+      "odds": -110,
+      "line": 1.5,
+      "bookmaker": "fanduel",
+      "confidence": 0.72
+    },
+    "last_updated": "2025-06-30T02:07:37.651163",
+    "cache_type": "props"
+  },
+  "c22d4fcc163a1eb046114591bdf2e063": {
+    "player_name": "Julio Rodriguez",
+    "game_id": "sea_vs_hou_20240916",
+    "data": {
+      "batter_total_bases": 1.5,
+      "odds": -120,
+      "line": 1.5,
+      "bookmaker": "draftkings",
+      "confidence": 0.65
+    },
+    "last_updated": "2025-06-30T02:07:37.727502",
+    "cache_type": "props"
+  }
+}

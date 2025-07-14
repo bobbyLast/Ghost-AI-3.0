@@ -1,0 +1,80 @@
+[
+  {
+    "player_name": "Houston Astros",
+    "prop_type": "spreads",
+    "line": -5.5,
+    "price": 1.69,
+    "bookmaker": "fanduel",
+    "commence_time": "2025-06-12T00:11:00Z",
+    "home_team": "Houston Astros",
+    "away_team": "Chicago White Sox",
+    "sport": "baseball_mlb",
+    "event_id": "e823d06ca32754bbea3cadc637d84b57",
+    "last_updated": "2025-06-12T01:09:56.089251"
+  },
+  {
+    "player_name": "Houston Astros",
+    "prop_type": "spreads",
+    "line": -5.5,
+    "price": 1.79,
+    "bookmaker": "draftkings",
+    "commence_time": "2025-06-12T00:11:00Z",
+    "home_team": "Houston Astros",
+    "away_team": "Chicago White Sox",
+    "sport": "baseball_mlb",
+    "event_id": "e823d06ca32754bbea3cadc637d84b57",
+    "last_updated": "2025-06-12T01:09:56.127244"
+  },
+  {
+    "player_name": "Houston Astros",
+    "prop_type": "spreads",
+    "line": -5.5,
+    "price": 1.63,
+    "bookmaker": "fanduel",
+    "commence_time": "2025-06-12T00:11:00Z",
+    "home_team": "Houston Astros",
+    "away_team": "Chicago White Sox",
+    "sport": "baseball_mlb",
+    "event_id": "e823d06ca32754bbea3cadc637d84b57",
+    "last_updated": "2025-06-12T01:11:50.974898"
+  },
+  {
+    "player_name": "Houston Astros",
+    "prop_type": "spreads",
+    "line": -6.5,
+    "price": 2.1,
+    "bookmaker": "draftkings",
+    "commence_time": "2025-06-12T00:11:00Z",
+    "home_team": "Houston Astros",
+    "away_team": "Chicago White Sox",
+    "sport": "baseball_mlb",
+    "event_id": "e823d06ca32754bbea3cadc637d84b57",
+    "last_updated": "2025-06-12T01:11:51.020559"
+  },
+  {
+    "player_name": "Houston Astros",
+    "prop_type": "spreads",
+    "line": -5.5,
+    "price": 1.63,
+    "bookmaker": "fanduel",
+    "commence_time": "2025-06-12T00:11:00Z",
+    "home_team": "Houston Astros",
+    "away_team": "Chicago White Sox",
+    "sport": "baseball_mlb",
+    "event_id": "e823d06ca32754bbea3cadc637d84b57",
+    "last_updated": "2025-06-12T01:12:51.087524"
+  },
+  {
+    "player_name": "Houston Astros",
+    "prop_type": "spreads",
+    "line": -5.5,
+    "price": 1.68,
+    "bookmaker": "draftkings",
+    "commence_time": "2025-06-12T00:11:00Z",
+    "home_team": "Houston Astros",
+    "away_team": "Chicago White Sox",
+    "sport": "baseball_mlb",
+    "event_id": "e823d06ca32754bbea3cadc637d84b57",
+    "last_updated": "2025-06-12T01:12:51.124194"
+  }
+]

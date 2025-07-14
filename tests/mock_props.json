@@ -1,0 +1,8 @@
+[
+  {"player_name": "A", "prop_type": "HRR", "odds": -180, "book_count": 1, "disappeared": true, "line_movement": 2.0, "team": "TEX", "opponent": "HOU", "confidence": 0.8},
+  {"player_name": "B", "prop_type": "Hits", "odds": 120, "book_count": 3, "team": "NYY", "opponent": "MIN", "confidence": 0.7},
+  {"player_name": "C", "prop_type": "RBIs", "odds": 150, "book_count": 2, "team": "LAD", "opponent": "ATL", "confidence": 0.6},
+  {"player_name": "D", "prop_type": "Runs", "odds": 200, "book_count": 2, "team": "ATL", "opponent": "NYM", "confidence": 0.65, "clv": 0.5},
+  {"player_name": "E", "prop_type": "HRR", "odds": -200, "book_count": 1, "disappeared": false, "line_movement": 0.0, "team": "MIN", "opponent": "CHI", "confidence": 0.55},
+  {"player_name": "F", "prop_type": "Hits", "odds": 110, "book_count": 2, "team": "HOU", "opponent": "LAD", "confidence": 0.72, "clv": -0.3}
+] 

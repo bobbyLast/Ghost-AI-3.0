@@ -1,0 +1,4390 @@
+{
+  "id": "d13503af0841d6a09003faaf585c135b",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-13T20:06:00Z",
+  "home_team": "Oakland Athletics",
+  "away_team": "Toronto Blue Jays",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-13T01:29:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 350,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 380,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 380,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 380,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 410,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 420,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 420,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 430,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 430,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 430,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 440,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 440,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 450,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 460,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 470,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 480,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 480,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 500,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-13T01:29:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": -250,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": -240,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": -220,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": -220,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": -210,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": -200,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": -195,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": -195,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": -185,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": -175,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": -175,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": -170,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": -170,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": -160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": -160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": -160,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": -135,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": -125,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 1000,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 1100,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 1300,
+              "point": 2.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 1400,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 1500,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 1500,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 1500,
+              "point": 2.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 1900,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 2000,
+              "point": 2.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 2000,
+              "point": 2.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 2100,
+              "point": 2.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 2100,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 2300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 2400,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 3300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 3600,
+              "point": 2.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 210,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 230,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 240,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 260,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 260,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 280,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 280,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 280,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 310,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 340,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 340,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 350,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 360,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 380,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 380,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 380,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 490,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 500,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-13T01:29:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 285,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 520,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 540,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 600,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 600,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 600,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 630,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 680,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 800,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 800,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 830,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 870,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 1200,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 1300,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-13T01:29:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 450,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 550,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 600,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 600,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 600,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 650,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 650,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 650,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 700,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 750,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 800,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 800,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 800,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 1100,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 135,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 160,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 175,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 170,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 175,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 185,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 185,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 195,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 190,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 200,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 220,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 230,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 240,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 260,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 270,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 290,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-13T01:29:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 470,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 650,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 850,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 1000,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 1000,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 1200,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 1400,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 1500,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 1800,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 1900,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 2400,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 4500,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": -155,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": -105,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 115,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 110,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 115,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 120,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 120,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 120,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 135,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 135,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 130,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 140,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 140,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 170,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 185,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 190,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 195,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-13T01:29:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": -140,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": -130,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": -120,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": -115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": -115,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": -110,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": -105,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": -105,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 100,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 100,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 100,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 105,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 105,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 120,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 135,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-13T01:29:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 220,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 410,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 410,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 470,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 800,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 800,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 880,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 880,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 880,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 880,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 880,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 880,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-13T01:29:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 440,
+              "point": 4.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 850,
+              "point": 4.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 900,
+              "point": 4.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 1000,
+              "point": 4.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 1000,
+              "point": 4.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 1100,
+              "point": 4.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 1100,
+              "point": 4.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 1100,
+              "point": 4.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 1100,
+              "point": 4.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 1200,
+              "point": 4.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 1200,
+              "point": 4.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 1500,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 1600,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 1800,
+              "point": 4.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 1900,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 1900,
+              "point": 4.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 2600,
+              "point": 4.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 2600,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 210,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 390,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 430,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 440,
+              "point": 3.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 460,
+              "point": 3.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 470,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 500,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 500,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 550,
+              "point": 3.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 550,
+              "point": 3.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 550,
+              "point": 3.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 650,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 700,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 750,
+              "point": 3.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 850,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 850,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 1000,
+              "point": 3.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 1000,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": -115,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 120,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 120,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 120,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 130,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 135,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 145,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 140,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 140,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 145,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 155,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 165,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 170,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 180,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 180,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 190,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 210,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 230,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 150,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 250,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 260,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 280,
+              "point": 2.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 290,
+              "point": 2.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 290,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 300,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 310,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 320,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 320,
+              "point": 2.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 360,
+              "point": 2.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 370,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 390,
+              "point": 2.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 430,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 470,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 480,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 550,
+              "point": 2.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 600,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-13T01:29:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 1500,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 3000,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 3000,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 3100,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Smith",
+              "price": 3200,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 3600,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 3700,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 3900,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 4600,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 4700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 4700,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-13T01:29:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Yoshinobu Yamamoto",
+              "price": -106,
+              "point": 5.5,
+              "team": "Los Angeles Dodgers",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Yoshinobu Yamamoto",
+              "price": -125,
+              "point": 5.5,
+              "team": "Los Angeles Dodgers",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Robbie Ray",
+              "price": -116,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Robbie Ray",
+              "price": -110,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-13T01:29:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": 190,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Esteury Ruiz",
+              "price": -275,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 475,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Mookie Betts",
+              "price": -800,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 500,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Shohei Ohtani",
+              "price": -900,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 500,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Tommy Edman",
+              "price": -900,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 650,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Teoscar Hernandez",
+              "price": -1200,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 800,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Andy Pages",
+              "price": -1600,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 950,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Miguel Rojas",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Yastrzemski",
+              "price": -4000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Willy Adames",
+              "price": -4000,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 1600,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Heliot Ramos",
+              "price": -4000,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 1700,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jung Hoo Lee",
+              "price": -5000,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-13T01:30:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 320,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 300,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 300,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 320,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 320,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 300,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 320,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 270,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 260,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 350,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 350,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 320,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 350,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 425,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-13T01:30:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": -205,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Heliot Ramos",
+              "price": 155,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": -185,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Teoscar Hernandez",
+              "price": 140,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": -170,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Chapman",
+              "price": 130,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": -185,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Rafael Devers",
+              "price": 140,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": -185,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Andy Pages",
+              "price": 140,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": -230,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Freddie Freeman",
+              "price": 170,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": -170,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Willy Adames",
+              "price": 130,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": -215,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Mookie Betts",
+              "price": 160,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": -155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Casey Schmitt",
+              "price": 120,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": -190,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Tommy Edman",
+              "price": 145,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": -155,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jung Hoo Lee",
+              "price": 120,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": -155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Yastrzemski",
+              "price": 120,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": -130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Dominic Smith",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": -125,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Patrick Bailey",
+              "price": -105,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-13T01:30:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": -105,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Chapman",
+              "price": -125,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 115,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Yastrzemski",
+              "price": -150,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": -115,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Teoscar Hernandez",
+              "price": -115,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 115,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Rafael Devers",
+              "price": -150,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 130,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Casey Schmitt",
+              "price": -170,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": -125,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Freddie Freeman",
+              "price": -105,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": -145,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Dominic Smith",
+              "price": 110,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 120,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Miguel Rojas",
+              "price": -160,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 115,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jung Hoo Lee",
+              "price": -150,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": -110,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Heliot Ramos",
+              "price": -120,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": -145,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Patrick Bailey",
+              "price": 110,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": -150,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Shohei Ohtani",
+              "price": 115,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": -115,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Tommy Edman",
+              "price": -115,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 110,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Willy Adames",
+              "price": -145,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": -110,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Andy Pages",
+              "price": -120,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": -145,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Mookie Betts",
+              "price": 110,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Esteury Ruiz",
+              "price": -165,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Esteury Ruiz",
+              "price": 125,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "OF"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-13T01:30:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 190,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Teoscar Hernandez",
+              "price": -300,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 185,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Chapman",
+              "price": -280,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 190,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Mookie Betts",
+              "price": -300,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 210,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Tommy Edman",
+              "price": -325,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 200,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Rafael Devers",
+              "price": -310,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 185,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Andy Pages",
+              "price": -280,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 185,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Freddie Freeman",
+              "price": -280,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 200,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Willy Adames",
+              "price": -310,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 210,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Casey Schmitt",
+              "price": -325,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 230,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jung Hoo Lee",
+              "price": -350,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Yastrzemski",
+              "price": -475,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 240,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Heliot Ramos",
+              "price": -375,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 290,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Dominic Smith",
+              "price": -450,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 300,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Patrick Bailey",
+              "price": -475,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-13T01:30:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 105,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Teoscar Hernandez",
+              "price": -150,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 130,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Chapman",
+              "price": -180,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Yastrzemski",
+              "price": -175,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": -110,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Mookie Betts",
+              "price": -130,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 100,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Tommy Edman",
+              "price": -140,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 100,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Andy Pages",
+              "price": -140,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 115,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Willy Adames",
+              "price": -160,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 115,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Rafael Devers",
+              "price": -160,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": -120,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Freddie Freeman",
+              "price": -120,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 110,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Casey Schmitt",
+              "price": -155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 115,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jung Hoo Lee",
+              "price": -160,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": -115,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Heliot Ramos",
+              "price": -125,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Dominic Smith",
+              "price": -180,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 135,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Patrick Bailey",
+              "price": -190,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-13T01:30:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 600,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 400,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 950,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 1100,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 950,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 950,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 400,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 500,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-13T01:30:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": -190,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Tommy Edman",
+              "price": 145,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": -170,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Willy Adames",
+              "price": 130,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": -155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Casey Schmitt",
+              "price": 120,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": -155,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jung Hoo Lee",
+              "price": 120,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": -155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Yastrzemski",
+              "price": 120,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 130,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Mookie Betts",
+              "price": -170,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 140,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Rafael Devers",
+              "price": -185,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 130,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Freddie Freeman",
+              "price": -170,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": -130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Dominic Smith",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": -185,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Teoscar Hernandez",
+              "price": 140,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 145,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Heliot Ramos",
+              "price": -190,
+              "point": 1.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": -125,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Patrick Bailey",
+              "price": -105,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": -170,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Chapman",
+              "price": 130,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": -185,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Andy Pages",
+              "price": 140,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-13T01:30:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 2500,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 1100,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 1600,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 1600,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 2500,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 2500,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 2200,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 2200,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 2500,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_walks",
+          "last_update": "2025-07-13T01:30:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Rafael Devers",
+              "price": 135,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Rafael Devers",
+              "price": -175,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Freddie Freeman",
+              "price": 200,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Freddie Freeman",
+              "price": -275,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Casey Schmitt",
+              "price": 280,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Casey Schmitt",
+              "price": -400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jung Hoo Lee",
+              "price": 210,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jung Hoo Lee",
+              "price": -285,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Heliot Ramos",
+              "price": 230,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Heliot Ramos",
+              "price": -325,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Dominic Smith",
+              "price": 280,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Dominic Smith",
+              "price": -400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Bailey",
+              "price": 250,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Patrick Bailey",
+              "price": -350,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Rojas",
+              "price": 280,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Miguel Rojas",
+              "price": -400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Yastrzemski",
+              "price": 140,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Yastrzemski",
+              "price": -180,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shohei Ohtani",
+              "price": 125,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Shohei Ohtani",
+              "price": -165,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Chapman",
+              "price": 135,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Chapman",
+              "price": -175,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Mookie Betts",
+              "price": 165,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Mookie Betts",
+              "price": -225,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Tommy Edman",
+              "price": 280,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Tommy Edman",
+              "price": -400,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Andy Pages",
+              "price": 330,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Andy Pages",
+              "price": -500,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Willy Adames",
+              "price": 165,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Willy Adames",
+              "price": -225,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Teoscar Hernandez",
+              "price": 200,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Teoscar Hernandez",
+              "price": -275,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_earned_runs",
+          "last_update": "2025-07-13T01:30:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Yoshinobu Yamamoto",
+              "price": -145,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Yoshinobu Yamamoto",
+              "price": 110,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Robbie Ray",
+              "price": -115,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Robbie Ray",
+              "price": -115,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_hits_allowed",
+          "last_update": "2025-07-13T01:30:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Yoshinobu Yamamoto",
+              "price": 100,
+              "point": 4.5,
+              "team": "Los Angeles Dodgers",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Yoshinobu Yamamoto",
+              "price": -130,
+              "point": 4.5,
+              "team": "Los Angeles Dodgers",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Robbie Ray",
+              "price": 110,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Robbie Ray",
+              "price": -145,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_outs",
+          "last_update": "2025-07-13T01:30:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Robbie Ray",
+              "price": -145,
+              "point": 17.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Robbie Ray",
+              "price": 110,
+              "point": 17.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

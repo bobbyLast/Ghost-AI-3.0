@@ -1,0 +1,5310 @@
+{
+  "id": "5015c6d6f41f162719f1ceae88dfaabe",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-06T01:40:00Z",
+  "home_team": "San Diego Padres",
+  "away_team": "Texas Rangers",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-05T17:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 330,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 370,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 370,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 390,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 390,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 400,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 400,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 420,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 420,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 440,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 470,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 470,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 470,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 470,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 490,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 500,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 550,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-05T17:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": -280,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": -270,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": -270,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": -260,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": -250,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": -250,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": -220,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": -210,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": -200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": -195,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": -185,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": -180,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": -170,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": -160,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": -160,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": -160,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": -155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": -120,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 1000,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 1000,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 1100,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 1100,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 1100,
+              "point": 2.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 1100,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 1400,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 1800,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 1900,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 2100,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 2200,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 2400,
+              "point": 2.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 2400,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 2700,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 2800,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 4100,
+              "point": 2.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 190,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 200,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 200,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 210,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 220,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 220,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 240,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 260,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 290,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 290,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 320,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 340,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 360,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 380,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 380,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 400,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 420,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 550,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-05T17:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 310,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 350,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 370,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 450,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 480,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 480,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 520,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 520,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 560,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 600,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 630,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 700,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 750,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 750,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 870,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-05T17:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 130,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 145,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 155,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 175,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 180,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 180,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 185,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 180,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 195,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 195,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 200,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 210,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 210,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 220,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 220,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 240,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 250,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 270,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 430,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 450,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 500,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 600,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 600,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 600,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 650,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 650,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 650,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 700,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 750,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 750,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 750,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 750,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 750,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 850,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-05T17:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 3400,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 4100,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 4500,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 4600,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 4900,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 5000,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": -140,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": -120,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": -110,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": -105,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": -105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 110,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 110,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 125,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 135,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 130,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 135,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 130,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 140,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 145,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 155,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 150,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 150,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 550,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 650,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 700,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 750,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 750,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 850,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 900,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 1200,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 1400,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 1400,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 1500,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-05T17:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": -170,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": -145,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": -140,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": -135,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": -135,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": -125,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": -125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": -120,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": -115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": -110,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": -105,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 105,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 115,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 120,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 125,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 150,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-05T17:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 370,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 410,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 550,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 630,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 800,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 800,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 880,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 920,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 920,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 1280,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 1280,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-05T17:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 500,
+              "point": 4.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 600,
+              "point": 4.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 600,
+              "point": 4.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 700,
+              "point": 4.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 750,
+              "point": 4.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 900,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 950,
+              "point": 4.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 950,
+              "point": 4.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 1200,
+              "point": 4.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 1200,
+              "point": 4.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 1200,
+              "point": 4.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 1300,
+              "point": 4.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 1300,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 1500,
+              "point": 4.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 1500,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 1600,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 1600,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 1800,
+              "point": 4.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 250,
+              "point": 3.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 290,
+              "point": 3.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 290,
+              "point": 3.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 350,
+              "point": 3.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 380,
+              "point": 3.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 400,
+              "point": 3.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 410,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 430,
+              "point": 3.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 500,
+              "point": 3.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 500,
+              "point": 3.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 550,
+              "point": 3.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 550,
+              "point": 3.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 600,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 650,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 700,
+              "point": 3.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 700,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 700,
+              "point": 3.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 700,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": -110,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": -105,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 100,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 105,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 110,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 110,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 125,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 135,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 135,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 155,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 155,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 155,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 155,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 165,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 175,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 170,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 185,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 220,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 185,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 200,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 210,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 230,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 240,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 270,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 290,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 300,
+              "point": 2.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 320,
+              "point": 2.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 330,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 340,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 350,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 370,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 380,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 410,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 410,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Johnson",
+              "price": 420,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 500,
+              "point": 2.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-05T17:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 3400,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 3500,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_outs",
+          "last_update": "2025-07-05T17:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Stephen Kolek",
+              "price": -128,
+              "point": 16.5,
+              "team": "San Diego Padres",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Stephen Kolek",
+              "price": -102,
+              "point": 16.5,
+              "team": "San Diego Padres",
+              "position": "P"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-05T17:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Patrick Corbin",
+              "price": -122,
+              "point": 3.5,
+              "team": "Washington Nationals",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Patrick Corbin",
+              "price": -108,
+              "point": 3.5,
+              "team": "Washington Nationals",
+              "position": "P"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-05T17:54:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 133,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Evan Carter",
+              "price": -184,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 104,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Burger",
+              "price": -142,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 104,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -142,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": -125,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Wyatt Langford",
+              "price": -109,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": -109,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Adolis Garcia",
+              "price": -125,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": -117,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Iglesias",
+              "price": -117,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": -121,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Smith",
+              "price": -113,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": -142,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": 104,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": -142,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": 104,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 112,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -154,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 112,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -154,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": -117,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -117,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 104,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -142,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 126,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Elias Diaz",
+              "price": -174,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": -142,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Corey Seager",
+              "price": 104,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": -133,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Marcus Semien",
+              "price": -103,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 120,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Jonah Heim",
+              "price": -166,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-05T17:54:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 280,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 300,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 333,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 400,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 400,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 400,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 450,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 500,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 500,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 500,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 550,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 550,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 550,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 650,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 750,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 750,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-05T17:54:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 104,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Corey Seager",
+              "price": -142,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": -174,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": 126,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 139,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Smith",
+              "price": -194,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": -154,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Jonah Heim",
+              "price": 112,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": -166,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": 120,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 139,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Adolis Garcia",
+              "price": -194,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 126,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Wyatt Langford",
+              "price": -174,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": -148,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Alejandro Osuna",
+              "price": 108,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": -109,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -125,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 116,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Marcus Semien",
+              "price": -160,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": -142,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Elias Diaz",
+              "price": 104,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 133,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -184,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": -137,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Evan Carter",
+              "price": 100,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 152,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Iglesias",
+              "price": -214,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": -113,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -121,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 126,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -174,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 104,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -142,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": -184,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Burger",
+              "price": 133,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 330,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Marcus Semien",
+              "price": -500,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 340,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -525,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 350,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -550,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 350,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Smith",
+              "price": -550,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 360,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Corey Seager",
+              "price": -575,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 360,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -550,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 370,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Wyatt Langford",
+              "price": -575,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 380,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Adolis Garcia",
+              "price": -600,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 380,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -600,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 390,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Jonah Heim",
+              "price": -600,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Alejandro Osuna",
+              "price": -650,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 400,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -650,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 400,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -650,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 400,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -650,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 425,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Elias Diaz",
+              "price": -700,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 425,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Burger",
+              "price": -700,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 425,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Iglesias",
+              "price": -700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 475,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Evan Carter",
+              "price": -800,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 195,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -265,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 200,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -280,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": -275,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": 200,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": -265,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": 195,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": -260,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Marcus Semien",
+              "price": 190,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": -255,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Corey Seager",
+              "price": 185,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": -245,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Smith",
+              "price": 175,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": -235,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Wyatt Langford",
+              "price": 170,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": -220,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Iglesias",
+              "price": 160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": -210,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": 155,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": -200,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Adolis Garcia",
+              "price": 150,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": -190,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Jonah Heim",
+              "price": 140,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": -180,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Alejandro Osuna",
+              "price": 130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": -170,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": 125,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": -170,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Burger",
+              "price": 125,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": -170,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": 125,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": -135,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Elias Diaz",
+              "price": 100,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": -155,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": 115,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": -140,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": 105,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": -135,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Corey Seager",
+              "price": 100,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": -130,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -105,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": -125,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Marcus Semien",
+              "price": -110,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": -120,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Smith",
+              "price": -110,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": -120,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -110,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": -120,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Wyatt Langford",
+              "price": -115,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": -105,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Adolis Garcia",
+              "price": -130,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": -105,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Iglesias",
+              "price": -125,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": -105,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -125,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 105,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -145,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 105,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Jonah Heim",
+              "price": -145,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 110,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Burger",
+              "price": -145,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 110,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -150,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 115,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Alejandro Osuna",
+              "price": -155,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 125,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Evan Carter",
+              "price": -175,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": -175,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Elias Diaz",
+              "price": 130,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 130,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -175,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 165,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Corey Seager",
+              "price": -225,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 170,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -230,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 170,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Marcus Semien",
+              "price": -230,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 175,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Adolis Garcia",
+              "price": -240,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 185,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Wyatt Langford",
+              "price": -255,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 195,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -270,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 205,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -280,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 210,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -295,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 215,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Burger",
+              "price": -295,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 215,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -300,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 220,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -300,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 225,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Iglesias",
+              "price": -310,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 235,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Elias Diaz",
+              "price": -330,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 235,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Jonah Heim",
+              "price": -330,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 240,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Smith",
+              "price": -330,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 250,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Alejandro Osuna",
+              "price": -350,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 275,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Evan Carter",
+              "price": -390,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": -130,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -110,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 100,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Corey Seager",
+              "price": -140,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 100,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -140,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 110,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -155,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Smith",
+              "price": -160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Wyatt Langford",
+              "price": -175,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 130,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -185,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 135,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Marcus Semien",
+              "price": -190,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 140,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -200,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 145,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Evan Carter",
+              "price": -205,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 145,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Burger",
+              "price": -205,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 150,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -215,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 155,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Adolis Garcia",
+              "price": -220,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 155,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -225,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Iglesias",
+              "price": -220,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Alejandro Osuna",
+              "price": -230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 160,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Jonah Heim",
+              "price": -225,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 170,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Elias Diaz",
+              "price": -245,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": -170,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": 125,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": -140,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Smith",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": -135,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": 100,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": -135,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Iglesias",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": -130,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Marcus Semien",
+              "price": -105,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": -125,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -110,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": -115,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Corey Seager",
+              "price": -120,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": -115,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -120,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": -115,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -120,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": -110,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Wyatt Langford",
+              "price": -125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": -105,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Jonah Heim",
+              "price": -130,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 100,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Adolis Garcia",
+              "price": -135,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Alejandro Osuna",
+              "price": -135,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 110,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -150,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Sheets",
+              "price": 115,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Sheets",
+              "price": -155,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 120,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Burger",
+              "price": -165,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 125,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Evan Carter",
+              "price": -170,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Elias Diaz",
+              "price": 150,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Elias Diaz",
+              "price": -200,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 330,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -525,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 475,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Wyatt Langford",
+              "price": -800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Xander Bogaerts",
+              "price": 475,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Xander Bogaerts",
+              "price": -800,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 600,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Evan Carter",
+              "price": -1100,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 650,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -1200,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 750,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Smith",
+              "price": -1400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alejandro Osuna",
+              "price": 800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Alejandro Osuna",
+              "price": -1600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 850,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -1800,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Iglesias",
+              "price": 900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Iglesias",
+              "price": -1800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 950,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Adolis Garcia",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -2500,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Marcus Semien",
+              "price": -2500,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Cronenworth",
+              "price": 1400,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Jake Cronenworth",
+              "price": -3500,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "1B"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Fernando Tatis Jr.",
+              "price": 100,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Fernando Tatis Jr.",
+              "price": -135,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Manny Machado",
+              "price": 100,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Manny Machado",
+              "price": -135,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 115,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Corey Seager",
+              "price": -155,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 115,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Marcus Semien",
+              "price": -155,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Merrill",
+              "price": 120,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Merrill",
+              "price": -160,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 125,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Wyatt Langford",
+              "price": -170,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 135,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Smith",
+              "price": -185,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Luis Arraez",
+              "price": 135,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Luis Arraez",
+              "price": -180,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "DH"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_earned_runs",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Stephen Kolek",
+              "price": 115,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Stephen Kolek",
+              "price": -150,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Corbin",
+              "price": -130,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Patrick Corbin",
+              "price": 100,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "P"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_hits_allowed",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Stephen Kolek",
+              "price": 100,
+              "point": 5.5,
+              "team": "San Diego Padres",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Stephen Kolek",
+              "price": -140,
+              "point": 5.5,
+              "team": "San Diego Padres",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Corbin",
+              "price": -165,
+              "point": 5.5,
+              "team": "Washington Nationals",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Patrick Corbin",
+              "price": 120,
+              "point": 5.5,
+              "team": "Washington Nationals",
+              "position": "P"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_outs",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Patrick Corbin",
+              "price": 110,
+              "point": 17.5,
+              "team": "Washington Nationals",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Patrick Corbin",
+              "price": -140,
+              "point": 17.5,
+              "team": "Washington Nationals",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Stephen Kolek",
+              "price": -115,
+              "point": 16.5,
+              "team": "San Diego Padres",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Stephen Kolek",
+              "price": -110,
+              "point": 16.5,
+              "team": "San Diego Padres",
+              "position": "P"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Stephen Kolek",
+              "price": 125,
+              "point": 4.5,
+              "team": "San Diego Padres",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Stephen Kolek",
+              "price": -160,
+              "point": 4.5,
+              "team": "San Diego Padres",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Corbin",
+              "price": -130,
+              "point": 3.5,
+              "team": "Washington Nationals",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Patrick Corbin",
+              "price": 100,
+              "point": 3.5,
+              "team": "Washington Nationals",
+              "position": "P"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_walks",
+          "last_update": "2025-07-05T17:53:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Stephen Kolek",
+              "price": -125,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Stephen Kolek",
+              "price": -115,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Patrick Corbin",
+              "price": -135,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Patrick Corbin",
+              "price": -105,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "P"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

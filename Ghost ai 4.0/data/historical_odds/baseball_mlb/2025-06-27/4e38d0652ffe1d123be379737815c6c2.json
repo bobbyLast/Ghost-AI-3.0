@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-27T17:55:38Z",
+  "previous_timestamp": "2025-06-27T17:50:37Z",
+  "next_timestamp": "2025-06-27T18:00:38Z",
+  "data": {
+    "id": "4e38d0652ffe1d123be379737815c6c2",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-28T20:11:00Z",
+    "home_team": "Chicago White Sox",
+    "away_team": "San Francisco Giants",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-27T17:55:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": 148
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -176
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago White Sox",
+                "price": -110,
+                "point": 1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -110,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

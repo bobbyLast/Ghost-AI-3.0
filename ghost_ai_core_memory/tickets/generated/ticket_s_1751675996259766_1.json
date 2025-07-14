@@ -1,0 +1,70 @@
+{
+  "ticket_id": "s_1751675996259766_1",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "96c692dc5328fc7fdc499c6a211c5844",
+  "home_team": "Arizona Diamondbacks",
+  "away_team": "Kansas City Royals",
+  "commence_time": "2025-07-05T01:41:00Z",
+  "selections": [
+    {
+      "player_name": "Kris Bubic",
+      "prop_type": "pitcher_outs",
+      "line": 17.5,
+      "odds": -140,
+      "bookmaker": "DraftKings",
+      "confidence": 0.583,
+      "value_rating": 0.0,
+      "team": "Kansas City Royals",
+      "pick_side": "UNDER",
+      "over_under": "UNDER",
+      "label": "N",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Eduardo Rodriguez",
+      "prop_type": "pitcher_strikeouts",
+      "line": 4.5,
+      "odds": -135,
+      "bookmaker": "DraftKings",
+      "confidence": 0.574,
+      "value_rating": 0.0,
+      "team": "Arizona Diamondbacks",
+      "pick_side": "UNDER",
+      "over_under": "UNDER",
+      "label": "N",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Jose Ramirez",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 3.5,
+      "odds": -130,
+      "bookmaker": "DraftKings",
+      "confidence": 0.565,
+      "value_rating": 0.0,
+      "team": "Cleveland Guardians",
+      "pick_side": "UNDER",
+      "over_under": "UNDER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-05T00:39:56.285221+00:00",
+  "confidence_score": 0.574,
+  "avg_odds": -135.0,
+  "potential_payout": 42.5,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Cleveland Guardians",
+    "Arizona Diamondbacks",
+    "Kansas City Royals"
+  ],
+  "team_count": 3,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.99
+}

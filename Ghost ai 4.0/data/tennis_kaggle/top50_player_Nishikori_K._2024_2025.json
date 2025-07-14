@@ -1,0 +1,307 @@
+{
+  "name": "Nishikori K.",
+  "matches_played": 28,
+  "wins": 15,
+  "losses": 13,
+  "win_percentage": 0.536,
+  "tournaments_played": [
+    "Japan Open Tennis Championships",
+    "Australian Open",
+    "Chengdu Open",
+    "Hong Kong Tennis Open",
+    "Wimbledon",
+    "Mutua Madrid Open",
+    "Shanghai Masters",
+    "U.S. Men's Clay Court Championships",
+    "Miami Open",
+    "Vienna Open",
+    "Dallas Open",
+    "Delray Beach Open",
+    "French Open",
+    "Canadian Open",
+    "BNP Paribas Open",
+    "Geneva Open"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2025",
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Japan Open Tennis Championships",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Cilic M."
+    },
+    {
+      "tournament": "Japan Open Tennis Championships",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Thompson J."
+    },
+    {
+      "tournament": "Japan Open Tennis Championships",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Rune H."
+    },
+    {
+      "tournament": "Shanghai Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Navone M."
+    },
+    {
+      "tournament": "Shanghai Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Tsitsipas S."
+    },
+    {
+      "tournament": "Vienna Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Draper J."
+    },
+    {
+      "tournament": "Hong Kong Tennis Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Shapovalov D."
+    },
+    {
+      "tournament": "Hong Kong Tennis Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Khachanov K."
+    },
+    {
+      "tournament": "Hong Kong Tennis Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Norrie C."
+    },
+    {
+      "tournament": "Hong Kong Tennis Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Muller A."
+    },
+    {
+      "tournament": "Australian Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Monteiro T."
+    },
+    {
+      "tournament": "Australian Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Paul T."
+    },
+    {
+      "tournament": "Dallas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Machac T."
+    },
+    {
+      "tournament": "Delray Beach Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "McDonald M."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Munar J."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Humbert U."
+    },
+    {
+      "tournament": "U.S. Men's Clay Court Championships",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Krueger M."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Vukic A."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Shapovalov D."
+    },
+    {
+      "tournament": "Geneva Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Tien L."
+    }
+  ],
+  "head_to_head": {
+    "Ofner S.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Diallo G.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Rinderknech A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Michelsen A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Tsitsipas S.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Borges N.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Arnaldi M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Shang J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Cilic M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Thompson J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Rune H.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Navone M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Draper J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Shapovalov D.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Khachanov K.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Norrie C.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Muller A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Monteiro T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Paul T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Machac T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "McDonald M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Munar J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Humbert U.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Krueger M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Vukic A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Tien L.": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 11,
+      "losses": 11
+    },
+    "Clay": {
+      "wins": 4,
+      "losses": 1
+    },
+    "Grass": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 8,
+      "losses": 7
+    },
+    "2025": {
+      "wins": 7,
+      "losses": 6
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

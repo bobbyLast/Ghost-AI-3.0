@@ -1,0 +1,492 @@
+{
+  "timestamp": "2025-06-13T17:55:37Z",
+  "previous_timestamp": "2025-06-13T17:50:37Z",
+  "next_timestamp": "2025-06-13T18:00:37Z",
+  "data": {
+    "id": "cc9540ac3bb58537865c4f4847828c4f",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-14T02:11:00Z",
+    "home_team": "Seattle Mariners",
+    "away_team": "Cleveland Guardians",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-13T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -104
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -112
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": 168,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -205,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -122,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-13T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -107
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -113
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": 159,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -196,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -119,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-13T17:54:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -105
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -240,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 196,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-13T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -104
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": 165,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -220,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-13T17:55:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -107
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -113
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -235,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 195,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-13T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -105
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": 165,
+                "point": -1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -200,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": 105,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-13T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -102
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -108
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -218,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 189,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": 103,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-13T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -102
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -108
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -220,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 186,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-13T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -102
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": -108
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -220,
+                "point": 1.5
+              },
+              {
+                "name": "Seattle Mariners",
+                "price": 188,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

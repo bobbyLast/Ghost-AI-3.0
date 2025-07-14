@@ -1,0 +1,20 @@
+{
+  "event_id": "36923a2127cf68abf62dea9d454652f3",
+  "home_team": "Milwaukee Brewers",
+  "away_team": "Colorado Rockies",
+  "game_time": "2025-06-29T18:11:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "Colorado Rockies": {
+      "odds": 1.44,
+      "implied_probability": 0.9858044164037855,
+      "tags": []
+    },
+    "Milwaukee Brewers": {
+      "odds": 2.72,
+      "implied_probability": 0.9735202492211839,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-29T17:51:09.299469"
+}

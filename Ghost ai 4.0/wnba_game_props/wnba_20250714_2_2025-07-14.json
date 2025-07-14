@@ -1,0 +1,26 @@
+{
+  "game_id": "wnba_20250714_2",
+  "home_team": "Los Angeles Sparks",
+  "away_team": "Las Vegas Aces",
+  "commence_time": "2025-07-14T21:00:00Z",
+  "player_props": [
+    {
+      "player": "A'ja Wilson",
+      "team": "Las Vegas Aces",
+      "prop_type": "points",
+      "line": 21.8,
+      "over_odds": -110,
+      "under_odds": -105,
+      "game_time": "2025-07-14T20:00:00Z"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "Las Vegas Aces",
+      "prop_type": "assists",
+      "line": 6.7,
+      "over_odds": -120,
+      "under_odds": -105,
+      "game_time": "2025-07-14T22:00:00Z"
+    }
+  ]
+}

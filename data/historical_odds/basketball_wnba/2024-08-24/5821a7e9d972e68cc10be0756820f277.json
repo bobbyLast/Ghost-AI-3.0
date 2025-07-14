@@ -1,0 +1,174 @@
+{
+  "timestamp": "2024-08-24T17:55:38Z",
+  "previous_timestamp": "2024-08-24T17:50:39Z",
+  "next_timestamp": "2024-08-24T18:00:38Z",
+  "data": {
+    "id": "5821a7e9d972e68cc10be0756820f277",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-25T16:00:00Z",
+    "home_team": "Chicago Sky",
+    "away_team": "Las Vegas Aces",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-24T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-24T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 260
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -340
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-24T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 7.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -7.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-24T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-24T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-24T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 260
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -345
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-24T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -113,
+                "point": 7.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -113,
+                "point": -7.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-24T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-24T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-24T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 260
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -350
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-24T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -115,
+                "point": 7.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -105,
+                "point": -7.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-24T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

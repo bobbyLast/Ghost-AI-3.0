@@ -1,0 +1,5852 @@
+{
+  "id": "e0ba0ec508f3de7e185951fd6aeffed9",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-10T02:05:47Z",
+  "home_team": "Oakland Athletics",
+  "away_team": "Atlanta Braves",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-10T02:27:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 310,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 330,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 360,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 340,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 350,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 370,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 390,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 410,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 400,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 400,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 410,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 410,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 440,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 490,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 480,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-10T02:27:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": -280,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": -270,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": -220,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": -210,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": -215,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": -210,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": -215,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": -200,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": -198,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": -198,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": -192,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": -162,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": -158,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 190,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 200,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 220,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 1100,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 1600,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 1600,
+              "point": 2.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 1800,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 1900,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 1800,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 1900,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 1800,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 2800,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 2900,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 1000,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 1000,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 1200,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 7500,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 8000,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": -310,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": -290,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": -280,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 210,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 220,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 280,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 290,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 290,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 310,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 290,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 310,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 310,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 300,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 330,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 430,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 430,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-10T02:27:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 500,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 3400,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 3500,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 5000,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 4800,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 4700,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 7500,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 6000,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 7000,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 8000,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 9000,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 10000,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 11000,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 11000,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 18000,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 17000,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 310,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 340,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 390,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 390,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 420,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 500,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 500,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 500,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 550,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 600,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 600,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 750,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 850,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 950,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 950,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-10T02:27:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 110,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 115,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 140,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 150,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 155,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 160,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 145,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 170,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 170,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 170,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 165,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 170,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 175,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 180,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 230,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 1000,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 1300,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 1000,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 1300,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 1400,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 1600,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 1600,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 1500,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 1500,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 1800,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 1800,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 2300,
+              "point": 2.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 2600,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 380,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 380,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 490,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 500,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 480,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 500,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 550,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 550,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 500,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 550,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 600,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 600,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 600,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 700,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 800,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 130,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 3100,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 2900,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 3800,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 3400,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 3800,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 4400,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 4200,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 4000,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 4600,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 4300,
+              "point": 3.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 5000,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 5500,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 5500,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 7000,
+              "point": 3.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 9500,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-10T02:27:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": -135,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": -115,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": -110,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": -105,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 100,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 105,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 105,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 115,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 120,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 120,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 125,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 130,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 135,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 480,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 550,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 650,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 3200,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 4200,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 5000,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 4800,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": -145,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": -125,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": -110,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 550,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 750,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 700,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 800,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 800,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 800,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 900,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 900,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 950,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-10T02:27:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": -135,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": -130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": -125,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": -115,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": -110,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": -110,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": -105,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": -105,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 100,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 100,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 100,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 105,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 105,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 120,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 150,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-10T02:27:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": -110,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 175,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 270,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 310,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 350,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 410,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 410,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 440,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 440,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 460,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 470,
+              "point": 3.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 550,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 600,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 600,
+              "point": 3.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 700,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": -300,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": -105,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 100,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 130,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 130,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 135,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 150,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 140,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 135,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 140,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 140,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 155,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 150,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 190,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": -290,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 195,
+              "point": 4.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 250,
+              "point": 4.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 550,
+              "point": 4.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 650,
+              "point": 4.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 800,
+              "point": 4.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 850,
+              "point": 4.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 950,
+              "point": 4.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 1000,
+              "point": 4.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 1000,
+              "point": 4.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 1000,
+              "point": 4.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 1000,
+              "point": 4.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 1200,
+              "point": 4.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 1300,
+              "point": 4.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 1300,
+              "point": 4.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 1700,
+              "point": 4.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": -320,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": -115,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 190,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 210,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 250,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 270,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 280,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 290,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 300,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 320,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 300,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 340,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 340,
+              "point": 2.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 350,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 430,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-10T02:27:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 2800,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 3700,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 3800,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 3900,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 4200,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 4400,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 4500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-10T02:25:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 340,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Riley",
+              "price": -500,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 310,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Shea Langeliers",
+              "price": -455,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 360,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Olson",
+              "price": -550,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 375,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Ozzie Albies",
+              "price": -575,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 375,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Soderstrom",
+              "price": -575,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 400,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Brent Rooker",
+              "price": -625,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 400,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Gio Urshela",
+              "price": -625,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 400,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jurickson Profar",
+              "price": -625,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 400,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Max Muncy (2002)",
+              "price": -625,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 425,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lawrence Butler",
+              "price": -675,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 425,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Zack Gelof",
+              "price": -675,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 450,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Drake Baldwin",
+              "price": -725,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 450,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Marcell Ozuna",
+              "price": -725,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 450,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Harris II",
+              "price": -725,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 475,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Clarke",
+              "price": -775,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 475,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Kurtz",
+              "price": -775,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-10T02:25:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": -105,
+              "point": 6.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Drake Baldwin",
+              "price": -125,
+              "point": 6.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": -135,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Riley",
+              "price": 105,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": -135,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Olson",
+              "price": 105,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": -142,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Shea Langeliers",
+              "price": 110,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": -125,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Soderstrom",
+              "price": -105,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": -115,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Brent Rooker",
+              "price": -115,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": -105,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jurickson Profar",
+              "price": -125,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": -105,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Max Muncy (2002)",
+              "price": -125,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 100,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Gio Urshela",
+              "price": -130,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 100,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lawrence Butler",
+              "price": -130,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 100,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Marcell Ozuna",
+              "price": -130,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 105,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Ozzie Albies",
+              "price": -135,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 105,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Zack Gelof",
+              "price": -135,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 110,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Harris II",
+              "price": -142,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 110,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Kurtz",
+              "price": -142,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 120,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Clarke",
+              "price": -154,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-10T02:25:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 115,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Olson",
+              "price": -148,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": -130,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Gio Urshela",
+              "price": 100,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": -115,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Max Muncy (2002)",
+              "price": -115,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": -115,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Soderstrom",
+              "price": -115,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 100,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Riley",
+              "price": -130,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 100,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jurickson Profar",
+              "price": -130,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Drake Baldwin",
+              "price": -135,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 105,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Harris II",
+              "price": -135,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 105,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Ozzie Albies",
+              "price": -135,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 105,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Shea Langeliers",
+              "price": -135,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 110,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Clarke",
+              "price": -142,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 115,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Brent Rooker",
+              "price": -148,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 115,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Zack Gelof",
+              "price": -148,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 120,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Marcell Ozuna",
+              "price": -154,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 126,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lawrence Butler",
+              "price": -162,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 150,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Kurtz",
+              "price": -198,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-10T02:25:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 525,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Zack Gelof",
+              "price": -925,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 550,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Clarke",
+              "price": -975,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 625,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lawrence Butler",
+              "price": -1150,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 625,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Harris II",
+              "price": -1150,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 950,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Ozzie Albies",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 1800,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jurickson Profar",
+              "price": -7000,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Shea Langeliers",
+              "price": -7000,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Soderstrom",
+              "price": -7000,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 2000,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Brent Rooker",
+              "price": -10000,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-10T02:25:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bryce Elder",
+              "price": 110,
+              "point": 6.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Elder",
+              "price": -142,
+              "point": 6.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mitch Spence",
+              "price": -182,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mitch Spence",
+              "price": 140,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-10T02:25:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 270,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 270,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 305,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 330,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 350,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 350,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 400,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 475,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 575,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 625,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-10T02:25:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": -184,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jurickson Profar",
+              "price": 133,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": -174,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Zack Gelof",
+              "price": 126,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 100,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Riley",
+              "price": -137,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 120,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Soderstrom",
+              "price": -166,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": -174,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lawrence Butler",
+              "price": 126,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": -184,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Ozzie Albies",
+              "price": 133,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": -184,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Drake Baldwin",
+              "price": 133,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 104,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Olson",
+              "price": -142,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": -166,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Clarke",
+              "price": 120,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": -174,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Marcell Ozuna",
+              "price": 126,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 133,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Brent Rooker",
+              "price": -184,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": -154,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Kurtz",
+              "price": 112,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 100,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Shea Langeliers",
+              "price": -137,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": -194,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Harris II",
+              "price": 139,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": -214,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Gio Urshela",
+              "price": 152,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-10T02:24:28Z",
+          "outcomes": [
+            {
+              "name": "Under",
+              "description": "Brent Rooker",
+              "price": 155,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": -155,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Clarke",
+              "price": 120,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Drake Baldwin",
+              "price": 155,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jurickson Profar",
+              "price": 140,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": -225,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Max Muncy (2002)",
+              "price": 170,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Harris II",
+              "price": 140,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": -155,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Kurtz",
+              "price": 120,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ozzie Albies",
+              "price": 140,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": -240,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Soderstrom",
+              "price": 180,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-10T02:24:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 140,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Brent Rooker",
+              "price": -185,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": -155,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Clarke",
+              "price": 120,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 155,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Drake Baldwin",
+              "price": -205,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 165,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Gio Urshela",
+              "price": -220,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": -185,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jurickson Profar",
+              "price": 140,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": -170,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lawrence Butler",
+              "price": 130,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": -185,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Marcell Ozuna",
+              "price": 140,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": -185,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Harris II",
+              "price": 140,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": -155,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": -185,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Ozzie Albies",
+              "price": 140,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": -105,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Shea Langeliers",
+              "price": -125,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 120,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Soderstrom",
+              "price": -155,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": -175,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Zack Gelof",
+              "price": 135,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_outs",
+          "last_update": "2025-07-10T02:24:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bryce Elder",
+              "price": 135,
+              "point": 18.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Elder",
+              "price": -175,
+              "point": 18.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-10T02:24:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bryce Elder",
+              "price": 105,
+              "point": 6.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Elder",
+              "price": -135,
+              "point": 6.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-10T02:27:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ronald Acuna Jr.",
+              "price": 160,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 188,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 200,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 240,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": -162,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 280,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 360,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 325,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": -182,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Allen",
+              "price": -139,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 265,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 265,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 255,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 300,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": -200,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 265,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": -245,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": -200,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 310,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 220,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Ronald Acuna Jr.",
+              "price": -400,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": -215,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": -315,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": -220,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": -220,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": -305,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 275,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": -275,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": -230,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": -159,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": -195,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": -220,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 295,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": -245,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-10T02:27:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ronald Acuna Jr.",
+              "price": 123,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 180,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 220,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 200,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 155,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 180,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 175,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 155,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 160,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 140,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 165,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 185,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Allen",
+              "price": 205,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 123,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 185,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 106,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 138,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 160,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-10T02:27:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ronald Acuna Jr.",
+              "price": -159,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": -148,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": -120,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 112,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 133,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 150,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Allen",
+              "price": 145,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 130,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 100,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 107,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 112,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 118,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 108,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 106,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": -108,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": -125,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 128,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 123,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-10T02:27:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nick Allen",
+              "price": -139,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": -195,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": -162,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": -182,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ronald Acuna Jr.",
+              "price": -141,
+              "point": 5.5,
+              "team": "Atlanta Braves",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": -114,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 120,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": -210,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 123,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 115,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": -200,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": -157,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 128,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 125,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": -108,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 107,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": -134,
+              "point": 2.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": -215,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-10T02:27:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 400,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 375,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 320,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 320,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 340,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 270,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 375,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 300,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 300,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-10T02:27:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": -170,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Zack Gelof",
+              "price": 120,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": -150,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Clarke",
+              "price": 105,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": -165,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Kurtz",
+              "price": 115,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": -200,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Max Muncy (2002)",
+              "price": 140,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": -210,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Brent Rooker",
+              "price": 145,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": -270,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Shea Langeliers",
+              "price": 185,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": -225,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Soderstrom",
+              "price": 155,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": -195,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lawrence Butler",
+              "price": 135,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": -215,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Gio Urshela",
+              "price": 150,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-10T02:25:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": -105,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jurickson Profar",
+              "price": -125,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 100,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Harris II",
+              "price": -130,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": -140,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Shea Langeliers",
+              "price": 105,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": -105,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Marcell Ozuna",
+              "price": -125,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": -115,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Brent Rooker",
+              "price": -115,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 100,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Gio Urshela",
+              "price": -130,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": -125,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Soderstrom",
+              "price": -105,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 115,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Clarke",
+              "price": -150,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": -105,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lawrence Butler",
+              "price": -125,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ozzie Albies",
+              "price": 100,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Ozzie Albies",
+              "price": -130,
+              "point": 1.5,
+              "team": "Atlanta Braves",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 110,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Kurtz",
+              "price": -145,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 105,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Zack Gelof",
+              "price": -140,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": -145,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Olson",
+              "price": 110,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": -145,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Riley",
+              "price": 110,
+              "point": 3.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": -105,
+              "point": 6.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Drake Baldwin",
+              "price": -125,
+              "point": 6.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-10T02:27:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 125,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Zack Gelof",
+              "price": -175,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 115,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lawrence Butler",
+              "price": -160,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": -115,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Max Muncy (2002)",
+              "price": -125,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 140,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Kurtz",
+              "price": -200,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 100,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Shea Langeliers",
+              "price": -135,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 110,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Brent Rooker",
+              "price": -155,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 125,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Clarke",
+              "price": -175,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 105,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Soderstrom",
+              "price": -135,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": -110,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Gio Urshela",
+              "price": -130,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-10T02:27:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 135,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Max Muncy (2002)",
+              "price": -195,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": -170,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Zack Gelof",
+              "price": 120,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": -150,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Clarke",
+              "price": 105,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 125,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Brent Rooker",
+              "price": -180,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 100,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Shea Langeliers",
+              "price": -140,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": -165,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Kurtz",
+              "price": 115,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 120,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Soderstrom",
+              "price": -170,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 150,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Gio Urshela",
+              "price": -215,
+              "point": 1.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": -195,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lawrence Butler",
+              "price": 135,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-10T02:27:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 2200,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Muncy (2002)",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 2000,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 2200,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_walks",
+          "last_update": "2025-07-10T02:25:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Drake Baldwin",
+              "price": 210,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Drake Baldwin",
+              "price": -285,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brent Rooker",
+              "price": 220,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Brent Rooker",
+              "price": -300,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jurickson Profar",
+              "price": 175,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jurickson Profar",
+              "price": -240,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Harris II",
+              "price": 450,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Harris II",
+              "price": -750,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Clarke",
+              "price": 250,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Clarke",
+              "price": -350,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Kurtz",
+              "price": 165,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Kurtz",
+              "price": -225,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Riley",
+              "price": 210,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Riley",
+              "price": -285,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Olson",
+              "price": 135,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Olson",
+              "price": -175,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcell Ozuna",
+              "price": 150,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Under",
+              "description": "Marcell Ozuna",
+              "price": -200,
+              "point": 0.5,
+              "team": "Atlanta Braves",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Gio Urshela",
+              "price": 375,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Gio Urshela",
+              "price": -575,
+              "point": 0.5,
+              "team": "Detroit Tigers",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Soderstrom",
+              "price": 200,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Soderstrom",
+              "price": -275,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Shea Langeliers",
+              "price": 200,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Shea Langeliers",
+              "price": -275,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Lawrence Butler",
+              "price": 185,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Lawrence Butler",
+              "price": -250,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Gelof",
+              "price": 280,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Zack Gelof",
+              "price": -400,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_hits_allowed",
+          "last_update": "2025-07-10T02:25:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bryce Elder",
+              "price": -120,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Elder",
+              "price": -110,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mitch Spence",
+              "price": 125,
+              "point": 7.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mitch Spence",
+              "price": -165,
+              "point": 7.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_outs",
+          "last_update": "2025-07-10T02:25:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bryce Elder",
+              "price": 130,
+              "point": 18.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Elder",
+              "price": -170,
+              "point": 18.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-10T02:27:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bryce Elder",
+              "price": -105,
+              "point": 6.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Elder",
+              "price": -135,
+              "point": 6.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

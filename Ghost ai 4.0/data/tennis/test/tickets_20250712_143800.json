@@ -1,0 +1,62 @@
+[
+  {
+    "sport": "tennis",
+    "match": "Novak Djokovic vs Carlos Alcaraz",
+    "confidence": 0.7622281334650792,
+    "reasoning": "Analysis based on player stats",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 38.5,
+        "over_odds": -111,
+        "under_odds": -119
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -128,
+        "away_odds": 135
+      }
+    ],
+    "timestamp": "2025-07-12T14:38:00.135603"
+  },
+  {
+    "sport": "tennis",
+    "match": "Daniil Medvedev vs Jannik Sinner",
+    "confidence": 0.8252667659178274,
+    "reasoning": "Analysis based on player stats",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 47.0,
+        "over_odds": -116,
+        "under_odds": -113
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": 138,
+        "away_odds": -135
+      }
+    ],
+    "timestamp": "2025-07-12T14:38:00.136559"
+  },
+  {
+    "sport": "tennis",
+    "match": "Taylor Fritz vs Frances Tiafoe",
+    "confidence": 0.7354740217913626,
+    "reasoning": "Analysis based on player stats",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 44.0,
+        "over_odds": -117,
+        "under_odds": -110
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -140,
+        "away_odds": 122
+      }
+    ],
+    "timestamp": "2025-07-12T14:38:00.137561"
+  }
+]

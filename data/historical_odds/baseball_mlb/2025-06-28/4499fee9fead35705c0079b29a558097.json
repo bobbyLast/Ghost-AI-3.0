@@ -1,0 +1,545 @@
+{
+  "timestamp": "2025-06-28T17:55:37Z",
+  "previous_timestamp": "2025-06-28T17:50:37Z",
+  "next_timestamp": "2025-06-28T18:00:38Z",
+  "data": {
+    "id": "4499fee9fead35705c0079b29a558097",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-28T20:11:00Z",
+    "home_team": "Arizona Diamondbacks",
+    "away_team": "Miami Marlins",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-28T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -162
+              },
+              {
+                "name": "Miami Marlins",
+                "price": 136
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 125,
+                "point": -1.5
+              },
+              {
+                "name": "Miami Marlins",
+                "price": -150,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -114,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -106,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-28T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -154
+              },
+              {
+                "name": "Miami Marlins",
+                "price": 139
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 134,
+                "point": -1.5
+              },
+              {
+                "name": "Miami Marlins",
+                "price": -152,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-28T17:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -154
+              },
+              {
+                "name": "Miami Marlins",
+                "price": 139
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 133,
+                "point": -1.5
+              },
+              {
+                "name": "Miami Marlins",
+                "price": -153,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-28T17:54:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -160
+              },
+              {
+                "name": "Miami Marlins",
+                "price": 135
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 135,
+                "point": -1.5
+              },
+              {
+                "name": "Miami Marlins",
+                "price": -160,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-28T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -164
+              },
+              {
+                "name": "Miami Marlins",
+                "price": 134
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 129,
+                "point": -1.5
+              },
+              {
+                "name": "Miami Marlins",
+                "price": -158,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-28T17:55:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -165
+              },
+              {
+                "name": "Miami Marlins",
+                "price": 135
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 135,
+                "point": -1.5
+              },
+              {
+                "name": "Miami Marlins",
+                "price": -165,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-28T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -170
+              },
+              {
+                "name": "Miami Marlins",
+                "price": 140
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 135,
+                "point": -1.5
+              },
+              {
+                "name": "Miami Marlins",
+                "price": -160,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-28T17:55:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -161
+              },
+              {
+                "name": "Miami Marlins",
+                "price": 135
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 130,
+                "point": -1.5
+              },
+              {
+                "name": "Miami Marlins",
+                "price": -150,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-28T17:55:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -156
+              },
+              {
+                "name": "Miami Marlins",
+                "price": 139
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 130,
+                "point": -1.5
+              },
+              {
+                "name": "Miami Marlins",
+                "price": -150,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-28T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -162
+              },
+              {
+                "name": "Miami Marlins",
+                "price": 135
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 125,
+                "point": -1.5
+              },
+              {
+                "name": "Miami Marlins",
+                "price": -157,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -117,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -106,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ticket_id": "TICKET_20250710_214912_tprard",
+  "sport": "Mixed",
+  "props": [
+    {
+      "sport": "MLB",
+      "game": "St. Louis Cardinals vs Washington Nationals",
+      "player": "Over",
+      "prop": "batter_hits_runs_rbis",
+      "line": 1.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": -150,
+      "reasoning": "Auto-extracted from OddsAPI: batter_hits_runs_rbis for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "Boston Red Sox vs Tampa Bay Rays",
+      "player": "Over",
+      "prop": "pitcher_strikeouts",
+      "line": 4.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": -159,
+      "reasoning": "Auto-extracted from OddsAPI: pitcher_strikeouts for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "Minnesota Twins vs Chicago Cubs",
+      "player": "Over",
+      "prop": "batter_total_bases",
+      "line": 1.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": 132,
+      "reasoning": "Auto-extracted from OddsAPI: batter_total_bases for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "Cincinnati Reds vs Miami Marlins",
+      "player": "Under",
+      "prop": "batter_doubles",
+      "line": 0.5,
+      "pick": "Under",
+      "confidence": 0.7,
+      "odds": -500,
+      "reasoning": "Auto-extracted from OddsAPI: batter_doubles for Under"
+    }
+  ],
+  "total_confidence": 0.7,
+  "total_odds": -1574100000.0,
+  "reasoning": "High-confidence ticket #3 using actual fetched props from multiple sports",
+  "timestamp": "2025-07-10T21:49:12.349975",
+  "openai_full_pipeline_feedback": "{\n  \"calibration\": [\n    {\n      \"step\": \"Data Extraction\",\n      \"suggestion\": \"Ensure that the data extraction from OddsAPI is accurate and reliable. This includes the player, prop, line, pick, confidence, and odds. Any inaccuracies in this step could significantly impact the performance of the AI.\"\n    },\n    {\n      \"step\": \"Confidence Calculation\",\n      \"suggestion\": \"The confidence level seems to be the same for all props. Consider implementing a more dynamic confidence calculation method that takes into account various factors such as player performance, team performance, and historical data.\"\n    },\n    {\n      \"step\": \"Total Odds Calculation\",\n      \"suggestion\": \"The total odds calculation seems to be incorrect. The total odds should be the product of the individual odds, not the sum. Also, consider converting the odds to a more understandable format such as decimal or fractional odds.\"\n    },\n    {\n      \"step\": \"Reasoning Generation\",\n      \"suggestion\": \"The reasoning for each pick is currently auto-generated from the data source. Consider implementing a more sophisticated reasoning generation method that provides more insight into why the AI made a particular pick. This could include factors such as player stats, team stats, recent performance, and historical trends.\"\n    }\n  ],\n  \"new_logic\": [\n    {\n      \"logic\": \"Dynamic Confidence Calculation\",\n      \"code\": \"def calculate_confidence(player_stats, team_stats, historical_data):\\n    # Implement logic here to calculate confidence based on various factors\\n    return confidence\"\n    },\n    {\n      \"logic\": \"Correct Total Odds Calculation\",\n      \"code\": \"def calculate_total_odds(individual_odds):\\n    total_odds = 1\\n    for odds in individual_odds:\\n        total_odds *= odds\\n    return total_odds\"\n    },\n    {\n      \"logic\": \"Advanced Reasoning Generation\",\n      \"code\": \"def generate_reasoning(player_stats, team_stats, recent_performance, historical_trends):\\n    # Implement logic here to generate reasoning based on various factors\\n    return reasoning\"\n    }\n  ],\n  \"code_suggestions\": [\n    {\n      \"description\": \"Implement the new logic functions in the AI pipeline\",\n      \"code\": \"def ai_pipeline(data):\\n    # Extract data\\n    # ...\\n    # Calculate confidence\\n    confidence = calculate_confidence(player_stats, team_stats, historical_data)\\n    # Calculate total odds\\n    total_odds = calculate_total_odds(individual_odds)\\n    # Generate reasoning\\n    reasoning = generate_reasoning(player_stats, team_stats, recent_performance, historical_trends)\\n    # ...\\n    return ticket\"\n    }\n  ]\n}"
+}

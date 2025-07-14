@@ -1,0 +1,233 @@
+{
+  "name": "Murray A.",
+  "matches_played": 17,
+  "wins": 6,
+  "losses": 11,
+  "win_percentage": 0.353,
+  "tournaments_played": [
+    "Australian Open",
+    "Open 13",
+    "Qatar Exxon Mobil Open",
+    "Geneva Open",
+    "Open Sud de France",
+    "Brisbane International",
+    "Miami Open",
+    "French Open",
+    "Queen's Club Championships",
+    "Stuttgart Open",
+    "BNP Paribas Open",
+    "Dubai Tennis Championships"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Brisbane International",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Dimitrov G."
+    },
+    {
+      "tournament": "Australian Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Etcheverry T."
+    },
+    {
+      "tournament": "Open Sud de France",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Paire B."
+    },
+    {
+      "tournament": "Open 13",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Machac T."
+    },
+    {
+      "tournament": "Qatar Exxon Mobil Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Muller A."
+    },
+    {
+      "tournament": "Qatar Exxon Mobil Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Mensik J."
+    },
+    {
+      "tournament": "Dubai Tennis Championships",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Shapovalov D."
+    },
+    {
+      "tournament": "Dubai Tennis Championships",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Humbert U."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Goffin D."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Rublev A."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Berrettini M."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Etcheverry T."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Machac T."
+    },
+    {
+      "tournament": "Geneva Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Hanfmann Y."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Wawrinka S."
+    },
+    {
+      "tournament": "Stuttgart Open",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Giron M."
+    },
+    {
+      "tournament": "Queen's Club Championships",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Popyrin A."
+    }
+  ],
+  "head_to_head": {
+    "Dimitrov G.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Etcheverry T.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Paire B.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Machac T.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Muller A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Mensik J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Shapovalov D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Humbert U.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Goffin D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Rublev A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Berrettini M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Hanfmann Y.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Wawrinka S.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Giron M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Popyrin A.": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 5,
+      "losses": 8
+    },
+    "Clay": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Grass": {
+      "wins": 1,
+      "losses": 1
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 6,
+      "losses": 11
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

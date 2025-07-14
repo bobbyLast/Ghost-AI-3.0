@@ -1,0 +1,397 @@
+{
+  "timestamp": "2024-07-01T17:55:38Z",
+  "previous_timestamp": "2024-07-01T17:50:38Z",
+  "next_timestamp": "2024-07-01T18:00:38Z",
+  "data": {
+    "id": "f029c9023f6ceb53d14bfd046644a0a2",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-07-02T23:00:00Z",
+    "home_team": "Atlanta Dream",
+    "away_team": "Chicago Sky",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-07-01T17:55:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-01T17:55:11Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -125
+              },
+              {
+                "name": "Chicago Sky",
+                "price": 105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-01T17:55:11Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-01T17:55:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 159.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 159.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-07-01T17:55:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-01T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -120
+              },
+              {
+                "name": "Chicago Sky",
+                "price": 100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-01T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -105,
+                "point": -1.5
+              },
+              {
+                "name": "Chicago Sky",
+                "price": -115,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-01T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 159.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 159.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-07-01T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-01T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -124
+              },
+              {
+                "name": "Chicago Sky",
+                "price": 102
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-01T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -108,
+                "point": -1.5
+              },
+              {
+                "name": "Chicago Sky",
+                "price": -112,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-01T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 159.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 159.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-07-01T17:55:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-01T17:55:36Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -125
+              },
+              {
+                "name": "Chicago Sky",
+                "price": 105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-01T17:55:36Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-01T17:55:36Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 159.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 159.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-07-01T17:53:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-01T17:53:18Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -125
+              },
+              {
+                "name": "Chicago Sky",
+                "price": 105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-01T17:53:18Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-01T17:53:18Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 159.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 159.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-07-01T17:54:43Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-07-01T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -108,
+                "point": -1.5
+              },
+              {
+                "name": "Chicago Sky",
+                "price": -108,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-01T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 159.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 159.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-07-01T17:54:42Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-07-01T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-01T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 159.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 159.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-07-01T17:54:42Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-07-01T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-01T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 159.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 159.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

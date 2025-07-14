@@ -1,0 +1,2753 @@
+{
+  "Jewell Loyd_player_threes": {
+    "player_name": "Jewell Loyd",
+    "prop_type": "player_threes",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -205,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -245,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -201,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -199,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -260,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -195,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -193,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -275,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -189,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -187,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -214.9
+  },
+  "Caitlin Clark_player_threes": {
+    "player_name": "Caitlin Clark",
+    "prop_type": "player_threes",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -182,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -222,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -178,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -176,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -237,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -172,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -170,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -252,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -166,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -164,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -191.9
+  },
+  "Allisha Gray_player_threes": {
+    "player_name": "Allisha Gray",
+    "prop_type": "player_threes",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -195,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -235,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -191,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -189,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -250,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -185,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -183,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -265,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -179,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -177,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -204.9
+  },
+  "Rhyne Howard_player_threes": {
+    "player_name": "Rhyne Howard",
+    "prop_type": "player_threes",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -182,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -222,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -178,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -176,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -237,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -172,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -170,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -252,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -166,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -164,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -191.9
+  },
+  "Kayla Thornton_player_threes": {
+    "player_name": "Kayla Thornton",
+    "prop_type": "player_threes",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -190,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -230,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -186,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -184,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -245,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -180,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -178,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -260,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -174,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -172,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -199.9
+  },
+  "A'ja Wilson_player_assists": {
+    "player_name": "A'ja Wilson",
+    "prop_type": "player_assists",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -172,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -212,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -168,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -166,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -227,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -162,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -160,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -242,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -156,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -154,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -181.9
+  },
+  "Jackie Young_player_rebounds": {
+    "player_name": "Jackie Young",
+    "prop_type": "player_rebounds",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -170,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -210,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -166,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -164,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -225,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -160,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -158,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -240,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -154,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -152,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -179.9
+  },
+  "Ariel Atkins_player_threes": {
+    "player_name": "Ariel Atkins",
+    "prop_type": "player_threes",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -150,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -190,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -146,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -144,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -205,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -140,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -138,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -220,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -134,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -159.9
+  },
+  "Brittney Sykes_player_rebounds": {
+    "player_name": "Brittney Sykes",
+    "prop_type": "player_rebounds",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -150,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -190,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -146,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -144,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -205,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -140,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -138,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -220,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -134,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -159.9
+  },
+  "Napheesa Collier_player_assists": {
+    "player_name": "Napheesa Collier",
+    "prop_type": "player_assists",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -150,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -190,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -146,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -144,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -205,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -140,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -138,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -220,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -134,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -159.9
+  },
+  "Jackie Young_player_assists": {
+    "player_name": "Jackie Young",
+    "prop_type": "player_assists",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -150,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -190,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -146,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -144,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -205,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -140,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -138,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -220,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -134,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -159.9
+  },
+  "Chelsea Gray_player_threes": {
+    "player_name": "Chelsea Gray",
+    "prop_type": "player_threes",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -148,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -188,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -144,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -142,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -203,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -138,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -136,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -218,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -130,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -157.9
+  },
+  "Skylar Diggins-Smith_player_assists": {
+    "player_name": "Skylar Diggins-Smith",
+    "prop_type": "player_assists",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -148,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -188,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -144,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -142,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -203,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -138,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -136,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -218,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -130,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -157.9
+  },
+  "Kamilla Cardoso_player_rebounds": {
+    "player_name": "Kamilla Cardoso",
+    "prop_type": "player_rebounds",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -144,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -184,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -140,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -138,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -199,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -134,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -214,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -128,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -126,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -153.9
+  },
+  "Veronica Burton_player_assists": {
+    "player_name": "Veronica Burton",
+    "prop_type": "player_assists",
+    "odds_log": [
+      {
+        "date": "2025-06-17",
+        "odds": -138,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -178,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -134,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -193,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -128,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-11",
+        "odds": -126,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-10",
+        "odds": -208,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-09",
+        "odds": -122,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-08",
+        "odds": -120,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -147.9
+  },
+  "Caitlin Clark_threes": {
+    "player_name": "Caitlin Clark",
+    "prop_type": "threes",
+    "odds_log": [
+      {
+        "date": "2025-06-20",
+        "odds": -110,
+        "result": "W",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-21",
+        "odds": -120,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-22",
+        "odds": -115,
+        "result": "W",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-23",
+        "odds": -125,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-24",
+        "odds": -130,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\ud83d\udd04 Volatile",
+    "risk_level": "medium",
+    "book_movement": "falling",
+    "ghost_read": "volatile - sharp swing",
+    "hit_rate": 0.6,
+    "avg_odds": -120.0
+  },
+  "Kelsey Plum_assists": {
+    "player_name": "Kelsey Plum",
+    "prop_type": "assists",
+    "odds_log": [
+      {
+        "date": "2025-06-20",
+        "odds": -140,
+        "result": "W",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-21",
+        "odds": -150,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-22",
+        "odds": -145,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-23",
+        "odds": -155,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-24",
+        "odds": -160,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\ud83d\udd25 Book Scared",
+    "risk_level": "low",
+    "book_movement": "falling",
+    "ghost_read": "juice-confirmed consistency",
+    "hit_rate": 0.8,
+    "avg_odds": -150.0
+  },
+  "Paige Bueckers_player_threes": {
+    "player_name": "Paige Bueckers",
+    "prop_type": "player_threes",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -215,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -255,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -211,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -209,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -270,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -205,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -203,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -285,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -199,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -197,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -224.9
+  },
+  "Arike Ogunbowale_player_threes": {
+    "player_name": "Arike Ogunbowale",
+    "prop_type": "player_threes",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -190,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -230,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -186,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -184,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -245,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -180,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -178,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -260,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -174,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -172,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -199.9
+  },
+  "Arike Ogunbowale_player_rebounds": {
+    "player_name": "Arike Ogunbowale",
+    "prop_type": "player_rebounds",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -162,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -202,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -158,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -156,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -217,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -152,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -150,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -232,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -146,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -144,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -171.9
+  },
+  "Paige Bueckers_player_rebounds": {
+    "player_name": "Paige Bueckers",
+    "prop_type": "player_rebounds",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -152,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -192,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -148,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -146,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -207,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -142,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -140,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -222,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -136,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -134,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -161.9
+  },
+  "Kayla Thornton_player_points": {
+    "player_name": "Kayla Thornton",
+    "prop_type": "player_points",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -128,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -168,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -124,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -122,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -183,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -118,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -116,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -198,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -112,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -110,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -137.9
+  },
+  "Erica Wheeler_player_threes": {
+    "player_name": "Erica Wheeler",
+    "prop_type": "player_threes",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -156,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -196,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -152,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -150,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -211,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -146,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -144,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -226,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -140,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -138,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -165.9
+  },
+  "Tina Charles_player_points": {
+    "player_name": "Tina Charles",
+    "prop_type": "player_points",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -128,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -168,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -124,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -122,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -183,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -118,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -116,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -198,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -112,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -110,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -137.9
+  },
+  "Tina Charles_player_rebounds": {
+    "player_name": "Tina Charles",
+    "prop_type": "player_rebounds",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -144,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -184,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -140,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -138,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -199,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -134,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -214,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -128,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -126,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -153.9
+  },
+  "Aliyah Boston_player_rebounds": {
+    "player_name": "Aliyah Boston",
+    "prop_type": "player_rebounds",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -144,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -184,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -140,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -138,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -199,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -134,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -214,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -128,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -126,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -153.9
+  },
+  "Natasha Howard_player_rebounds": {
+    "player_name": "Natasha Howard",
+    "prop_type": "player_rebounds",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -138,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -178,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -134,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -193,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -128,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -126,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -208,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -122,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -120,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -147.9
+  },
+  "Napheesa Collier_player_rebounds": {
+    "player_name": "Napheesa Collier",
+    "prop_type": "player_rebounds",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -136,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -176,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -130,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -191,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -126,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -124,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -206,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -120,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -118,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -145.9
+  },
+  "Marina Mabrey_player_threes": {
+    "player_name": "Marina Mabrey",
+    "prop_type": "player_threes",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -190,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -230,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -186,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -184,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -245,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -180,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -178,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -260,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -174,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -172,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -199.9
+  },
+  "Arike Ogunbowale_player_assists": {
+    "player_name": "Arike Ogunbowale",
+    "prop_type": "player_assists",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -168,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -208,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -164,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -162,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -223,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -158,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -156,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -238,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -152,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -150,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -177.9
+  },
+  "Arike Ogunbowale_player_points": {
+    "player_name": "Arike Ogunbowale",
+    "prop_type": "player_points",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -100,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -140,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -96,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -94,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -155,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -90,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -88,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -170,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -84,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -82,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -109.9
+  },
+  "Paige Bueckers_player_points": {
+    "player_name": "Paige Bueckers",
+    "prop_type": "player_points",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -105,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -145,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -101,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -99,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -160,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -95,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -93,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -175,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -89,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -87,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -114.9
+  },
+  "Paige Bueckers_player_points_rebounds_assists": {
+    "player_name": "Paige Bueckers",
+    "prop_type": "player_points_rebounds_assists",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -115,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -155,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -111,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -109,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -170,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -105,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -103,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -185,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -99,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -97,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -124.9
+  },
+  "Rhyne Howard_player_assists": {
+    "player_name": "Rhyne Howard",
+    "prop_type": "player_assists",
+    "odds_log": [
+      {
+        "date": "2025-06-21",
+        "odds": -142,
+        "result": "L",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-20",
+        "odds": -182,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-19",
+        "odds": -138,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-18",
+        "odds": -136,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-17",
+        "odds": -197,
+        "result": "L",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-16",
+        "odds": -132,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-15",
+        "odds": -130,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-14",
+        "odds": -212,
+        "result": "W",
+        "line_movement": "falling",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-13",
+        "odds": -126,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-12",
+        "odds": -124,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\u2705 Book Was Right",
+    "risk_level": "high",
+    "book_movement": "rising",
+    "ghost_read": "avoid - book validation",
+    "hit_rate": 0.2,
+    "avg_odds": -151.9
+  },
+  "Mike Trout_hits": {
+    "player_name": "Mike Trout",
+    "prop_type": "hits",
+    "odds_log": [
+      {
+        "date": "2025-06-26",
+        "odds": -150,
+        "result": "W",
+        "line_movement": null,
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-27",
+        "odds": -140,
+        "result": "W",
+        "line_movement": "rising",
+        "confidence_drift": null
+      },
+      {
+        "date": "2025-06-28",
+        "odds": -130,
+        "result": "L",
+        "line_movement": "rising",
+        "confidence_drift": null
+      }
+    ],
+    "trend_tag": "\ud83d\udc0d Demon Hidden Value",
+    "risk_level": "low",
+    "book_movement": "rising",
+    "ghost_read": "disrespected sleeper",
+    "hit_rate": 0.6666666666666666,
+    "avg_odds": -140.0
+  }
+}

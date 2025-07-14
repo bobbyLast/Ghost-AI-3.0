@@ -1,0 +1,435 @@
+{
+  "name": "Dimitrov G.",
+  "matches_played": 81,
+  "wins": 59,
+  "losses": 22,
+  "win_percentage": 0.728,
+  "tournaments_played": [
+    "Open 13",
+    "BNP Paribas Masters",
+    "Miami Open",
+    "Canadian Open",
+    "US Open",
+    "Australian Open",
+    "Wimbledon",
+    "Internazionali BNL d'Italia",
+    "Vienna Open",
+    "ABN AMRO World Tennis Tournament",
+    "Monte Carlo Masters",
+    "Qatar Exxon Mobil Open",
+    "Mutua Madrid Open",
+    "French Open",
+    "Queen's Club Championships",
+    "Western & Southern Financial Group Masters",
+    "Brisbane International",
+    "Shanghai Masters",
+    "Nordic Open",
+    "BNP Paribas Open"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2025",
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Brisbane International",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Hanfmann Y."
+    },
+    {
+      "tournament": "Brisbane International",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Vukic A."
+    },
+    {
+      "tournament": "Qatar Exxon Mobil Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Lehecka J."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Borges N."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Monfils G."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Alcaraz C."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Cina F."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Khachanov K."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Nakashima B."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Cerundolo F."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Djokovic N."
+    },
+    {
+      "tournament": "Monte Carlo Masters",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Jarry N."
+    },
+    {
+      "tournament": "Monte Carlo Masters",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Vacherot V."
+    },
+    {
+      "tournament": "Monte Carlo Masters",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Tabilo A."
+    },
+    {
+      "tournament": "Monte Carlo Masters",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "De Minaur A."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Jarry N."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Fearnley J."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Diallo G."
+    },
+    {
+      "tournament": "Internazionali BNL d'Italia",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Passaro F."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Quinn E."
+    }
+  ],
+  "head_to_head": {
+    "Murray A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Altmaier D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Hijikata R.": {
+      "wins": 3,
+      "losses": 0
+    },
+    "Thompson J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Rune H.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Fucsovics M.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Kokkinakis T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Borges N.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Korda S.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Rinderknech A.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Khachanov K.": {
+      "wins": 2,
+      "losses": 1
+    },
+    "Humbert U.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Sonego L.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Shevchenko A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "De Minaur A.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Muller A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Mannarino A.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Medvedev D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Tabilo A.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Hanfmann Y.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Hurkacz H.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Alcaraz C.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Zverev A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Sinner J.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Vacherot V.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Kecmanovic M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Mensik J.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Nishioka Y.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Atmane T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Fritz T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Kovacevic A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Marozsan F.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Bergs Z.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Lajovic D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Shang J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Monfils G.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Popyrin A.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Jacquet K.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Griekspoor T.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Rublev A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Halys Q.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Stricker D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Paul T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Zhang Zh.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Machac T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Etcheverry T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Vukic A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Lehecka J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Cina F.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Nakashima B.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Cerundolo F.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Djokovic N.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Jarry N.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Fearnley J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Diallo G.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Passaro F.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Quinn E.": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 41,
+      "losses": 14
+    },
+    "Clay": {
+      "wins": 14,
+      "losses": 7
+    },
+    "Grass": {
+      "wins": 4,
+      "losses": 1
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 46,
+      "losses": 16
+    },
+    "2025": {
+      "wins": 13,
+      "losses": 6
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

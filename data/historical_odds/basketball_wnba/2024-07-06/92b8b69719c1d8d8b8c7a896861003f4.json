@@ -1,0 +1,651 @@
+{
+  "timestamp": "2024-07-06T17:55:37Z",
+  "previous_timestamp": "2024-07-06T17:50:37Z",
+  "next_timestamp": "2024-07-06T18:00:37Z",
+  "data": {
+    "id": "92b8b69719c1d8d8b8c7a896861003f4",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-07-07T00:00:00Z",
+    "home_team": "Minnesota Lynx",
+    "away_team": "Washington Mystics",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-07-06T17:54:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -500
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 360
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -106,
+                "point": -9.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -114,
+                "point": 9.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-07-06T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -500
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 345
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -9.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-07-06T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -500
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 370
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -112,
+                "point": -9.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -112,
+                "point": 9.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 158.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 158.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2024-07-06T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -500
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 385
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -9.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 9.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 157.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 157.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2024-07-06T17:54:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -450
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 375
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -9.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-07-06T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -500
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 375
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -120,
+                "point": -8.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 100,
+                "point": 8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 158.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 158.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-07-06T17:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -480
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 360
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -115,
+                "point": -9.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -105,
+                "point": 9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-07-06T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -465
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 375
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -9.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-07-06T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -465
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 375
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -108,
+                "point": -9.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -108,
+                "point": 9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-07-06T17:54:49Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -470
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 345
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -9.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-07-06T17:54:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -485
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 370
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -112,
+                "point": -9.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -108,
+                "point": 9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-07-06T17:54:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -470
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 355
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -9.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 9.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

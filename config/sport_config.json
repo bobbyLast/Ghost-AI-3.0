@@ -1,0 +1,47 @@
+{
+  "sports": {
+    "nba": {
+      "name": "NBA Basketball",
+      "api_key_env": "NBA_API_KEY",
+      "default_unlocked": true,
+      "required_role": "admin"
+    },
+    "mlb": {
+      "name": "MLB Baseball",
+      "api_key_env": "MLB_API_KEY",
+      "default_unlocked": true,
+      "required_role": "admin"
+    },
+    "wnba": {
+      "name": "WNBA Basketball",
+      "api_key_env": "WNBA_API_KEY",
+      "default_unlocked": true,
+      "required_role": "admin"
+    },
+    "nfl": {
+      "name": "NFL Football",
+      "api_key_env": "NFL_API_KEY",
+      "default_unlocked": false,
+      "required_role": "admin"
+    },
+    "nhl": {
+      "name": "NHL Hockey",
+      "api_key_env": "NHL_API_KEY",
+      "default_unlocked": false,
+      "required_role": "admin"
+    },
+    "soccer": {
+      "name": "Soccer",
+      "api_key_env": "SOCCER_API_KEY",
+      "default_unlocked": false,
+      "required_role": "admin"
+    }
+  },
+  "api_keys": {},
+  "unlocked_sports": [
+    "nba",
+    "mlb",
+    "wnba"
+  ],
+  "required_roles": {}
+}

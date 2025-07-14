@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-13T17:55:37Z",
+  "previous_timestamp": "2025-06-13T17:50:37Z",
+  "next_timestamp": "2025-06-13T18:00:37Z",
+  "data": {
+    "id": "cbde718f1388e26294c7adba0fcd8698",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-14T20:11:00Z",
+    "home_team": "Houston Astros",
+    "away_team": "Minnesota Twins",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-13T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -116
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": -102
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -220,
+                "point": 1.5
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": 180,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

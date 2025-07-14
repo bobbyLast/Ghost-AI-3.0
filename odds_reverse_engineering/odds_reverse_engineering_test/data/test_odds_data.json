@@ -1,0 +1,990 @@
+{
+  "metadata": {
+    "generated_date": "2025-06-22T04:51:45.565596",
+    "total_players": 15,
+    "scenarios": [
+      "book_scared",
+      "trap_risk",
+      "hidden_value",
+      "book_validation",
+      "volatile"
+    ]
+  },
+  "players": {
+    "Mike Trout_batter_total_bases": {
+      "player_name": "Mike Trout",
+      "prop_type": "batter_total_bases",
+      "scenario": "book_scared",
+      "scenario_info": {
+        "description": "Odds dropping while hitting - book is scared",
+        "pattern": "falling_odds_rising_performance",
+        "trend_tag": "\ud83d\udd25 Book Scared",
+        "risk_level": "low"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": -42,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": -62,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": -74,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": -100,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": -120,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": -148,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": -166,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": -190,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": -210,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": -240,
+          "result": "W"
+        }
+      ],
+      "expected_trend_tag": "\ud83d\udd25 Book Scared",
+      "expected_risk_level": "low"
+    },
+    "Juan Soto_pitcher_earned_runs": {
+      "player_name": "Juan Soto",
+      "prop_type": "pitcher_earned_runs",
+      "scenario": "trap_risk",
+      "scenario_info": {
+        "description": "Odds dropping but missing - book overestimated",
+        "pattern": "falling_odds_falling_performance",
+        "trend_tag": "\ud83e\uddca Trap Risk",
+        "risk_level": "high"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": 116,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": 100,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": 92,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": 79,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": 61,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": 51,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": 44,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": 39,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": 29,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": 20,
+          "result": "L"
+        }
+      ],
+      "expected_trend_tag": "\ud83e\uddca Trap Risk",
+      "expected_risk_level": "high"
+    },
+    "Pete Alonso_batter_stolen_bases": {
+      "player_name": "Pete Alonso",
+      "prop_type": "batter_stolen_bases",
+      "scenario": "hidden_value",
+      "scenario_info": {
+        "description": "Odds rising but still hitting - books disrespecting",
+        "pattern": "rising_odds_rising_performance",
+        "trend_tag": "\ud83d\udc0d Demon Hidden Value",
+        "risk_level": "low"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": 40,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": 58,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": 87,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": 98,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": 110,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": 134,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": 153,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": 177,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": 191,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": 212,
+          "result": "W"
+        }
+      ],
+      "expected_trend_tag": "\ud83d\udc0d Demon Hidden Value",
+      "expected_risk_level": "low"
+    },
+    "Mookie Betts_batter_hits": {
+      "player_name": "Mookie Betts",
+      "prop_type": "batter_hits",
+      "scenario": "book_validation",
+      "scenario_info": {
+        "description": "Odds rising + missing - book was right",
+        "pattern": "rising_odds_falling_performance",
+        "trend_tag": "\u2705 Book Was Right",
+        "risk_level": "high"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": 108,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": 136,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": 160,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": 186,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": 211,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": 236,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": 263,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": 287,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": 318,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": 333,
+          "result": "L"
+        }
+      ],
+      "expected_trend_tag": "\u2705 Book Was Right",
+      "expected_risk_level": "high"
+    },
+    "Trea Turner_pitcher_walks": {
+      "player_name": "Trea Turner",
+      "prop_type": "pitcher_walks",
+      "scenario": "volatile",
+      "scenario_info": {
+        "description": "Mixed signals - volatile pattern",
+        "pattern": "mixed_signals",
+        "trend_tag": "\ud83d\udd04 Volatile",
+        "risk_level": "medium"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": -105,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": -89,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": -86,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": -79,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": -87,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": -84,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": -104,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": -102,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": -101,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": -98,
+          "result": "W"
+        }
+      ],
+      "expected_trend_tag": "\ud83d\udd04 Volatile",
+      "expected_risk_level": "medium"
+    },
+    "Manny Machado_pitcher_walks": {
+      "player_name": "Manny Machado",
+      "prop_type": "pitcher_walks",
+      "scenario": "book_scared",
+      "scenario_info": {
+        "description": "Odds dropping while hitting - book is scared",
+        "pattern": "falling_odds_rising_performance",
+        "trend_tag": "\ud83d\udd25 Book Scared",
+        "risk_level": "low"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": -112,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": -140,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": -159,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": -174,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": -201,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": -211,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": -229,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": -240,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": -264,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": -289,
+          "result": "W"
+        }
+      ],
+      "expected_trend_tag": "\ud83d\udd25 Book Scared",
+      "expected_risk_level": "low"
+    },
+    "Yordan Alvarez_batter_stolen_bases": {
+      "player_name": "Yordan Alvarez",
+      "prop_type": "batter_stolen_bases",
+      "scenario": "trap_risk",
+      "scenario_info": {
+        "description": "Odds dropping but missing - book overestimated",
+        "pattern": "falling_odds_falling_performance",
+        "trend_tag": "\ud83e\uddca Trap Risk",
+        "risk_level": "high"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": 50,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": 40,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": 25,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": 11,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": -5,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": -30,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": -35,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": -53,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": -74,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": -92,
+          "result": "L"
+        }
+      ],
+      "expected_trend_tag": "\ud83e\uddca Trap Risk",
+      "expected_risk_level": "high"
+    },
+    "Jose Altuve_pitcher_walks": {
+      "player_name": "Jose Altuve",
+      "prop_type": "pitcher_walks",
+      "scenario": "hidden_value",
+      "scenario_info": {
+        "description": "Odds rising but still hitting - books disrespecting",
+        "pattern": "rising_odds_rising_performance",
+        "trend_tag": "\ud83d\udc0d Demon Hidden Value",
+        "risk_level": "low"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": -38,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": -22,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": -5,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": 19,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": 35,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": 57,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": 70,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": 91,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": 117,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": 138,
+          "result": "L"
+        }
+      ],
+      "expected_trend_tag": "\ud83d\udc0d Demon Hidden Value",
+      "expected_risk_level": "low"
+    },
+    "Ronald Acu\u00f1a Jr._batter_hits": {
+      "player_name": "Ronald Acu\u00f1a Jr.",
+      "prop_type": "batter_hits",
+      "scenario": "book_validation",
+      "scenario_info": {
+        "description": "Odds rising + missing - book was right",
+        "pattern": "rising_odds_falling_performance",
+        "trend_tag": "\u2705 Book Was Right",
+        "risk_level": "high"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": 73,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": 97,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": 116,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": 141,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": 159,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": 174,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": 191,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": 222,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": 238,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": 254,
+          "result": "L"
+        }
+      ],
+      "expected_trend_tag": "\u2705 Book Was Right",
+      "expected_risk_level": "high"
+    },
+    "Nolan Arenado_batter_total_bases": {
+      "player_name": "Nolan Arenado",
+      "prop_type": "batter_total_bases",
+      "scenario": "volatile",
+      "scenario_info": {
+        "description": "Mixed signals - volatile pattern",
+        "pattern": "mixed_signals",
+        "trend_tag": "\ud83d\udd04 Volatile",
+        "risk_level": "medium"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": -192,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": -199,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": -199,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": -185,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": -186,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": -179,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": -186,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": -173,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": -182,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": -196,
+          "result": "W"
+        }
+      ],
+      "expected_trend_tag": "\ud83d\udd04 Volatile",
+      "expected_risk_level": "medium"
+    },
+    "Shohei Ohtani_pitcher_strikeouts": {
+      "player_name": "Shohei Ohtani",
+      "prop_type": "pitcher_strikeouts",
+      "scenario": "book_scared",
+      "scenario_info": {
+        "description": "Odds dropping while hitting - book is scared",
+        "pattern": "falling_odds_rising_performance",
+        "trend_tag": "\ud83d\udd25 Book Scared",
+        "risk_level": "low"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": 135,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": 110,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": 100,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": 85,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": 75,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": 60,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": 41,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": 21,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": 7,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": -6,
+          "result": "W"
+        }
+      ],
+      "expected_trend_tag": "\ud83d\udd25 Book Scared",
+      "expected_risk_level": "low"
+    },
+    "Kyle Tucker_batter_runs": {
+      "player_name": "Kyle Tucker",
+      "prop_type": "batter_runs",
+      "scenario": "trap_risk",
+      "scenario_info": {
+        "description": "Odds dropping but missing - book overestimated",
+        "pattern": "falling_odds_falling_performance",
+        "trend_tag": "\ud83e\uddca Trap Risk",
+        "risk_level": "high"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": 130,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": 115,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": 107,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": 85,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": 78,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": 70,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": 47,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": 41,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": 36,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": 11,
+          "result": "L"
+        }
+      ],
+      "expected_trend_tag": "\ud83e\uddca Trap Risk",
+      "expected_risk_level": "high"
+    },
+    "Aaron Judge_batter_rbis": {
+      "player_name": "Aaron Judge",
+      "prop_type": "batter_rbis",
+      "scenario": "hidden_value",
+      "scenario_info": {
+        "description": "Odds rising but still hitting - books disrespecting",
+        "pattern": "rising_odds_rising_performance",
+        "trend_tag": "\ud83d\udc0d Demon Hidden Value",
+        "risk_level": "low"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": -175,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": -160,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": -136,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": -107,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": -79,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": -59,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": -49,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": -35,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": -8,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": 9,
+          "result": "W"
+        }
+      ],
+      "expected_trend_tag": "\ud83d\udc0d Demon Hidden Value",
+      "expected_risk_level": "low"
+    },
+    "Paul Goldschmidt_pitcher_strikeouts": {
+      "player_name": "Paul Goldschmidt",
+      "prop_type": "pitcher_strikeouts",
+      "scenario": "book_validation",
+      "scenario_info": {
+        "description": "Odds rising + missing - book was right",
+        "pattern": "rising_odds_falling_performance",
+        "trend_tag": "\u2705 Book Was Right",
+        "risk_level": "high"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": -101,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": -86,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": -56,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": -28,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": 7,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": 28,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": 60,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": 83,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": 118,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": 153,
+          "result": "L"
+        }
+      ],
+      "expected_trend_tag": "\u2705 Book Was Right",
+      "expected_risk_level": "high"
+    },
+    "Corey Seager_pitcher_earned_runs": {
+      "player_name": "Corey Seager",
+      "prop_type": "pitcher_earned_runs",
+      "scenario": "volatile",
+      "scenario_info": {
+        "description": "Mixed signals - volatile pattern",
+        "pattern": "mixed_signals",
+        "trend_tag": "\ud83d\udd04 Volatile",
+        "risk_level": "medium"
+      },
+      "odds_log": [
+        {
+          "date": "2025-06-13",
+          "odds": 20,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-14",
+          "odds": 6,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-15",
+          "odds": -7,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-16",
+          "odds": -1,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-17",
+          "odds": -21,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-18",
+          "odds": -39,
+          "result": "L"
+        },
+        {
+          "date": "2025-06-19",
+          "odds": -27,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-20",
+          "odds": -17,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-21",
+          "odds": -31,
+          "result": "W"
+        },
+        {
+          "date": "2025-06-22",
+          "odds": -48,
+          "result": "L"
+        }
+      ],
+      "expected_trend_tag": "\ud83d\udd04 Volatile",
+      "expected_risk_level": "medium"
+    }
+  }
+}

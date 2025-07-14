@@ -1,0 +1,50 @@
+{
+  "results": [
+    {
+      "pick_id": "EXAMPLE_001_Example Player_hits",
+      "ticket_id": "EXAMPLE_001",
+      "player_name": "Example Player",
+      "prop_type": "hits",
+      "line": 1.5,
+      "actual_value": 2.0,
+      "result": "W",
+      "odds": -110,
+      "closing_odds": null,
+      "confidence": 0.75,
+      "game_id": "example_game_1",
+      "recorded_at": "2025-06-28T20:49:25.219783+00:00",
+      "result_updated_at": "2025-06-28T20:49:25.229956+00:00"
+    },
+    {
+      "pick_id": "EXAMPLE_001_Example Player_hits",
+      "ticket_id": "EXAMPLE_001",
+      "player_name": "Example Player",
+      "prop_type": "hits",
+      "line": 1.5,
+      "actual_value": 2.0,
+      "result": "W",
+      "odds": -110,
+      "closing_odds": null,
+      "confidence": 0.75,
+      "game_id": "example_game_1",
+      "recorded_at": "2025-07-06T05:47:46.601760+00:00",
+      "result_updated_at": "2025-07-06T05:47:46.622523+00:00"
+    },
+    {
+      "pick_id": "EXAMPLE_001_Example Player_hits",
+      "ticket_id": "EXAMPLE_001",
+      "player_name": "Example Player",
+      "prop_type": "hits",
+      "line": 1.5,
+      "actual_value": 2.0,
+      "result": "W",
+      "odds": -110,
+      "closing_odds": null,
+      "confidence": 0.75,
+      "game_id": "example_game_1",
+      "recorded_at": "2025-07-06T05:48:38.947335+00:00",
+      "result_updated_at": "2025-07-06T05:48:38.963968+00:00"
+    }
+  ],
+  "last_updated": "2025-07-06T05:48:38.968460+00:00"
+}

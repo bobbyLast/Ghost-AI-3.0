@@ -1,0 +1,503 @@
+{
+  "timestamp": "2024-09-02T17:55:37Z",
+  "previous_timestamp": "2024-09-02T17:50:38Z",
+  "next_timestamp": "2024-09-02T18:00:38Z",
+  "data": {
+    "id": "899e2a57ae37f5bc8a06ac682daf5e5b",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-03T23:00:00Z",
+    "home_team": "Connecticut Sun",
+    "away_team": "Seattle Storm",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-02T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-02T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -142
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-02T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-02T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-09-02T17:54:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-02T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -161
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 111
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-02T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-02T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 160.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 160.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-02T17:54:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-02T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -152
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 124
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-02T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -3.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": 3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-02T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 160.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 160.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-02T17:55:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-02T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -150
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 123
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-02T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -113,
+                "point": -3.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": 3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-02T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 160.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 160.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-02T17:52:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-02T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -140
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 118
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-02T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-02T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 159.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 159.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-02T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-02T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -150
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-02T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -3.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": 3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-02T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-02T17:55:19Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-09-02T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -3.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": 3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-02T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-09-02T17:55:20Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-09-02T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -108,
+                "point": -3.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -108,
+                "point": 3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-02T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-02T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-02T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -145
+              },
+              {
+                "name": "Seattle Storm",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-02T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-02T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-09-02T17:55:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-09-02T17:55:35Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -3.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": 3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-02T17:55:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

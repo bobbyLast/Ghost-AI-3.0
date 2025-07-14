@@ -1,0 +1,191 @@
+{
+  "batter_home_runs": [
+    [
+      "betonlineag",
+      "BetOnline.ag"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ],
+    [
+      "williamhill_us",
+      "Caesars"
+    ]
+  ],
+  "batter_hits": [
+    [
+      "betonlineag",
+      "BetOnline.ag"
+    ],
+    [
+      "draftkings",
+      "DraftKings"
+    ],
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "batter_total_bases": [
+    [
+      "betonlineag",
+      "BetOnline.ag"
+    ],
+    [
+      "draftkings",
+      "DraftKings"
+    ],
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ],
+    [
+      "mybookieag",
+      "MyBookie.ag"
+    ],
+    [
+      "williamhill_us",
+      "Caesars"
+    ]
+  ],
+  "batter_rbis": [
+    [
+      "draftkings",
+      "DraftKings"
+    ],
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "batter_runs_scored": [
+    [
+      "draftkings",
+      "DraftKings"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "batter_hits_runs_rbis": [
+    [
+      "draftkings",
+      "DraftKings"
+    ],
+    [
+      "fanatics",
+      "Fanatics"
+    ]
+  ],
+  "batter_singles": [
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "batter_doubles": [
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "batter_triples": [
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "batter_walks": [
+    [
+      "fanatics",
+      "Fanatics"
+    ]
+  ],
+  "batter_strikeouts": [],
+  "batter_stolen_bases": [
+    [
+      "draftkings",
+      "DraftKings"
+    ],
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ]
+  ],
+  "pitcher_strikeouts": [
+    [
+      "betonlineag",
+      "BetOnline.ag"
+    ],
+    [
+      "fanatics",
+      "Fanatics"
+    ],
+    [
+      "fanduel",
+      "FanDuel"
+    ],
+    [
+      "mybookieag",
+      "MyBookie.ag"
+    ]
+  ],
+  "pitcher_record_a_win": [],
+  "pitcher_hits_allowed": [
+    [
+      "betonlineag",
+      "BetOnline.ag"
+    ],
+    [
+      "fanatics",
+      "Fanatics"
+    ]
+  ],
+  "pitcher_walks": [],
+  "pitcher_earned_runs": [
+    [
+      "betonlineag",
+      "BetOnline.ag"
+    ],
+    [
+      "fanatics",
+      "Fanatics"
+    ]
+  ],
+  "pitcher_outs": [
+    [
+      "fanatics",
+      "Fanatics"
+    ]
+  ]
+}

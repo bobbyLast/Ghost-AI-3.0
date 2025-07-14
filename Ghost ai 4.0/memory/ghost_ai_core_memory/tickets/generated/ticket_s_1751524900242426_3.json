@@ -1,0 +1,49 @@
+{
+  "ticket_id": "s_1751524900242426_3",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Different Teams)",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "17189d6293e5b4eb93ed1431a6f312d6",
+  "home_team": "Arizona Diamondbacks",
+  "away_team": "San Francisco Giants",
+  "commence_time": "2025-07-03T01:40:00Z",
+  "selections": [
+    {
+      "player_name": "Rafael Devers",
+      "prop_type": "batter_total_bases",
+      "line": 4.5,
+      "odds": 600,
+      "bookmaker": "FanDuel",
+      "confidence": 0.143,
+      "value_rating": 0.0,
+      "team": "Boston Red Sox",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    },
+    {
+      "player_name": "Jake McCarthy",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 1.5,
+      "odds": -106,
+      "bookmaker": "Caesars",
+      "confidence": 0.515,
+      "value_rating": 0.0,
+      "team": "Arizona Diamondbacks",
+      "pick_side": "UNDER",
+      "over_under": "UNDER"
+    }
+  ],
+  "generated_at": "2025-07-03T06:41:40.248458+00:00",
+  "confidence_score": 0.329,
+  "avg_odds": 247.0,
+  "stake": 6.22,
+  "potential_payout": 84.62,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Boston Red Sox",
+    "Arizona Diamondbacks"
+  ],
+  "team_count": 2
+}

@@ -1,0 +1,68 @@
+{
+  "ticket_id": "s_1751611172986285_1",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "0a71aa25c5a06a81d5fface3760c6f03",
+  "home_team": "Washington Nationals",
+  "away_team": "Boston Red Sox",
+  "commence_time": "2025-07-04T15:06:00Z",
+  "selections": [
+    {
+      "player_name": "Riley Adams",
+      "prop_type": "batter_doubles",
+      "line": 0.5,
+      "odds": 440,
+      "bookmaker": "FanDuel",
+      "confidence": 0.185,
+      "value_rating": 0.0,
+      "team": "Washington Nationals",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Riley Adams",
+      "prop_type": "batter_hits",
+      "line": 2.5,
+      "odds": 3400,
+      "bookmaker": "FanDuel",
+      "confidence": 0.029,
+      "value_rating": 0.0,
+      "team": "Washington Nationals",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Jacob Young",
+      "prop_type": "batter_total_bases",
+      "line": 3.5,
+      "odds": 1400,
+      "bookmaker": "FanDuel",
+      "confidence": 0.067,
+      "value_rating": 0.0,
+      "team": "Washington Nationals",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T06:39:33.003222+00:00",
+  "confidence_score": 0.0937,
+  "avg_odds": 1746.67,
+  "potential_payout": 12615.75,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Washington Nationals"
+  ],
+  "team_count": 1,
+  "is_demon": true,
+  "is_goblin": false,
+  "stake": 3.97
+}

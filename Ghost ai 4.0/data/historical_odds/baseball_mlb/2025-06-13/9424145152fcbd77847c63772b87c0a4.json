@@ -1,0 +1,492 @@
+{
+  "timestamp": "2025-06-13T17:55:37Z",
+  "previous_timestamp": "2025-06-13T17:50:37Z",
+  "next_timestamp": "2025-06-13T18:00:37Z",
+  "data": {
+    "id": "9424145152fcbd77847c63772b87c0a4",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-14T01:41:00Z",
+    "home_team": "Arizona Diamondbacks",
+    "away_team": "San Diego Padres",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-13T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -134
+              },
+              {
+                "name": "San Diego Padres",
+                "price": 116
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 152,
+                "point": -1.5
+              },
+              {
+                "name": "San Diego Padres",
+                "price": -184,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-13T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -132
+              },
+              {
+                "name": "San Diego Padres",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 156,
+                "point": -1.5
+              },
+              {
+                "name": "San Diego Padres",
+                "price": -177,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -102,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-13T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -132
+              },
+              {
+                "name": "San Diego Padres",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "San Diego Padres",
+                "price": -177,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-13T17:54:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -135
+              },
+              {
+                "name": "San Diego Padres",
+                "price": 115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 150,
+                "point": -1.5
+              },
+              {
+                "name": "San Diego Padres",
+                "price": -178,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-13T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -137
+              },
+              {
+                "name": "San Diego Padres",
+                "price": 113
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 149,
+                "point": -1.5
+              },
+              {
+                "name": "San Diego Padres",
+                "price": -182,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -116,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-13T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -130
+              },
+              {
+                "name": "San Diego Padres",
+                "price": 118
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 152,
+                "point": -1.5
+              },
+              {
+                "name": "San Diego Padres",
+                "price": -175,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-13T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -135
+              },
+              {
+                "name": "San Diego Padres",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "San Diego Padres",
+                "price": -185,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-13T17:55:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -136
+              },
+              {
+                "name": "San Diego Padres",
+                "price": 114
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "San Diego Padres",
+                "price": -180,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-13T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -132
+              },
+              {
+                "name": "San Diego Padres",
+                "price": 110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 150,
+                "point": -1.5
+              },
+              {
+                "name": "San Diego Padres",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -104,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "event_id": "d3adee02fb91e10e6cd8db739567ee92",
+  "home_team": "Los Angeles Angels",
+  "away_team": "Washington Nationals",
+  "game_time": "2025-06-29T20:08:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "Los Angeles Angels": {
+      "odds": 13.0,
+      "implied_probability": 0.8849557522123894,
+      "tags": []
+    },
+    "Washington Nationals": {
+      "odds": 1.02,
+      "implied_probability": 0.9899029895070284,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-29T19:31:39.875296"
+}

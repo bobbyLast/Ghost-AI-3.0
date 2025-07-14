@@ -1,0 +1,893 @@
+{
+  "timestamp": "20250703_025429",
+  "sport": "combined",
+  "total_mlb_props": 11,
+  "total_wnba_props": 18,
+  "total_tickets": 15,
+  "mlb_tickets": 3,
+  "wnba_tickets": 12,
+  "tickets": [
+    {
+      "ticket_id": "s_1751525669417274_13",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Different Teams)",
+      "tier": "standard",
+      "sport": "WNBA",
+      "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+      "home_team": "Indiana Fever",
+      "away_team": "Las Vegas Aces",
+      "commence_time": "2025-07-03T23:00:00Z",
+      "selections": [
+        {
+          "player_name": "Chelsea Gray",
+          "prop_type": "player_points",
+          "line": 12.5,
+          "odds": -118,
+          "bookmaker": "FanDuel",
+          "confidence": 0.541,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Aari McDonald",
+          "prop_type": "player_points",
+          "line": 10.5,
+          "odds": -115,
+          "bookmaker": "FanDuel",
+          "confidence": 0.535,
+          "value_rating": 0.0,
+          "team": "Los Angeles Sparks",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:29.424909+00:00",
+      "confidence_score": 0.538,
+      "avg_odds": -116.5,
+      "stake": 7.79,
+      "potential_payout": 26.91,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Los Angeles Sparks",
+        "Las Vegas Aces"
+      ],
+      "team_count": 2,
+      "streak_id": "streak_1751525669417274_13",
+      "no_duplicate_team_rule": true,
+      "streak_info": {
+        "is_streak": true,
+        "legs": 2,
+        "target_amount": 1000,
+        "entry_amount": 1.0
+      }
+    },
+    {
+      "ticket_id": "s_1751525669441464_15",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Different Teams)",
+      "tier": "standard",
+      "sport": "WNBA",
+      "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+      "home_team": "Indiana Fever",
+      "away_team": "Las Vegas Aces",
+      "commence_time": "2025-07-03T23:00:00Z",
+      "selections": [
+        {
+          "player_name": "Kelsey Mitchell",
+          "prop_type": "player_points",
+          "line": 18.5,
+          "odds": -110,
+          "bookmaker": "FanDuel",
+          "confidence": 0.574,
+          "value_rating": 0.0,
+          "team": "Indiana Fever",
+          "pick_side": "UNDER",
+          "over_under": "UNDER"
+        },
+        {
+          "player_name": "Jackie Young",
+          "prop_type": "player_points",
+          "line": 16.5,
+          "odds": 102,
+          "bookmaker": "FanDuel",
+          "confidence": 0.495,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:29.453579+00:00",
+      "confidence_score": 0.5345,
+      "avg_odds": -4.0,
+      "stake": 7.76,
+      "potential_payout": 29.93,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Indiana Fever",
+        "Las Vegas Aces"
+      ],
+      "team_count": 2
+    },
+    {
+      "ticket_id": "s_1751525662320550_5",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Same Team - Check Required)",
+      "tier": "standard",
+      "sport": "MLB",
+      "game_id": "17189d6293e5b4eb93ed1431a6f312d6",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "San Francisco Giants",
+      "commence_time": "2025-07-03T01:40:00Z",
+      "selections": [
+        {
+          "player_name": "Jose Herrera",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 1.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "confidence": 0.524,
+          "value_rating": 0.0,
+          "team": "Unknown",
+          "pick_side": "UNDER",
+          "over_under": "UNDER"
+        },
+        {
+          "player_name": "Merrill Kelly",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": -1.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "confidence": 0.524,
+          "value_rating": 0.0,
+          "team": "Unknown",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:22.325993+00:00",
+      "confidence_score": 0.524,
+      "avg_odds": -110.0,
+      "stake": 7.68,
+      "potential_payout": 27.99,
+      "no_duplicate_players": true,
+      "team_diversity": false,
+      "unique_teams": [],
+      "team_count": 0
+    },
+    {
+      "ticket_id": "s_1751525662333210_7",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Same Team - Check Required)",
+      "tier": "standard",
+      "sport": "MLB",
+      "game_id": "d8e1074c762d2fcad4598334f23c9f52",
+      "home_team": "Colorado Rockies",
+      "away_team": "Houston Astros",
+      "commence_time": "2025-07-03T00:40:00Z",
+      "selections": [
+        {
+          "player_name": "Christian Walker",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 2.5,
+          "odds": -109,
+          "bookmaker": "Caesars",
+          "confidence": 0.522,
+          "value_rating": 0.0,
+          "team": "Unknown",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Corey Seager",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 6.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "confidence": 0.524,
+          "value_rating": 0.0,
+          "team": "Unknown",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:22.339570+00:00",
+      "confidence_score": 0.523,
+      "avg_odds": -109.5,
+      "stake": 7.67,
+      "potential_payout": 28.08,
+      "no_duplicate_players": true,
+      "team_diversity": false,
+      "unique_teams": [],
+      "team_count": 0
+    },
+    {
+      "ticket_id": "s_1751525669533558_24",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+      "tier": "standard",
+      "sport": "WNBA",
+      "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+      "home_team": "Indiana Fever",
+      "away_team": "Las Vegas Aces",
+      "commence_time": "2025-07-03T23:00:00Z",
+      "selections": [
+        {
+          "player_name": "Kelsey Mitchell",
+          "prop_type": "player_points",
+          "line": 18.5,
+          "odds": -110,
+          "bookmaker": "FanDuel",
+          "confidence": 0.574,
+          "value_rating": 0.0,
+          "team": "Indiana Fever",
+          "pick_side": "UNDER",
+          "over_under": "UNDER"
+        },
+        {
+          "player_name": "Jackie Young",
+          "prop_type": "player_points",
+          "line": 16.5,
+          "odds": 102,
+          "bookmaker": "FanDuel",
+          "confidence": 0.495,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Chelsea Gray",
+          "prop_type": "player_points_assists",
+          "line": 17.5,
+          "odds": 100,
+          "bookmaker": "FanDuel",
+          "confidence": 0.5,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:29.543711+00:00",
+      "confidence_score": 0.523,
+      "avg_odds": 30.67,
+      "stake": 7.67,
+      "potential_payout": 59.16,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Indiana Fever",
+        "Las Vegas Aces"
+      ],
+      "team_count": 2
+    },
+    {
+      "ticket_id": "s_1751525669589223_28",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 4-Leg Ticket",
+      "tier": "standard",
+      "sport": "WNBA",
+      "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+      "home_team": "Indiana Fever",
+      "away_team": "Las Vegas Aces",
+      "commence_time": "2025-07-03T23:00:00Z",
+      "selections": [
+        {
+          "player_name": "Jewell Loyd",
+          "prop_type": "player_points",
+          "line": 11.5,
+          "odds": 104,
+          "bookmaker": "FanDuel",
+          "confidence": 0.49,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "A'ja Wilson",
+          "prop_type": "player_points",
+          "line": 22.5,
+          "odds": -113,
+          "bookmaker": "FanDuel",
+          "confidence": 0.531,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Kelsey Mitchell",
+          "prop_type": "player_points",
+          "line": 18.5,
+          "odds": -110,
+          "bookmaker": "FanDuel",
+          "confidence": 0.574,
+          "value_rating": 0.0,
+          "team": "Indiana Fever",
+          "pick_side": "UNDER",
+          "over_under": "UNDER"
+        },
+        {
+          "player_name": "Jackie Young",
+          "prop_type": "player_points",
+          "line": 16.5,
+          "odds": 102,
+          "bookmaker": "FanDuel",
+          "confidence": 0.495,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:29.605761+00:00",
+      "confidence_score": 0.5225,
+      "avg_odds": -4.25,
+      "stake": 7.67,
+      "potential_payout": 113.74,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Indiana Fever",
+        "Las Vegas Aces"
+      ],
+      "team_count": 2
+    },
+    {
+      "ticket_id": "s_1751525669523502_23",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+      "tier": "standard",
+      "sport": "WNBA",
+      "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+      "home_team": "Indiana Fever",
+      "away_team": "Las Vegas Aces",
+      "commence_time": "2025-07-03T23:00:00Z",
+      "selections": [
+        {
+          "player_name": "Aari McDonald",
+          "prop_type": "player_points",
+          "line": 10.5,
+          "odds": -115,
+          "bookmaker": "FanDuel",
+          "confidence": 0.535,
+          "value_rating": 0.0,
+          "team": "Los Angeles Sparks",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Jewell Loyd",
+          "prop_type": "player_points",
+          "line": 11.5,
+          "odds": 104,
+          "bookmaker": "FanDuel",
+          "confidence": 0.49,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "A'ja Wilson",
+          "prop_type": "player_points",
+          "line": 22.5,
+          "odds": -113,
+          "bookmaker": "FanDuel",
+          "confidence": 0.531,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:29.533558+00:00",
+      "confidence_score": 0.5187,
+      "avg_odds": -41.33,
+      "stake": 7.64,
+      "potential_payout": 54.92,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Los Angeles Sparks",
+        "Las Vegas Aces"
+      ],
+      "team_count": 2
+    },
+    {
+      "ticket_id": "s_1751525669466031_17",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Different Teams)",
+      "tier": "standard",
+      "sport": "WNBA",
+      "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+      "home_team": "Indiana Fever",
+      "away_team": "Las Vegas Aces",
+      "commence_time": "2025-07-03T23:00:00Z",
+      "selections": [
+        {
+          "player_name": "Aliyah Boston",
+          "prop_type": "player_points_rebounds",
+          "line": 23.5,
+          "odds": -110,
+          "bookmaker": "FanDuel",
+          "confidence": 0.524,
+          "value_rating": 0.0,
+          "team": "Indiana Fever",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Jewell Loyd",
+          "prop_type": "player_points_rebounds",
+          "line": 15.5,
+          "odds": -104,
+          "bookmaker": "FanDuel",
+          "confidence": 0.51,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:29.474499+00:00",
+      "confidence_score": 0.517,
+      "avg_odds": -107.0,
+      "stake": 7.63,
+      "potential_payout": 28.57,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Indiana Fever",
+        "Las Vegas Aces"
+      ],
+      "team_count": 2,
+      "streak_id": "streak_1751525669466031_17",
+      "no_duplicate_team_rule": true,
+      "streak_info": {
+        "is_streak": true,
+        "legs": 2,
+        "target_amount": 1000,
+        "entry_amount": 1.0
+      }
+    },
+    {
+      "ticket_id": "s_1751525669547747_25",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+      "tier": "standard",
+      "sport": "WNBA",
+      "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+      "home_team": "Indiana Fever",
+      "away_team": "Las Vegas Aces",
+      "commence_time": "2025-07-03T23:00:00Z",
+      "selections": [
+        {
+          "player_name": "Jackie Young",
+          "prop_type": "player_points_rebounds",
+          "line": 20.5,
+          "odds": -104,
+          "bookmaker": "FanDuel",
+          "confidence": 0.51,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Aliyah Boston",
+          "prop_type": "player_points_rebounds",
+          "line": 23.5,
+          "odds": -110,
+          "bookmaker": "FanDuel",
+          "confidence": 0.524,
+          "value_rating": 0.0,
+          "team": "Indiana Fever",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Jewell Loyd",
+          "prop_type": "player_points_rebounds",
+          "line": 15.5,
+          "odds": -104,
+          "bookmaker": "FanDuel",
+          "confidence": 0.51,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:29.560847+00:00",
+      "confidence_score": 0.5147,
+      "avg_odds": -106.0,
+      "stake": 7.61,
+      "potential_payout": 55.9,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Indiana Fever",
+        "Las Vegas Aces"
+      ],
+      "team_count": 2
+    },
+    {
+      "ticket_id": "s_1751525669478683_18",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Different Teams)",
+      "tier": "standard",
+      "sport": "WNBA",
+      "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+      "home_team": "Indiana Fever",
+      "away_team": "Las Vegas Aces",
+      "commence_time": "2025-07-03T23:00:00Z",
+      "selections": [
+        {
+          "player_name": "A'ja Wilson",
+          "prop_type": "player_points_rebounds_assists",
+          "line": 35.5,
+          "odds": -108,
+          "bookmaker": "FanDuel",
+          "confidence": 0.519,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Aliyah Boston",
+          "prop_type": "player_points_rebounds_assists",
+          "line": 27.5,
+          "odds": -102,
+          "bookmaker": "FanDuel",
+          "confidence": 0.505,
+          "value_rating": 0.0,
+          "team": "Indiana Fever",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:29.484557+00:00",
+      "confidence_score": 0.512,
+      "avg_odds": -105.0,
+      "stake": 7.59,
+      "potential_payout": 28.95,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Indiana Fever",
+        "Las Vegas Aces"
+      ],
+      "team_count": 2,
+      "streak_id": "streak_1751525669478683_18",
+      "no_duplicate_team_rule": true,
+      "streak_info": {
+        "is_streak": true,
+        "legs": 2,
+        "target_amount": 1000,
+        "entry_amount": 1.0
+      }
+    },
+    {
+      "ticket_id": "s_1751525669605761_29",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 4-Leg Ticket",
+      "tier": "standard",
+      "sport": "WNBA",
+      "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+      "home_team": "Indiana Fever",
+      "away_team": "Las Vegas Aces",
+      "commence_time": "2025-07-03T23:00:00Z",
+      "selections": [
+        {
+          "player_name": "Chelsea Gray",
+          "prop_type": "player_points_assists",
+          "line": 17.5,
+          "odds": 100,
+          "bookmaker": "FanDuel",
+          "confidence": 0.5,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Jackie Young",
+          "prop_type": "player_points_rebounds",
+          "line": 20.5,
+          "odds": -104,
+          "bookmaker": "FanDuel",
+          "confidence": 0.51,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Aliyah Boston",
+          "prop_type": "player_points_rebounds",
+          "line": 23.5,
+          "odds": -110,
+          "bookmaker": "FanDuel",
+          "confidence": 0.524,
+          "value_rating": 0.0,
+          "team": "Indiana Fever",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Jewell Loyd",
+          "prop_type": "player_points_rebounds",
+          "line": 15.5,
+          "odds": -104,
+          "bookmaker": "FanDuel",
+          "confidence": 0.51,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:29.621705+00:00",
+      "confidence_score": 0.511,
+      "avg_odds": -54.5,
+      "stake": 7.58,
+      "potential_payout": 111.36,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Indiana Fever",
+        "Las Vegas Aces"
+      ],
+      "team_count": 2
+    },
+    {
+      "ticket_id": "s_1751525669429049_14",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Same Team - Check Required)",
+      "tier": "standard",
+      "sport": "WNBA",
+      "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+      "home_team": "Indiana Fever",
+      "away_team": "Las Vegas Aces",
+      "commence_time": "2025-07-03T23:00:00Z",
+      "selections": [
+        {
+          "player_name": "Jewell Loyd",
+          "prop_type": "player_points",
+          "line": 11.5,
+          "odds": 104,
+          "bookmaker": "FanDuel",
+          "confidence": 0.49,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "A'ja Wilson",
+          "prop_type": "player_points",
+          "line": 22.5,
+          "odds": -113,
+          "bookmaker": "FanDuel",
+          "confidence": 0.531,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:29.439451+00:00",
+      "confidence_score": 0.5105,
+      "avg_odds": -4.5,
+      "stake": 7.58,
+      "potential_payout": 29.15,
+      "no_duplicate_players": true,
+      "team_diversity": false,
+      "unique_teams": [
+        "Las Vegas Aces"
+      ],
+      "team_count": 1
+    },
+    {
+      "ticket_id": "s_1751525669453579_16",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Same Team - Check Required)",
+      "tier": "standard",
+      "sport": "WNBA",
+      "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+      "home_team": "Indiana Fever",
+      "away_team": "Las Vegas Aces",
+      "commence_time": "2025-07-03T23:00:00Z",
+      "selections": [
+        {
+          "player_name": "Chelsea Gray",
+          "prop_type": "player_points_assists",
+          "line": 17.5,
+          "odds": 100,
+          "bookmaker": "FanDuel",
+          "confidence": 0.5,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Jackie Young",
+          "prop_type": "player_points_rebounds",
+          "line": 20.5,
+          "odds": -104,
+          "bookmaker": "FanDuel",
+          "confidence": 0.51,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:29.464025+00:00",
+      "confidence_score": 0.505,
+      "avg_odds": -2.0,
+      "stake": 7.54,
+      "potential_payout": 29.58,
+      "no_duplicate_players": true,
+      "team_diversity": false,
+      "unique_teams": [
+        "Las Vegas Aces"
+      ],
+      "team_count": 1
+    },
+    {
+      "ticket_id": "s_1751525662369453_11",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 5-Leg Ticket",
+      "tier": "standard",
+      "sport": "MLB",
+      "game_id": "17189d6293e5b4eb93ed1431a6f312d6",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "San Francisco Giants",
+      "commence_time": "2025-07-03T01:40:00Z",
+      "selections": [
+        {
+          "player_name": "Jake McCarthy",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 1.5,
+          "odds": -106,
+          "bookmaker": "Caesars",
+          "confidence": 0.515,
+          "value_rating": 0.0,
+          "team": "Arizona Diamondbacks",
+          "pick_side": "UNDER",
+          "over_under": "UNDER"
+        },
+        {
+          "player_name": "Brett Wisely",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 1.5,
+          "odds": 135,
+          "bookmaker": "DraftKings",
+          "confidence": 0.426,
+          "value_rating": 0.0,
+          "team": "Unknown",
+          "pick_side": "UNDER",
+          "over_under": "UNDER"
+        },
+        {
+          "player_name": "Jung Hoo Lee",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 0.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "confidence": 0.524,
+          "value_rating": 0.0,
+          "team": "Unknown",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "Jose Herrera",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": 1.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "confidence": 0.524,
+          "value_rating": 0.0,
+          "team": "Unknown",
+          "pick_side": "UNDER",
+          "over_under": "UNDER"
+        },
+        {
+          "player_name": "Merrill Kelly",
+          "prop_type": "batter_hits_runs_rbis",
+          "line": -1.5,
+          "odds": -110,
+          "bookmaker": "Underdog",
+          "confidence": 0.524,
+          "value_rating": 0.0,
+          "team": "Unknown",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:22.377617+00:00",
+      "confidence_score": 0.5026,
+      "avg_odds": -60.2,
+      "stake": 6.02,
+      "potential_payout": 191.3,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Arizona Diamondbacks"
+      ],
+      "team_count": 1
+    },
+    {
+      "ticket_id": "s_1751525669576983_27",
+      "ticket_type": "normal",
+      "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+      "tier": "standard",
+      "sport": "WNBA",
+      "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+      "home_team": "Indiana Fever",
+      "away_team": "Las Vegas Aces",
+      "commence_time": "2025-07-03T23:00:00Z",
+      "selections": [
+        {
+          "player_name": "Aliyah Boston",
+          "prop_type": "player_rebounds",
+          "line": 8.5,
+          "odds": -108,
+          "bookmaker": "FanDuel",
+          "confidence": 0.519,
+          "value_rating": 0.0,
+          "team": "Indiana Fever",
+          "pick_side": "OVER",
+          "over_under": "OVER"
+        },
+        {
+          "player_name": "A'ja Wilson",
+          "prop_type": "player_rebounds",
+          "line": 9.5,
+          "odds": -108,
+          "bookmaker": "FanDuel",
+          "confidence": 0.569,
+          "value_rating": 0.0,
+          "team": "Las Vegas Aces",
+          "pick_side": "UNDER",
+          "over_under": "UNDER"
+        },
+        {
+          "player_name": "Kelsey Mitchell",
+          "prop_type": "player_threes",
+          "line": 2.5,
+          "odds": 140,
+          "bookmaker": "FanDuel",
+          "confidence": 0.417,
+          "value_rating": 0.0,
+          "team": "Indiana Fever",
+          "pick_side": "UNDER",
+          "over_under": "UNDER"
+        }
+      ],
+      "generated_at": "2025-07-03T06:54:29.585179+00:00",
+      "confidence_score": 0.5017,
+      "avg_odds": -25.33,
+      "stake": 7.51,
+      "potential_payout": 66.85,
+      "no_duplicate_players": true,
+      "team_diversity": true,
+      "unique_teams": [
+        "Indiana Fever",
+        "Las Vegas Aces"
+      ],
+      "team_count": 2
+    }
+  ]
+}

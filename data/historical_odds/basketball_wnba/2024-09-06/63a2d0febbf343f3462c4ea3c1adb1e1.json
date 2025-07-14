@@ -1,0 +1,174 @@
+{
+  "timestamp": "2024-09-06T17:55:38Z",
+  "previous_timestamp": "2024-09-06T17:50:39Z",
+  "next_timestamp": "2024-09-06T18:00:38Z",
+  "data": {
+    "id": "63a2d0febbf343f3462c4ea3c1adb1e1",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-08T01:00:00Z",
+    "home_team": "Seattle Storm",
+    "away_team": "Phoenix Mercury",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-06T17:54:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-06T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": 170
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -205
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-06T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-06T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-09-06T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-06T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": 135
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -200
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-06T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-06T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-06T17:54:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": 152
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -188
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -114,
+                "point": 4.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -106,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 163.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 163.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

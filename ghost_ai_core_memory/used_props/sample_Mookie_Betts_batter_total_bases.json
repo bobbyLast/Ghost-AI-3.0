@@ -1,0 +1,15 @@
+{
+  "event_id": "sample_event_001",
+  "player": "Mookie Betts",
+  "market": "batter_total_bases",
+  "line": 1.5,
+  "side": "over",
+  "odds": -120,
+  "bookmaker": "fanduel",
+  "closing_time": "2025-06-29T15:00:00",
+  "result": "hit",
+  "final_stat": 3.0,
+  "tags": [],
+  "confidence_predicted": 0.5454545454545454,
+  "ghost_pick": "over"
+}

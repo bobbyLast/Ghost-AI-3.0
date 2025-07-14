@@ -1,0 +1,598 @@
+{
+  "timestamp": "2025-06-14T17:55:37Z",
+  "previous_timestamp": "2025-06-14T17:50:37Z",
+  "next_timestamp": "2025-06-14T18:00:37Z",
+  "data": {
+    "id": "a8949b2cdea105832c8e772f06f6b3b3",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-14T20:11:00Z",
+    "home_team": "New York Mets",
+    "away_team": "Tampa Bay Rays",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-14T17:52:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -142
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 152,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -184,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-14T17:55:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -140
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 127
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 158,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -180,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-14T17:55:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -140
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 127
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 157,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -180,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-14T17:54:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:54:52Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -145
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 122
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:54:52Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 158,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:54:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-06-14T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -147
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 145,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -170,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -106,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-14T17:55:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -142
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 117
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 158,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -194,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-14T17:55:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:34Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -150
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:34Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -185,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-14T17:55:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -140
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 126
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 156,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -180,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-14T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -148
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 123
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -200,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": 102,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-14T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -145
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 155,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-14T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -144
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 121
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 160,
+                "point": -1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -185,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+[
+  {
+    "sport": "tennis",
+    "match": "Novak Djokovic vs Carlos Alcaraz",
+    "confidence": 0.7641709598616258,
+    "reasoning": "Analysis based on Kaggle data for Novak Djokovic vs Carlos Alcaraz",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 44.5,
+        "over_odds": -113,
+        "under_odds": -120,
+        "confidence": 0.7973041841222954
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -129,
+        "away_odds": 145,
+        "confidence": 0.6102807282483212
+      },
+      {
+        "type": "Total Aces",
+        "line": 18.5,
+        "over_odds": -117,
+        "under_odds": -115,
+        "confidence": 0.5048557857382359
+      }
+    ],
+    "timestamp": "2025-07-12T14:35:17.296609"
+  },
+  {
+    "sport": "tennis",
+    "match": "Stefanos Tsitsipas vs Alexander Zverev",
+    "confidence": 0.7580005278467995,
+    "reasoning": "Analysis based on Kaggle data for Stefanos Tsitsipas vs Alexander Zverev",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 46.5,
+        "over_odds": -120,
+        "under_odds": -119,
+        "confidence": 0.6261105875811757
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -142,
+        "away_odds": 143,
+        "confidence": 0.6441124389283476
+      },
+      {
+        "type": "Total Aces",
+        "line": 17.0,
+        "over_odds": -119,
+        "under_odds": -114,
+        "confidence": 0.6239843495601833
+      }
+    ],
+    "timestamp": "2025-07-12T14:35:17.296609"
+  },
+  {
+    "sport": "tennis",
+    "match": "Andrey Rublev vs Casper Ruud",
+    "confidence": 0.8194359463010139,
+    "reasoning": "Analysis based on Kaggle data for Andrey Rublev vs Casper Ruud",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 39.0,
+        "over_odds": -117,
+        "under_odds": -111,
+        "confidence": 0.7152693667782468
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -137,
+        "away_odds": 134,
+        "confidence": 0.6702231399798957
+      },
+      {
+        "type": "Total Aces",
+        "line": 19.5,
+        "over_odds": -120,
+        "under_odds": -117,
+        "confidence": 0.6821375903393894
+      }
+    ],
+    "timestamp": "2025-07-12T14:35:17.296609"
+  }
+]

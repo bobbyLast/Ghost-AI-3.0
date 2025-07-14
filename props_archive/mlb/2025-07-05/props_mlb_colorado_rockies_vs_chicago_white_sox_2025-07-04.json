@@ -1,0 +1,2000 @@
+{
+  "id": "59231231d997ec04e4c55a7c91bc4c10",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-05T00:13:00Z",
+  "home_team": "Colorado Rockies",
+  "away_team": "Chicago White Sox",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-05T01:54:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 750,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Chase Meidroth",
+              "price": 750,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 850,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan McMahon",
+              "price": 900,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Ritter",
+              "price": 950,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Edgar Quero",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Thairo Estrada",
+              "price": 1200,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Beck",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael A. Taylor",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Hunter Goodman",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Colson Montgomery",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Rojas",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Seattle Mariners",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Mickey Moniak",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-05T01:54:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 1400,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 120,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Toglia",
+              "price": 140,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Edgar Quero",
+              "price": 150,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 170,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Mickey Moniak",
+              "price": 210,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael A. Taylor",
+              "price": 220,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 135,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Toglia",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Edgar Quero",
+              "price": 1800,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 2600,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael A. Taylor",
+              "price": 3900,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Chase Meidroth",
+              "price": 112,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan McMahon",
+              "price": 132,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 158,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Ritter",
+              "price": 168,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Hunter Goodman",
+              "price": 194,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Thairo Estrada",
+              "price": 205,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Beck",
+              "price": 220,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Colson Montgomery",
+              "price": 240,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Rojas",
+              "price": 250,
+              "point": 0.5,
+              "team": "Seattle Mariners",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-05T01:54:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Edgar Quero",
+              "price": 2400,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan McMahon",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Toglia",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Hunter Goodman",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mickey Moniak",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael A. Taylor",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Beck",
+              "price": 2100,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Ritter",
+              "price": 2200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Colson Montgomery",
+              "price": 2600,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Chase Meidroth",
+              "price": 2700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 3200,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Thairo Estrada",
+              "price": 3500,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Rojas",
+              "price": 4100,
+              "point": 0.5,
+              "team": "Seattle Mariners",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-05T01:54:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Edgar Quero",
+              "price": 430,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 440,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 900,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Hunter Goodman",
+              "price": 1400,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mickey Moniak",
+              "price": 1800,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Toglia",
+              "price": 1800,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Ritter",
+              "price": 1900,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Colson Montgomery",
+              "price": 1900,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Michael A. Taylor",
+              "price": 500,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Edgar Quero",
+              "price": 1600,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 1800,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 2700,
+              "point": 2.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 3300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Hunter Goodman",
+              "price": 4500,
+              "point": 2.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 4500,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 250,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 310,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 330,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Hunter Goodman",
+              "price": 460,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-05T01:54:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 240,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Toglia",
+              "price": 250,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 270,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Ritter",
+              "price": 390,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Edgar Quero",
+              "price": 400,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Chase Meidroth",
+              "price": 195,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan McMahon",
+              "price": 200,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 330,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Hunter Goodman",
+              "price": 340,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Michael A. Taylor",
+              "price": 370,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Beck",
+              "price": 380,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Mickey Moniak",
+              "price": 390,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Rojas",
+              "price": 390,
+              "point": 0.5,
+              "team": "Seattle Mariners",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Colson Montgomery",
+              "price": 390,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-05T01:54:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Meidroth",
+              "price": 165,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan McMahon",
+              "price": 230,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Edgar Quero",
+              "price": 230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 250,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Ritter",
+              "price": 260,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 270,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Toglia",
+              "price": 280,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Thairo Estrada",
+              "price": 310,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Hunter Goodman",
+              "price": 360,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Rojas",
+              "price": 370,
+              "point": 0.5,
+              "team": "Seattle Mariners",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Beck",
+              "price": 380,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Colson Montgomery",
+              "price": 390,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-05T01:54:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 115,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Mickey Moniak",
+              "price": 200,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael A. Taylor",
+              "price": 210,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan McMahon",
+              "price": 370,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Toglia",
+              "price": 135,
+              "point": 2.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 165,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 360,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael A. Taylor",
+              "price": 600,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mickey Moniak",
+              "price": 600,
+              "point": 2.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan McMahon",
+              "price": 750,
+              "point": 2.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-05T01:54:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mickey Moniak",
+              "price": 3300,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 3600,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Toglia",
+              "price": 4000,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Hunter Goodman",
+              "price": 4400,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Beck",
+              "price": 4500,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 4700,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Ritter",
+              "price": 4700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-05T01:54:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ryan McMahon",
+              "price": 550,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 850,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-05T01:54:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 178,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Miguel Vargas",
+              "price": -254,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 178,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brooks Baldwin",
+              "price": -254,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 133,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Andrew Benintendi",
+              "price": -184,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Edgar Quero",
+              "price": 184,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Edgar Quero",
+              "price": -264,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-05T01:44:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 800,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Miguel Vargas",
+              "price": -1600,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 850,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Freeman",
+              "price": -1750,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Toglia",
+              "price": 900,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Toglia",
+              "price": -1850,
+              "point": 1.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Beck",
+              "price": 600,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Beck",
+              "price": -1100,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Thairo Estrada",
+              "price": 650,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Thairo Estrada",
+              "price": -1200,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mickey Moniak",
+              "price": 750,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Mickey Moniak",
+              "price": -1450,
+              "point": 0.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 850,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Andrew Benintendi",
+              "price": -1750,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Chase Meidroth",
+              "price": 850,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Chase Meidroth",
+              "price": -1750,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Hunter Goodman",
+              "price": 850,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Hunter Goodman",
+              "price": -1750,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Tauchman",
+              "price": 850,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Tauchman",
+              "price": -1750,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Ritter",
+              "price": 850,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ryan Ritter",
+              "price": -1750,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan McMahon",
+              "price": 900,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Ryan McMahon",
+              "price": -1850,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brooks Baldwin",
+              "price": -2200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Edgar Quero",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Edgar Quero",
+              "price": -3000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Colson Montgomery",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Colson Montgomery",
+              "price": -3500,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Michael A. Taylor",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Michael A. Taylor",
+              "price": -5000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-05T01:44:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 126,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Miguel Vargas",
+              "price": -162,
+              "point": 3.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Edgar Quero",
+              "price": 145,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Edgar Quero",
+              "price": -188,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mike Tauchman",
+              "price": 100,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Tauchman",
+              "price": -130,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 105,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Andrew Benintendi",
+              "price": -135,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Toglia",
+              "price": 105,
+              "point": 2.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Toglia",
+              "price": -135,
+              "point": 2.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 120,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Freeman",
+              "price": -154,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Mickey Moniak",
+              "price": -115,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Mickey Moniak",
+              "price": -115,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Ritter",
+              "price": 115,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ryan Ritter",
+              "price": -148,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Thairo Estrada",
+              "price": -142,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Thairo Estrada",
+              "price": 110,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Beck",
+              "price": -135,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Beck",
+              "price": 105,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Chase Meidroth",
+              "price": -105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Chase Meidroth",
+              "price": -125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan McMahon",
+              "price": -105,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Ryan McMahon",
+              "price": -125,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 145,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brooks Baldwin",
+              "price": -188,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Hunter Goodman",
+              "price": 145,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Hunter Goodman",
+              "price": -188,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Colson Montgomery",
+              "price": 190,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Colson Montgomery",
+              "price": -255,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-05T01:44:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mike Tauchman",
+              "price": 220,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mike Tauchman",
+              "price": -300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mickey Moniak",
+              "price": 230,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Mickey Moniak",
+              "price": -320,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Andrew Benintendi",
+              "price": 240,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Andrew Benintendi",
+              "price": -330,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 310,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Miguel Vargas",
+              "price": -455,
+              "point": 1.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael A. Taylor",
+              "price": 525,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Michael A. Taylor",
+              "price": -925,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Thairo Estrada",
+              "price": 145,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Thairo Estrada",
+              "price": -188,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Beck",
+              "price": 185,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Beck",
+              "price": -248,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Chase Meidroth",
+              "price": 195,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Chase Meidroth",
+              "price": -265,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Ritter",
+              "price": 230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ryan Ritter",
+              "price": -320,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 260,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Freeman",
+              "price": -370,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ryan McMahon",
+              "price": 270,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Ryan McMahon",
+              "price": -385,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Edgar Quero",
+              "price": 280,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Edgar Quero",
+              "price": -400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Toglia",
+              "price": 290,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Toglia",
+              "price": -420,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brooks Baldwin",
+              "price": -440,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Colson Montgomery",
+              "price": 375,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Colson Montgomery",
+              "price": -575,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Hunter Goodman",
+              "price": 375,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Hunter Goodman",
+              "price": -575,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-05T01:44:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mickey Moniak",
+              "price": 1500,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Mickey Moniak",
+              "price": -5000,
+              "point": 1.5,
+              "team": "Los Angeles Angels",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Chase Meidroth",
+              "price": 700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Chase Meidroth",
+              "price": -1300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Beck",
+              "price": 700,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Beck",
+              "price": -1300,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Freeman",
+              "price": 850,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Freeman",
+              "price": -1750,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Brooks Baldwin",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brooks Baldwin",
+              "price": -2500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Thairo Estrada",
+              "price": 1400,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Thairo Estrada",
+              "price": -4000,
+              "point": 0.5,
+              "team": "San Francisco Giants",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Toglia",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Toglia",
+              "price": -7000,
+              "point": 0.5,
+              "team": "Colorado Rockies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Miguel Vargas",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            },
+            {
+              "name": "Under",
+              "description": "Miguel Vargas",
+              "price": -7000,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "IF"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

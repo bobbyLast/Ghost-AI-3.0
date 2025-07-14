@@ -1,0 +1,29 @@
+[
+  {
+    "streak_id": "s_1751418912501222_19",
+    "legs": 2,
+    "current_win_streak": 1,
+    "status": "active",
+    "history": [
+      "s_1751418912501222_19"
+    ]
+  },
+  {
+    "streak_id": "s_1751418912504225_20",
+    "legs": 2,
+    "current_win_streak": 1,
+    "status": "active",
+    "history": [
+      "s_1751418912504225_20"
+    ]
+  },
+  {
+    "streak_id": "s_1751418912536603_23",
+    "legs": 2,
+    "current_win_streak": 1,
+    "status": "active",
+    "history": [
+      "s_1751418912536603_23"
+    ]
+  }
+]

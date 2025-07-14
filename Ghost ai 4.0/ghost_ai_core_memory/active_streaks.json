@@ -1,0 +1,73 @@
+{
+  "streak_20250703_205136": {
+    "created_date": "2025-07-03",
+    "status": "completed",
+    "wins": 3,
+    "losses": 0,
+    "picks": [
+      {
+        "player_name": "Shohei Ohtani",
+        "stat_type": "strikeouts",
+        "line": 6.5,
+        "over_under": "U",
+        "odds": -120,
+        "confidence": 0.8,
+        "sport": "MLB",
+        "game_info": {
+          "commence_time": "2025-01-02T20:00:00Z"
+        },
+        "analysis": {}
+      },
+      {
+        "player_name": "Aaron Judge",
+        "stat_type": "total_bases",
+        "line": 1.5,
+        "over_under": "O",
+        "odds": -110,
+        "confidence": 0.75,
+        "sport": "MLB",
+        "game_info": {
+          "commence_time": "2025-01-02T19:00:00Z"
+        },
+        "analysis": {}
+      },
+      {
+        "player_name": "Mookie Betts",
+        "stat_type": "hits",
+        "line": 1.5,
+        "over_under": "O",
+        "odds": -105,
+        "confidence": 0.7,
+        "sport": "MLB",
+        "game_info": {
+          "commence_time": "2025-01-02T21:00:00Z"
+        },
+        "analysis": {}
+      }
+    ],
+    "total_legs": 3,
+    "original_confidence": 0.42000000000000004,
+    "results": [
+      {
+        "player_name": "Aaron Judge",
+        "stat_type": "total_bases",
+        "result": "win",
+        "timestamp": "2025-07-03T20:51:36.506597"
+      },
+      {
+        "player_name": "Shohei Ohtani",
+        "stat_type": "strikeouts",
+        "result": "win",
+        "timestamp": "2025-07-03T20:51:36.534085"
+      },
+      {
+        "player_name": "Mookie Betts",
+        "stat_type": "hits",
+        "result": "win",
+        "timestamp": "2025-07-03T20:51:36.564423"
+      }
+    ],
+    "final_result": "win",
+    "posted_update": true
+  }
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "selections": [
+      {"player_name": "A", "prop_type": "HRR", "team": "TEX", "opponent": "HOU"},
+      {"player_name": "A", "prop_type": "HRR", "team": "TEX", "opponent": "HOU"}
+    ]
+  },
+  {
+    "selections": [
+      {"player_name": "B", "prop_type": "Hits", "team": "NYY", "opponent": "MIN"},
+      {"player_name": "C", "prop_type": "RBIs", "team": "LAD", "opponent": "ATL"}
+    ]
+  },
+  {
+    "selections": [
+      {"player_name": "D", "prop_type": "Runs", "team": "ATL", "opponent": "NYM"},
+      {"player_name": "E", "prop_type": "HRR", "team": "MIN", "opponent": "CHI"},
+      {"player_name": "F", "prop_type": "Hits", "team": "HOU", "opponent": "LAD"}
+    ]
+  }
+] 

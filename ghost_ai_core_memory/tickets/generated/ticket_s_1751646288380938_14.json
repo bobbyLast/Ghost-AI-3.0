@@ -1,0 +1,83 @@
+{
+  "ticket_id": "s_1751646288380938_14",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 4-Leg Ticket",
+  "tier": "standard",
+  "sport": "WNBA",
+  "game_id": "e3f2627b86f4dae2fc98a365c3d7adb3",
+  "home_team": "Connecticut Sun",
+  "away_team": "Las Vegas Aces",
+  "commence_time": "2025-07-06T20:00:00Z",
+  "selections": [
+    {
+      "player_name": "A'ja Wilson",
+      "prop_type": "player_points_rebounds",
+      "line": 33.5,
+      "odds": -108,
+      "bookmaker": "FanDuel",
+      "confidence": 0.469,
+      "value_rating": 0.0,
+      "team": "Las Vegas Aces",
+      "pick_side": "UNDER",
+      "over_under": "UNDER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Jackie Young",
+      "prop_type": "player_points_rebounds_assists",
+      "line": 24.5,
+      "odds": -102,
+      "bookmaker": "FanDuel",
+      "confidence": 0.455,
+      "value_rating": 0.0,
+      "team": "Las Vegas Aces",
+      "pick_side": "UNDER",
+      "over_under": "UNDER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Olivia Nelson-Ododa",
+      "prop_type": "player_rebounds",
+      "line": 6.5,
+      "odds": 110,
+      "bookmaker": "FanDuel",
+      "confidence": 0.476,
+      "value_rating": 0.0,
+      "team": "Connecticut Sun",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Jackie Young",
+      "prop_type": "player_rebounds_assists",
+      "line": 8.5,
+      "odds": 106,
+      "bookmaker": "FanDuel",
+      "confidence": 0.485,
+      "value_rating": 0.0,
+      "team": "Las Vegas Aces",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T16:24:48.392482+00:00",
+  "confidence_score": 0.4712,
+  "avg_odds": 1.5,
+  "potential_payout": 120.12,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Connecticut Sun",
+    "Las Vegas Aces"
+  ],
+  "team_count": 2,
+  "is_demon": true,
+  "is_goblin": false,
+  "stake": 7.16
+}

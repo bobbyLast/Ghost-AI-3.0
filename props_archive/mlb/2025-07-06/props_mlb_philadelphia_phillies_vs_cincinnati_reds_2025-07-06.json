@@ -1,0 +1,2312 @@
+{
+  "id": "f1ad4200ef836dcf68ddc6f1fdbb6b33",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-06T17:38:00Z",
+  "home_team": "Philadelphia Phillies",
+  "away_team": "Cincinnati Reds",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-06T19:09:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 900,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 900,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt McLain",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Lux",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Steer",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Stephenson",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Encarnacion-Strand",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Will Benson",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "TJ Friedl",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-06T19:09:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 130,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 148,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 146,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 152,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Matt McLain",
+              "price": 168,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 174,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 194,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Lux",
+              "price": 225,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Steer",
+              "price": 250,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Stephenson",
+              "price": 265,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Encarnacion-Strand",
+              "price": 270,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "TJ Friedl",
+              "price": 280,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 1300,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 1500,
+              "point": 2.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 2000,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 3600,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 125,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 165,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 175,
+              "point": 1.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 220,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-06T19:09:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 1500,
+              "point": 1.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 750,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 850,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt McLain",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Encarnacion-Strand",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Stephenson",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Steer",
+              "price": 2100,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Benson",
+              "price": 2200,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Lux",
+              "price": 2500,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "TJ Friedl",
+              "price": 2900,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-06T19:09:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 1000,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 3300,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 3400,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 4000,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 4200,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 4500,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 4600,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 340,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 360,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 360,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 360,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 380,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 420,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 440,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 440,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Lux",
+              "price": 440,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 340,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 430,
+              "point": 1.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 1400,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 1500,
+              "point": 1.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 1500,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 1500,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Steer",
+              "price": 1700,
+              "point": 1.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-06T19:09:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 280,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 410,
+              "point": 1.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 220,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 230,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 230,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt McLain",
+              "price": 230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 230,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 240,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 250,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 260,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 270,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Lux",
+              "price": 370,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-06T19:09:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 220,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 230,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 230,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt McLain",
+              "price": 270,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 280,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 300,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 310,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 330,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Lux",
+              "price": 350,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Steer",
+              "price": 410,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "TJ Friedl",
+              "price": 420,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Stephenson",
+              "price": 430,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Encarnacion-Strand",
+              "price": 470,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 500,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Benson",
+              "price": 550,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-06T19:09:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 220,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 340,
+              "point": 2.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 500,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 650,
+              "point": 2.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 750,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 900,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt McLain",
+              "price": 950,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 950,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 125,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 160,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 360,
+              "point": 1.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 370,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-06T19:09:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 2800,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 4400,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-06T19:02:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 1600,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -5000,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Bohm",
+              "price": 550,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Alec Bohm",
+              "price": -975,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 600,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Castellanos",
+              "price": -1100,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Encarnacion-Strand",
+              "price": 700,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Christian Encarnacion-Strand",
+              "price": -1300,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 700,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "J.T. Realmuto",
+              "price": -1300,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt McLain",
+              "price": 800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Matt McLain",
+              "price": -1600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 850,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Max Kepler",
+              "price": -1750,
+              "point": 0.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 850,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -1750,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 900,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Hays",
+              "price": -1850,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Benson",
+              "price": 950,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Will Benson",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryson Stott",
+              "price": -2200,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "TJ Friedl",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "TJ Friedl",
+              "price": -2200,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Brandon Marsh",
+              "price": -2500,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Elly De La Cruz",
+              "price": -2500,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Steer",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Spencer Steer",
+              "price": -2500,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -3000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Lux",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Lux",
+              "price": -3000,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Stephenson",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Stephenson",
+              "price": -3000,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-06T19:02:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 145,
+              "point": 3.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Hays",
+              "price": -188,
+              "point": 3.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 160,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -212,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 105,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Max Kepler",
+              "price": -135,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 115,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -148,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 140,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Brandon Marsh",
+              "price": -182,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Bohm",
+              "price": -148,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Alec Bohm",
+              "price": 115,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": -130,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Castellanos",
+              "price": 100,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": -120,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "J.T. Realmuto",
+              "price": -110,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Encarnacion-Strand",
+              "price": 100,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Christian Encarnacion-Strand",
+              "price": -130,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 105,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Elly De La Cruz",
+              "price": -135,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "TJ Friedl",
+              "price": 105,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "TJ Friedl",
+              "price": -135,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt McLain",
+              "price": 110,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Matt McLain",
+              "price": -142,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 115,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryson Stott",
+              "price": -148,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Will Benson",
+              "price": 126,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Will Benson",
+              "price": -162,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 160,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -212,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Lux",
+              "price": 165,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Lux",
+              "price": -218,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Steer",
+              "price": 170,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Spencer Steer",
+              "price": -225,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Stephenson",
+              "price": 180,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Stephenson",
+              "price": -240,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-06T19:02:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 250,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -350,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Max Kepler",
+              "price": 280,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Max Kepler",
+              "price": -400,
+              "point": 1.5,
+              "team": "Minnesota Twins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Bohm",
+              "price": 160,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Alec Bohm",
+              "price": -212,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Nick Castellanos",
+              "price": 180,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Nick Castellanos",
+              "price": -240,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 210,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "J.T. Realmuto",
+              "price": -285,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "TJ Friedl",
+              "price": 240,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "TJ Friedl",
+              "price": -330,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Encarnacion-Strand",
+              "price": 250,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Christian Encarnacion-Strand",
+              "price": -350,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 260,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryson Stott",
+              "price": -370,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt McLain",
+              "price": 260,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Matt McLain",
+              "price": -370,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 280,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Elly De La Cruz",
+              "price": -400,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 310,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Hays",
+              "price": -455,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 325,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Brandon Marsh",
+              "price": -475,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Will Benson",
+              "price": 340,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Will Benson",
+              "price": -500,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Lux",
+              "price": 360,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Gavin Lux",
+              "price": -550,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Steer",
+              "price": 360,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Spencer Steer",
+              "price": -550,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Stephenson",
+              "price": 400,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Stephenson",
+              "price": -625,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 425,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -675,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 500,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -850,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-06T19:02:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 700,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Elly De La Cruz",
+              "price": -1300,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Matt McLain",
+              "price": 850,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Matt McLain",
+              "price": -1750,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 850,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -1750,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Bryson Stott",
+              "price": 950,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryson Stott",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Will Benson",
+              "price": 950,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Will Benson",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brandon Marsh",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Brandon Marsh",
+              "price": -3000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "TJ Friedl",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "TJ Friedl",
+              "price": -4000,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "J.T. Realmuto",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "J.T. Realmuto",
+              "price": -7000,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Steer",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Spencer Steer",
+              "price": -7000,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-06T19:12:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 475,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 575,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 600,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt McLain",
+              "price": 625,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 675,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Steer",
+              "price": 700,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Encarnacion-Strand",
+              "price": 700,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Stephenson",
+              "price": 750,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Will Benson",
+              "price": 750,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Bohm",
+              "price": 750,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Gavin Lux",
+              "price": 800,
+              "point": 0.5,
+              "team": "Los Angeles Dodgers",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-06T19:12:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Trea Turner",
+              "price": 133,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Trea Turner",
+              "price": -184,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Spencer Steer",
+              "price": 252,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Spencer Steer",
+              "price": -384,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Elly De La Cruz",
+              "price": 159,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Elly De La Cruz",
+              "price": -224,
+              "point": 0.5,
+              "team": "Cincinnati Reds",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Matt McLain",
+              "price": 152,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Matt McLain",
+              "price": -214,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Schwarber",
+              "price": 213,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Schwarber",
+              "price": -314,
+              "point": 2.5,
+              "team": "Philadelphia Phillies",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Hays",
+              "price": 196,
+              "point": 4.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Hays",
+              "price": -284,
+              "point": 4.5,
+              "team": "Baltimore Orioles",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Bryce Harper",
+              "price": 196,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Bryce Harper",
+              "price": -284,
+              "point": 0.5,
+              "team": "Philadelphia Phillies",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Bohm",
+              "price": 178,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Alec Bohm",
+              "price": -254,
+              "point": 1.5,
+              "team": "Philadelphia Phillies",
+              "position": "3B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

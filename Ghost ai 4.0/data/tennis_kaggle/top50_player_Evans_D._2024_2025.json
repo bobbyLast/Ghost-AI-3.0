@@ -1,0 +1,313 @@
+{
+  "name": "Evans D.",
+  "matches_played": 32,
+  "wins": 10,
+  "losses": 22,
+  "win_percentage": 0.312,
+  "tournaments_played": [
+    "Almaty Open",
+    "Abierto Mexicano",
+    "Miami Open",
+    "US Open",
+    "Australian Open",
+    "Wimbledon",
+    "Los Cabos Open",
+    "Lyon Open",
+    "Internazionali BNL d'Italia",
+    "Monte Carlo Masters",
+    "Grand Prix Hassan II",
+    "Delray Beach Open",
+    "French Open",
+    "Rosmalen Grass Court Championships",
+    "Barcelona Open",
+    "Queen's Club Championships",
+    "Winston-Salem Open at Wake Forest University",
+    "Eastbourne International",
+    "Adelaide International",
+    "Shanghai Masters",
+    "BNP Paribas Open",
+    "Dubai Tennis Championships"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2025",
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Barcelona Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Nakashima B."
+    },
+    {
+      "tournament": "Internazionali BNL d'Italia",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Fognini F."
+    },
+    {
+      "tournament": "Lyon Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Rinderknech A."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Rune H."
+    },
+    {
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Tabilo A."
+    },
+    {
+      "tournament": "Winston-Salem Open at Wake Forest University",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Vukic A."
+    },
+    {
+      "tournament": "US Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Khachanov K."
+    },
+    {
+      "tournament": "US Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Navone M."
+    },
+    {
+      "tournament": "US Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "De Minaur A."
+    },
+    {
+      "tournament": "Shanghai Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Seyboth Wild T."
+    },
+    {
+      "tournament": "Almaty Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Daniel T."
+    },
+    {
+      "tournament": "Almaty Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Tiafoe F."
+    },
+    {
+      "tournament": "Dubai Tennis Championships",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Khachanov K."
+    },
+    {
+      "tournament": "Rosmalen Grass Court Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Hijikata R."
+    },
+    {
+      "tournament": "Rosmalen Grass Court Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Humbert U."
+    },
+    {
+      "tournament": "Queen's Club Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Tiafoe F."
+    },
+    {
+      "tournament": "Queen's Club Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Nakashima B."
+    },
+    {
+      "tournament": "Eastbourne International",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Kecmanovic M."
+    },
+    {
+      "tournament": "Eastbourne International",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Paul T."
+    },
+    {
+      "tournament": "Eastbourne International",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Brooksby J."
+    }
+  ],
+  "head_to_head": {
+    "Hijikata R.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Bublik A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Sonego L.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Thompson J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Safiullin R.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Kokkinakis T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Shelton B.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Eubanks C.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Carballes Baena R.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Ofner S.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Nakashima B.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Fognini F.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Rinderknech A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Rune H.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Tabilo A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Vukic A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Khachanov K.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Navone M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "De Minaur A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Seyboth Wild T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Daniel T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Tiafoe F.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Humbert U.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Kecmanovic M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Paul T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Brooksby J.": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 6,
+      "losses": 12
+    },
+    "Clay": {
+      "wins": 0,
+      "losses": 6
+    },
+    "Grass": {
+      "wins": 4,
+      "losses": 4
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 6,
+      "losses": 18
+    },
+    "2025": {
+      "wins": 4,
+      "losses": 4
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

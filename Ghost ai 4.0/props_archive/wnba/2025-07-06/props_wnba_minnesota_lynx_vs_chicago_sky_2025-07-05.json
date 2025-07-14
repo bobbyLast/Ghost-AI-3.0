@@ -1,0 +1,334 @@
+{
+  "id": "1999c831c4b70b4360923597f50660d3",
+  "sport_key": "basketball_wnba",
+  "sport_title": "WNBA",
+  "commence_time": "2025-07-06T23:00:00Z",
+  "home_team": "Minnesota Lynx",
+  "away_team": "Chicago Sky",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-07-05T18:05:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ariel Atkins",
+              "price": 110,
+              "point": 3.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Ariel Atkins",
+              "price": -146,
+              "point": 3.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-07-05T18:07:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Angel Reese",
+              "price": -114,
+              "point": 14.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Reese",
+              "price": -114,
+              "point": 14.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Ariel Atkins",
+              "price": -106,
+              "point": 14.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Ariel Atkins",
+              "price": -122,
+              "point": 14.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points_assists",
+          "last_update": "2025-07-05T18:05:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ariel Atkins",
+              "price": -122,
+              "point": 17.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Ariel Atkins",
+              "price": -108,
+              "point": 17.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points_rebounds",
+          "last_update": "2025-07-05T18:05:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Angel Reese",
+              "price": -106,
+              "point": 28.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Reese",
+              "price": -125,
+              "point": 28.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_points_rebounds_assists",
+          "last_update": "2025-07-05T18:05:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Angel Reese",
+              "price": -114,
+              "point": 31.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Reese",
+              "price": -114,
+              "point": 31.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Ariel Atkins",
+              "price": -120,
+              "point": 20.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Ariel Atkins",
+              "price": -110,
+              "point": 20.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-05T18:07:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Angel Reese",
+              "price": -110,
+              "point": 13.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Reese",
+              "price": -120,
+              "point": 13.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_threes",
+          "last_update": "2025-07-05T18:05:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ariel Atkins",
+              "price": -122,
+              "point": 1.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Ariel Atkins",
+              "price": -108,
+              "point": 1.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_points",
+          "last_update": "2025-07-05T18:07:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Angel Reese",
+              "price": -125,
+              "point": 14.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Reese",
+              "price": -105,
+              "point": 14.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Ariel Atkins",
+              "price": -105,
+              "point": 14.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Ariel Atkins",
+              "price": -125,
+              "point": 14.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-05T18:07:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Angel Reese",
+              "price": -125,
+              "point": 13.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Reese",
+              "price": -105,
+              "point": 13.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_points",
+          "last_update": "2025-07-05T18:05:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ariel Atkins",
+              "price": -110,
+              "point": 14.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Ariel Atkins",
+              "price": -120,
+              "point": 14.5,
+              "team": "Chicago Sky",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Reese",
+              "price": -120,
+              "point": 14.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Reese",
+              "price": -110,
+              "point": 14.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-05T18:05:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Angel Reese",
+              "price": -115,
+              "point": 13.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Reese",
+              "price": -115,
+              "point": 13.5,
+              "team": "Chicago Sky",
+              "position": "F"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

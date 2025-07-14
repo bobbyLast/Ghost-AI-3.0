@@ -1,0 +1,1630 @@
+{
+  "id": "bbcc68448b3ad669f63226e1e6865748",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-10T00:14:00Z",
+  "home_team": "Houston Astros",
+  "away_team": "Cleveland Guardians",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-10T01:59:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Trammell",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "David Fry",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-10T01:59:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 7500,
+              "point": 3.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 280,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 280,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 290,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Johnathan Rodriguez",
+              "price": 500,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 235,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 225,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Trammell",
+              "price": 270,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 280,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 230,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 5000,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-10T01:59:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 2100,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 3100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Trammell",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 2200,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 2700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 2600,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "David Fry",
+              "price": 2800,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 3100,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Johnathan Rodriguez",
+              "price": 2800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Will Wilson",
+              "price": 4100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-10T01:59:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Johnathan Rodriguez",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 3000,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 4000,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 700,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-10T01:59:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 600,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 650,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 370,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-10T01:59:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 320,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 370,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 440,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 450,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Trammell",
+              "price": 480,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "David Fry",
+              "price": 600,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Will Wilson",
+              "price": 800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-10T01:59:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 290,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 280,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 850,
+              "point": 2.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-10T01:57:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cooper Hummel",
+              "price": 3200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-10T02:02:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 750,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-10T01:59:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 252,
+              "point": 5.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Ramirez",
+              "price": -384,
+              "point": 5.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 287,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Martinez",
+              "price": -454,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 345,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Carlos Santana",
+              "price": -579,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-10T02:07:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 280,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Cam Smith",
+              "price": -410,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 350,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Carlos Santana",
+              "price": -550,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 290,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Isaac Paredes",
+              "price": -435,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 275,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Altuve",
+              "price": -400,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 240,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mauricio Dubon",
+              "price": -335,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 350,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Victor Caratini",
+              "price": -550,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-10T02:07:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 280,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Cam Smith",
+              "price": -410,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 350,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Carlos Santana",
+              "price": -550,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 290,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Isaac Paredes",
+              "price": -435,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 275,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Altuve",
+              "price": -400,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 240,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mauricio Dubon",
+              "price": -335,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 350,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Victor Caratini",
+              "price": -550,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-10T01:58:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brayan Rocchio",
+              "price": 2800,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 900,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Will Wilson",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Trammell",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Johnathan Rodriguez",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-10T01:58:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brayan Rocchio",
+              "price": 1050,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Brayan Rocchio",
+              "price": -3000,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 270,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Steven Kwan",
+              "price": -425,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 245,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mauricio Dubon",
+              "price": -375,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 380,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Yainer Diaz",
+              "price": -650,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 270,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Altuve",
+              "price": -425,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Will Wilson",
+              "price": 600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Will Wilson",
+              "price": -1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Trammell",
+              "price": 380,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Taylor Trammell",
+              "price": -650,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 335,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Martinez",
+              "price": -550,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 295,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Isaac Paredes",
+              "price": -475,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 345,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Victor Caratini",
+              "price": -575,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 260,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Ramirez",
+              "price": -400,
+              "point": 2.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 335,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Carlos Santana",
+              "price": -550,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Johnathan Rodriguez",
+              "price": 560,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Johnathan Rodriguez",
+              "price": -1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-10T01:58:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 260,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Isaac Paredes",
+              "price": -375,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 300,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Victor Caratini",
+              "price": -425,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 260,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Cam Smith",
+              "price": -375,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 240,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Martinez",
+              "price": -325,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 210,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Steven Kwan",
+              "price": -285,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 230,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mauricio Dubon",
+              "price": -325,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 240,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Altuve",
+              "price": -350,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 210,
+              "point": 5.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Ramirez",
+              "price": -285,
+              "point": 5.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 280,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Carlos Santana",
+              "price": -400,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-10T01:58:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brayan Rocchio",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 475,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 400,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mauricio Dubon",
+              "price": -700,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 350,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Steven Kwan",
+              "price": -630,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 475,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Will Wilson",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Trammell",
+              "price": 700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 500,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 550,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 600,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 475,
+              "point": 1.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 500,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Johnathan Rodriguez",
+              "price": 900,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-10T01:58:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brayan Rocchio",
+              "price": 1050,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Brayan Rocchio",
+              "price": -3000,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 295,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Isaac Paredes",
+              "price": -475,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 380,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Yainer Diaz",
+              "price": -650,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 345,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Victor Caratini",
+              "price": -575,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Carlos Santana",
+              "price": 335,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Carlos Santana",
+              "price": -550,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 245,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Mauricio Dubon",
+              "price": -375,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Will Wilson",
+              "price": 600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Will Wilson",
+              "price": -1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Taylor Trammell",
+              "price": 380,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Taylor Trammell",
+              "price": -650,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Steven Kwan",
+              "price": 270,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Steven Kwan",
+              "price": -425,
+              "point": 0.5,
+              "team": "Cleveland Guardians",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Angel Martinez",
+              "price": 335,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Angel Martinez",
+              "price": -550,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Ramirez",
+              "price": 260,
+              "point": 5.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Ramirez",
+              "price": -400,
+              "point": 5.5,
+              "team": "Cleveland Guardians",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 270,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Altuve",
+              "price": -425,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Johnathan Rodriguez",
+              "price": 560,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Johnathan Rodriguez",
+              "price": -1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_walks",
+          "last_update": "2025-07-10T01:58:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Cam Smith",
+              "price": -3500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Victor Caratini",
+              "price": -3500,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Jose Altuve",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 700,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Isaac Paredes",
+              "price": -1300,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

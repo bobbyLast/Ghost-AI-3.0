@@ -1,0 +1,40 @@
+{
+  "ticket_id": "s_1751658507828482_26",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 1-Leg Ticket",
+  "tier": "standard",
+  "sport": "WNBA",
+  "game_id": "e3f2627b86f4dae2fc98a365c3d7adb3",
+  "home_team": "Connecticut Sun",
+  "away_team": "Las Vegas Aces",
+  "commence_time": "2025-07-06T20:00:00Z",
+  "selections": [
+    {
+      "player_name": "Chelsea Gray",
+      "prop_type": "player_points_assists",
+      "line": 17.5,
+      "odds": -102,
+      "bookmaker": "FanDuel",
+      "confidence": 0.675,
+      "value_rating": 0.0,
+      "team": "Las Vegas Aces",
+      "pick_side": "UNDER",
+      "over_under": "UNDER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T19:48:27.840166+00:00",
+  "confidence_score": 0.675,
+  "avg_odds": -102.0,
+  "potential_payout": 17.45,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Las Vegas Aces"
+  ],
+  "team_count": 1,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 8.81
+}

@@ -1,0 +1,2020 @@
+{
+  "id": "3228f9b80daeec530a5d115e984cc12c",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-05T18:21:00Z",
+  "home_team": "Chicago Cubs",
+  "away_team": "St. Louis Cardinals",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-05T03:33:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 370,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": 380,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 400,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 410,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 410,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": 410,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": 430,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": 430,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 430,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 460,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": 490,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 490,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Justin Turner",
+              "price": 500,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": 500,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Carson Kelly",
+              "price": 500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": 600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": 600,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": 600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-05T03:33:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 700,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": 700,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 750,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": 800,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": 850,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 1000,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": 1000,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 1100,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 1100,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": 1100,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": 1200,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Carson Kelly",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": 1800,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": 1900,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": 2200,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 2200,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Justin Turner",
+              "price": 2300,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": -340,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": -340,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": -330,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": -320,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": -290,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": -270,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": -270,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": -260,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": -260,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": -260,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": -260,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": -230,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Carson Kelly",
+              "price": -190,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": -185,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": -180,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": -170,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Justin Turner",
+              "price": -160,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": -160,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": 155,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 160,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 165,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": 170,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": 175,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": 200,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 200,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": 210,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 210,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 210,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 220,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": 230,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Carson Kelly",
+              "price": 300,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": 320,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": 320,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Justin Turner",
+              "price": 360,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": 380,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 380,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-05T03:33:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 240,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 290,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": 300,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": 320,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 320,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": 330,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": 330,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 360,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 360,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": 440,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": 440,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Carson Kelly",
+              "price": 450,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": 470,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": 470,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Justin Turner",
+              "price": 700,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": 800,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 900,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-05T03:33:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 280,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": 360,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 360,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": 380,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": 380,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 390,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 420,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": 430,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": 440,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Carson Kelly",
+              "price": 460,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 480,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": 500,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": 500,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": 600,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 700,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Justin Turner",
+              "price": 750,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": 800,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 800,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": -105,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 115,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": 125,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": 120,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": 120,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 125,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 140,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 145,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": 145,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Carson Kelly",
+              "price": 140,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": 155,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": 150,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": 165,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": 170,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 175,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Justin Turner",
+              "price": 200,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 220,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": 230,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-05T03:33:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": -200,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": -190,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": -180,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": -155,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": -150,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": -140,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": -140,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": -135,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": -125,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Carson Kelly",
+              "price": -115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": -110,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": -105,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": -105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": 115,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": 115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 115,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 120,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Justin Turner",
+              "price": 120,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 350,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 400,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 400,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": 440,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": 480,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": 500,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": 500,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": 550,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 600,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Carson Kelly",
+              "price": 700,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": 700,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": 700,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 750,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": 950,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 950,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Justin Turner",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": 1000,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-05T03:33:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": -190,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": -165,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": -160,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": -155,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": -150,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": -145,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": -125,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": -125,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": -125,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": -120,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": -120,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": -115,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": -105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carson Kelly",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": 100,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Justin Turner",
+              "price": 100,
+              "point": 0.5,
+              "team": "Toronto Blue Jays",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": 125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-05T03:33:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": 280,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 310,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 450,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 470,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 550,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": 750,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": 750,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 920,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": 1100,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": 1260,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": 1280,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": 1400,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-05T03:33:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": -145,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": -140,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": -120,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": -120,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": -110,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": -110,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": -110,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": -105,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 100,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": 105,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": 110,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 120,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": 130,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Carson Kelly",
+              "price": 140,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": 145,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Justin Turner",
+              "price": 180,
+              "point": 1.5,
+              "team": "Toronto Blue Jays",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 185,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": 190,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 125,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 140,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Willson Contreras",
+              "price": 180,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 180,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 185,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burleson",
+              "price": 185,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": 195,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": 195,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": 200,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 200,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Gorman",
+              "price": 220,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nolan Arenado",
+              "price": 240,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Carson Kelly",
+              "price": 280,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": 280,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 330,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Justin Turner",
+              "price": 410,
+              "point": 2.5,
+              "team": "Toronto Blue Jays",
+              "position": "DH"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Scott II",
+              "price": 420,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 420,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-05T03:33:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Masyn Winn",
+              "price": 2700,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 3200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Lars Nootbaar",
+              "price": 3300,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Pedro Pages",
+              "price": 3800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brendan Donovan",
+              "price": 4200,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 4300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 4900,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-05T03:33:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Matthew Liberatore",
+              "price": -162,
+              "point": 3.5,
+              "team": "St. Louis Cardinals",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Liberatore",
+              "price": 122,
+              "point": 3.5,
+              "team": "St. Louis Cardinals",
+              "position": "P"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

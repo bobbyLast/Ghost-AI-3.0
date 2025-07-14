@@ -1,0 +1,515 @@
+{
+  "name": "Zverev A.",
+  "matches_played": 123,
+  "wins": 92,
+  "losses": 31,
+  "win_percentage": 0.748,
+  "tournaments_played": [
+    "BMW Open",
+    "Rio Open",
+    "Abierto Mexicano",
+    "BNP Paribas Masters",
+    "Miami Open",
+    "European Open",
+    "Canadian Open",
+    "US Open",
+    "Australian Open",
+    "Argentina Open",
+    "Hamburg Open",
+    "Wimbledon",
+    "Los Cabos Open",
+    "Internazionali BNL d'Italia",
+    "Halle Open",
+    "Vienna Open",
+    "Stuttgart Open",
+    "Monte Carlo Masters",
+    "Mutua Madrid Open",
+    "French Open",
+    "Western & Southern Financial Group Masters",
+    "Masters Cup",
+    "Shanghai Masters",
+    "BNP Paribas Open"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2025",
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Davidovich Fokina A."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Cerundolo F."
+    },
+    {
+      "tournament": "Internazionali BNL d'Italia",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Ugo Carabelli C."
+    },
+    {
+      "tournament": "Internazionali BNL d'Italia",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Gaubas V."
+    },
+    {
+      "tournament": "Internazionali BNL d'Italia",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Fils A."
+    },
+    {
+      "tournament": "Internazionali BNL d'Italia",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Musetti L."
+    },
+    {
+      "tournament": "Hamburg Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Kovacevic A."
+    },
+    {
+      "tournament": "Hamburg Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Muller A."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Tien L."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "De Jong J."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Cobolli F."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Djokovic N."
+    },
+    {
+      "tournament": "Stuttgart Open",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Moutet C."
+    },
+    {
+      "tournament": "Stuttgart Open",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Nakashima B."
+    },
+    {
+      "tournament": "Stuttgart Open",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Shelton B."
+    },
+    {
+      "tournament": "Stuttgart Open",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Fritz T."
+    },
+    {
+      "tournament": "Halle Open",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Giron M."
+    },
+    {
+      "tournament": "Halle Open",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Sonego L."
+    },
+    {
+      "tournament": "Halle Open",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Cobolli F."
+    },
+    {
+      "tournament": "Halle Open",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Medvedev D."
+    }
+  ],
+  "head_to_head": {
+    "Koepfer D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Klein L.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Michelsen A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Norrie C.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Alcaraz C.": {
+      "wins": 2,
+      "losses": 2
+    },
+    "Medvedev D.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Nishioka Y.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Kokkinakis T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Thompson J.": {
+      "wins": 2,
+      "losses": 1
+    },
+    "Altmaier D.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "O Connell C.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Griekspoor T.": {
+      "wins": 5,
+      "losses": 1
+    },
+    "De Minaur A.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Auger-Aliassime F.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Eubanks C.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Khachanov K.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Marozsan F.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Dimitrov G.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Ofner S.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Tsitsipas S.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Rodionov J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Garin C.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Coric B.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Shapovalov D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Cerundolo F.": {
+      "wins": 0,
+      "losses": 3
+    },
+    "Vukic A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Darderi L.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Borges N.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Fritz T.": {
+      "wins": 1,
+      "losses": 4
+    },
+    "Tabilo A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Jarry N.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Nadal R.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Goffin D.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Rune H.": {
+      "wins": 3,
+      "losses": 0
+    },
+    "Ruud C.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Otte O.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Sonego L.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Fils A.": {
+      "wins": 3,
+      "losses": 2
+    },
+    "Hurkacz H.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Carballes Baena R.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Giron M.": {
+      "wins": 3,
+      "losses": 0
+    },
+    "De Jong J.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Gaston H.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Zhang Zh.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Martinez P.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Korda S.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Carreno Busta P.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Shelton B.": {
+      "wins": 3,
+      "losses": 0
+    },
+    "Sinner J.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Marterer M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Muller A.": {
+      "wins": 2,
+      "losses": 1
+    },
+    "Etcheverry T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Nakashima B.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Bellucci M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Schwaerzler J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Musetti L.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Humbert U.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Rublev A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Pouille L.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Fearnley J.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Paul T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Lajovic D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Bu Y.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Shevchenko A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Comesana F.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Arnaldi M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Tien L.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Berrettini M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Bautista Agut R.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Davidovich Fokina A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Ugo Carabelli C.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Gaubas V.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Kovacevic A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Cobolli F.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Djokovic N.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Moutet C.": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 43,
+      "losses": 15
+    },
+    "Clay": {
+      "wins": 37,
+      "losses": 12
+    },
+    "Grass": {
+      "wins": 12,
+      "losses": 4
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 61,
+      "losses": 18
+    },
+    "2025": {
+      "wins": 31,
+      "losses": 13
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

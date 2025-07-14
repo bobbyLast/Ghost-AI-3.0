@@ -1,0 +1,177 @@
+{
+  "name": "McDonald M.",
+  "matches_played": 12,
+  "wins": 5,
+  "losses": 7,
+  "win_percentage": 0.417,
+  "tournaments_played": [
+    "Rosmalen Grass Court Championships",
+    "U.S. Men's Clay Court Championships",
+    "Miami Open",
+    "Delray Beach Open",
+    "French Open",
+    "Queen's Club Championships",
+    "BNP Paribas Open"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2025"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Delray Beach Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Nishikori K."
+    },
+    {
+      "tournament": "Delray Beach Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Davidovich Fokina A."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Davidovich Fokina A."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Cerundolo F."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Kyrgios N."
+    },
+    {
+      "tournament": "U.S. Men's Clay Court Championships",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Galan D.E."
+    },
+    {
+      "tournament": "U.S. Men's Clay Court Championships",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Nakashima B."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Djokovic N."
+    },
+    {
+      "tournament": "Rosmalen Grass Court Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Bellucci M."
+    },
+    {
+      "tournament": "Rosmalen Grass Court Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Khachanov K."
+    },
+    {
+      "tournament": "Queen's Club Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Monfils G."
+    },
+    {
+      "tournament": "Queen's Club Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Rune H."
+    }
+  ],
+  "head_to_head": {
+    "Nishikori K.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Davidovich Fokina A.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Cerundolo F.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Kyrgios N.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Galan D.E.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Nakashima B.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Djokovic N.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Bellucci M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Khachanov K.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Monfils G.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Rune H.": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 2,
+      "losses": 3
+    },
+    "Clay": {
+      "wins": 1,
+      "losses": 2
+    },
+    "Grass": {
+      "wins": 2,
+      "losses": 2
+    }
+  },
+  "performance_by_year": {
+    "2025": {
+      "wins": 5,
+      "losses": 7
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

@@ -1,0 +1,33 @@
+{
+  "ticket_id": "TICKET_20250710_214849_c1c2c7",
+  "sport": "Mixed",
+  "props": [
+    {
+      "sport": "WNBA",
+      "game": "Indiana Fever vs Atlanta Dream",
+      "player": "Over",
+      "prop": "player_rebounds",
+      "line": 6.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": -146,
+      "reasoning": "Auto-extracted from OddsAPI: player_rebounds for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "San Diego Padres vs Arizona Diamondbacks",
+      "player": "Over",
+      "prop": "batter_singles",
+      "line": 0.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": 110,
+      "reasoning": "Auto-extracted from OddsAPI: batter_singles for Over"
+    }
+  ],
+  "total_confidence": 0.7,
+  "total_odds": -16060.0,
+  "reasoning": "High-confidence ticket #1 using actual fetched props from multiple sports",
+  "timestamp": "2025-07-10T21:48:49.648532",
+  "openai_full_pipeline_feedback": "{\n  \"suggested_improvements\": [\n    {\n      \"improvement_id\": \"IMP_20250710_215849_c1c2c7_01\",\n      \"description\": \"Consider incorporating historical data for each player's performance to improve the confidence level of the predictions. This could include factors such as recent form, head-to-head stats, and performance under similar conditions.\"\n    },\n    {\n      \"improvement_id\": \"IMP_20250710_215849_c1c2c7_02\",\n      \"description\": \"The total odds calculation seems incorrect. The odds for individual bets are usually multiplied, not added. Please review the calculation method.\"\n    },\n    {\n      \"improvement_id\": \"IMP_20250710_215849_c1c2c7_03\",\n      \"description\": \"The 'reasoning' field could be more detailed. Instead of just stating 'Auto-extracted from OddsAPI', it would be more informative to include specific reasons why the AI chose a particular pick. This could be based on player stats, team form, or other relevant factors.\"\n    },\n    {\n      \"improvement_id\": \"IMP_20250710_215849_c1c2c7_04\",\n      \"description\": \"Consider adding a 'risk level' field to the ticket. This could be calculated based on the odds and confidence level, and would provide users with an additional piece of information to consider when deciding whether to follow the AI's picks.\"\n    }\n  ],\n  \"calibration_suggestions\": [\n    {\n      \"calibration_id\": \"CAL_20250710_215849_c1c2c7_01\",\n      \"description\": \"Adjust the confidence calculation algorithm to take into account more factors. For example, a higher confidence level could be assigned to picks where the player has a strong track record in the relevant prop.\"\n    },\n    {\n      \"calibration_id\": \"CAL_20250710_215849_c1c2c7_02\",\n      \"description\": \"Review and correct the total odds calculation method. The odds for individual bets should be multiplied, not added.\"\n    }\n  ],\n  \"new_logic_suggestions\": [\n    {\n      \"logic_id\": \"LOG_20250710_215849_c1c2c7_01\",\n      \"description\": \"Implement a machine learning model that can learn from past predictions and their outcomes. This could help the AI to improve its picks over time.\"\n    },\n    {\n      \"logic_id\": \"LOG_20250710_215849_c1c2c7_02\",\n      \"description\": \"Consider using a more sophisticated model for predicting outcomes, such as a neural network or a decision tree. This could potentially improve the accuracy of the predictions.\"\n    }\n  ]\n}"
+}

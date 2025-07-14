@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-06-16T17:55:37Z",
+  "previous_timestamp": "2025-06-16T17:50:37Z",
+  "next_timestamp": "2025-06-16T18:00:37Z",
+  "data": {
+    "id": "97f8d1507e13f94f32faf220a88646f0",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-17T23:11:00Z",
+    "home_team": "Cincinnati Reds",
+    "away_team": "Minnesota Twins",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Reds",
+                "price": -116
+              },
+              {
+                "name": "Minnesota Twins",
+                "price": -102
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

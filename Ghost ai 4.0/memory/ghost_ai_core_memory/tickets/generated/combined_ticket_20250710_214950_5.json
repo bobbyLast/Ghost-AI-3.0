@@ -1,0 +1,55 @@
+{
+  "ticket_id": "TICKET_20250710_214950_enlgg6",
+  "sport": "Mixed",
+  "props": [
+    {
+      "sport": "MLB",
+      "game": "Boston Red Sox vs Tampa Bay Rays",
+      "player": "Over",
+      "prop": "batter_home_runs",
+      "line": 0.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": 750,
+      "reasoning": "Auto-extracted from OddsAPI: batter_home_runs for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "Cincinnati Reds vs Miami Marlins",
+      "player": "Over",
+      "prop": "batter_total_bases",
+      "line": 1.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": 120,
+      "reasoning": "Auto-extracted from OddsAPI: batter_total_bases for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "Minnesota Twins vs Chicago Cubs",
+      "player": "Under",
+      "prop": "batter_doubles",
+      "line": 0.5,
+      "pick": "Under",
+      "confidence": 0.7,
+      "odds": -700,
+      "reasoning": "Auto-extracted from OddsAPI: batter_doubles for Under"
+    },
+    {
+      "sport": "MLB",
+      "game": "Los Angeles Angels vs Texas Rangers",
+      "player": "Over",
+      "prop": "batter_rbis",
+      "line": 0.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": 210,
+      "reasoning": "Auto-extracted from OddsAPI: batter_rbis for Over"
+    }
+  ],
+  "total_confidence": 0.7,
+  "total_odds": -13230000000.0,
+  "reasoning": "High-confidence ticket #5 using actual fetched props from multiple sports",
+  "timestamp": "2025-07-10T21:49:50.205329",
+  "openai_full_pipeline_feedback": "{\n  \"suggested_improvements\": [\n    {\n      \"improvement_id\": \"IMP_20250710_215031_tu7u1f\",\n      \"improvement_type\": \"Calibration\",\n      \"description\": \"The total odds seem to be calculated incorrectly. It seems like the odds are being multiplied instead of added. The correct way to calculate total odds for multiple bets is to convert each individual odds into decimal odds, add them together and then convert back to American odds if needed.\"\n    },\n    {\n      \"improvement_id\": \"IMP_20250710_215131_tu7u1f\",\n      \"improvement_type\": \"New Logic\",\n      \"description\": \"Consider implementing a logic that checks the historical performance of the player for the specific prop. For example, if the prop is 'batter_hits', the system could check how often the player has hit over or under the line in the past games. This could improve the accuracy of the predictions.\"\n    },\n    {\n      \"improvement_id\": \"IMP_20250710_215231_tu7u1f\",\n      \"improvement_type\": \"Code\",\n      \"description\": \"Consider implementing a function that automatically fetches and updates the latest odds from the OddsAPI. This will ensure that the system is always using the most up-to-date information for its predictions.\"\n    }\n  ],\n  \"calibration\": [\n    {\n      \"calibration_id\": \"CAL_20250710_215331_tu7u1f\",\n      \"calibration_type\": \"Confidence\",\n      \"description\": \"Consider adjusting the confidence level based on the historical performance of the player for the specific prop. If the player has consistently performed well for the prop, the confidence level could be increased. Conversely, if the player has been inconsistent, the confidence level could be decreased.\"\n    }\n  ],\n  \"new_logic\": [\n    {\n      \"logic_id\": \"LOG_20250710_215431_tu7u1f\",\n      \"logic_type\": \"Data Analysis\",\n      \"description\": \"Consider implementing a logic that analyzes the performance of the teams in the games. This could include factors like the team's recent performance, the performance of the team's pitchers and batters, and the team's performance in similar game situations. This could provide additional context for the predictions.\"\n    }\n  ]\n}"
+}

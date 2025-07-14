@@ -1,0 +1,174 @@
+{
+  "timestamp": "2024-07-16T17:55:37Z",
+  "previous_timestamp": "2024-07-16T17:50:37Z",
+  "next_timestamp": "2024-07-16T18:00:37Z",
+  "data": {
+    "id": "861682b08f77ab51e0116b1eed9a3647",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-07-17T17:00:00Z",
+    "home_team": "Minnesota Lynx",
+    "away_team": "Atlanta Dream",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-07-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 320
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -410
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 151.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 151.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-07-16T17:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 320
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -430
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -108,
+                "point": 8.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -112,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 151.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 151.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-07-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 320
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -435
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -113,
+                "point": 8.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -113,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 151.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 151.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

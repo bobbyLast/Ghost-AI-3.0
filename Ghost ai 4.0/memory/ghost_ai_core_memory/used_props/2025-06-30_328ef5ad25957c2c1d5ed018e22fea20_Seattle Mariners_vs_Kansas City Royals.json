@@ -1,0 +1,20 @@
+{
+  "event_id": "328ef5ad25957c2c1d5ed018e22fea20",
+  "home_team": "Seattle Mariners",
+  "away_team": "Kansas City Royals",
+  "game_time": "2025-07-01T01:41:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "Kansas City Royals": {
+      "odds": 2.36,
+      "implied_probability": 0.9769441187964049,
+      "tags": []
+    },
+    "Seattle Mariners": {
+      "odds": 1.62,
+      "implied_probability": 0.9840582562487699,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-30T13:31:40.763227"
+}

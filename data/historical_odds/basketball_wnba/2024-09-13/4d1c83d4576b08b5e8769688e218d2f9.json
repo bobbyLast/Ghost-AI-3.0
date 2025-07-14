@@ -1,0 +1,545 @@
+{
+  "timestamp": "2024-09-13T17:55:39Z",
+  "previous_timestamp": "2024-09-13T17:50:39Z",
+  "next_timestamp": "2024-09-13T18:00:39Z",
+  "data": {
+    "id": "4d1c83d4576b08b5e8769688e218d2f9",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-13T23:30:00Z",
+    "home_team": "Minnesota Lynx",
+    "away_team": "Chicago Sky",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-13T17:54:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-13T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 600
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -900
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-13T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -112,
+                "point": 13.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -108,
+                "point": -13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-13T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 157.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 157.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-09-13T17:50:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-13T17:50:47Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 598
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -1000
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-13T17:50:47Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 13.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-13T17:50:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 156.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 156.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-13T17:52:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-13T17:52:30Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 650
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -1000
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-13T17:52:30Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 13.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-13T17:52:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 156.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 156.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-13T17:54:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-13T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 600
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -910
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-13T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -112,
+                "point": 13.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -112,
+                "point": -13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-13T17:54:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 156.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 156.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-13T17:54:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 590
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -950
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 13.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 156.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 156.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-13T17:54:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 625
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -1000
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -105,
+                "point": 12.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -115,
+                "point": -12.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 156.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 156.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-13T17:54:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 615
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -850
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 13.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 157.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 157.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-09-13T17:54:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 615
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -847
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -108,
+                "point": 13.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -108,
+                "point": -13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 157.0
+              },
+              {
+                "name": "Under",
+                "price": -103,
+                "point": 157.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-09-13T17:54:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 570
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -850
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 13.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 157.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 157.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-13T17:54:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 550
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -850
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -115,
+                "point": 12.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -105,
+                "point": -12.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-13T17:54:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 157.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 157.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

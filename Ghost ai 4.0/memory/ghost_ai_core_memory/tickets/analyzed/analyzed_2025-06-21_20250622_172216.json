@@ -1,0 +1,5317 @@
+[
+  {
+    "ticket_id": "mixed_5leg_1_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 5,
+    "picks": [
+      {
+        "player": "Aaron Judge",
+        "stat": "batter_home_runs",
+        "line": 0.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "034f10a1c66eeef912ff6e2c8d87ec66",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "6c4602252f5c355179be5e397a57b762",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.8400000000000001,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 30.17,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 5
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 5
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.886913+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.886913+00:00"
+  },
+  {
+    "ticket_id": "mixed_5leg_2_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 5,
+    "picks": [
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "6c4602252f5c355179be5e397a57b762",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.8400000000000001,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 30.17,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 5
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 5
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.886913+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.886913+00:00"
+  },
+  {
+    "ticket_id": "mixed_5leg_3_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 5,
+    "picks": [
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.8400000000000001,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 29.88,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 5
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 5
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.886913+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.886913+00:00"
+  },
+  {
+    "ticket_id": "mixed_5leg_4_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 5,
+    "picks": [
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.8400000000000001,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 29.88,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 5
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 5
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.886913+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.886913+00:00"
+  },
+  {
+    "ticket_id": "mixed_5leg_5_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 5,
+    "picks": [
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.8400000000000001,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 29.88,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 5
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 5
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.886913+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.886913+00:00"
+  },
+  {
+    "ticket_id": "mixed_5leg_6_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 5,
+    "picks": [
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.8400000000000001,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 29.88,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 5
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 5
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.891991+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.891991+00:00"
+  },
+  {
+    "ticket_id": "mixed_5leg_7_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 5,
+    "picks": [
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.8400000000000001,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 30.17,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 5
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 5
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.891991+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.891991+00:00"
+  },
+  {
+    "ticket_id": "mixed_5leg_8_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 5,
+    "picks": [
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Sykes",
+        "stat": "player_points_rebounds_assists",
+        "line": 28.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "cfa11734e306fb3666237625965b6670",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.8400000000000001,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 30.46,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 5
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 5
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.891991+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.891991+00:00"
+  },
+  {
+    "ticket_id": "mixed_5leg_9_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 5,
+    "picks": [
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Sykes",
+        "stat": "player_points_rebounds_assists",
+        "line": 28.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "cfa11734e306fb3666237625965b6670",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Natasha Howard",
+        "stat": "player_points",
+        "line": 11.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "a38addd403bdef35feec3da8d6125450",
+        "home_team": "Las Vegas Aces",
+        "away_team": "Indiana Fever",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_indiana_fever_vs_las_vegas_aces.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "39ce2b36f8eef5c7b1dc8343cca7fe62",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.8400000000000001,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 30.46,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 5
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 5
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.891991+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.891991+00:00"
+  },
+  {
+    "ticket_id": "mixed_5leg_10_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 5,
+    "picks": [
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Sykes",
+        "stat": "player_points_rebounds_assists",
+        "line": 28.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "cfa11734e306fb3666237625965b6670",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Natasha Howard",
+        "stat": "player_points",
+        "line": 11.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "a38addd403bdef35feec3da8d6125450",
+        "home_team": "Las Vegas Aces",
+        "away_team": "Indiana Fever",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_indiana_fever_vs_las_vegas_aces.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "39ce2b36f8eef5c7b1dc8343cca7fe62",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Caitlin Clark",
+        "stat": "player_points",
+        "line": 20.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "a38addd403bdef35feec3da8d6125450",
+        "home_team": "Las Vegas Aces",
+        "away_team": "Indiana Fever",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_indiana_fever_vs_las_vegas_aces.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "9af08977456248fa392eb65fd93fc1c1",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.8400000000000001,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 30.46,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 5
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 5
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.893006+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.893006+00:00"
+  },
+  {
+    "ticket_id": "mixed_2leg_1_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 2,
+    "picks": [
+      {
+        "player": "Aaron Judge",
+        "stat": "batter_home_runs",
+        "line": 0.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "034f10a1c66eeef912ff6e2c8d87ec66",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "6c4602252f5c355179be5e397a57b762",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 3.88,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 2
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 2
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.893006+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.893006+00:00"
+  },
+  {
+    "ticket_id": "mixed_2leg_2_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 2,
+    "picks": [
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "6c4602252f5c355179be5e397a57b762",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 3.92,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 2
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 2
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.893006+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.893006+00:00"
+  },
+  {
+    "ticket_id": "mixed_2leg_3_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 2,
+    "picks": [
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 3.92,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 2
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 2
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.893006+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.893006+00:00"
+  },
+  {
+    "ticket_id": "mixed_2leg_4_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 2,
+    "picks": [
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 3.92,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 2
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 2
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.893006+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.893006+00:00"
+  },
+  {
+    "ticket_id": "mixed_2leg_5_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 2,
+    "picks": [
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 3.88,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 2
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 2
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.894004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.894004+00:00"
+  },
+  {
+    "ticket_id": "mixed_2leg_6_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 2,
+    "picks": [
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 3.85,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 2
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 2
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.894004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.894004+00:00"
+  },
+  {
+    "ticket_id": "mixed_2leg_7_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 2,
+    "picks": [
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 3.88,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 2
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 2
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.894004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.894004+00:00"
+  },
+  {
+    "ticket_id": "mixed_2leg_8_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 2,
+    "picks": [
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 3.92,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 2
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 2
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.894004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.894004+00:00"
+  },
+  {
+    "ticket_id": "mixed_2leg_9_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 2,
+    "picks": [
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 3.92,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 2
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 2
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+  },
+  {
+    "ticket_id": "mixed_2leg_10_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 2,
+    "picks": [
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 3.92,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 2
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 2
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+  },
+  {
+    "ticket_id": "mixed_3leg_1_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 3,
+    "picks": [
+      {
+        "player": "Aaron Judge",
+        "stat": "batter_home_runs",
+        "line": 0.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "034f10a1c66eeef912ff6e2c8d87ec66",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "6c4602252f5c355179be5e397a57b762",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 7.69,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 3
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 3
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+  },
+  {
+    "ticket_id": "mixed_3leg_2_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 3,
+    "picks": [
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "6c4602252f5c355179be5e397a57b762",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 7.77,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 3
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 3
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+  },
+  {
+    "ticket_id": "mixed_3leg_3_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 3,
+    "picks": [
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 7.77,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 3
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 3
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+  },
+  {
+    "ticket_id": "mixed_3leg_4_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 3,
+    "picks": [
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 7.69,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 3
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 3
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+  },
+  {
+    "ticket_id": "mixed_3leg_5_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 3,
+    "picks": [
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 7.62,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 3
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 3
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+  },
+  {
+    "ticket_id": "mixed_3leg_6_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 3,
+    "picks": [
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 7.62,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 3
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 3
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+  },
+  {
+    "ticket_id": "mixed_3leg_7_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 3,
+    "picks": [
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 7.69,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 3
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 3
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+  },
+  {
+    "ticket_id": "mixed_3leg_8_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 3,
+    "picks": [
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 7.77,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 3
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 3
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+  },
+  {
+    "ticket_id": "mixed_3leg_9_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 3,
+    "picks": [
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 7.77,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 3
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 3
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.895004+00:00"
+  },
+  {
+    "ticket_id": "mixed_3leg_10_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 3,
+    "picks": [
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Sykes",
+        "stat": "player_points_rebounds_assists",
+        "line": 28.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "cfa11734e306fb3666237625965b6670",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 7.77,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 3
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 3
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.899100+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.899100+00:00"
+  },
+  {
+    "ticket_id": "mixed_4leg_1_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 4,
+    "picks": [
+      {
+        "player": "Aaron Judge",
+        "stat": "batter_home_runs",
+        "line": 0.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "034f10a1c66eeef912ff6e2c8d87ec66",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "6c4602252f5c355179be5e397a57b762",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 15.24,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 4
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 4
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.900126+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.900126+00:00"
+  },
+  {
+    "ticket_id": "mixed_4leg_2_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 4,
+    "picks": [
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "6c4602252f5c355179be5e397a57b762",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 15.38,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 4
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 4
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.900126+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.900126+00:00"
+  },
+  {
+    "ticket_id": "mixed_4leg_3_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 4,
+    "picks": [
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 15.24,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 4
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 4
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.901148+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.901148+00:00"
+  },
+  {
+    "ticket_id": "mixed_4leg_4_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 4,
+    "picks": [
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 15.09,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 4
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 4
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.902124+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.902124+00:00"
+  },
+  {
+    "ticket_id": "mixed_4leg_5_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 4,
+    "picks": [
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 15.09,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 4
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 4
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.902124+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.902124+00:00"
+  },
+  {
+    "ticket_id": "mixed_4leg_6_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 4,
+    "picks": [
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 15.09,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 4
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 4
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.903115+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.903115+00:00"
+  },
+  {
+    "ticket_id": "mixed_4leg_7_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 4,
+    "picks": [
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 15.24,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 4
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 4
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.903115+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.903115+00:00"
+  },
+  {
+    "ticket_id": "mixed_4leg_8_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.973797",
+    "legs": 4,
+    "picks": [
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 15.38,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 4
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 4
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.903115+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.903115+00:00"
+  },
+  {
+    "ticket_id": "mixed_4leg_9_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 4,
+    "picks": [
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Sykes",
+        "stat": "player_points_rebounds_assists",
+        "line": 28.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "cfa11734e306fb3666237625965b6670",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 15.38,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 4
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 4
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.903115+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.903115+00:00"
+  },
+  {
+    "ticket_id": "mixed_4leg_10_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 4,
+    "picks": [
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Sykes",
+        "stat": "player_points_rebounds_assists",
+        "line": 28.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "cfa11734e306fb3666237625965b6670",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Natasha Howard",
+        "stat": "player_points",
+        "line": 11.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "a38addd403bdef35feec3da8d6125450",
+        "home_team": "Las Vegas Aces",
+        "away_team": "Indiana Fever",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_indiana_fever_vs_las_vegas_aces.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "39ce2b36f8eef5c7b1dc8343cca7fe62",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 15.38,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 4
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 4
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.904115+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.904115+00:00"
+  },
+  {
+    "ticket_id": "mixed_6leg_1_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 6,
+    "picks": [
+      {
+        "player": "Aaron Judge",
+        "stat": "batter_home_runs",
+        "line": 0.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "034f10a1c66eeef912ff6e2c8d87ec66",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "6c4602252f5c355179be5e397a57b762",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 59.18,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 6
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 6
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.904115+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.904115+00:00"
+  },
+  {
+    "ticket_id": "mixed_6leg_2_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 6,
+    "picks": [
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "6c4602252f5c355179be5e397a57b762",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb"
+    ],
+    "estimated_odds": 59.18,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 6
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 6
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.904115+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.904115+00:00"
+  },
+  {
+    "ticket_id": "mixed_6leg_3_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 6,
+    "picks": [
+      {
+        "player": "Dean Kremer",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "431cf00e5dd82eb78d43af1d299b487d",
+        "home_team": "New York Yankees",
+        "away_team": "Baltimore Orioles",
+        "commence_time": "2025-06-22T15:36:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_baltimore_orioles_vs_new_york_yankees.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "562d1e2c24cf7c88024baf4b0b597924",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 59.18,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 6
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 6
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.904115+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.904115+00:00"
+  },
+  {
+    "ticket_id": "mixed_6leg_4_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 6,
+    "picks": [
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "3c848ffaa75551342a6696d9dd201415",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 59.18,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 6
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 6
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.905113+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.905113+00:00"
+  },
+  {
+    "ticket_id": "mixed_6leg_5_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981001",
+    "legs": 6,
+    "picks": [
+      {
+        "player": "Brayan Bello",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "mlb",
+        "game_id": "f5637ec07726be9668aaaf1a07e0bc58",
+        "home_team": "San Francisco Giants",
+        "away_team": "Boston Red Sox",
+        "commence_time": "2025-06-21T20:06:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_boston_red_sox_vs_san_francisco_giants.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f34d7ee4216af5cc87f46c6700f7d768",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 59.18,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 6
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 6
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.905113+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.905113+00:00"
+  },
+  {
+    "ticket_id": "mixed_6leg_6_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981908",
+    "legs": 6,
+    "picks": [
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "f11ccdabfe24765be5a6ca197c2044b7",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 59.18,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 6
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 6
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.905113+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.905113+00:00"
+  },
+  {
+    "ticket_id": "mixed_6leg_7_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981908",
+    "legs": 6,
+    "picks": [
+      {
+        "player": "Cade Horton",
+        "stat": "pitcher_strikeouts_alternate",
+        "line": 4.5,
+        "odds": -104,
+        "sport": "mlb",
+        "game_id": "05bf94fb854222d8b0485b964035a325",
+        "home_team": "Chicago Cubs",
+        "away_team": "Seattle Mariners",
+        "commence_time": "2025-06-21T18:21:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_mlb_seattle_mariners_vs_chicago_cubs.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "aaf37d9600c3f509fd9f5d672fb44f53",
+        "timestamp": "2025-06-21T23:04:50.931548"
+      },
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Sykes",
+        "stat": "player_points_rebounds_assists",
+        "line": 28.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "cfa11734e306fb3666237625965b6670",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "mlb",
+      "wnba"
+    ],
+    "estimated_odds": 59.75,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 6
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 6
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.905113+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.905113+00:00"
+  },
+  {
+    "ticket_id": "mixed_6leg_8_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981908",
+    "legs": 6,
+    "picks": [
+      {
+        "player": "Brionna Jones",
+        "stat": "player_points",
+        "line": 12.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "4b68d9c9dac91d0372db699408cf19b2",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Sykes",
+        "stat": "player_points_rebounds_assists",
+        "line": 28.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "cfa11734e306fb3666237625965b6670",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Natasha Howard",
+        "stat": "player_points",
+        "line": 11.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "a38addd403bdef35feec3da8d6125450",
+        "home_team": "Las Vegas Aces",
+        "away_team": "Indiana Fever",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_indiana_fever_vs_las_vegas_aces.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "39ce2b36f8eef5c7b1dc8343cca7fe62",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 60.33,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 6
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 6
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.905113+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.905113+00:00"
+  },
+  {
+    "ticket_id": "mixed_6leg_9_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981908",
+    "legs": 6,
+    "picks": [
+      {
+        "player": "Brittney Griner",
+        "stat": "player_rebounds",
+        "line": 5.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "c202fdda402237910b0e5d2e33c37a9b",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Sykes",
+        "stat": "player_points_rebounds_assists",
+        "line": 28.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "cfa11734e306fb3666237625965b6670",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Natasha Howard",
+        "stat": "player_points",
+        "line": 11.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "a38addd403bdef35feec3da8d6125450",
+        "home_team": "Las Vegas Aces",
+        "away_team": "Indiana Fever",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_indiana_fever_vs_las_vegas_aces.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "39ce2b36f8eef5c7b1dc8343cca7fe62",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Caitlin Clark",
+        "stat": "player_points",
+        "line": 20.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "a38addd403bdef35feec3da8d6125450",
+        "home_team": "Las Vegas Aces",
+        "away_team": "Indiana Fever",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_indiana_fever_vs_las_vegas_aces.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "9af08977456248fa392eb65fd93fc1c1",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 60.33,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 6
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 6
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.906115+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.906115+00:00"
+  },
+  {
+    "ticket_id": "mixed_6leg_10_20250621_230450",
+    "created_at": "2025-06-21T23:04:50.981908",
+    "legs": 6,
+    "picks": [
+      {
+        "player": "Allisha Gray",
+        "stat": "player_rebounds",
+        "line": 4.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "bdc3fe52026a1b9c9a10d81515346ca0",
+        "home_team": "Atlanta Dream",
+        "away_team": "Chicago Sky",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_chicago_sky_vs_atlanta_dream.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "50dd12e54d2d8ddb4b31e30437b0e403",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Sonia Citron",
+        "stat": "player_points",
+        "line": 13.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "b3f9e578b1d33594e6486539beb885a0",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Brittney Sykes",
+        "stat": "player_points_rebounds_assists",
+        "line": 28.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "e43a88c650c3302e8ece4cd26c79908e",
+        "home_team": "Washington Mystics",
+        "away_team": "Dallas Wings",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_dallas_wings_vs_washington_mystics.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "cfa11734e306fb3666237625965b6670",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Natasha Howard",
+        "stat": "player_points",
+        "line": 11.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "a38addd403bdef35feec3da8d6125450",
+        "home_team": "Las Vegas Aces",
+        "away_team": "Indiana Fever",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_indiana_fever_vs_las_vegas_aces.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "39ce2b36f8eef5c7b1dc8343cca7fe62",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Caitlin Clark",
+        "stat": "player_points",
+        "line": 20.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "a38addd403bdef35feec3da8d6125450",
+        "home_team": "Las Vegas Aces",
+        "away_team": "Indiana Fever",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_indiana_fever_vs_las_vegas_aces.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "9af08977456248fa392eb65fd93fc1c1",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      },
+      {
+        "player": "Chelsea Gray",
+        "stat": "player_points_rebounds_assists",
+        "line": 20.5,
+        "odds": -102,
+        "sport": "wnba",
+        "game_id": "a38addd403bdef35feec3da8d6125450",
+        "home_team": "Las Vegas Aces",
+        "away_team": "Indiana Fever",
+        "commence_time": "2025-06-22T19:00:00Z",
+        "bookmaker": "fanduel",
+        "source_file": "props_wnba_indiana_fever_vs_las_vegas_aces.json",
+        "risk_tier": "Value Play",
+        "juice_warning": "\ud83d\udcb0 Value Find",
+        "confidence": 0.84,
+        "prop_id": "d058281c988da1206fde3bc584182a82",
+        "timestamp": "2025-06-21T23:04:50.965582"
+      }
+    ],
+    "total_confidence": 0.84,
+    "sports_included": [
+      "wnba"
+    ],
+    "estimated_odds": 60.33,
+    "risk_summary": {
+      "overall_risk": "Value",
+      "risk_breakdown": {
+        "Value Play": 6
+      },
+      "warnings": [
+        "\ud83d\udcb0 Value Find"
+      ],
+      "total_picks": 6
+    },
+    "selections": [],
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [],
+      "market_analysis": [],
+      "analyzed_at": "2025-06-22T21:22:16.906115+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.906115+00:00"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "ticket_id": "s_1751525726890482_1",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Different Teams)",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "17189d6293e5b4eb93ed1431a6f312d6",
+  "home_team": "Arizona Diamondbacks",
+  "away_team": "San Francisco Giants",
+  "commence_time": "2025-07-03T01:40:00Z",
+  "selections": [
+    {
+      "player_name": "Jung Hoo Lee",
+      "prop_type": "batter_doubles",
+      "line": 0.5,
+      "odds": 280,
+      "bookmaker": "FanDuel",
+      "confidence": 0.263,
+      "value_rating": 0.0,
+      "team": "San Francisco Giants",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    },
+    {
+      "player_name": "Ketel Marte",
+      "prop_type": "batter_hits",
+      "line": 3.5,
+      "odds": 5000,
+      "bookmaker": "FanDuel",
+      "confidence": 0.02,
+      "value_rating": 0.0,
+      "team": "Arizona Diamondbacks",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    }
+  ],
+  "generated_at": "2025-07-03T06:55:26.902995+00:00",
+  "confidence_score": 0.1415,
+  "avg_odds": 2640.0,
+  "stake": 4.81,
+  "potential_payout": 932.18,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Arizona Diamondbacks",
+    "San Francisco Giants"
+  ],
+  "team_count": 2
+}

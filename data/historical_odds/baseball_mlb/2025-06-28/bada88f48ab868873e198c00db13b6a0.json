@@ -1,0 +1,545 @@
+{
+  "timestamp": "2025-06-28T17:55:37Z",
+  "previous_timestamp": "2025-06-28T17:50:37Z",
+  "next_timestamp": "2025-06-28T18:00:38Z",
+  "data": {
+    "id": "bada88f48ab868873e198c00db13b6a0",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-28T20:11:00Z",
+    "home_team": "Milwaukee Brewers",
+    "away_team": "Colorado Rockies",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-28T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 220
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -270
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 110,
+                "point": 1.5
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -132,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-28T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 229
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -257
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 113,
+                "point": 1.5
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -128,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-28T17:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 229
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -257
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 110,
+                "point": 1.5
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-28T17:54:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 222
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -278
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 115,
+                "point": 1.5
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -135,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-28T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 222
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -281
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 111,
+                "point": 1.5
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -135,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -116,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-28T17:55:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 220
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -280
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 110,
+                "point": 1.5
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-28T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 220
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -275
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 105,
+                "point": 1.5
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-28T17:55:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 226
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -265
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 115,
+                "point": 1.5
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -135,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-28T17:55:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 220
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -270
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 115,
+                "point": 1.5
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -135,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-28T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 235
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -305
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 104,
+                "point": 1.5
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

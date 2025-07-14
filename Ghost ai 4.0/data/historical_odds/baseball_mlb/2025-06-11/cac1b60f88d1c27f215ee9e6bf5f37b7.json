@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-11T17:55:37Z",
+  "previous_timestamp": "2025-06-11T17:50:37Z",
+  "next_timestamp": "2025-06-11T18:00:37Z",
+  "data": {
+    "id": "cac1b60f88d1c27f215ee9e6bf5f37b7",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-12T19:11:00Z",
+    "home_team": "Colorado Rockies",
+    "away_team": "San Francisco Giants",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-11T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 164
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -196
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 108,
+                "point": 1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -130,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-11T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 11.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 11.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "event_id": "d7b5ed2fbd75a650eb457f9af0b2c593",
+  "home_team": "Tampa Bay Rays",
+  "away_team": "Oakland Athletics",
+  "game_time": "2025-07-02T16:11:00Z",
+  "result": "away_win",
+  "odds_data": {
+    "Oakland Athletics": {
+      "odds": 2.58,
+      "implied_probability": 0.9748488984207448,
+      "tags": []
+    },
+    "Tampa Bay Rays": {
+      "odds": 1.53,
+      "implied_probability": 0.9849305623953512,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-07-01T21:58:18.131025"
+}

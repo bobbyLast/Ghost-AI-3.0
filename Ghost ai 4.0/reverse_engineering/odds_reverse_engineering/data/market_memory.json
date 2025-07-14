@@ -1,0 +1,69 @@
+{
+  "Aaron Judge_player_total_bases_2025-01-27": {
+    "opening_odds": {
+      "over": -110,
+      "under": -110
+    },
+    "line": 1.5,
+    "bookmaker": "fanduel",
+    "ghost_pick": "under",
+    "ghost_odds": 110,
+    "timestamp": "2025-06-28T15:36:21.874861"
+  },
+  "Shohei Ohtani_player_hits_2025-01-27": {
+    "opening_odds": {
+      "over": -110,
+      "under": -110
+    },
+    "line": 1.5,
+    "bookmaker": "fanduel",
+    "ghost_pick": "over",
+    "ghost_odds": -150,
+    "timestamp": "2025-06-28T15:36:21.893573"
+  },
+  "Mookie Betts_player_runs_scored_2025-01-27": {
+    "opening_odds": {
+      "over": -110,
+      "under": -110
+    },
+    "line": 0.5,
+    "bookmaker": "fanduel",
+    "ghost_pick": "over",
+    "ghost_odds": -120,
+    "timestamp": "2025-06-28T15:36:21.901156"
+  },
+  "Mike Trout_batter_hits_2025-06-28": {
+    "opening_odds": {
+      "over": -200,
+      "under": -200
+    },
+    "line": 1.5,
+    "confidence": 0.7,
+    "timestamp": "2025-06-28T18:58:09.188947",
+    "data_points": [
+      {
+        "odds": -200,
+        "line": 1.5,
+        "confidence": 0.7,
+        "timestamp": "2025-06-28T18:58:09.188947"
+      }
+    ]
+  },
+  "Shohei Ohtani_batter_home_runs_2025-06-28": {
+    "opening_odds": {
+      "over": 300,
+      "under": 300
+    },
+    "line": 0.5,
+    "confidence": 0.6,
+    "timestamp": "2025-06-28T18:58:09.188947",
+    "data_points": [
+      {
+        "odds": 300,
+        "line": 0.5,
+        "confidence": 0.6,
+        "timestamp": "2025-06-28T18:58:09.188947"
+      }
+    ]
+  }
+}

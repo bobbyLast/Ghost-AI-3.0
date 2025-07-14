@@ -1,0 +1,492 @@
+{
+  "timestamp": "2025-06-13T17:55:37Z",
+  "previous_timestamp": "2025-06-13T17:50:37Z",
+  "next_timestamp": "2025-06-13T18:00:37Z",
+  "data": {
+    "id": "07236539aad09d15d5f04df7df35c366",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-13T22:46:00Z",
+    "home_team": "Philadelphia Phillies",
+    "away_team": "Toronto Blue Jays",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-13T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -118
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -200,
+                "point": 1.5
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 164,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-13T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -116
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": 175,
+                "point": -1.5
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": -200,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -107,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-13T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -116
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": 174,
+                "point": -1.5
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": -200,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-13T17:54:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -120
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": 175,
+                "point": -1.5
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": -210,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-13T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -120
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": -101
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -203,
+                "point": 1.5
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 164,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-13T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -114
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 104
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": 172,
+                "point": -1.5
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": -200,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-13T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -120
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -210,
+                "point": 1.5
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 170,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-13T17:55:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -120
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": 165,
+                "point": -1.5
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": -195,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-13T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -121
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Phillies",
+                "price": -215,
+                "point": 1.5
+              },
+              {
+                "name": "Toronto Blue Jays",
+                "price": 165,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

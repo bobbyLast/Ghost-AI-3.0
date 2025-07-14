@@ -1,0 +1,372 @@
+{
+  "timestamp": "2024-07-11T17:55:37Z",
+  "previous_timestamp": "2024-07-11T17:50:37Z",
+  "next_timestamp": "2024-07-11T18:00:37Z",
+  "data": {
+    "id": "26c4ae8d9a58009b7b576f2541479d7d",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-07-12T23:30:00Z",
+    "home_team": "Atlanta Dream",
+    "away_team": "Las Vegas Aces",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-07-11T17:54:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-11T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 700
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -1100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-11T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 13.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-11T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-07-11T17:54:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-11T17:54:09Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 675
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -1100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-11T17:54:09Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 13.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -13.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-11T17:54:09Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-07-11T17:54:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-11T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 680
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -1200
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-11T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 13.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -13.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-11T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-07-11T17:54:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-11T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 700
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -1250
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-11T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -113,
+                "point": 13.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -113,
+                "point": -13.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-11T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-07-11T17:54:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-11T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 700
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -1100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-11T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 13.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-11T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-07-11T17:55:20Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-07-11T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 13.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-11T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-07-11T17:54:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-11T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 650
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -1100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-11T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 13.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-11T17:54:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

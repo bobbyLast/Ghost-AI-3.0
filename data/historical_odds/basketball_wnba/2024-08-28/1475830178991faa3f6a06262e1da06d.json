@@ -1,0 +1,492 @@
+{
+  "timestamp": "2024-08-28T17:55:39Z",
+  "previous_timestamp": "2024-08-28T17:50:39Z",
+  "next_timestamp": "2024-08-28T18:00:39Z",
+  "data": {
+    "id": "1475830178991faa3f6a06262e1da06d",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-29T02:00:00Z",
+    "home_team": "Seattle Storm",
+    "away_team": "Atlanta Dream",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-28T17:54:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-28T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 300
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -380
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-28T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-28T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 155.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 155.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-28T17:55:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-28T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 285
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -375
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-28T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-28T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 155.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 155.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-08-28T17:54:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-28T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 290
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -360
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-28T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-28T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -114,
+                "point": 155.0
+              },
+              {
+                "name": "Under",
+                "price": -106,
+                "point": 155.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-08-28T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-28T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 290
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -360
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-28T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -108,
+                "point": 8.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -108,
+                "point": -8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-28T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 155.0
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 155.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-08-28T17:54:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-28T17:54:13Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 310
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -400
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-28T17:54:13Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-28T17:54:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 155.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 155.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-28T17:54:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-28T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 290
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -375
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-28T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -105,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-28T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 155.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 155.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-08-28T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-28T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 320
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -430
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-28T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -105,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-28T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 155.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 155.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-08-28T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-28T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 285
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -360
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-28T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -110,
+                "point": -8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-28T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 155.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 155.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-28T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-28T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 270
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -345
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-28T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -112,
+                "point": 8.0
+              },
+              {
+                "name": "Seattle Storm",
+                "price": -112,
+                "point": -8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-28T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 155.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 155.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "timestamp": "2024-10-01T17:55:39Z",
+  "previous_timestamp": "2024-10-01T17:50:39Z",
+  "next_timestamp": "2024-10-01T18:00:39Z",
+  "data": {
+    "id": "9335817a458b4bd9a1816339abe87843",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-10-01T23:30:00Z",
+    "home_team": "New York Liberty",
+    "away_team": "Las Vegas Aces",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-01T17:54:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": 164
+              },
+              {
+                "name": "New York Liberty",
+                "price": -198
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -108,
+                "point": 4.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -112,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-01T17:54:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": 164
+              },
+              {
+                "name": "New York Liberty",
+                "price": -205
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 164.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 164.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-01T17:54:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": 160
+              },
+              {
+                "name": "New York Liberty",
+                "price": -190
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": 4.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-10-01T17:53:41Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-01T17:53:41Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": 162
+              },
+              {
+                "name": "New York Liberty",
+                "price": -195
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-10-01T17:53:41Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -105,
+                "point": 4.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -115,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-10-01T17:53:41Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-10-01T17:54:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": 165
+              },
+              {
+                "name": "New York Liberty",
+                "price": -190
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-10-01T17:54:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": 163
+              },
+              {
+                "name": "New York Liberty",
+                "price": -190
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-01T17:54:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": 165
+              },
+              {
+                "name": "New York Liberty",
+                "price": -195
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -105,
+                "point": 4.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -115,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 164.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 164.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-10-01T17:54:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": 150
+              },
+              {
+                "name": "New York Liberty",
+                "price": -186
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "New York Liberty",
+                "price": -113,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-10-01T17:54:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

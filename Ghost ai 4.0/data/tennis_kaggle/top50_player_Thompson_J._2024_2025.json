@@ -1,0 +1,433 @@
+{
+  "name": "Thompson J.",
+  "matches_played": 72,
+  "wins": 42,
+  "losses": 30,
+  "win_percentage": 0.583,
+  "tournaments_played": [
+    "Japan Open Tennis Championships",
+    "Abierto Mexicano",
+    "BNP Paribas Masters",
+    "Miami Open",
+    "Dallas Open",
+    "Canadian Open",
+    "US Open",
+    "Australian Open",
+    "Wimbledon",
+    "Los Cabos Open",
+    "U.S. Men's Clay Court Championships",
+    "Internazionali BNL d'Italia",
+    "Monte Carlo Masters",
+    "Mutua Madrid Open",
+    "Delray Beach Open",
+    "Rosmalen Grass Court Championships",
+    "French Open",
+    "Barcelona Open",
+    "Queen's Club Championships",
+    "Western & Southern Financial Group Masters",
+    "Citi Open",
+    "Atlanta Open",
+    "Adelaide International",
+    "Brisbane International",
+    "Shanghai Masters",
+    "BNP Paribas Open"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2025",
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Shanghai Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Griekspoor T."
+    },
+    {
+      "tournament": "BNP Paribas Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Martinez P."
+    },
+    {
+      "tournament": "BNP Paribas Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Ruud C."
+    },
+    {
+      "tournament": "BNP Paribas Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Mannarino A."
+    },
+    {
+      "tournament": "BNP Paribas Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Humbert U."
+    },
+    {
+      "tournament": "Brisbane International",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Berrettini M."
+    },
+    {
+      "tournament": "Brisbane International",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Michelsen A."
+    },
+    {
+      "tournament": "Australian Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Koepfer D."
+    },
+    {
+      "tournament": "Australian Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Borges N."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Moutet C."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Giron M."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Mpetshi G."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Zverev A."
+    },
+    {
+      "tournament": "U.S. Men's Clay Court Championships",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Quinn E."
+    },
+    {
+      "tournament": "Monte Carlo Masters",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Mpetshi G."
+    },
+    {
+      "tournament": "Monte Carlo Masters",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Tsitsipas S."
+    },
+    {
+      "tournament": "Internazionali BNL d'Italia",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Mpetshi G."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Lehecka J."
+    },
+    {
+      "tournament": "Rosmalen Grass Court Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Kovacevic A."
+    },
+    {
+      "tournament": "Rosmalen Grass Court Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Diallo G."
+    }
+  ],
+  "head_to_head": {
+    "Vukic A.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Nadal R.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Dimitrov G.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Diaz Acosta F.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Musetti L.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Tsitsipas S.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Neff A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Kudla D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Shelton B.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Evans D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Moreno De Alboran N.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Paul T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Escobedo E.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Nava E.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Michelsen A.": {
+      "wins": 2,
+      "losses": 0
+    },
+    "Zverev A.": {
+      "wins": 1,
+      "losses": 2
+    },
+    "Ruud C.": {
+      "wins": 3,
+      "losses": 1
+    },
+    "Kovacevic A.": {
+      "wins": 2,
+      "losses": 1
+    },
+    "Shang J.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Monfils G.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Wu Y.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Tiafoe F.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Munar J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Kotov P.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Monteiro T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Marterer M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Raonic M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Rune H.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Fritz T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Nakashima B.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Mayot H.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Davidovich Fokina A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Nishioka Y.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Opelka R.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Mpetshi G.": {
+      "wins": 4,
+      "losses": 0
+    },
+    "Korda S.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Draper J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Humbert U.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Baez S.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Lestienne C.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Hurkacz H.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Arnaldi M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "De Minaur A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Nishikori K.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Griekspoor T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Martinez P.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Mannarino A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Berrettini M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Koepfer D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Borges N.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Moutet C.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Giron M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Quinn E.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Lehecka J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Diallo G.": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 33,
+      "losses": 18
+    },
+    "Clay": {
+      "wins": 5,
+      "losses": 8
+    },
+    "Grass": {
+      "wins": 4,
+      "losses": 4
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 35,
+      "losses": 23
+    },
+    "2025": {
+      "wins": 7,
+      "losses": 7
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

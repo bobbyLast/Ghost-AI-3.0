@@ -1,0 +1,40 @@
+{
+  "ticket_id": "s_1751658507894433_31",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 1-Leg Ticket",
+  "tier": "standard",
+  "sport": "WNBA",
+  "game_id": "e3f2627b86f4dae2fc98a365c3d7adb3",
+  "home_team": "Connecticut Sun",
+  "away_team": "Las Vegas Aces",
+  "commence_time": "2025-07-06T20:00:00Z",
+  "selections": [
+    {
+      "player_name": "Jackie Young",
+      "prop_type": "player_points",
+      "line": 15.5,
+      "odds": -120,
+      "bookmaker": "FanDuel",
+      "confidence": 0.545,
+      "value_rating": 0.0,
+      "team": "Las Vegas Aces",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T19:48:27.902856+00:00",
+  "confidence_score": 0.545,
+  "avg_odds": -120.0,
+  "potential_payout": 14.37,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Las Vegas Aces"
+  ],
+  "team_count": 1,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.84
+}

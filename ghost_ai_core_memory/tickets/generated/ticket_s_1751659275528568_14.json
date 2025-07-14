@@ -1,0 +1,38 @@
+{
+  "ticket_id": "s_1751659275528568_14",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 1-Leg Ticket",
+  "tier": "standard",
+  "sport": "UNKNOWN",
+  "game_id": "64d16ffeb626ab9ad62cf5e2bb4de155",
+  "home_team": "Atlanta Braves",
+  "away_team": "Baltimore Orioles",
+  "commence_time": "2025-07-04T23:16:00Z",
+  "selections": [
+    {
+      "player_name": "Charlie Morton",
+      "prop_type": "fantasy_score",
+      "line": 3.0,
+      "odds": -110,
+      "bookmaker": "Underdog",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T20:01:15.540913+00:00",
+  "confidence_score": 0.524,
+  "avg_odds": -110.0,
+  "potential_payout": 14.66,
+  "no_duplicate_players": true,
+  "team_diversity": false,
+  "unique_teams": [],
+  "team_count": 0,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.68
+}

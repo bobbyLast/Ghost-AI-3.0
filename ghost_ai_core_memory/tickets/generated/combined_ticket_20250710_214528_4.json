@@ -1,0 +1,44 @@
+{
+  "ticket_id": "TICKET_20250710_214514_lwk3l1",
+  "sport": "Mixed",
+  "props": [
+    {
+      "sport": "MLB",
+      "game": "New York Yankees vs Seattle Mariners",
+      "player": "Over",
+      "prop": "batter_total_bases",
+      "line": 3.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": 650,
+      "reasoning": "Auto-extracted from OddsAPI: batter_total_bases for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "New York Yankees vs Seattle Mariners",
+      "player": "Over",
+      "prop": "batter_home_runs",
+      "line": 0.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": 180,
+      "reasoning": "Auto-extracted from OddsAPI: batter_home_runs for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "Oakland Athletics vs Atlanta Braves",
+      "player": "Under",
+      "prop": "pitcher_earned_runs",
+      "line": 2.5,
+      "pick": "Under",
+      "confidence": 0.7,
+      "odds": -135,
+      "reasoning": "Auto-extracted from OddsAPI: pitcher_earned_runs for Under"
+    }
+  ],
+  "total_confidence": 0.7,
+  "total_odds": -15795000.0,
+  "reasoning": "High-confidence ticket #4 using actual fetched props from multiple sports",
+  "timestamp": "2025-07-10T21:45:14.873966",
+  "openai_full_pipeline_feedback": "{\n  \"suggested_improvements\": [\n    {\n      \"improvement_id\": \"IMPROV_20250710_214514_lwk3l1_1\",\n      \"description\": \"Consider adding a feature that would allow the AI to analyze historical data of the players and teams. This could potentially improve the accuracy of the predictions.\",\n      \"code\": \"N/A\"\n    },\n    {\n      \"improvement_id\": \"IMPROV_20250710_214514_lwk3l1_2\",\n      \"description\": \"The 'confidence_breakdown', 'reverse_engine_analysis', and 'pipeline_steps' fields are currently empty. These fields could be used to provide more detailed information about how the AI arrived at its predictions.\",\n      \"code\": \"N/A\"\n    },\n    {\n      \"improvement_id\": \"IMPROV_20250710_214514_lwk3l1_3\",\n      \"description\": \"The 'total_odds' field seems to have an unrealistic value. This could be a calculation error. Consider revising the formula used to calculate this field.\",\n      \"code\": \"N/A\"\n    }\n  ],\n  \"calibration\": [\n    {\n      \"calibration_id\": \"CALIB_20250710_214514_lwk3l1_1\",\n      \"description\": \"Adjust the confidence level based on the historical performance of the AI. If the AI has been consistently accurate with its predictions, consider increasing the confidence level. Conversely, if the AI has been frequently inaccurate, consider decreasing the confidence level.\",\n      \"code\": \"N/A\"\n    }\n  ],\n  \"new_logic\": [\n    {\n      \"logic_id\": \"LOGIC_20250710_214514_lwk3l1_1\",\n      \"description\": \"Implement a feature that would allow the AI to consider the current form of the players and teams when making its predictions. This could potentially improve the accuracy of the predictions.\",\n      \"code\": \"N/A\"\n    }\n  ]\n}"
+}

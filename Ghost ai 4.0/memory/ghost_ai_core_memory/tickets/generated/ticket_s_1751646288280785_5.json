@@ -1,0 +1,69 @@
+{
+  "ticket_id": "s_1751646288280785_5",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+  "tier": "standard",
+  "sport": "WNBA",
+  "game_id": "e3f2627b86f4dae2fc98a365c3d7adb3",
+  "home_team": "Connecticut Sun",
+  "away_team": "Las Vegas Aces",
+  "commence_time": "2025-07-06T20:00:00Z",
+  "selections": [
+    {
+      "player_name": "A'ja Wilson",
+      "prop_type": "player_points",
+      "line": 23.5,
+      "odds": -108,
+      "bookmaker": "FanDuel",
+      "confidence": 0.439,
+      "value_rating": 0.0,
+      "team": "Las Vegas Aces",
+      "pick_side": "UNDER",
+      "over_under": "UNDER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Tina Charles",
+      "prop_type": "player_points",
+      "line": 14.5,
+      "odds": 102,
+      "bookmaker": "FanDuel",
+      "confidence": 0.495,
+      "value_rating": 0.0,
+      "team": "Connecticut Sun",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Jewell Loyd",
+      "prop_type": "player_points",
+      "line": 11.5,
+      "odds": 104,
+      "bookmaker": "FanDuel",
+      "confidence": 0.494,
+      "value_rating": 0.0,
+      "team": "Las Vegas Aces",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T16:24:48.293366+00:00",
+  "confidence_score": 0.476,
+  "avg_odds": 32.67,
+  "potential_payout": 58.09,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Connecticut Sun",
+    "Las Vegas Aces"
+  ],
+  "team_count": 2,
+  "is_demon": true,
+  "is_goblin": false,
+  "stake": 7.04
+}

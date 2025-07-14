@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-16T17:55:37Z",
+  "previous_timestamp": "2025-06-16T17:50:37Z",
+  "next_timestamp": "2025-06-16T18:00:37Z",
+  "data": {
+    "id": "842c5e1f58ce51fde37d506f4071fb8b",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-18T00:06:00Z",
+    "home_team": "Chicago Cubs",
+    "away_team": "Milwaukee Brewers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -152
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": 128
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 130,
+                "point": -1.5
+              },
+              {
+                "name": "Milwaukee Brewers",
+                "price": -156,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

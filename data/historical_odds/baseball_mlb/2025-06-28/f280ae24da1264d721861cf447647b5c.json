@@ -1,0 +1,545 @@
+{
+  "timestamp": "2025-06-28T17:55:37Z",
+  "previous_timestamp": "2025-06-28T17:50:37Z",
+  "next_timestamp": "2025-06-28T18:00:38Z",
+  "data": {
+    "id": "f280ae24da1264d721861cf447647b5c",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-28T20:11:00Z",
+    "home_team": "Kansas City Royals",
+    "away_team": "Los Angeles Dodgers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-28T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 130
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": -154
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -120,
+                "point": 1.5
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": 100,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-28T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 136
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": -150
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -119,
+                "point": 1.5
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": 105,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -117,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": 102,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-28T17:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 136
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": -150
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -122,
+                "point": 1.5
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": 102,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -119,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -101,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-28T17:54:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 135
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": -160
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -120,
+                "point": 1.5
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": 100,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-28T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 128
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": -156
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -123,
+                "point": 1.5
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": 101,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -103,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -118,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-28T17:55:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 130
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": -155
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -120,
+                "point": 1.5
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": 100,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-28T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 140
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": -170
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -120,
+                "point": 1.5
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": 100,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-28T17:55:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 138
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": -155
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -120,
+                "point": 1.5
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": 100,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-28T17:55:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 131
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": -157
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -120,
+                "point": 1.5
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": 100,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-28T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": 140
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": -167
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Royals",
+                "price": -115,
+                "point": 1.5
+              },
+              {
+                "name": "Los Angeles Dodgers",
+                "price": -108,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -104,
+                "point": 10.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

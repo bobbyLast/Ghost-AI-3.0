@@ -1,0 +1,4874 @@
+{
+  "total_underdog_players": 51,
+  "found_players": 50,
+  "coverage_rate": 98.0392156862745,
+  "found_players_list": [
+    "Alex Molcan",
+    "Amanda Anisimova",
+    "Andres Andrade",
+    "Antonia Ruzic",
+    "Carlos Alcaraz",
+    "Carol Zhao",
+    "Catherine McNally",
+    "Duje Ajdukovic",
+    "Edward Winter",
+    "Elisabetta Cocciaretto",
+    "Elizabeth Mandlik",
+    "Elsa Jacquemot",
+    "Elvina Kalieva",
+    "Filip Misolic",
+    "Francesca Jones",
+    "Hamish Stewart",
+    "Iga Swiatek",
+    "Jack Pinnington Jones",
+    "Jannik Sinner",
+    "Joao Lucas Reis Da Silva",
+    "Juan Manuel Cerundolo",
+    "Katarzyna Kawa",
+    "Kyle Edmund",
+    "Liam Draxl",
+    "Lola Radivojevic",
+    "Lucrezia Stefanini",
+    "Lukas Neumayer",
+    "Maiar Sherif Ahmed Abdelaziz",
+    "Mariam Bolkvadze",
+    "Mariano Navone",
+    "Matej Dodig",
+    "Maxim Mrva",
+    "Murkel Dellien",
+    "Novak Djokovic",
+    "Patrick Zahraj",
+    "Petra Marcinko",
+    "Radu Albot",
+    "Rebeka Masarova",
+    "Rio Noguchi",
+    "Ryan Peniston",
+    "Santiago Rodriguez Taverna",
+    "Shelby Rogers",
+    "Simona Waltert",
+    "Stan Wawrinka",
+    "Sumit Nagal",
+    "Tatjana Maria",
+    "Taylor Fritz",
+    "Thiago Agustin Tirante",
+    "Titouan Droguet",
+    "Yi Zhou"
+  ],
+  "missing_players_list": [
+    "Clara Giavara"
+  ],
+  "accurate_matches": [
+    {
+      "underdog_player": "Carlos Alcaraz",
+      "api_player": "C. Alcaraz",
+      "matches": [
+        {
+          "opponent": "T. Fritz",
+          "tournament": "ATP Wimbledon",
+          "event_type": "Atp Singles",
+          "date": "2025-07-11",
+          "time": "14:30",
+          "fixture_data": {
+            "event_key": 12051148,
+            "event_date": "2025-07-11",
+            "event_time": "14:30",
+            "event_first_player": "T. Fritz",
+            "first_player_key": 2832,
+            "event_second_player": "C. Alcaraz",
+            "second_player_key": 2382,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Wimbledon",
+            "tournament_key": 2053,
+            "tournament_round": "ATP Wimbledon - Semi-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2832_t-fritz.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2382_c-alcaraz.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Taylor Fritz",
+      "api_player": "T. Fritz",
+      "matches": [
+        {
+          "opponent": "C. Alcaraz",
+          "tournament": "ATP Wimbledon",
+          "event_type": "Atp Singles",
+          "date": "2025-07-11",
+          "time": "14:30",
+          "fixture_data": {
+            "event_key": 12051148,
+            "event_date": "2025-07-11",
+            "event_time": "14:30",
+            "event_first_player": "T. Fritz",
+            "first_player_key": 2832,
+            "event_second_player": "C. Alcaraz",
+            "second_player_key": 2382,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Wimbledon",
+            "tournament_key": 2053,
+            "tournament_round": "ATP Wimbledon - Semi-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2832_t-fritz.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2382_c-alcaraz.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Mariano Navone",
+      "api_player": "M. Navone",
+      "matches": [
+        {
+          "opponent": "F. Misolic",
+          "tournament": "Braunschweig Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "15:00",
+          "fixture_data": {
+            "event_key": 12051715,
+            "event_date": "2025-07-11",
+            "event_time": "15:00",
+            "event_first_player": "F. Misolic",
+            "first_player_key": 594,
+            "event_second_player": "M. Navone",
+            "second_player_key": 949,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Braunschweig Challenger Men",
+            "tournament_key": 2451,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/594_f-misolic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/949_m-navone.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Filip Misolic",
+      "api_player": "F. Misolic",
+      "matches": [
+        {
+          "opponent": "M. Navone",
+          "tournament": "Braunschweig Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "15:00",
+          "fixture_data": {
+            "event_key": 12051715,
+            "event_date": "2025-07-11",
+            "event_time": "15:00",
+            "event_first_player": "F. Misolic",
+            "first_player_key": 594,
+            "event_second_player": "M. Navone",
+            "second_player_key": 949,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Braunschweig Challenger Men",
+            "tournament_key": 2451,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/594_f-misolic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/949_m-navone.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Lucrezia Stefanini",
+      "api_player": "L. Stefanini",
+      "matches": [
+        {
+          "opponent": "A. S. Rogers",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "18:30",
+          "fixture_data": {
+            "event_key": 12051229,
+            "event_date": "2025-07-11",
+            "event_time": "18:30",
+            "event_first_player": "L. Stefanini",
+            "first_player_key": 1113,
+            "event_second_player": "A. S. Rogers",
+            "second_player_key": 124,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Newport Challenger Women",
+            "tournament_key": 12699,
+            "tournament_round": "Newport Challenger Women - 1/8-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1113_l-stefanini.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Shelby Rogers",
+      "api_player": "A. S. Rogers",
+      "matches": [
+        {
+          "opponent": "L. Stefanini",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "18:30",
+          "fixture_data": {
+            "event_key": 12051229,
+            "event_date": "2025-07-11",
+            "event_time": "18:30",
+            "event_first_player": "L. Stefanini",
+            "first_player_key": 1113,
+            "event_second_player": "A. S. Rogers",
+            "second_player_key": 124,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Newport Challenger Women",
+            "tournament_key": 12699,
+            "tournament_round": "Newport Challenger Women - 1/8-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1113_l-stefanini.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Elisabetta Cocciaretto",
+      "api_player": "E. Cocciaretto",
+      "matches": [
+        {
+          "opponent": "A. Ruzic",
+          "tournament": "Bastad Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "12:30",
+          "fixture_data": {
+            "event_key": 12051722,
+            "event_date": "2025-07-11",
+            "event_time": "12:30",
+            "event_first_player": "A. Ruzic",
+            "first_player_key": 168,
+            "event_second_player": "E. Cocciaretto",
+            "second_player_key": 477,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Bastad Challenger Women",
+            "tournament_key": 3141,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/168_a-ruzic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/477_e-cocciaretto.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Antonia Ruzic",
+      "api_player": "A. Ruzic",
+      "matches": [
+        {
+          "opponent": "E. Cocciaretto",
+          "tournament": "Bastad Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "12:30",
+          "fixture_data": {
+            "event_key": 12051722,
+            "event_date": "2025-07-11",
+            "event_time": "12:30",
+            "event_first_player": "A. Ruzic",
+            "first_player_key": 168,
+            "event_second_player": "E. Cocciaretto",
+            "second_player_key": 477,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Bastad Challenger Women",
+            "tournament_key": 3141,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/168_a-ruzic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/477_e-cocciaretto.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Elizabeth Mandlik",
+      "api_player": "E. Mandlik",
+      "matches": [
+        {
+          "opponent": "H. Giavara",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "18:30",
+          "fixture_data": {
+            "event_key": 12051160,
+            "event_date": "2025-07-11",
+            "event_time": "18:30",
+            "event_first_player": "E. Mandlik",
+            "first_player_key": 209,
+            "event_second_player": "H. Giavara",
+            "second_player_key": 1429,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Newport Challenger Women",
+            "tournament_key": 12699,
+            "tournament_round": "Newport Challenger Women - 1/8-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/209_e-mandlik.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Juan Manuel Cerundolo",
+      "api_player": "J. M. Cerundolo",
+      "matches": [
+        {
+          "opponent": "A. Molcan",
+          "tournament": "Braunschweig Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "13:30",
+          "fixture_data": {
+            "event_key": 12051714,
+            "event_date": "2025-07-11",
+            "event_time": "13:30",
+            "event_first_player": "J. M. Cerundolo",
+            "first_player_key": 388,
+            "event_second_player": "A. Molcan",
+            "second_player_key": 436,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Braunschweig Challenger Men",
+            "tournament_key": 2451,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/388_j-m-cerundolo.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/436_a-molcan.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Alex Molcan",
+      "api_player": "A. Molcan",
+      "matches": [
+        {
+          "opponent": "J. M. Cerundolo",
+          "tournament": "Braunschweig Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "13:30",
+          "fixture_data": {
+            "event_key": 12051714,
+            "event_date": "2025-07-11",
+            "event_time": "13:30",
+            "event_first_player": "J. M. Cerundolo",
+            "first_player_key": 388,
+            "event_second_player": "A. Molcan",
+            "second_player_key": 436,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Braunschweig Challenger Men",
+            "tournament_key": 2451,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/388_j-m-cerundolo.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/436_a-molcan.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Tatjana Maria",
+      "api_player": "T. Maria",
+      "matches": [
+        {
+          "opponent": "S. Ishii",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "21:30",
+          "fixture_data": {
+            "event_key": 12051585,
+            "event_date": "2025-07-11",
+            "event_time": "21:30",
+            "event_first_player": "T. Maria",
+            "first_player_key": 2414,
+            "event_second_player": "S. Ishii",
+            "second_player_key": 37885,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Newport Challenger Women",
+            "tournament_key": 12699,
+            "tournament_round": "Newport Challenger Women - Quarter-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2414_t-maria.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Novak Djokovic",
+      "api_player": "N. Djokovic",
+      "matches": [
+        {
+          "opponent": "J. Sinner",
+          "tournament": "ATP Wimbledon",
+          "event_type": "Atp Singles",
+          "date": "2025-07-11",
+          "time": "16:30",
+          "fixture_data": {
+            "event_key": 12051579,
+            "event_date": "2025-07-11",
+            "event_time": "16:30",
+            "event_first_player": "J. Sinner",
+            "first_player_key": 2072,
+            "event_second_player": "N. Djokovic",
+            "second_player_key": 1905,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Wimbledon",
+            "tournament_key": 2053,
+            "tournament_round": "ATP Wimbledon - Semi-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2072_j-sinner.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1905_n-djokovic.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Jannik Sinner",
+      "api_player": "J. Sinner",
+      "matches": [
+        {
+          "opponent": "N. Djokovic",
+          "tournament": "ATP Wimbledon",
+          "event_type": "Atp Singles",
+          "date": "2025-07-11",
+          "time": "16:30",
+          "fixture_data": {
+            "event_key": 12051579,
+            "event_date": "2025-07-11",
+            "event_time": "16:30",
+            "event_first_player": "J. Sinner",
+            "first_player_key": 2072,
+            "event_second_player": "N. Djokovic",
+            "second_player_key": 1905,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Wimbledon",
+            "tournament_key": 2053,
+            "tournament_round": "ATP Wimbledon - Semi-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2072_j-sinner.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1905_n-djokovic.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Matej Dodig",
+      "api_player": "M. Dodig",
+      "matches": [
+        {
+          "opponent": "L. Neumayer",
+          "tournament": "Trieste Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "15:30",
+          "fixture_data": {
+            "event_key": 12051718,
+            "event_date": "2025-07-11",
+            "event_time": "15:30",
+            "event_first_player": "M. Dodig",
+            "first_player_key": 28615,
+            "event_second_player": "L. Neumayer",
+            "second_player_key": 2022,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Trieste Challenger Men",
+            "tournament_key": 3557,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/28615_m-dodig.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2022_l-neumayer.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Lukas Neumayer",
+      "api_player": "L. Neumayer",
+      "matches": [
+        {
+          "opponent": "M. Dodig",
+          "tournament": "Trieste Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "15:30",
+          "fixture_data": {
+            "event_key": 12051718,
+            "event_date": "2025-07-11",
+            "event_time": "15:30",
+            "event_first_player": "M. Dodig",
+            "first_player_key": 28615,
+            "event_second_player": "L. Neumayer",
+            "second_player_key": 2022,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Trieste Challenger Men",
+            "tournament_key": 3557,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/28615_m-dodig.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2022_l-neumayer.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Thiago Agustin Tirante",
+      "api_player": "T. A. Tirante",
+      "matches": [
+        {
+          "opponent": "S. Rodriguez Taverna",
+          "tournament": "Trieste Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "17:30",
+          "fixture_data": {
+            "event_key": 12051657,
+            "event_date": "2025-07-11",
+            "event_time": "17:30",
+            "event_first_player": "T. A. Tirante",
+            "first_player_key": 366,
+            "event_second_player": "S. Rodriguez Taverna",
+            "second_player_key": 361,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Trieste Challenger Men",
+            "tournament_key": 3557,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/366_t-a-tirante.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/361_s-rodriguez-taverna.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Santiago Rodriguez Taverna",
+      "api_player": "S. Rodriguez Taverna",
+      "matches": [
+        {
+          "opponent": "T. A. Tirante",
+          "tournament": "Trieste Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "17:30",
+          "fixture_data": {
+            "event_key": 12051657,
+            "event_date": "2025-07-11",
+            "event_time": "17:30",
+            "event_first_player": "T. A. Tirante",
+            "first_player_key": 366,
+            "event_second_player": "S. Rodriguez Taverna",
+            "second_player_key": 361,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Trieste Challenger Men",
+            "tournament_key": 3557,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/366_t-a-tirante.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/361_s-rodriguez-taverna.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Ryan Peniston",
+      "api_player": "R. Peniston",
+      "matches": [
+        {
+          "opponent": "H. Stewart",
+          "tournament": "Nottingham 4 Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "15:00",
+          "fixture_data": {
+            "event_key": 12051581,
+            "event_date": "2025-07-11",
+            "event_time": "15:00",
+            "event_first_player": "R. Peniston",
+            "first_player_key": 1072,
+            "event_second_player": "H. Stewart",
+            "second_player_key": 38208,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Nottingham 4 Challenger Men",
+            "tournament_key": 12697,
+            "tournament_round": "Nottingham 4 Challenger Men - Quarter-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1072_r-peniston.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Hamish Stewart",
+      "api_player": "H. Stewart",
+      "matches": [
+        {
+          "opponent": "R. Peniston",
+          "tournament": "Nottingham 4 Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "15:00",
+          "fixture_data": {
+            "event_key": 12051581,
+            "event_date": "2025-07-11",
+            "event_time": "15:00",
+            "event_first_player": "R. Peniston",
+            "first_player_key": 1072,
+            "event_second_player": "H. Stewart",
+            "second_player_key": 38208,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Nottingham 4 Challenger Men",
+            "tournament_key": 12697,
+            "tournament_round": "Nottingham 4 Challenger Men - Quarter-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1072_r-peniston.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Murkel Dellien",
+      "api_player": "M. A. Dellien Velasco",
+      "matches": [
+        {
+          "opponent": "D. Ajdukovic",
+          "tournament": "Iasi Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "12:30",
+          "fixture_data": {
+            "event_key": 12051655,
+            "event_date": "2025-07-11",
+            "event_time": "12:30",
+            "event_first_player": "M. A. Dellien Velasco",
+            "first_player_key": 7334,
+            "event_second_player": "D. Ajdukovic",
+            "second_player_key": 392,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Iasi Challenger Men",
+            "tournament_key": 3589,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/7334_m-a-dellien-velasco.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/392_d-ajdukovic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Duje Ajdukovic",
+      "api_player": "D. Ajdukovic",
+      "matches": [
+        {
+          "opponent": "M. A. Dellien Velasco",
+          "tournament": "Iasi Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "12:30",
+          "fixture_data": {
+            "event_key": 12051655,
+            "event_date": "2025-07-11",
+            "event_time": "12:30",
+            "event_first_player": "M. A. Dellien Velasco",
+            "first_player_key": 7334,
+            "event_second_player": "D. Ajdukovic",
+            "second_player_key": 392,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Iasi Challenger Men",
+            "tournament_key": 3589,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/7334_m-a-dellien-velasco.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/392_d-ajdukovic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Edward Winter",
+      "api_player": "E. Winter",
+      "matches": [
+        {
+          "opponent": "J. Pinnington Jones",
+          "tournament": "Nottingham 4 Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "13:30",
+          "fixture_data": {
+            "event_key": 12051582,
+            "event_date": "2025-07-11",
+            "event_time": "13:30",
+            "event_first_player": "J. Pinnington Jones",
+            "first_player_key": 1858,
+            "event_second_player": "E. Winter",
+            "second_player_key": 3318,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Nottingham 4 Challenger Men",
+            "tournament_key": 12697,
+            "tournament_round": "Nottingham 4 Challenger Men - Quarter-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1858_j-pinnington-jones.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Jack Pinnington Jones",
+      "api_player": "J. Pinnington Jones",
+      "matches": [
+        {
+          "opponent": "E. Winter",
+          "tournament": "Nottingham 4 Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "13:30",
+          "fixture_data": {
+            "event_key": 12051582,
+            "event_date": "2025-07-11",
+            "event_time": "13:30",
+            "event_first_player": "J. Pinnington Jones",
+            "first_player_key": 1858,
+            "event_second_player": "E. Winter",
+            "second_player_key": 3318,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Nottingham 4 Challenger Men",
+            "tournament_key": 12697,
+            "tournament_round": "Nottingham 4 Challenger Men - Quarter-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1858_j-pinnington-jones.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Sumit Nagal",
+      "api_player": "S. Nagal",
+      "matches": [
+        {
+          "opponent": "M. Mrva",
+          "tournament": "Trieste Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "14:00",
+          "fixture_data": {
+            "event_key": 12051719,
+            "event_date": "2025-07-11",
+            "event_time": "14:00",
+            "event_first_player": "S. Nagal",
+            "first_player_key": 1077,
+            "event_second_player": "M. Mrva",
+            "second_player_key": 38850,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Trieste Challenger Men",
+            "tournament_key": 3557,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1077_s-nagal.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Maxim Mrva",
+      "api_player": "M. Mrva",
+      "matches": [
+        {
+          "opponent": "S. Nagal",
+          "tournament": "Trieste Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "14:00",
+          "fixture_data": {
+            "event_key": 12051719,
+            "event_date": "2025-07-11",
+            "event_time": "14:00",
+            "event_first_player": "S. Nagal",
+            "first_player_key": 1077,
+            "event_second_player": "M. Mrva",
+            "second_player_key": 38850,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Trieste Challenger Men",
+            "tournament_key": 3557,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1077_s-nagal.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Patrick Zahraj",
+      "api_player": "P. Zahraj",
+      "matches": [
+        {
+          "opponent": "K. Edmund",
+          "tournament": "Nottingham 4 Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "12:00",
+          "fixture_data": {
+            "event_key": 12051717,
+            "event_date": "2025-07-11",
+            "event_time": "12:00",
+            "event_first_player": "K. Edmund",
+            "first_player_key": 3221,
+            "event_second_player": "P. Zahraj",
+            "second_player_key": 5791,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Nottingham 4 Challenger Men",
+            "tournament_key": 12697,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/3221_k-edmund.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Kyle Edmund",
+      "api_player": "K. Edmund",
+      "matches": [
+        {
+          "opponent": "P. Zahraj",
+          "tournament": "Nottingham 4 Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "12:00",
+          "fixture_data": {
+            "event_key": 12051717,
+            "event_date": "2025-07-11",
+            "event_time": "12:00",
+            "event_first_player": "K. Edmund",
+            "first_player_key": 3221,
+            "event_second_player": "P. Zahraj",
+            "second_player_key": 5791,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Nottingham 4 Challenger Men",
+            "tournament_key": 12697,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/3221_k-edmund.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Radu Albot",
+      "api_player": "R. Albot",
+      "matches": [
+        {
+          "opponent": "S. Wawrinka",
+          "tournament": "Iasi Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "17:00",
+          "fixture_data": {
+            "event_key": 12051716,
+            "event_date": "2025-07-11",
+            "event_time": "17:00",
+            "event_first_player": "S. Wawrinka",
+            "first_player_key": 2168,
+            "event_second_player": "R. Albot",
+            "second_player_key": 363,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Iasi Challenger Men",
+            "tournament_key": 3589,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2168_s-wawrinka.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/363_r-albot.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Stan Wawrinka",
+      "api_player": "S. Wawrinka",
+      "matches": [
+        {
+          "opponent": "R. Albot",
+          "tournament": "Iasi Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "17:00",
+          "fixture_data": {
+            "event_key": 12051716,
+            "event_date": "2025-07-11",
+            "event_time": "17:00",
+            "event_first_player": "S. Wawrinka",
+            "first_player_key": 2168,
+            "event_second_player": "R. Albot",
+            "second_player_key": 363,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Iasi Challenger Men",
+            "tournament_key": 3589,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2168_s-wawrinka.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/363_r-albot.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Yi Zhou",
+      "api_player": "Y. Zhou",
+      "matches": [
+        {
+          "opponent": "A. Andrade",
+          "tournament": "Winnipeg Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "19:30",
+          "fixture_data": {
+            "event_key": 12051720,
+            "event_date": "2025-07-11",
+            "event_time": "19:30",
+            "event_first_player": "A. Andrade",
+            "first_player_key": 6505,
+            "event_second_player": "Y. Zhou",
+            "second_player_key": 39862,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Winnipeg Challenger Men",
+            "tournament_key": 2402,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/6505_a-andrade.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Andres Andrade",
+      "api_player": "A. Andrade",
+      "matches": [
+        {
+          "opponent": "Y. Zhou",
+          "tournament": "Winnipeg Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "19:30",
+          "fixture_data": {
+            "event_key": 12051720,
+            "event_date": "2025-07-11",
+            "event_time": "19:30",
+            "event_first_player": "A. Andrade",
+            "first_player_key": 6505,
+            "event_second_player": "Y. Zhou",
+            "second_player_key": 39862,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Winnipeg Challenger Men",
+            "tournament_key": 2402,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/6505_a-andrade.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Lola Radivojevic",
+      "api_player": "L. Radivojevic",
+      "matches": [
+        {
+          "opponent": "P. Marcinko",
+          "tournament": "Contrexeville Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "11:30",
+          "fixture_data": {
+            "event_key": 12051584,
+            "event_date": "2025-07-11",
+            "event_time": "11:30",
+            "event_first_player": "P. Marcinko",
+            "first_player_key": 1143,
+            "event_second_player": "L. Radivojevic",
+            "second_player_key": 1364,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Contrexeville Challenger Women",
+            "tournament_key": 7381,
+            "tournament_round": "Contrexeville Challenger Women - Quarter-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1143_p-marcinko.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Petra Marcinko",
+      "api_player": "P. Marcinko",
+      "matches": [
+        {
+          "opponent": "L. Radivojevic",
+          "tournament": "Contrexeville Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "11:30",
+          "fixture_data": {
+            "event_key": 12051584,
+            "event_date": "2025-07-11",
+            "event_time": "11:30",
+            "event_first_player": "P. Marcinko",
+            "first_player_key": 1143,
+            "event_second_player": "L. Radivojevic",
+            "second_player_key": 1364,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Contrexeville Challenger Women",
+            "tournament_key": 7381,
+            "tournament_round": "Contrexeville Challenger Women - Quarter-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1143_p-marcinko.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Catherine McNally",
+      "api_player": "C. McNally",
+      "matches": [
+        {
+          "opponent": "M. Bolkvadze",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "18:30",
+          "fixture_data": {
+            "event_key": 12051228,
+            "event_date": "2025-07-11",
+            "event_time": "18:30",
+            "event_first_player": "M. Bolkvadze",
+            "first_player_key": 1806,
+            "event_second_player": "C. McNally",
+            "second_player_key": 1127,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Newport Challenger Women",
+            "tournament_key": 12699,
+            "tournament_round": "Newport Challenger Women - 1/8-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1806_m-bolkvadze.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1127_c-mcnally.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Mariam Bolkvadze",
+      "api_player": "M. Bolkvadze",
+      "matches": [
+        {
+          "opponent": "C. McNally",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "18:30",
+          "fixture_data": {
+            "event_key": 12051228,
+            "event_date": "2025-07-11",
+            "event_time": "18:30",
+            "event_first_player": "M. Bolkvadze",
+            "first_player_key": 1806,
+            "event_second_player": "C. McNally",
+            "second_player_key": 1127,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Newport Challenger Women",
+            "tournament_key": 12699,
+            "tournament_round": "Newport Challenger Women - 1/8-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1806_m-bolkvadze.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1127_c-mcnally.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Elvina Kalieva",
+      "api_player": "E. Kalieva",
+      "matches": [
+        {
+          "opponent": "C. Zhao",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "18:30",
+          "fixture_data": {
+            "event_key": 12051159,
+            "event_date": "2025-07-11",
+            "event_time": "18:30",
+            "event_first_player": "E. Kalieva",
+            "first_player_key": 198,
+            "event_second_player": "C. Zhao",
+            "second_player_key": 1822,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Newport Challenger Women",
+            "tournament_key": 12699,
+            "tournament_round": "Newport Challenger Women - 1/8-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/198_e-kalieva.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1822_c-zhao.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Carol Zhao",
+      "api_player": "C. Zhao",
+      "matches": [
+        {
+          "opponent": "E. Kalieva",
+          "tournament": "Newport Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "18:30",
+          "fixture_data": {
+            "event_key": 12051159,
+            "event_date": "2025-07-11",
+            "event_time": "18:30",
+            "event_first_player": "E. Kalieva",
+            "first_player_key": 198,
+            "event_second_player": "C. Zhao",
+            "second_player_key": 1822,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Newport Challenger Women",
+            "tournament_key": 12699,
+            "tournament_round": "Newport Challenger Women - 1/8-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/198_e-kalieva.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1822_c-zhao.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Elsa Jacquemot",
+      "api_player": "E. Jacquemot",
+      "matches": [
+        {
+          "opponent": "S. Waltert",
+          "tournament": "Contrexeville Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "14:45",
+          "fixture_data": {
+            "event_key": 12051724,
+            "event_date": "2025-07-11",
+            "event_time": "14:45",
+            "event_first_player": "E. Jacquemot",
+            "first_player_key": 1823,
+            "event_second_player": "S. Waltert",
+            "second_player_key": 493,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Contrexeville Challenger Women",
+            "tournament_key": 7381,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1823_e-jacquemot.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/493_s-waltert.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Simona Waltert",
+      "api_player": "S. Waltert",
+      "matches": [
+        {
+          "opponent": "E. Jacquemot",
+          "tournament": "Contrexeville Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "14:45",
+          "fixture_data": {
+            "event_key": 12051724,
+            "event_date": "2025-07-11",
+            "event_time": "14:45",
+            "event_first_player": "E. Jacquemot",
+            "first_player_key": 1823,
+            "event_second_player": "S. Waltert",
+            "second_player_key": 493,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Contrexeville Challenger Women",
+            "tournament_key": 7381,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1823_e-jacquemot.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/493_s-waltert.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Rebeka Masarova",
+      "api_player": "R. Masarova",
+      "matches": [
+        {
+          "opponent": "F. Jones",
+          "tournament": "Contrexeville Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "13:15",
+          "fixture_data": {
+            "event_key": 12051583,
+            "event_date": "2025-07-11",
+            "event_time": "13:15",
+            "event_first_player": "F. Jones",
+            "first_player_key": 2991,
+            "event_second_player": "R. Masarova",
+            "second_player_key": 1132,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Contrexeville Challenger Women",
+            "tournament_key": 7381,
+            "tournament_round": "Contrexeville Challenger Women - Quarter-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2991_f-jones.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1132_r-masarova.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Francesca Jones",
+      "api_player": "F. Jones",
+      "matches": [
+        {
+          "opponent": "R. Masarova",
+          "tournament": "Contrexeville Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "13:15",
+          "fixture_data": {
+            "event_key": 12051583,
+            "event_date": "2025-07-11",
+            "event_time": "13:15",
+            "event_first_player": "F. Jones",
+            "first_player_key": 2991,
+            "event_second_player": "R. Masarova",
+            "second_player_key": 1132,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Contrexeville Challenger Women",
+            "tournament_key": 7381,
+            "tournament_round": "Contrexeville Challenger Women - Quarter-finals",
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2991_f-jones.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1132_r-masarova.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Iga Swiatek",
+      "api_player": "I. Swiatek",
+      "matches": [
+        {
+          "opponent": "A. Anisimova",
+          "tournament": "WTA Wimbledon",
+          "event_type": "Wta Singles",
+          "date": "2025-07-12",
+          "time": "17:00",
+          "fixture_data": {
+            "event_key": 12051837,
+            "event_date": "2025-07-12",
+            "event_time": "17:00",
+            "event_first_player": "A. Anisimova",
+            "first_player_key": 2074,
+            "event_second_player": "I. Swiatek",
+            "second_player_key": 1910,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2074_a-anisimova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1910_i-swiatek.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Amanda Anisimova",
+      "api_player": "A. Anisimova",
+      "matches": [
+        {
+          "opponent": "I. Swiatek",
+          "tournament": "WTA Wimbledon",
+          "event_type": "Wta Singles",
+          "date": "2025-07-12",
+          "time": "17:00",
+          "fixture_data": {
+            "event_key": 12051837,
+            "event_date": "2025-07-12",
+            "event_time": "17:00",
+            "event_first_player": "A. Anisimova",
+            "first_player_key": 2074,
+            "event_second_player": "I. Swiatek",
+            "second_player_key": 1910,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2074_a-anisimova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1910_i-swiatek.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Maiar Sherif Ahmed Abdelaziz",
+      "api_player": "M. Sherif",
+      "matches": [
+        {
+          "opponent": "K. Kawa",
+          "tournament": "Bastad Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "11:00",
+          "fixture_data": {
+            "event_key": 12051691,
+            "event_date": "2025-07-11",
+            "event_time": "11:00",
+            "event_first_player": "K. Kawa",
+            "first_player_key": 1780,
+            "event_second_player": "M. Sherif",
+            "second_player_key": 510,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Bastad Challenger Women",
+            "tournament_key": 3141,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1780_k-kawa.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/510_m-sherif.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Katarzyna Kawa",
+      "api_player": "K. Kawa",
+      "matches": [
+        {
+          "opponent": "M. Sherif",
+          "tournament": "Bastad Challenger Women",
+          "event_type": "Challenger Women Singles",
+          "date": "2025-07-11",
+          "time": "11:00",
+          "fixture_data": {
+            "event_key": 12051691,
+            "event_date": "2025-07-11",
+            "event_time": "11:00",
+            "event_first_player": "K. Kawa",
+            "first_player_key": 1780,
+            "event_second_player": "M. Sherif",
+            "second_player_key": 510,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Bastad Challenger Women",
+            "tournament_key": 3141,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1780_k-kawa.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/510_m-sherif.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Joao Lucas Reis Da Silva",
+      "api_player": "J. Reis Da Silva",
+      "matches": [
+        {
+          "opponent": "T. Droguet",
+          "tournament": "Iasi Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "14:00",
+          "fixture_data": {
+            "event_key": 12051656,
+            "event_date": "2025-07-11",
+            "event_time": "14:00",
+            "event_first_player": "T. Droguet",
+            "first_player_key": 8926,
+            "event_second_player": "J. Reis Da Silva",
+            "second_player_key": 2408,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Iasi Challenger Men",
+            "tournament_key": 3589,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/8926_t-droguet.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2408_j-reis-da-silva.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Titouan Droguet",
+      "api_player": "T. Droguet",
+      "matches": [
+        {
+          "opponent": "J. Reis Da Silva",
+          "tournament": "Iasi Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "14:00",
+          "fixture_data": {
+            "event_key": 12051656,
+            "event_date": "2025-07-11",
+            "event_time": "14:00",
+            "event_first_player": "T. Droguet",
+            "first_player_key": 8926,
+            "event_second_player": "J. Reis Da Silva",
+            "second_player_key": 2408,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Iasi Challenger Men",
+            "tournament_key": 3589,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/8926_t-droguet.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2408_j-reis-da-silva.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Rio Noguchi",
+      "api_player": "R. Noguchi",
+      "matches": [
+        {
+          "opponent": "L. Draxl",
+          "tournament": "Winnipeg Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "18:00",
+          "fixture_data": {
+            "event_key": 12051721,
+            "event_date": "2025-07-11",
+            "event_time": "18:00",
+            "event_first_player": "R. Noguchi",
+            "first_player_key": 690,
+            "event_second_player": "L. Draxl",
+            "second_player_key": 3696,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Winnipeg Challenger Men",
+            "tournament_key": 2402,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/690_r-noguchi.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/3696_l-draxl.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    },
+    {
+      "underdog_player": "Liam Draxl",
+      "api_player": "L. Draxl",
+      "matches": [
+        {
+          "opponent": "R. Noguchi",
+          "tournament": "Winnipeg Challenger Men",
+          "event_type": "Challenger Men Singles",
+          "date": "2025-07-11",
+          "time": "18:00",
+          "fixture_data": {
+            "event_key": 12051721,
+            "event_date": "2025-07-11",
+            "event_time": "18:00",
+            "event_first_player": "R. Noguchi",
+            "first_player_key": 690,
+            "event_second_player": "L. Draxl",
+            "second_player_key": 3696,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Winnipeg Challenger Men",
+            "tournament_key": 2402,
+            "tournament_round": null,
+            "tournament_season": "2025",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/690_r-noguchi.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/3696_l-draxl.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "1"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "2"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "3"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "4"
+              },
+              {
+                "score_first": "0",
+                "score_second": "0",
+                "score_set": "5"
+              }
+            ],
+            "statistics": []
+          }
+        }
+      ]
+    }
+  ],
+  "all_props": [
+    {
+      "player": "T. Fritz vs C. Alcaraz",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 total games played.",
+      "underdog_player": "Carlos Alcaraz",
+      "api_player": "C. Alcaraz",
+      "match_info": "T. Fritz vs C. Alcaraz",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "T. Fritz",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Carlos Alcaraz",
+      "api_player": "C. Alcaraz",
+      "match_info": "T. Fritz vs C. Alcaraz",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "C. Alcaraz",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 games won.",
+      "underdog_player": "Carlos Alcaraz",
+      "api_player": "C. Alcaraz",
+      "match_info": "T. Fritz vs C. Alcaraz",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "T. Fritz",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Carlos Alcaraz",
+      "api_player": "C. Alcaraz",
+      "match_info": "T. Fritz vs C. Alcaraz",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "C. Alcaraz",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Carlos Alcaraz",
+      "api_player": "C. Alcaraz",
+      "match_info": "T. Fritz vs C. Alcaraz",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "T. Fritz vs C. Alcaraz",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games in 1st set.",
+      "underdog_player": "Carlos Alcaraz",
+      "api_player": "C. Alcaraz",
+      "match_info": "T. Fritz vs C. Alcaraz",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "T. Fritz vs C. Alcaraz",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 total games played.",
+      "underdog_player": "Taylor Fritz",
+      "api_player": "T. Fritz",
+      "match_info": "T. Fritz vs C. Alcaraz",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "T. Fritz",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Taylor Fritz",
+      "api_player": "T. Fritz",
+      "match_info": "T. Fritz vs C. Alcaraz",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "C. Alcaraz",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 games won.",
+      "underdog_player": "Taylor Fritz",
+      "api_player": "T. Fritz",
+      "match_info": "T. Fritz vs C. Alcaraz",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "T. Fritz",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Taylor Fritz",
+      "api_player": "T. Fritz",
+      "match_info": "T. Fritz vs C. Alcaraz",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "C. Alcaraz",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Taylor Fritz",
+      "api_player": "T. Fritz",
+      "match_info": "T. Fritz vs C. Alcaraz",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "T. Fritz vs C. Alcaraz",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games in 1st set.",
+      "underdog_player": "Taylor Fritz",
+      "api_player": "T. Fritz",
+      "match_info": "T. Fritz vs C. Alcaraz",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "F. Misolic vs M. Navone",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 total games played.",
+      "underdog_player": "Mariano Navone",
+      "api_player": "M. Navone",
+      "match_info": "F. Misolic vs M. Navone",
+      "tournament": "Braunschweig Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "F. Misolic",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Mariano Navone",
+      "api_player": "M. Navone",
+      "match_info": "F. Misolic vs M. Navone",
+      "tournament": "Braunschweig Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "M. Navone",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 games won.",
+      "underdog_player": "Mariano Navone",
+      "api_player": "M. Navone",
+      "match_info": "F. Misolic vs M. Navone",
+      "tournament": "Braunschweig Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "F. Misolic",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Mariano Navone",
+      "api_player": "M. Navone",
+      "match_info": "F. Misolic vs M. Navone",
+      "tournament": "Braunschweig Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "M. Navone",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Mariano Navone",
+      "api_player": "M. Navone",
+      "match_info": "F. Misolic vs M. Navone",
+      "tournament": "Braunschweig Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "F. Misolic vs M. Navone",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games in 1st set.",
+      "underdog_player": "Mariano Navone",
+      "api_player": "M. Navone",
+      "match_info": "F. Misolic vs M. Navone",
+      "tournament": "Braunschweig Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "F. Misolic vs M. Navone",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 total games played.",
+      "underdog_player": "Filip Misolic",
+      "api_player": "F. Misolic",
+      "match_info": "F. Misolic vs M. Navone",
+      "tournament": "Braunschweig Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "F. Misolic",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Filip Misolic",
+      "api_player": "F. Misolic",
+      "match_info": "F. Misolic vs M. Navone",
+      "tournament": "Braunschweig Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "M. Navone",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 games won.",
+      "underdog_player": "Filip Misolic",
+      "api_player": "F. Misolic",
+      "match_info": "F. Misolic vs M. Navone",
+      "tournament": "Braunschweig Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "F. Misolic",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Filip Misolic",
+      "api_player": "F. Misolic",
+      "match_info": "F. Misolic vs M. Navone",
+      "tournament": "Braunschweig Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "M. Navone",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Filip Misolic",
+      "api_player": "F. Misolic",
+      "match_info": "F. Misolic vs M. Navone",
+      "tournament": "Braunschweig Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "F. Misolic vs M. Navone",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games in 1st set.",
+      "underdog_player": "Filip Misolic",
+      "api_player": "F. Misolic",
+      "match_info": "F. Misolic vs M. Navone",
+      "tournament": "Braunschweig Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "J. Sinner vs N. Djokovic",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 total games played.",
+      "underdog_player": "Novak Djokovic",
+      "api_player": "N. Djokovic",
+      "match_info": "J. Sinner vs N. Djokovic",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "J. Sinner",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games won.",
+      "underdog_player": "Novak Djokovic",
+      "api_player": "N. Djokovic",
+      "match_info": "J. Sinner vs N. Djokovic",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "N. Djokovic",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 games won.",
+      "underdog_player": "Novak Djokovic",
+      "api_player": "N. Djokovic",
+      "match_info": "J. Sinner vs N. Djokovic",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "J. Sinner",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Novak Djokovic",
+      "api_player": "N. Djokovic",
+      "match_info": "J. Sinner vs N. Djokovic",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "N. Djokovic",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Novak Djokovic",
+      "api_player": "N. Djokovic",
+      "match_info": "J. Sinner vs N. Djokovic",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "J. Sinner vs N. Djokovic",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games in 1st set.",
+      "underdog_player": "Novak Djokovic",
+      "api_player": "N. Djokovic",
+      "match_info": "J. Sinner vs N. Djokovic",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "J. Sinner vs N. Djokovic",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 total games played.",
+      "underdog_player": "Jannik Sinner",
+      "api_player": "J. Sinner",
+      "match_info": "J. Sinner vs N. Djokovic",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "J. Sinner",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games won.",
+      "underdog_player": "Jannik Sinner",
+      "api_player": "J. Sinner",
+      "match_info": "J. Sinner vs N. Djokovic",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "N. Djokovic",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 games won.",
+      "underdog_player": "Jannik Sinner",
+      "api_player": "J. Sinner",
+      "match_info": "J. Sinner vs N. Djokovic",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "J. Sinner",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Jannik Sinner",
+      "api_player": "J. Sinner",
+      "match_info": "J. Sinner vs N. Djokovic",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "N. Djokovic",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Jannik Sinner",
+      "api_player": "J. Sinner",
+      "match_info": "J. Sinner vs N. Djokovic",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "J. Sinner vs N. Djokovic",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games in 1st set.",
+      "underdog_player": "Jannik Sinner",
+      "api_player": "J. Sinner",
+      "match_info": "J. Sinner vs N. Djokovic",
+      "tournament": "ATP Wimbledon",
+      "event_type": "Atp Singles"
+    },
+    {
+      "player": "T. A. Tirante vs S. Rodriguez Taverna",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 total games played.",
+      "underdog_player": "Thiago Agustin Tirante",
+      "api_player": "T. A. Tirante",
+      "match_info": "T. A. Tirante vs S. Rodriguez Taverna",
+      "tournament": "Trieste Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "T. A. Tirante",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Thiago Agustin Tirante",
+      "api_player": "T. A. Tirante",
+      "match_info": "T. A. Tirante vs S. Rodriguez Taverna",
+      "tournament": "Trieste Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "S. Rodriguez Taverna",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 games won.",
+      "underdog_player": "Thiago Agustin Tirante",
+      "api_player": "T. A. Tirante",
+      "match_info": "T. A. Tirante vs S. Rodriguez Taverna",
+      "tournament": "Trieste Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "T. A. Tirante",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Thiago Agustin Tirante",
+      "api_player": "T. A. Tirante",
+      "match_info": "T. A. Tirante vs S. Rodriguez Taverna",
+      "tournament": "Trieste Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "S. Rodriguez Taverna",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Thiago Agustin Tirante",
+      "api_player": "T. A. Tirante",
+      "match_info": "T. A. Tirante vs S. Rodriguez Taverna",
+      "tournament": "Trieste Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "T. A. Tirante vs S. Rodriguez Taverna",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games in 1st set.",
+      "underdog_player": "Thiago Agustin Tirante",
+      "api_player": "T. A. Tirante",
+      "match_info": "T. A. Tirante vs S. Rodriguez Taverna",
+      "tournament": "Trieste Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "T. A. Tirante vs S. Rodriguez Taverna",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 total games played.",
+      "underdog_player": "Santiago Rodriguez Taverna",
+      "api_player": "S. Rodriguez Taverna",
+      "match_info": "T. A. Tirante vs S. Rodriguez Taverna",
+      "tournament": "Trieste Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "T. A. Tirante",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Santiago Rodriguez Taverna",
+      "api_player": "S. Rodriguez Taverna",
+      "match_info": "T. A. Tirante vs S. Rodriguez Taverna",
+      "tournament": "Trieste Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "S. Rodriguez Taverna",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 games won.",
+      "underdog_player": "Santiago Rodriguez Taverna",
+      "api_player": "S. Rodriguez Taverna",
+      "match_info": "T. A. Tirante vs S. Rodriguez Taverna",
+      "tournament": "Trieste Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "T. A. Tirante",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Santiago Rodriguez Taverna",
+      "api_player": "S. Rodriguez Taverna",
+      "match_info": "T. A. Tirante vs S. Rodriguez Taverna",
+      "tournament": "Trieste Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "S. Rodriguez Taverna",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Santiago Rodriguez Taverna",
+      "api_player": "S. Rodriguez Taverna",
+      "match_info": "T. A. Tirante vs S. Rodriguez Taverna",
+      "tournament": "Trieste Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "T. A. Tirante vs S. Rodriguez Taverna",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games in 1st set.",
+      "underdog_player": "Santiago Rodriguez Taverna",
+      "api_player": "S. Rodriguez Taverna",
+      "match_info": "T. A. Tirante vs S. Rodriguez Taverna",
+      "tournament": "Trieste Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "S. Wawrinka vs R. Albot",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 total games played.",
+      "underdog_player": "Radu Albot",
+      "api_player": "R. Albot",
+      "match_info": "S. Wawrinka vs R. Albot",
+      "tournament": "Iasi Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "S. Wawrinka",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 games won.",
+      "underdog_player": "Radu Albot",
+      "api_player": "R. Albot",
+      "match_info": "S. Wawrinka vs R. Albot",
+      "tournament": "Iasi Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "R. Albot",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Radu Albot",
+      "api_player": "R. Albot",
+      "match_info": "S. Wawrinka vs R. Albot",
+      "tournament": "Iasi Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "S. Wawrinka",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Radu Albot",
+      "api_player": "R. Albot",
+      "match_info": "S. Wawrinka vs R. Albot",
+      "tournament": "Iasi Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "R. Albot",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Radu Albot",
+      "api_player": "R. Albot",
+      "match_info": "S. Wawrinka vs R. Albot",
+      "tournament": "Iasi Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "S. Wawrinka vs R. Albot",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games in 1st set.",
+      "underdog_player": "Radu Albot",
+      "api_player": "R. Albot",
+      "match_info": "S. Wawrinka vs R. Albot",
+      "tournament": "Iasi Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "S. Wawrinka vs R. Albot",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 total games played.",
+      "underdog_player": "Stan Wawrinka",
+      "api_player": "S. Wawrinka",
+      "match_info": "S. Wawrinka vs R. Albot",
+      "tournament": "Iasi Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "S. Wawrinka",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 games won.",
+      "underdog_player": "Stan Wawrinka",
+      "api_player": "S. Wawrinka",
+      "match_info": "S. Wawrinka vs R. Albot",
+      "tournament": "Iasi Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "R. Albot",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Stan Wawrinka",
+      "api_player": "S. Wawrinka",
+      "match_info": "S. Wawrinka vs R. Albot",
+      "tournament": "Iasi Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "S. Wawrinka",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Stan Wawrinka",
+      "api_player": "S. Wawrinka",
+      "match_info": "S. Wawrinka vs R. Albot",
+      "tournament": "Iasi Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "R. Albot",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Stan Wawrinka",
+      "api_player": "S. Wawrinka",
+      "match_info": "S. Wawrinka vs R. Albot",
+      "tournament": "Iasi Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "S. Wawrinka vs R. Albot",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games in 1st set.",
+      "underdog_player": "Stan Wawrinka",
+      "api_player": "S. Wawrinka",
+      "match_info": "S. Wawrinka vs R. Albot",
+      "tournament": "Iasi Challenger Men",
+      "event_type": "Challenger Men Singles"
+    },
+    {
+      "player": "P. Marcinko vs L. Radivojevic",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 total games played.",
+      "underdog_player": "Lola Radivojevic",
+      "api_player": "L. Radivojevic",
+      "match_info": "P. Marcinko vs L. Radivojevic",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "P. Marcinko",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Lola Radivojevic",
+      "api_player": "L. Radivojevic",
+      "match_info": "P. Marcinko vs L. Radivojevic",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "L. Radivojevic",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 games won.",
+      "underdog_player": "Lola Radivojevic",
+      "api_player": "L. Radivojevic",
+      "match_info": "P. Marcinko vs L. Radivojevic",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "P. Marcinko",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Lola Radivojevic",
+      "api_player": "L. Radivojevic",
+      "match_info": "P. Marcinko vs L. Radivojevic",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "L. Radivojevic",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Lola Radivojevic",
+      "api_player": "L. Radivojevic",
+      "match_info": "P. Marcinko vs L. Radivojevic",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "P. Marcinko vs L. Radivojevic",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games in 1st set.",
+      "underdog_player": "Lola Radivojevic",
+      "api_player": "L. Radivojevic",
+      "match_info": "P. Marcinko vs L. Radivojevic",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "P. Marcinko vs L. Radivojevic",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 total games played.",
+      "underdog_player": "Petra Marcinko",
+      "api_player": "P. Marcinko",
+      "match_info": "P. Marcinko vs L. Radivojevic",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "P. Marcinko",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Petra Marcinko",
+      "api_player": "P. Marcinko",
+      "match_info": "P. Marcinko vs L. Radivojevic",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "L. Radivojevic",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 games won.",
+      "underdog_player": "Petra Marcinko",
+      "api_player": "P. Marcinko",
+      "match_info": "P. Marcinko vs L. Radivojevic",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "P. Marcinko",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Petra Marcinko",
+      "api_player": "P. Marcinko",
+      "match_info": "P. Marcinko vs L. Radivojevic",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "L. Radivojevic",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Petra Marcinko",
+      "api_player": "P. Marcinko",
+      "match_info": "P. Marcinko vs L. Radivojevic",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "P. Marcinko vs L. Radivojevic",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games in 1st set.",
+      "underdog_player": "Petra Marcinko",
+      "api_player": "P. Marcinko",
+      "match_info": "P. Marcinko vs L. Radivojevic",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Kalieva vs C. Zhao",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 total games played.",
+      "underdog_player": "Elvina Kalieva",
+      "api_player": "E. Kalieva",
+      "match_info": "E. Kalieva vs C. Zhao",
+      "tournament": "Newport Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Kalieva",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Elvina Kalieva",
+      "api_player": "E. Kalieva",
+      "match_info": "E. Kalieva vs C. Zhao",
+      "tournament": "Newport Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "C. Zhao",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 games won.",
+      "underdog_player": "Elvina Kalieva",
+      "api_player": "E. Kalieva",
+      "match_info": "E. Kalieva vs C. Zhao",
+      "tournament": "Newport Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Kalieva",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Elvina Kalieva",
+      "api_player": "E. Kalieva",
+      "match_info": "E. Kalieva vs C. Zhao",
+      "tournament": "Newport Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "C. Zhao",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Elvina Kalieva",
+      "api_player": "E. Kalieva",
+      "match_info": "E. Kalieva vs C. Zhao",
+      "tournament": "Newport Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Kalieva vs C. Zhao",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games in 1st set.",
+      "underdog_player": "Elvina Kalieva",
+      "api_player": "E. Kalieva",
+      "match_info": "E. Kalieva vs C. Zhao",
+      "tournament": "Newport Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Kalieva vs C. Zhao",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 total games played.",
+      "underdog_player": "Carol Zhao",
+      "api_player": "C. Zhao",
+      "match_info": "E. Kalieva vs C. Zhao",
+      "tournament": "Newport Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Kalieva",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Carol Zhao",
+      "api_player": "C. Zhao",
+      "match_info": "E. Kalieva vs C. Zhao",
+      "tournament": "Newport Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "C. Zhao",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 games won.",
+      "underdog_player": "Carol Zhao",
+      "api_player": "C. Zhao",
+      "match_info": "E. Kalieva vs C. Zhao",
+      "tournament": "Newport Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Kalieva",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Carol Zhao",
+      "api_player": "C. Zhao",
+      "match_info": "E. Kalieva vs C. Zhao",
+      "tournament": "Newport Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "C. Zhao",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Carol Zhao",
+      "api_player": "C. Zhao",
+      "match_info": "E. Kalieva vs C. Zhao",
+      "tournament": "Newport Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Kalieva vs C. Zhao",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games in 1st set.",
+      "underdog_player": "Carol Zhao",
+      "api_player": "C. Zhao",
+      "match_info": "E. Kalieva vs C. Zhao",
+      "tournament": "Newport Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Jacquemot vs S. Waltert",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 total games played.",
+      "underdog_player": "Elsa Jacquemot",
+      "api_player": "E. Jacquemot",
+      "match_info": "E. Jacquemot vs S. Waltert",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Jacquemot",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 games won.",
+      "underdog_player": "Elsa Jacquemot",
+      "api_player": "E. Jacquemot",
+      "match_info": "E. Jacquemot vs S. Waltert",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "S. Waltert",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Elsa Jacquemot",
+      "api_player": "E. Jacquemot",
+      "match_info": "E. Jacquemot vs S. Waltert",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Jacquemot",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Elsa Jacquemot",
+      "api_player": "E. Jacquemot",
+      "match_info": "E. Jacquemot vs S. Waltert",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "S. Waltert",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Elsa Jacquemot",
+      "api_player": "E. Jacquemot",
+      "match_info": "E. Jacquemot vs S. Waltert",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Jacquemot vs S. Waltert",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games in 1st set.",
+      "underdog_player": "Elsa Jacquemot",
+      "api_player": "E. Jacquemot",
+      "match_info": "E. Jacquemot vs S. Waltert",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Jacquemot vs S. Waltert",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 total games played.",
+      "underdog_player": "Simona Waltert",
+      "api_player": "S. Waltert",
+      "match_info": "E. Jacquemot vs S. Waltert",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Jacquemot",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 games won.",
+      "underdog_player": "Simona Waltert",
+      "api_player": "S. Waltert",
+      "match_info": "E. Jacquemot vs S. Waltert",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "S. Waltert",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Simona Waltert",
+      "api_player": "S. Waltert",
+      "match_info": "E. Jacquemot vs S. Waltert",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Jacquemot",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Simona Waltert",
+      "api_player": "S. Waltert",
+      "match_info": "E. Jacquemot vs S. Waltert",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "S. Waltert",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Simona Waltert",
+      "api_player": "S. Waltert",
+      "match_info": "E. Jacquemot vs S. Waltert",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "E. Jacquemot vs S. Waltert",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games in 1st set.",
+      "underdog_player": "Simona Waltert",
+      "api_player": "S. Waltert",
+      "match_info": "E. Jacquemot vs S. Waltert",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "F. Jones vs R. Masarova",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 total games played.",
+      "underdog_player": "Rebeka Masarova",
+      "api_player": "R. Masarova",
+      "match_info": "F. Jones vs R. Masarova",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "F. Jones",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 games won.",
+      "underdog_player": "Rebeka Masarova",
+      "api_player": "R. Masarova",
+      "match_info": "F. Jones vs R. Masarova",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "R. Masarova",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Rebeka Masarova",
+      "api_player": "R. Masarova",
+      "match_info": "F. Jones vs R. Masarova",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "F. Jones",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Rebeka Masarova",
+      "api_player": "R. Masarova",
+      "match_info": "F. Jones vs R. Masarova",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "R. Masarova",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Rebeka Masarova",
+      "api_player": "R. Masarova",
+      "match_info": "F. Jones vs R. Masarova",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "F. Jones vs R. Masarova",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games in 1st set.",
+      "underdog_player": "Rebeka Masarova",
+      "api_player": "R. Masarova",
+      "match_info": "F. Jones vs R. Masarova",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "F. Jones vs R. Masarova",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 total games played.",
+      "underdog_player": "Francesca Jones",
+      "api_player": "F. Jones",
+      "match_info": "F. Jones vs R. Masarova",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "F. Jones",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 games won.",
+      "underdog_player": "Francesca Jones",
+      "api_player": "F. Jones",
+      "match_info": "F. Jones vs R. Masarova",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "R. Masarova",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Francesca Jones",
+      "api_player": "F. Jones",
+      "match_info": "F. Jones vs R. Masarova",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "F. Jones",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Francesca Jones",
+      "api_player": "F. Jones",
+      "match_info": "F. Jones vs R. Masarova",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "R. Masarova",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Francesca Jones",
+      "api_player": "F. Jones",
+      "match_info": "F. Jones vs R. Masarova",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "F. Jones vs R. Masarova",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games in 1st set.",
+      "underdog_player": "Francesca Jones",
+      "api_player": "F. Jones",
+      "match_info": "F. Jones vs R. Masarova",
+      "tournament": "Contrexeville Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "K. Kawa vs M. Sherif",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 total games played.",
+      "underdog_player": "Maiar Sherif Ahmed Abdelaziz",
+      "api_player": "M. Sherif",
+      "match_info": "K. Kawa vs M. Sherif",
+      "tournament": "Bastad Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "K. Kawa",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 games won.",
+      "underdog_player": "Maiar Sherif Ahmed Abdelaziz",
+      "api_player": "M. Sherif",
+      "match_info": "K. Kawa vs M. Sherif",
+      "tournament": "Bastad Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "M. Sherif",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Maiar Sherif Ahmed Abdelaziz",
+      "api_player": "M. Sherif",
+      "match_info": "K. Kawa vs M. Sherif",
+      "tournament": "Bastad Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "K. Kawa",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Maiar Sherif Ahmed Abdelaziz",
+      "api_player": "M. Sherif",
+      "match_info": "K. Kawa vs M. Sherif",
+      "tournament": "Bastad Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "M. Sherif",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Maiar Sherif Ahmed Abdelaziz",
+      "api_player": "M. Sherif",
+      "match_info": "K. Kawa vs M. Sherif",
+      "tournament": "Bastad Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "K. Kawa vs M. Sherif",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games in 1st set.",
+      "underdog_player": "Maiar Sherif Ahmed Abdelaziz",
+      "api_player": "M. Sherif",
+      "match_info": "K. Kawa vs M. Sherif",
+      "tournament": "Bastad Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "K. Kawa vs M. Sherif",
+      "prop": "Games Played",
+      "line": 20.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 total games played.",
+      "underdog_player": "Katarzyna Kawa",
+      "api_player": "K. Kawa",
+      "match_info": "K. Kawa vs M. Sherif",
+      "tournament": "Bastad Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "K. Kawa",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 games won.",
+      "underdog_player": "Katarzyna Kawa",
+      "api_player": "K. Kawa",
+      "match_info": "K. Kawa vs M. Sherif",
+      "tournament": "Bastad Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "M. Sherif",
+      "prop": "Games Won",
+      "line": 10.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 2 games won.",
+      "underdog_player": "Katarzyna Kawa",
+      "api_player": "K. Kawa",
+      "match_info": "K. Kawa vs M. Sherif",
+      "tournament": "Bastad Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "K. Kawa",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 0 sets won.",
+      "underdog_player": "Katarzyna Kawa",
+      "api_player": "K. Kawa",
+      "match_info": "K. Kawa vs M. Sherif",
+      "tournament": "Bastad Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "M. Sherif",
+      "prop": "Sets won",
+      "line": 0.5,
+      "pick": "Higher",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 1 sets won.",
+      "underdog_player": "Katarzyna Kawa",
+      "api_player": "K. Kawa",
+      "match_info": "K. Kawa vs M. Sherif",
+      "tournament": "Bastad Challenger Women",
+      "event_type": "Challenger Women Singles"
+    },
+    {
+      "player": "K. Kawa vs M. Sherif",
+      "prop": "1st Set Games Played",
+      "line": 9.5,
+      "pick": "Lower",
+      "confidence": 0.7,
+      "reasoning": "Actual from H2H: 3 games in 1st set.",
+      "underdog_player": "Katarzyna Kawa",
+      "api_player": "K. Kawa",
+      "match_info": "K. Kawa vs M. Sherif",
+      "tournament": "Bastad Challenger Women",
+      "event_type": "Challenger Women Singles"
+    }
+  ]
+}

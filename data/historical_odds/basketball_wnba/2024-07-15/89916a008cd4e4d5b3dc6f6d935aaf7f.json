@@ -1,0 +1,464 @@
+{
+  "timestamp": "2024-07-15T17:55:37Z",
+  "previous_timestamp": "2024-07-15T17:50:38Z",
+  "next_timestamp": "2024-07-15T18:00:37Z",
+  "data": {
+    "id": "89916a008cd4e4d5b3dc6f6d935aaf7f",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-07-16T15:30:00Z",
+    "home_team": "Washington Mystics",
+    "away_team": "Phoenix Mercury",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-07-15T17:55:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-15T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -180
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 150
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-15T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": -4.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-15T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 169.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 169.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-07-15T17:55:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-15T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -205
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 164
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-15T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": -4.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-15T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 168.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 168.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-07-15T17:54:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-15T17:54:05Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -196
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 151
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-15T17:54:05Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": -4.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-15T17:54:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 169.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 169.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-07-15T17:55:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-15T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -185
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 150
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-15T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -115,
+                "point": -3.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -105,
+                "point": 3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-15T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 169.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 169.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-07-15T17:54:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-15T17:54:06Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -195
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 165
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-15T17:54:06Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": -4.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-15T17:54:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 168.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 168.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-07-15T17:54:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-15T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -210
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 163
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-15T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -109,
+                "point": -5.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -117,
+                "point": 5.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-15T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 168.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 168.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-07-15T17:54:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-15T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -195
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 162
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-15T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -115,
+                "point": -4.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -105,
+                "point": 4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-15T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 167.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 167.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-07-15T17:54:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-07-15T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -105,
+                "point": -5.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -115,
+                "point": 5.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-15T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 168.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 168.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-07-15T17:55:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-07-15T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Phoenix Mercury",
+                "price": -103,
+                "point": -5.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -113,
+                "point": 5.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-15T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 168.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 168.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

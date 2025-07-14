@@ -1,0 +1,492 @@
+{
+  "timestamp": "2024-08-26T17:55:39Z",
+  "previous_timestamp": "2024-08-26T17:50:38Z",
+  "next_timestamp": "2024-08-26T18:00:39Z",
+  "data": {
+    "id": "479ee451b9075f5bde9acce4085f9d6d",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-26T23:30:00Z",
+    "home_team": "Atlanta Dream",
+    "away_team": "Indiana Fever",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-26T17:55:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 102
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -122
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -108,
+                "point": 1.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -112,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 167.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 167.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-26T17:44:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:44:37Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 110
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -134
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:44:37Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -106,
+                "point": 2.0
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -114,
+                "point": -2.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:44:37Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 167.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 167.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-08-26T17:51:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:51:48Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 105
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:51:48Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 1.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:51:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 167.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 167.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-08-26T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 105
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -103,
+                "point": 1.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -113,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 168.0
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 168.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-08-26T17:54:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 105
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -105,
+                "point": 1.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -115,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 168.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 168.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-26T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 110
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 167.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 167.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-08-26T17:54:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 110
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -130
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -105,
+                "point": 1.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -115,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 167.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 167.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-08-26T17:55:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 105
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -125
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 1.5
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 167.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 167.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-26T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 110
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -132
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -108,
+                "point": 2.0
+              },
+              {
+                "name": "Indiana Fever",
+                "price": -115,
+                "point": -2.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-26T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 167.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 167.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,701 @@
+[
+  {
+    "ticket_id": "s_1750627322",
+    "tier": "standard",
+    "game_id": "a38addd403bdef35feec3da8d6125450",
+    "home_team": "Las Vegas Aces",
+    "away_team": "Indiana Fever",
+    "commence_time": "2025-06-22T19:00:00Z",
+    "selections": [
+      {
+        "player_name": "Jewell Loyd",
+        "prop_type": "player_threes",
+        "line": 2.5,
+        "odds": -215,
+        "bookmaker": "fanduel",
+        "confidence": 0.683,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Caitlin Clark",
+        "prop_type": "player_threes",
+        "line": 3.5,
+        "odds": -192,
+        "bookmaker": "fanduel",
+        "confidence": 0.658,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Allisha Gray",
+        "prop_type": "player_threes",
+        "line": 2.5,
+        "odds": -205,
+        "bookmaker": "fanduel",
+        "confidence": 0.672,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Rhyne Howard",
+        "prop_type": "player_threes",
+        "line": 3.5,
+        "odds": -192,
+        "bookmaker": "fanduel",
+        "confidence": 0.658,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Kayla Thornton",
+        "prop_type": "player_threes",
+        "line": 1.5,
+        "odds": -200,
+        "bookmaker": "fanduel",
+        "confidence": 0.667,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      }
+    ],
+    "generated_at": "2025-06-22T21:22:02.668572+00:00",
+    "confidence_score": 0.6676,
+    "avg_odds": -200.8,
+    "stake": 7.01,
+    "potential_payout": 0.0,
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        },
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        },
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        },
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        },
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        }
+      ],
+      "market_analysis": [
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        },
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        },
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        },
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        },
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        }
+      ],
+      "analyzed_at": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.943551+00:00"
+  },
+  {
+    "ticket_id": "f_1750627322",
+    "tier": "fallback",
+    "game_id": "a38addd403bdef35feec3da8d6125450",
+    "home_team": "Las Vegas Aces",
+    "away_team": "Indiana Fever",
+    "commence_time": "2025-06-22T19:00:00Z",
+    "selections": [
+      {
+        "player_name": "A'ja Wilson",
+        "prop_type": "player_assists",
+        "line": 3.5,
+        "odds": -182,
+        "bookmaker": "fanduel",
+        "confidence": 0.645,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Jackie Young",
+        "prop_type": "player_rebounds",
+        "line": 4.5,
+        "odds": -180,
+        "bookmaker": "fanduel",
+        "confidence": 0.643,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Ariel Atkins",
+        "prop_type": "player_threes",
+        "line": 1.5,
+        "odds": -160,
+        "bookmaker": "fanduel",
+        "confidence": 0.615,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Brittney Sykes",
+        "prop_type": "player_rebounds",
+        "line": 1.5,
+        "odds": -160,
+        "bookmaker": "fanduel",
+        "confidence": 0.615,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Napheesa Collier",
+        "prop_type": "player_assists",
+        "line": 3.5,
+        "odds": -160,
+        "bookmaker": "fanduel",
+        "confidence": 0.615,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      }
+    ],
+    "generated_at": "2025-06-22T21:22:02.668572+00:00",
+    "confidence_score": 0.6266,
+    "avg_odds": -168.4,
+    "stake": 4.51,
+    "potential_payout": 0.0,
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        },
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        },
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        },
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        },
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        }
+      ],
+      "market_analysis": [
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        },
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        },
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        },
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        },
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        }
+      ],
+      "analyzed_at": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.943551+00:00"
+  },
+  {
+    "ticket_id": "f_1750627322",
+    "tier": "fallback",
+    "game_id": "a38addd403bdef35feec3da8d6125450",
+    "home_team": "Las Vegas Aces",
+    "away_team": "Indiana Fever",
+    "commence_time": "2025-06-22T19:00:00Z",
+    "selections": [
+      {
+        "player_name": "Jackie Young",
+        "prop_type": "player_assists",
+        "line": 3.5,
+        "odds": -160,
+        "bookmaker": "fanduel",
+        "confidence": 0.615,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Chelsea Gray",
+        "prop_type": "player_threes",
+        "line": 1.5,
+        "odds": -158,
+        "bookmaker": "fanduel",
+        "confidence": 0.612,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Skylar Diggins-Smith",
+        "prop_type": "player_assists",
+        "line": 6.5,
+        "odds": -158,
+        "bookmaker": "fanduel",
+        "confidence": 0.612,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Kamilla Cardoso",
+        "prop_type": "player_rebounds",
+        "line": 6.5,
+        "odds": -154,
+        "bookmaker": "fanduel",
+        "confidence": 0.606,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Veronica Burton",
+        "prop_type": "player_assists",
+        "line": 5.5,
+        "odds": -148,
+        "bookmaker": "fanduel",
+        "confidence": 0.597,
+        "value_rating": 0.0,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0,
+            "result_drift": "declining"
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.199999999999989,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      }
+    ],
+    "generated_at": "2025-06-22T21:22:02.668572+00:00",
+    "confidence_score": 0.6084,
+    "avg_odds": -155.6,
+    "stake": 4.43,
+    "potential_payout": 0.0,
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        },
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        },
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        },
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        },
+        {
+          "confidence_trend": "\u27a1\ufe0f stable",
+          "risk_rating": "\u26a0\ufe0f caution",
+          "recommendation": "Neutral - monitor for better opportunities",
+          "odds_drift": 2.0,
+          "result_drift": "declining"
+        }
+      ],
+      "market_analysis": [
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        },
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        },
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        },
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        },
+        {
+          "status": "neutral",
+          "message": "Neutral odds movement",
+          "juice_change": -7.199999999999989,
+          "hit_rate": 0.2,
+          "trend_tag": "\u2705 Book Was Right"
+        }
+      ],
+      "analyzed_at": "2025-06-22T21:22:16.943551+00:00"
+    },
+    "enhanced_confidence_score": 0.5,
+    "risk_assessment": "MEDIUM",
+    "recommendation": "\u26a0\ufe0f CAUTION - Mixed signals, proceed carefully",
+    "analyzed_at": "2025-06-22T21:22:16.943551+00:00"
+  }
+]

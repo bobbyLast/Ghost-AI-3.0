@@ -1,0 +1,382 @@
+{
+  "name": "Mannarino A.",
+  "matches_played": 48,
+  "wins": 14,
+  "losses": 34,
+  "win_percentage": 0.292,
+  "tournaments_played": [
+    "Almaty Open",
+    "Swiss Indoors",
+    "BNP Paribas Masters",
+    "Miami Open",
+    "Dallas Open",
+    "China Open",
+    "Chengdu Open",
+    "Canadian Open",
+    "US Open",
+    "Australian Open",
+    "Wimbledon",
+    "Lyon Open",
+    "Mallorca Championships",
+    "U.S. Men's Clay Court Championships",
+    "Internazionali BNL d'Italia",
+    "ASB Classic",
+    "Open de Moselle",
+    "Open Sud de France",
+    "Mutua Madrid Open",
+    "Delray Beach Open",
+    "Rosmalen Grass Court Championships",
+    "French Open",
+    "Queen's Club Championships",
+    "Western & Southern Financial Group Masters",
+    "Citi Open",
+    "Atlanta Open",
+    "Winston-Salem Open at Wake Forest University",
+    "Shanghai Masters",
+    "Hall of Fame Championships",
+    "BNP Paribas Open",
+    "Dubai Tennis Championships"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2025",
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Chengdu Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Zhou Y."
+    },
+    {
+      "tournament": "Chengdu Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Musetti L."
+    },
+    {
+      "tournament": "China Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Sonego L."
+    },
+    {
+      "tournament": "China Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Medvedev D."
+    },
+    {
+      "tournament": "Shanghai Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Svajda Z."
+    },
+    {
+      "tournament": "Almaty Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Safiullin R."
+    },
+    {
+      "tournament": "Almaty Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Vukic A."
+    },
+    {
+      "tournament": "Swiss Indoors",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Wawrinka S."
+    },
+    {
+      "tournament": "BNP Paribas Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Paul T."
+    },
+    {
+      "tournament": "BNP Paribas Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Bergs Z."
+    },
+    {
+      "tournament": "BNP Paribas Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Thompson J."
+    },
+    {
+      "tournament": "Open de Moselle",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Bu Y."
+    },
+    {
+      "tournament": "ASB Classic",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Navone M."
+    },
+    {
+      "tournament": "Australian Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Khachanov K."
+    },
+    {
+      "tournament": "Open Sud de France",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Gasquet R."
+    },
+    {
+      "tournament": "Dallas Open",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Hijikata R."
+    },
+    {
+      "tournament": "U.S. Men's Clay Court Championships",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Hanfmann Y."
+    },
+    {
+      "tournament": "U.S. Men's Clay Court Championships",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Michelsen A."
+    },
+    {
+      "tournament": "Rosmalen Grass Court Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "W",
+      "opponent": "O Connell C."
+    },
+    {
+      "tournament": "Rosmalen Grass Court Championships",
+      "surface": "Grass",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Medvedev D."
+    }
+  ],
+  "head_to_head": {
+    "Wawrinka S.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Munar J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Shelton B.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Djokovic N.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Giron M.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Van De Zandschulp B.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Machac T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Dimitrov G.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Hanfmann Y.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Auger-Aliassime F.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Zhang Zh.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Darderi L.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Zeppieri G.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Napolitano S.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Brouwer G.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Michelsen A.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Monfils G.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Opelka R.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Bellucci M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Shapovalov D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Rinderknech A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Borges N.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Vukic A.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Coric B.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Goffin D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Atmane T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Zhou Y.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Musetti L.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Sonego L.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Medvedev D.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Svajda Z.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Safiullin R.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Paul T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Bergs Z.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Thompson J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Bu Y.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Navone M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Khachanov K.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Gasquet R.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Hijikata R.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "O Connell C.": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 11,
+      "losses": 23
+    },
+    "Clay": {
+      "wins": 1,
+      "losses": 5
+    },
+    "Grass": {
+      "wins": 2,
+      "losses": 6
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 12,
+      "losses": 28
+    },
+    "2025": {
+      "wins": 2,
+      "losses": 6
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

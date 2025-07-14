@@ -1,0 +1,69 @@
+{
+  "ticket_id": "s_1751674631697437_2",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "96c692dc5328fc7fdc499c6a211c5844",
+  "home_team": "Arizona Diamondbacks",
+  "away_team": "Kansas City Royals",
+  "commence_time": "2025-07-05T01:41:00Z",
+  "selections": [
+    {
+      "player_name": "John Rave",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": -1.5,
+      "odds": -110,
+      "bookmaker": "Underdog",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Adrian Houser",
+      "prop_type": "pitcher_outs",
+      "line": 16.5,
+      "odds": 105,
+      "bookmaker": "DraftKings",
+      "confidence": 0.488,
+      "value_rating": 0.0,
+      "team": "New York Mets",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "George Springer",
+      "prop_type": "batter_total_bases",
+      "line": 1.5,
+      "odds": 116,
+      "bookmaker": "Caesars",
+      "confidence": 0.463,
+      "value_rating": 0.0,
+      "team": "Toronto Blue Jays",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-05T00:17:11.704903+00:00",
+  "confidence_score": 0.4917,
+  "avg_odds": 37.0,
+  "potential_payout": 62.89,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Toronto Blue Jays",
+    "New York Mets"
+  ],
+  "team_count": 2,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.22
+}

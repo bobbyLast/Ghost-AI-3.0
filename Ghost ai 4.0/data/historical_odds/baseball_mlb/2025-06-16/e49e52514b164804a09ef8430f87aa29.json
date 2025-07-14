@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-06-16T17:55:37Z",
+  "previous_timestamp": "2025-06-16T17:50:37Z",
+  "next_timestamp": "2025-06-16T18:00:37Z",
+  "data": {
+    "id": "e49e52514b164804a09ef8430f87aa29",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-17T23:36:00Z",
+    "home_team": "Tampa Bay Rays",
+    "away_team": "Baltimore Orioles",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": 116
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": -136
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Orioles",
+                "price": -176,
+                "point": 1.5
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 146,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -122,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

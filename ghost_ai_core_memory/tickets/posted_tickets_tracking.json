@@ -1,0 +1,1866 @@
+{
+  "tickets": {
+    "41c71e13b751f928d402559e0bd74b87": {
+      "ticket_id": "COMBINED_20250705_150918_1",
+      "posted_at": "2025-07-05T15:09:18.678789",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Bobby Witt Jr.",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 240,
+          "confidence": 0.29411764705882354,
+          "sport": "MLB",
+          "game_key": "props_mlb_arizona_diamondbacks_vs_kansas_city_royals_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:08:01.643035",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Jonathan India",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 290,
+          "confidence": 0.2564102564102564,
+          "sport": "MLB",
+          "game_key": "props_mlb_arizona_diamondbacks_vs_kansas_city_royals_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:08:01.643035",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.27526395173454
+    },
+    "99d545fda847b9b99b1dcfb332cf73e6": {
+      "ticket_id": "COMBINED_20250705_150918_6",
+      "posted_at": "2025-07-05T15:09:20.702683",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Seiya Suzuki",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 290,
+          "confidence": 0.2564102564102564,
+          "sport": "MLB",
+          "game_key": "props_mlb_chicago_cubs_vs_st._louis_cardinals_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:08:01.719591",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Brendan Donovan",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 290,
+          "confidence": 0.2564102564102564,
+          "sport": "MLB",
+          "game_key": "props_mlb_chicago_cubs_vs_st._louis_cardinals_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:08:01.719591",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.2564102564102564
+    },
+    "b3d1a16f60b8d0a717ca586a839006fd": {
+      "ticket_id": "COMBINED_20250705_150918_8",
+      "posted_at": "2025-07-05T15:09:22.717150",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Andrew Benintendi",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 250,
+          "confidence": 0.2857142857142857,
+          "sport": "MLB",
+          "game_key": "props_mlb_colorado_rockies_vs_chicago_white_sox_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:08:01.784806",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Miguel Vargas",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 260,
+          "confidence": 0.2777777777777778,
+          "sport": "MLB",
+          "game_key": "props_mlb_colorado_rockies_vs_chicago_white_sox_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:08:01.784806",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.28174603174603174
+    },
+    "9262d0b108093550cb13fe2e43167805": {
+      "ticket_id": "COMBINED_20250705_150918_12",
+      "posted_at": "2025-07-05T15:09:24.736341",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Yandy Diaz",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 280,
+          "confidence": 0.2631578947368421,
+          "sport": "MLB",
+          "game_key": "props_mlb_minnesota_twins_vs_tampa_bay_rays_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:08:01.905409",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Junior Caminero",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 280,
+          "confidence": 0.2631578947368421,
+          "sport": "MLB",
+          "game_key": "props_mlb_minnesota_twins_vs_tampa_bay_rays_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:08:01.905409",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.2631578947368421
+    },
+    "68dda000ccc5efbebe2b182e77b9293d": {
+      "ticket_id": "MLB_20250705_153609_4",
+      "posted_at": "2025-07-05T15:36:10.372555",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Jordan Westburg",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 370,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_atlanta_braves_vs_baltimore_orioles_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:27.166126",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Ronald Acuna Jr.",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 420,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_atlanta_braves_vs_baltimore_orioles_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:27.166126",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.3
+    },
+    "213d7446c328b2eaefb5847c34d34af1": {
+      "ticket_id": "MLB_20250705_153609_5",
+      "posted_at": "2025-07-05T15:36:12.681225",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Kyle Tucker",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 370,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_chicago_cubs_vs_st._louis_cardinals_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:27.321833",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Brendan Donovan",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 380,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_chicago_cubs_vs_st._louis_cardinals_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:27.321833",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.3
+    },
+    "64384a9defc68a9658cf09250bd5c298": {
+      "ticket_id": "MLB_20250705_153609_7",
+      "posted_at": "2025-07-05T15:36:14.977688",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Gleyber Torres",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 300,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_cleveland_guardians_vs_detroit_tigers_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:27.560035",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Steven Kwan",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 320,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_cleveland_guardians_vs_detroit_tigers_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:27.560035",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.3
+    },
+    "c1cb7fd129881085e972b874e7b1a075": {
+      "ticket_id": "MLB_20250705_153609_9",
+      "posted_at": "2025-07-05T15:36:17.340901",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Mookie Betts",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 400,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_los_angeles_dodgers_vs_houston_astros_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:27.806555",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Freddie Freeman",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 410,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_los_angeles_dodgers_vs_houston_astros_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:27.806555",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.3
+    },
+    "f25547fff71a86af256a4b1ff42f591b": {
+      "ticket_id": "MLB_20250705_153609_11",
+      "posted_at": "2025-07-05T15:36:19.710643",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Jackson Chourio",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 320,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_miami_marlins_vs_milwaukee_brewers_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:28.027419",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Jesus Sanchez",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 330,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_miami_marlins_vs_milwaukee_brewers_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:28.027419",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.3
+    },
+    "6b18a4595da9c212ee9efec82c6a1f39": {
+      "ticket_id": "MLB_20250705_153609_13",
+      "posted_at": "2025-07-05T15:36:22.201937",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Jasson Dom\u00ednguez",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 360,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_new_york_mets_vs_new_york_yankees_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:28.466955",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Cody Bellinger",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 370,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_new_york_mets_vs_new_york_yankees_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:28.466955",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.3
+    },
+    "80d7ee59068d6684ed555f993ae419eb": {
+      "ticket_id": "MLB_20250705_153609_14",
+      "posted_at": "2025-07-05T15:36:24.577294",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Anthony Volpe",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 380,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_new_york_mets_vs_new_york_yankees_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:28.585171",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Cody Bellinger",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 400,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_new_york_mets_vs_new_york_yankees_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:28.585171",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.3
+    },
+    "9e6fb00bbe93ea6624814fb7f6e4567e": {
+      "ticket_id": "MLB_20250705_153609_15",
+      "posted_at": "2025-07-05T15:36:26.917753",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Jung Hoo Lee",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 300,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_oakland_athletics_vs_san_francisco_giants_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:28.721214",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Lawrence Butler",
+          "prop_type": "Doubles",
+          "line": 0.5,
+          "pick_side": "over",
+          "odds": 320,
+          "confidence": 0.3,
+          "sport": "MLB",
+          "game_key": "props_mlb_oakland_athletics_vs_san_francisco_giants_2025-07-05",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:28.721214",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.3
+    },
+    "60d7d75808dc4b4a13ba55fe4ed58315": {
+      "ticket_id": "WNBA_20250705_153609_1",
+      "posted_at": "2025-07-05T15:36:29.664274",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Chelsea Gray",
+          "prop_type": "Assists",
+          "line": 4.5,
+          "pick_side": "over",
+          "odds": -162,
+          "confidence": 0.6183206106870229,
+          "sport": "WNBA",
+          "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:29.832678",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Jackie Young",
+          "prop_type": "Assists",
+          "line": 4.5,
+          "pick_side": "over",
+          "odds": 136,
+          "confidence": 0.423728813559322,
+          "sport": "WNBA",
+          "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:29.832678",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.5210247121231725
+    },
+    "ec76524ded18c0aa4b0f481597a88854": {
+      "ticket_id": "WNBA_20250705_153609_5",
+      "posted_at": "2025-07-05T15:36:31.991240",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "Ariel Atkins",
+          "prop_type": "Assists",
+          "line": 3.5,
+          "pick_side": "over",
+          "odds": -110,
+          "confidence": 0.5238095238095238,
+          "sport": "WNBA",
+          "game_key": "props_wnba_minnesota_lynx_vs_chicago_sky_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:29.875275",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Angel Reese",
+          "prop_type": "Points",
+          "line": 14.5,
+          "pick_side": "over",
+          "odds": -120,
+          "confidence": 0.5454545454545454,
+          "sport": "WNBA",
+          "game_key": "props_wnba_minnesota_lynx_vs_chicago_sky_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:29.875275",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.5346320346320346
+    },
+    "74141a598be1adadf718b260ab1d45fb": {
+      "ticket_id": "WNBA_20250705_153609_1",
+      "posted_at": "2025-07-05T15:36:34.372862",
+      "date": "2025-07-05",
+      "selections": [
+        {
+          "player_name": "A'ja Wilson",
+          "prop_type": "Assists",
+          "line": 3.5,
+          "pick_side": "over",
+          "odds": 108,
+          "confidence": 0.4807692307692308,
+          "sport": "WNBA",
+          "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:29.832678",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Tina Charles",
+          "prop_type": "Points",
+          "line": 14.5,
+          "pick_side": "over",
+          "odds": 102,
+          "confidence": 0.49504950495049505,
+          "sport": "WNBA",
+          "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:29.833675",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Jewell Loyd",
+          "prop_type": "Points",
+          "line": 11.5,
+          "pick_side": "over",
+          "odds": 104,
+          "confidence": 0.49019607843137253,
+          "sport": "WNBA",
+          "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+          "date": "2025-07-05",
+          "timestamp": "2025-07-05T15:21:29.833675",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.4386716047170328
+    },
+    "8b25e097af2a8f834546adc95008dee8": {
+      "ticket_id": "COMBINED_20250706_134613_1",
+      "posted_at": "2025-07-06T13:46:16.177210",
+      "date": "2025-07-06",
+      "selections": [
+        {
+          "player_name": "Gleyber Torres",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": -115,
+          "confidence": 0.5348837209302325,
+          "sport": "MLB",
+          "game_key": "props_mlb_cleveland_guardians_vs_detroit_tigers_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:27.562032",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Hunter Goodman",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": -170,
+          "confidence": 0.6296296296296297,
+          "sport": "MLB",
+          "game_key": "props_mlb_colorado_rockies_vs_chicago_white_sox_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:27.685833",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.5822566752799311
+    },
+    "4f39083fe8584dfacc7a7b3650fdf769": {
+      "ticket_id": "COMBINED_20250706_134613_3",
+      "posted_at": "2025-07-06T13:46:19.725108",
+      "date": "2025-07-06",
+      "selections": [
+        {
+          "player_name": "Rafael Devers",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": -125,
+          "confidence": 0.5555555555555556,
+          "sport": "MLB",
+          "game_key": "props_mlb_oakland_athletics_vs_san_francisco_giants_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:28.723212",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Manny Machado",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": -110,
+          "confidence": 0.5238095238095238,
+          "sport": "MLB",
+          "game_key": "props_mlb_san_diego_padres_vs_texas_rangers_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:29.187597",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.5396825396825398
+    },
+    "d458a4b370fb9ec4dc43f90493ebb101": {
+      "ticket_id": "COMBINED_20250706_134613_1",
+      "posted_at": "2025-07-06T13:46:23.183677",
+      "date": "2025-07-06",
+      "selections": [
+        {
+          "player_name": "Kyle Manzardo",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": -105,
+          "confidence": 0.5121951219512195,
+          "sport": "MLB",
+          "game_key": "props_mlb_cleveland_guardians_vs_detroit_tigers_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:27.562032",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Andrew Benintendi",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": -150,
+          "confidence": 0.6,
+          "sport": "MLB",
+          "game_key": "props_mlb_colorado_rockies_vs_chicago_white_sox_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:27.685833",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Mookie Betts",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": 115,
+          "confidence": 0.46511627906976744,
+          "sport": "MLB",
+          "game_key": "props_mlb_los_angeles_dodgers_vs_houston_astros_2025-07-04",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:27.808560",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.4757704670069957
+    },
+    "8dc4ed2e5895be05ea0ba046b5ebe08a": {
+      "ticket_id": "COMBINED_20250706_134613_2",
+      "posted_at": "2025-07-06T13:46:26.902924",
+      "date": "2025-07-06",
+      "selections": [
+        {
+          "player_name": "Mookie Betts",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": 105,
+          "confidence": 0.4878048780487805,
+          "sport": "MLB",
+          "game_key": "props_mlb_los_angeles_dodgers_vs_houston_astros_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:27.883787",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Brent Rooker",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": -105,
+          "confidence": 0.5121951219512195,
+          "sport": "MLB",
+          "game_key": "props_mlb_oakland_athletics_vs_san_francisco_giants_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:28.723212",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Corey Seager",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": -105,
+          "confidence": 0.5121951219512195,
+          "sport": "MLB",
+          "game_key": "props_mlb_san_diego_padres_vs_texas_rangers_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:29.187597",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.4540650406504065
+    },
+    "f6e131a70d209ec0d470db7ebe44a6dc": {
+      "ticket_id": "COMBINED_20250706_134613_3",
+      "posted_at": "2025-07-06T13:46:30.839995",
+      "date": "2025-07-06",
+      "selections": [
+        {
+          "player_name": "Cal Raleigh",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": 105,
+          "confidence": 0.4878048780487805,
+          "sport": "MLB",
+          "game_key": "props_mlb_seattle_mariners_vs_pittsburgh_pirates_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:29.344343",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Chelsea Gray",
+          "prop_type": "Assists",
+          "line": 4.5,
+          "pick_side": "over",
+          "odds": -162,
+          "confidence": 0.6183206106870229,
+          "sport": "WNBA",
+          "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:29.832678",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Ariel Atkins",
+          "prop_type": "Points",
+          "line": 15.5,
+          "pick_side": "under",
+          "odds": -125,
+          "confidence": 0.5555555555555556,
+          "sport": "WNBA",
+          "game_key": "props_wnba_minnesota_lynx_vs_chicago_sky_2025-07-04",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:29.875275",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.503893681430453
+    },
+    "a3e2b98114c38dae0b87cb1d61ae7065": {
+      "ticket_id": "COMBINED_20250706_134613_1",
+      "posted_at": "2025-07-06T13:46:34.408965",
+      "date": "2025-07-06",
+      "selections": [
+        {
+          "player_name": "Spencer Torkelson",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": 100,
+          "confidence": 0.5,
+          "sport": "MLB",
+          "game_key": "props_mlb_cleveland_guardians_vs_detroit_tigers_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:27.562032",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Miguel Vargas",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": -140,
+          "confidence": 0.5833333333333334,
+          "sport": "MLB",
+          "game_key": "props_mlb_colorado_rockies_vs_chicago_white_sox_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:27.685833",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Yainer Diaz",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": 120,
+          "confidence": 0.45454545454545453,
+          "sport": "MLB",
+          "game_key": "props_mlb_los_angeles_dodgers_vs_houston_astros_2025-07-04",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:27.808560",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Will Smith",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": 120,
+          "confidence": 0.45454545454545453,
+          "sport": "MLB",
+          "game_key": "props_mlb_los_angeles_dodgers_vs_houston_astros_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:27.883787",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.3981060606060607
+    },
+    "0455625e94deef908d5f24592d09bc7c": {
+      "ticket_id": "COMBINED_20250706_134613_2",
+      "posted_at": "2025-07-06T13:46:37.858058",
+      "date": "2025-07-06",
+      "selections": [
+        {
+          "player_name": "Willy Adames",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": -105,
+          "confidence": 0.5121951219512195,
+          "sport": "MLB",
+          "game_key": "props_mlb_oakland_athletics_vs_san_francisco_giants_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:28.723212",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Fernando Tatis Jr.",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": 100,
+          "confidence": 0.5,
+          "sport": "MLB",
+          "game_key": "props_mlb_san_diego_padres_vs_texas_rangers_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:29.187597",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Julio Rodriguez",
+          "prop_type": "Total Bases",
+          "line": 1.5,
+          "pick_side": "over",
+          "odds": 115,
+          "confidence": 0.46511627906976744,
+          "sport": "MLB",
+          "game_key": "props_mlb_seattle_mariners_vs_pittsburgh_pirates_2025-07-05",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:29.344343",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        },
+        {
+          "player_name": "Jewell Loyd",
+          "prop_type": "Rebounds",
+          "line": 3.5,
+          "pick_side": "over",
+          "odds": -162,
+          "confidence": 0.6183206106870229,
+          "sport": "WNBA",
+          "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+          "date": "2025-07-06",
+          "timestamp": "2025-07-05T15:21:29.833675",
+          "historical_hit_rate": 0.5,
+          "historical_streak": 0
+        }
+      ],
+      "confidence": 0.4239080029270025
+    },
+    "99bce6ecf36fb2e8ba7447052085ea28": {
+      "ticket_id": "COMBINED_20250707_130817_1",
+      "posted_at": "2025-07-07T13:08:22.932287",
+      "date": "2025-07-07",
+      "selections": [
+        {
+          "player_name": "Jackie Young",
+          "prop_type": "Assists",
+          "line": 4.5,
+          "pick_side": "under",
+          "odds": -182,
+          "confidence": 0.6453900709219859,
+          "sport": "WNBA",
+          "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+          "date": "2025-07-07",
+          "timestamp": "2025-07-05T15:21:29.832678",
+          "implied_prob": 0.6453900709219859
+        },
+        {
+          "player_name": "Ariel Atkins",
+          "prop_type": "Points",
+          "line": 15.5,
+          "pick_side": "under",
+          "odds": -125,
+          "confidence": 0.5555555555555556,
+          "sport": "WNBA",
+          "game_key": "props_wnba_minnesota_lynx_vs_chicago_sky_2025-07-04",
+          "date": "2025-07-07",
+          "timestamp": "2025-07-05T15:21:29.875275",
+          "implied_prob": 0.5555555555555556
+        }
+      ],
+      "confidence": 0.6004728132387707
+    }
+  },
+  "daily_tickets": {
+    "2025-07-05": {
+      "41c71e13b751f928d402559e0bd74b87": {
+        "ticket_id": "COMBINED_20250705_150918_1",
+        "posted_at": "2025-07-05T15:09:18.677780",
+        "selections": [
+          {
+            "player_name": "Bobby Witt Jr.",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 240,
+            "confidence": 0.29411764705882354,
+            "sport": "MLB",
+            "game_key": "props_mlb_arizona_diamondbacks_vs_kansas_city_royals_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:08:01.643035",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Jonathan India",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 290,
+            "confidence": 0.2564102564102564,
+            "sport": "MLB",
+            "game_key": "props_mlb_arizona_diamondbacks_vs_kansas_city_royals_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:08:01.643035",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.27526395173454
+      },
+      "99d545fda847b9b99b1dcfb332cf73e6": {
+        "ticket_id": "COMBINED_20250705_150918_6",
+        "posted_at": "2025-07-05T15:09:20.702683",
+        "selections": [
+          {
+            "player_name": "Seiya Suzuki",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 290,
+            "confidence": 0.2564102564102564,
+            "sport": "MLB",
+            "game_key": "props_mlb_chicago_cubs_vs_st._louis_cardinals_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:08:01.719591",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Brendan Donovan",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 290,
+            "confidence": 0.2564102564102564,
+            "sport": "MLB",
+            "game_key": "props_mlb_chicago_cubs_vs_st._louis_cardinals_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:08:01.719591",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.2564102564102564
+      },
+      "b3d1a16f60b8d0a717ca586a839006fd": {
+        "ticket_id": "COMBINED_20250705_150918_8",
+        "posted_at": "2025-07-05T15:09:22.717150",
+        "selections": [
+          {
+            "player_name": "Andrew Benintendi",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 250,
+            "confidence": 0.2857142857142857,
+            "sport": "MLB",
+            "game_key": "props_mlb_colorado_rockies_vs_chicago_white_sox_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:08:01.784806",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Miguel Vargas",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 260,
+            "confidence": 0.2777777777777778,
+            "sport": "MLB",
+            "game_key": "props_mlb_colorado_rockies_vs_chicago_white_sox_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:08:01.784806",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.28174603174603174
+      },
+      "9262d0b108093550cb13fe2e43167805": {
+        "ticket_id": "COMBINED_20250705_150918_12",
+        "posted_at": "2025-07-05T15:09:24.736341",
+        "selections": [
+          {
+            "player_name": "Yandy Diaz",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 280,
+            "confidence": 0.2631578947368421,
+            "sport": "MLB",
+            "game_key": "props_mlb_minnesota_twins_vs_tampa_bay_rays_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:08:01.905409",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Junior Caminero",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 280,
+            "confidence": 0.2631578947368421,
+            "sport": "MLB",
+            "game_key": "props_mlb_minnesota_twins_vs_tampa_bay_rays_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:08:01.905409",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.2631578947368421
+      },
+      "68dda000ccc5efbebe2b182e77b9293d": {
+        "ticket_id": "MLB_20250705_153609_4",
+        "posted_at": "2025-07-05T15:36:10.372555",
+        "selections": [
+          {
+            "player_name": "Jordan Westburg",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 370,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_atlanta_braves_vs_baltimore_orioles_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:27.166126",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Ronald Acuna Jr.",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 420,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_atlanta_braves_vs_baltimore_orioles_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:27.166126",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.3
+      },
+      "213d7446c328b2eaefb5847c34d34af1": {
+        "ticket_id": "MLB_20250705_153609_5",
+        "posted_at": "2025-07-05T15:36:12.681225",
+        "selections": [
+          {
+            "player_name": "Kyle Tucker",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 370,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_chicago_cubs_vs_st._louis_cardinals_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:27.321833",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Brendan Donovan",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 380,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_chicago_cubs_vs_st._louis_cardinals_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:27.321833",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.3
+      },
+      "64384a9defc68a9658cf09250bd5c298": {
+        "ticket_id": "MLB_20250705_153609_7",
+        "posted_at": "2025-07-05T15:36:14.977688",
+        "selections": [
+          {
+            "player_name": "Gleyber Torres",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 300,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_cleveland_guardians_vs_detroit_tigers_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:27.560035",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Steven Kwan",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 320,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_cleveland_guardians_vs_detroit_tigers_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:27.560035",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.3
+      },
+      "c1cb7fd129881085e972b874e7b1a075": {
+        "ticket_id": "MLB_20250705_153609_9",
+        "posted_at": "2025-07-05T15:36:17.340901",
+        "selections": [
+          {
+            "player_name": "Mookie Betts",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 400,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_los_angeles_dodgers_vs_houston_astros_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:27.806555",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Freddie Freeman",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 410,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_los_angeles_dodgers_vs_houston_astros_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:27.806555",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.3
+      },
+      "f25547fff71a86af256a4b1ff42f591b": {
+        "ticket_id": "MLB_20250705_153609_11",
+        "posted_at": "2025-07-05T15:36:19.710643",
+        "selections": [
+          {
+            "player_name": "Jackson Chourio",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 320,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_miami_marlins_vs_milwaukee_brewers_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:28.027419",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Jesus Sanchez",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 330,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_miami_marlins_vs_milwaukee_brewers_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:28.027419",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.3
+      },
+      "6b18a4595da9c212ee9efec82c6a1f39": {
+        "ticket_id": "MLB_20250705_153609_13",
+        "posted_at": "2025-07-05T15:36:22.201937",
+        "selections": [
+          {
+            "player_name": "Jasson Dom\u00ednguez",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 360,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_new_york_mets_vs_new_york_yankees_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:28.466955",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Cody Bellinger",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 370,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_new_york_mets_vs_new_york_yankees_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:28.466955",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.3
+      },
+      "80d7ee59068d6684ed555f993ae419eb": {
+        "ticket_id": "MLB_20250705_153609_14",
+        "posted_at": "2025-07-05T15:36:24.577294",
+        "selections": [
+          {
+            "player_name": "Anthony Volpe",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 380,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_new_york_mets_vs_new_york_yankees_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:28.585171",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Cody Bellinger",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 400,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_new_york_mets_vs_new_york_yankees_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:28.585171",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.3
+      },
+      "9e6fb00bbe93ea6624814fb7f6e4567e": {
+        "ticket_id": "MLB_20250705_153609_15",
+        "posted_at": "2025-07-05T15:36:26.917753",
+        "selections": [
+          {
+            "player_name": "Jung Hoo Lee",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 300,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_oakland_athletics_vs_san_francisco_giants_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:28.721214",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Lawrence Butler",
+            "prop_type": "Doubles",
+            "line": 0.5,
+            "pick_side": "over",
+            "odds": 320,
+            "confidence": 0.3,
+            "sport": "MLB",
+            "game_key": "props_mlb_oakland_athletics_vs_san_francisco_giants_2025-07-05",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:28.721214",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.3
+      },
+      "60d7d75808dc4b4a13ba55fe4ed58315": {
+        "ticket_id": "WNBA_20250705_153609_1",
+        "posted_at": "2025-07-05T15:36:29.664274",
+        "selections": [
+          {
+            "player_name": "Chelsea Gray",
+            "prop_type": "Assists",
+            "line": 4.5,
+            "pick_side": "over",
+            "odds": -162,
+            "confidence": 0.6183206106870229,
+            "sport": "WNBA",
+            "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:29.832678",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Jackie Young",
+            "prop_type": "Assists",
+            "line": 4.5,
+            "pick_side": "over",
+            "odds": 136,
+            "confidence": 0.423728813559322,
+            "sport": "WNBA",
+            "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:29.832678",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.5210247121231725
+      },
+      "ec76524ded18c0aa4b0f481597a88854": {
+        "ticket_id": "WNBA_20250705_153609_5",
+        "posted_at": "2025-07-05T15:36:31.991240",
+        "selections": [
+          {
+            "player_name": "Ariel Atkins",
+            "prop_type": "Assists",
+            "line": 3.5,
+            "pick_side": "over",
+            "odds": -110,
+            "confidence": 0.5238095238095238,
+            "sport": "WNBA",
+            "game_key": "props_wnba_minnesota_lynx_vs_chicago_sky_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:29.875275",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Angel Reese",
+            "prop_type": "Points",
+            "line": 14.5,
+            "pick_side": "over",
+            "odds": -120,
+            "confidence": 0.5454545454545454,
+            "sport": "WNBA",
+            "game_key": "props_wnba_minnesota_lynx_vs_chicago_sky_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:29.875275",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.5346320346320346
+      },
+      "74141a598be1adadf718b260ab1d45fb": {
+        "ticket_id": "WNBA_20250705_153609_1",
+        "posted_at": "2025-07-05T15:36:34.372862",
+        "selections": [
+          {
+            "player_name": "A'ja Wilson",
+            "prop_type": "Assists",
+            "line": 3.5,
+            "pick_side": "over",
+            "odds": 108,
+            "confidence": 0.4807692307692308,
+            "sport": "WNBA",
+            "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:29.832678",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Tina Charles",
+            "prop_type": "Points",
+            "line": 14.5,
+            "pick_side": "over",
+            "odds": 102,
+            "confidence": 0.49504950495049505,
+            "sport": "WNBA",
+            "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:29.833675",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Jewell Loyd",
+            "prop_type": "Points",
+            "line": 11.5,
+            "pick_side": "over",
+            "odds": 104,
+            "confidence": 0.49019607843137253,
+            "sport": "WNBA",
+            "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+            "date": "2025-07-05",
+            "timestamp": "2025-07-05T15:21:29.833675",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.4386716047170328
+      }
+    },
+    "2025-07-06": {
+      "8b25e097af2a8f834546adc95008dee8": {
+        "ticket_id": "COMBINED_20250706_134613_1",
+        "posted_at": "2025-07-06T13:46:16.177210",
+        "selections": [
+          {
+            "player_name": "Gleyber Torres",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": -115,
+            "confidence": 0.5348837209302325,
+            "sport": "MLB",
+            "game_key": "props_mlb_cleveland_guardians_vs_detroit_tigers_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:27.562032",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Hunter Goodman",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": -170,
+            "confidence": 0.6296296296296297,
+            "sport": "MLB",
+            "game_key": "props_mlb_colorado_rockies_vs_chicago_white_sox_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:27.685833",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.5822566752799311
+      },
+      "4f39083fe8584dfacc7a7b3650fdf769": {
+        "ticket_id": "COMBINED_20250706_134613_3",
+        "posted_at": "2025-07-06T13:46:19.725108",
+        "selections": [
+          {
+            "player_name": "Rafael Devers",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": -125,
+            "confidence": 0.5555555555555556,
+            "sport": "MLB",
+            "game_key": "props_mlb_oakland_athletics_vs_san_francisco_giants_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:28.723212",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Manny Machado",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": -110,
+            "confidence": 0.5238095238095238,
+            "sport": "MLB",
+            "game_key": "props_mlb_san_diego_padres_vs_texas_rangers_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:29.187597",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.5396825396825398
+      },
+      "d458a4b370fb9ec4dc43f90493ebb101": {
+        "ticket_id": "COMBINED_20250706_134613_1",
+        "posted_at": "2025-07-06T13:46:23.183677",
+        "selections": [
+          {
+            "player_name": "Kyle Manzardo",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": -105,
+            "confidence": 0.5121951219512195,
+            "sport": "MLB",
+            "game_key": "props_mlb_cleveland_guardians_vs_detroit_tigers_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:27.562032",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Andrew Benintendi",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": -150,
+            "confidence": 0.6,
+            "sport": "MLB",
+            "game_key": "props_mlb_colorado_rockies_vs_chicago_white_sox_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:27.685833",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Mookie Betts",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": 115,
+            "confidence": 0.46511627906976744,
+            "sport": "MLB",
+            "game_key": "props_mlb_los_angeles_dodgers_vs_houston_astros_2025-07-04",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:27.808560",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.4757704670069957
+      },
+      "8dc4ed2e5895be05ea0ba046b5ebe08a": {
+        "ticket_id": "COMBINED_20250706_134613_2",
+        "posted_at": "2025-07-06T13:46:26.902924",
+        "selections": [
+          {
+            "player_name": "Mookie Betts",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": 105,
+            "confidence": 0.4878048780487805,
+            "sport": "MLB",
+            "game_key": "props_mlb_los_angeles_dodgers_vs_houston_astros_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:27.883787",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Brent Rooker",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": -105,
+            "confidence": 0.5121951219512195,
+            "sport": "MLB",
+            "game_key": "props_mlb_oakland_athletics_vs_san_francisco_giants_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:28.723212",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Corey Seager",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": -105,
+            "confidence": 0.5121951219512195,
+            "sport": "MLB",
+            "game_key": "props_mlb_san_diego_padres_vs_texas_rangers_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:29.187597",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.4540650406504065
+      },
+      "f6e131a70d209ec0d470db7ebe44a6dc": {
+        "ticket_id": "COMBINED_20250706_134613_3",
+        "posted_at": "2025-07-06T13:46:30.839995",
+        "selections": [
+          {
+            "player_name": "Cal Raleigh",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": 105,
+            "confidence": 0.4878048780487805,
+            "sport": "MLB",
+            "game_key": "props_mlb_seattle_mariners_vs_pittsburgh_pirates_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:29.344343",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Chelsea Gray",
+            "prop_type": "Assists",
+            "line": 4.5,
+            "pick_side": "over",
+            "odds": -162,
+            "confidence": 0.6183206106870229,
+            "sport": "WNBA",
+            "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:29.832678",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Ariel Atkins",
+            "prop_type": "Points",
+            "line": 15.5,
+            "pick_side": "under",
+            "odds": -125,
+            "confidence": 0.5555555555555556,
+            "sport": "WNBA",
+            "game_key": "props_wnba_minnesota_lynx_vs_chicago_sky_2025-07-04",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:29.875275",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.503893681430453
+      },
+      "a3e2b98114c38dae0b87cb1d61ae7065": {
+        "ticket_id": "COMBINED_20250706_134613_1",
+        "posted_at": "2025-07-06T13:46:34.408965",
+        "selections": [
+          {
+            "player_name": "Spencer Torkelson",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": 100,
+            "confidence": 0.5,
+            "sport": "MLB",
+            "game_key": "props_mlb_cleveland_guardians_vs_detroit_tigers_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:27.562032",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Miguel Vargas",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": -140,
+            "confidence": 0.5833333333333334,
+            "sport": "MLB",
+            "game_key": "props_mlb_colorado_rockies_vs_chicago_white_sox_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:27.685833",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Yainer Diaz",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": 120,
+            "confidence": 0.45454545454545453,
+            "sport": "MLB",
+            "game_key": "props_mlb_los_angeles_dodgers_vs_houston_astros_2025-07-04",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:27.808560",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Will Smith",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": 120,
+            "confidence": 0.45454545454545453,
+            "sport": "MLB",
+            "game_key": "props_mlb_los_angeles_dodgers_vs_houston_astros_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:27.883787",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.3981060606060607
+      },
+      "0455625e94deef908d5f24592d09bc7c": {
+        "ticket_id": "COMBINED_20250706_134613_2",
+        "posted_at": "2025-07-06T13:46:37.858058",
+        "selections": [
+          {
+            "player_name": "Willy Adames",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": -105,
+            "confidence": 0.5121951219512195,
+            "sport": "MLB",
+            "game_key": "props_mlb_oakland_athletics_vs_san_francisco_giants_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:28.723212",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Fernando Tatis Jr.",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": 100,
+            "confidence": 0.5,
+            "sport": "MLB",
+            "game_key": "props_mlb_san_diego_padres_vs_texas_rangers_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:29.187597",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Julio Rodriguez",
+            "prop_type": "Total Bases",
+            "line": 1.5,
+            "pick_side": "over",
+            "odds": 115,
+            "confidence": 0.46511627906976744,
+            "sport": "MLB",
+            "game_key": "props_mlb_seattle_mariners_vs_pittsburgh_pirates_2025-07-05",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:29.344343",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          },
+          {
+            "player_name": "Jewell Loyd",
+            "prop_type": "Rebounds",
+            "line": 3.5,
+            "pick_side": "over",
+            "odds": -162,
+            "confidence": 0.6183206106870229,
+            "sport": "WNBA",
+            "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+            "date": "2025-07-06",
+            "timestamp": "2025-07-05T15:21:29.833675",
+            "historical_hit_rate": 0.5,
+            "historical_streak": 0
+          }
+        ],
+        "confidence": 0.4239080029270025
+      }
+    },
+    "2025-07-07": {
+      "99bce6ecf36fb2e8ba7447052085ea28": {
+        "ticket_id": "COMBINED_20250707_130817_1",
+        "posted_at": "2025-07-07T13:08:22.932287",
+        "selections": [
+          {
+            "player_name": "Jackie Young",
+            "prop_type": "Assists",
+            "line": 4.5,
+            "pick_side": "under",
+            "odds": -182,
+            "confidence": 0.6453900709219859,
+            "sport": "WNBA",
+            "game_key": "props_wnba_connecticut_sun_vs_las_vegas_aces_2025-07-04",
+            "date": "2025-07-07",
+            "timestamp": "2025-07-05T15:21:29.832678",
+            "implied_prob": 0.6453900709219859
+          },
+          {
+            "player_name": "Ariel Atkins",
+            "prop_type": "Points",
+            "line": 15.5,
+            "pick_side": "under",
+            "odds": -125,
+            "confidence": 0.5555555555555556,
+            "sport": "WNBA",
+            "game_key": "props_wnba_minnesota_lynx_vs_chicago_sky_2025-07-04",
+            "date": "2025-07-07",
+            "timestamp": "2025-07-05T15:21:29.875275",
+            "implied_prob": 0.5555555555555556
+          }
+        ],
+        "confidence": 0.6004728132387707
+      }
+    }
+  },
+  "last_updated": "2025-07-07T13:08:22.932287"
+}

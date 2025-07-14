@@ -1,0 +1,492 @@
+{
+  "timestamp": "2025-06-13T17:55:37Z",
+  "previous_timestamp": "2025-06-13T17:50:37Z",
+  "next_timestamp": "2025-06-13T18:00:37Z",
+  "data": {
+    "id": "174d81c2d622c1ed65338cfb68c4e39d",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-13T18:21:00Z",
+    "home_team": "Chicago Cubs",
+    "away_team": "Pittsburgh Pirates",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-13T17:55:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -116
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -102
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -205,
+                "point": 1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": 168,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-13T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -109
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -101
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 200,
+                "point": -1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -230,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "price": 103,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-13T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -109
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -101
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 195,
+                "point": -1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -235,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-13T17:54:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -115
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 192,
+                "point": -1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -235,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-13T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -121
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": 100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -207,
+                "point": 1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": 168,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -106,
+                "point": 7.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-13T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -118
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -102
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -210,
+                "point": 1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": 170,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-13T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -109
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -101
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 196,
+                "point": -1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -230,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-13T17:55:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -120
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": 100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": 190,
+                "point": -1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -230,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "price": 105,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-13T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -112
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -112
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Chicago Cubs",
+                "price": -220,
+                "point": 1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": 165,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-13T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -121,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "price": -103,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

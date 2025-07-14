@@ -1,0 +1,20 @@
+{
+  "event_id": "a3e64f79235e000af657be7997a22185",
+  "home_team": "New York Mets",
+  "away_team": "Milwaukee Brewers",
+  "game_time": "2025-07-02T17:10:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "Milwaukee Brewers": {
+      "odds": 1.02,
+      "implied_probability": 0.9899029895070284,
+      "tags": []
+    },
+    "New York Mets": {
+      "odds": 13.0,
+      "implied_probability": 0.8849557522123894,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-07-02T15:13:41.295777"
+}

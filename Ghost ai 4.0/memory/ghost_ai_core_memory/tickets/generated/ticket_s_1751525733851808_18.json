@@ -1,0 +1,57 @@
+{
+  "ticket_id": "s_1751525733851808_18",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Different Teams)",
+  "tier": "standard",
+  "sport": "WNBA",
+  "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+  "home_team": "Indiana Fever",
+  "away_team": "Las Vegas Aces",
+  "commence_time": "2025-07-03T23:00:00Z",
+  "selections": [
+    {
+      "player_name": "A'ja Wilson",
+      "prop_type": "player_points_rebounds_assists",
+      "line": 35.5,
+      "odds": -108,
+      "bookmaker": "FanDuel",
+      "confidence": 0.519,
+      "value_rating": 0.0,
+      "team": "Las Vegas Aces",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    },
+    {
+      "player_name": "Aliyah Boston",
+      "prop_type": "player_points_rebounds_assists",
+      "line": 27.5,
+      "odds": -102,
+      "bookmaker": "FanDuel",
+      "confidence": 0.505,
+      "value_rating": 0.0,
+      "team": "Indiana Fever",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    }
+  ],
+  "generated_at": "2025-07-03T06:55:33.860179+00:00",
+  "confidence_score": 0.512,
+  "avg_odds": -105.0,
+  "stake": 7.59,
+  "potential_payout": 28.95,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Las Vegas Aces",
+    "Indiana Fever"
+  ],
+  "team_count": 2,
+  "streak_id": "streak_1751525733851808_18",
+  "no_duplicate_team_rule": true,
+  "streak_info": {
+    "is_streak": true,
+    "legs": 2,
+    "target_amount": 1000,
+    "entry_amount": 1.0
+  }
+}

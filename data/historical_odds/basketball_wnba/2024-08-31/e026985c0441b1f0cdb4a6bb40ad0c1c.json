@@ -1,0 +1,545 @@
+{
+  "timestamp": "2024-08-31T17:55:38Z",
+  "previous_timestamp": "2024-08-31T17:50:38Z",
+  "next_timestamp": "2024-08-31T18:00:38Z",
+  "data": {
+    "id": "e026985c0441b1f0cdb4a6bb40ad0c1c",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-31T19:00:00Z",
+    "home_team": "Washington Mystics",
+    "away_team": "Connecticut Sun",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-31T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -375
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 295
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -108,
+                "point": -8.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -112,
+                "point": 8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-31T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -400
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 320
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -105,
+                "point": -8.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -115,
+                "point": 8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-31T17:55:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-31T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -385
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 290
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-31T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -8.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-31T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-08-31T17:54:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-31T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -400
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 310
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-31T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -8.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-31T17:54:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-08-31T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -400
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 300
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -8.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-08-31T17:55:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-31T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -380
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 310
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-31T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -106,
+                "point": -8.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-31T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-08-31T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -380
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 310
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -108,
+                "point": -8.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -112,
+                "point": 8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-08-31T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -417
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 313
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -8.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-08-31T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -360
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 285
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -105,
+                "point": -8.0
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -115,
+                "point": 8.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-31T17:55:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -420
+              },
+              {
+                "name": "Washington Mystics",
+                "price": 320
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -112,
+                "point": -8.5
+              },
+              {
+                "name": "Washington Mystics",
+                "price": -112,
+                "point": 8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-31T17:55:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

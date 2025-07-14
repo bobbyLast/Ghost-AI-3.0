@@ -1,0 +1,68 @@
+{
+  "ticket_id": "s_1751601053368303_1",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "bb12adb66c2f6e3c102f5bc27d3ed473",
+  "home_team": "Arizona Diamondbacks",
+  "away_team": "San Francisco Giants",
+  "commence_time": "2025-07-04T01:41:00Z",
+  "selections": [
+    {
+      "player_name": "Dominic Smith",
+      "prop_type": "batter_doubles",
+      "line": 0.5,
+      "odds": 360,
+      "bookmaker": "DraftKings",
+      "confidence": 0.217,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Patrick Bailey",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 1.5,
+      "odds": 105,
+      "bookmaker": "DraftKings",
+      "confidence": 0.538,
+      "value_rating": 0.0,
+      "team": "San Francisco Giants",
+      "pick_side": "UNDER",
+      "over_under": "UNDER",
+      "label": "N",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Rafael Devers",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 0.5,
+      "odds": -110,
+      "bookmaker": "Underdog",
+      "confidence": 0.474,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T03:50:53.383670+00:00",
+  "confidence_score": 0.4097,
+  "avg_odds": 118.33,
+  "potential_payout": 122.78,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "San Francisco Giants"
+  ],
+  "team_count": 1,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 5.38
+}

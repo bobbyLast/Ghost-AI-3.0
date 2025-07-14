@@ -1,0 +1,172 @@
+[
+  {
+    "fixture": {
+      "home_player": "Novak Djokovic",
+      "away_player": "Carlos Alcaraz",
+      "tournament": "Wimbledon",
+      "surface": "grass"
+    },
+    "home_player": "Novak Djokovic",
+    "away_player": "Carlos Alcaraz",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 47.5,
+        "over_odds": -110,
+        "under_odds": -115,
+        "confidence": 0.6855843643116337
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -142,
+        "away_odds": 136,
+        "confidence": 0.6736900350820215
+      },
+      {
+        "type": "Total Aces",
+        "line": 20.5,
+        "over_odds": -119,
+        "under_odds": -110,
+        "confidence": 0.5768953653652623
+      }
+    ],
+    "confidence": 0.8086285472611757,
+    "reasoning": "Analysis based on Kaggle data for Novak Djokovic vs Carlos Alcaraz"
+  },
+  {
+    "fixture": {
+      "home_player": "Daniil Medvedev",
+      "away_player": "Jannik Sinner",
+      "tournament": "US Open",
+      "surface": "hard"
+    },
+    "home_player": "Daniil Medvedev",
+    "away_player": "Jannik Sinner",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 46.5,
+        "over_odds": -115,
+        "under_odds": -113,
+        "confidence": 0.7431486051395723
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -128,
+        "away_odds": 122,
+        "confidence": 0.6914663949118114
+      },
+      {
+        "type": "Total Aces",
+        "line": 18.0,
+        "over_odds": -116,
+        "under_odds": -110,
+        "confidence": 0.5364815282575655
+      }
+    ],
+    "confidence": 0.6542696041513718,
+    "reasoning": "Analysis based on Kaggle data for Daniil Medvedev vs Jannik Sinner"
+  },
+  {
+    "fixture": {
+      "home_player": "Stefanos Tsitsipas",
+      "away_player": "Alexander Zverev",
+      "tournament": "Australian Open",
+      "surface": "hard"
+    },
+    "home_player": "Stefanos Tsitsipas",
+    "away_player": "Alexander Zverev",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 49.0,
+        "over_odds": -116,
+        "under_odds": -116,
+        "confidence": 0.7982606007319504
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -139,
+        "away_odds": 124,
+        "confidence": 0.7567854488468262
+      },
+      {
+        "type": "Total Aces",
+        "line": 9.0,
+        "over_odds": -119,
+        "under_odds": -110,
+        "confidence": 0.6390425288708018
+      }
+    ],
+    "confidence": 0.8092277629516673,
+    "reasoning": "Analysis based on Kaggle data for Stefanos Tsitsipas vs Alexander Zverev"
+  },
+  {
+    "fixture": {
+      "home_player": "Andrey Rublev",
+      "away_player": "Casper Ruud",
+      "tournament": "French Open",
+      "surface": "clay"
+    },
+    "home_player": "Andrey Rublev",
+    "away_player": "Casper Ruud",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 38.5,
+        "over_odds": -112,
+        "under_odds": -120,
+        "confidence": 0.6913364172485187
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -126,
+        "away_odds": 114,
+        "confidence": 0.7710683638719934
+      },
+      {
+        "type": "Total Aces",
+        "line": 9.0,
+        "over_odds": -115,
+        "under_odds": -112,
+        "confidence": 0.6934437455443061
+      }
+    ],
+    "confidence": 0.7507014411697241,
+    "reasoning": "Analysis based on Kaggle data for Andrey Rublev vs Casper Ruud"
+  },
+  {
+    "fixture": {
+      "home_player": "Taylor Fritz",
+      "away_player": "Frances Tiafoe",
+      "tournament": "Miami Open",
+      "surface": "hard"
+    },
+    "home_player": "Taylor Fritz",
+    "away_player": "Frances Tiafoe",
+    "props": [
+      {
+        "type": "Total Games",
+        "line": 48.0,
+        "over_odds": -119,
+        "under_odds": -118,
+        "confidence": 0.6823939794089052
+      },
+      {
+        "type": "Match Winner",
+        "home_odds": -138,
+        "away_odds": 127,
+        "confidence": 0.617189244978796
+      },
+      {
+        "type": "Total Aces",
+        "line": 11.5,
+        "over_odds": -119,
+        "under_odds": -115,
+        "confidence": 0.5415493746321618
+      }
+    ],
+    "confidence": 0.7553746357552268,
+    "reasoning": "Analysis based on Kaggle data for Taylor Fritz vs Frances Tiafoe"
+  }
+]

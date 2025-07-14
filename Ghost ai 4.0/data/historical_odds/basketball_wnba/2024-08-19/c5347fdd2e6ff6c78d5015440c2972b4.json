@@ -1,0 +1,501 @@
+{
+  "timestamp": "2024-08-19T17:55:38Z",
+  "previous_timestamp": "2024-08-19T17:50:38Z",
+  "next_timestamp": "2024-08-19T18:00:39Z",
+  "data": {
+    "id": "c5347fdd2e6ff6c78d5015440c2972b4",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-20T23:00:00Z",
+    "home_team": "Connecticut Sun",
+    "away_team": "Los Angeles Sparks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-19T17:54:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-19T17:54:25Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -850
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 575
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-19T17:54:25Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -12.5
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 12.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-19T17:54:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-19T17:54:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -1100
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 650
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -112,
+                "point": -13.0
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -108,
+                "point": 13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-08-19T17:46:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-19T17:46:17Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -900
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 600
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-19T17:46:17Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -13.0
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-19T17:46:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-08-19T17:52:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-19T17:52:48Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -1111
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 491
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-19T17:52:48Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -13.0
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-19T17:52:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-19T17:54:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -910
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 540
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -113,
+                "point": -12.5
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -113,
+                "point": 12.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-08-19T17:54:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -900
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 575
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -13.0
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 13.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-08-19T17:54:25Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-08-19T17:54:25Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -113,
+                "point": -13.5
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -107,
+                "point": 13.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-19T17:54:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-08-19T17:54:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -111,
+                "point": -13.5
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -105,
+                "point": 13.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-08-19T17:54:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -825
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 565
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -115,
+                "point": -13.5
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -105,
+                "point": 13.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-19T17:54:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -1100
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 675
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-19T17:54:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "name": "Purcell M.",
+  "matches_played": 33,
+  "wins": 14,
+  "losses": 19,
+  "win_percentage": 0.424,
+  "tournaments_played": [
+    "Abierto Mexicano",
+    "Miami Open",
+    "Dallas Open",
+    "US Open",
+    "Australian Open",
+    "Wimbledon",
+    "Los Cabos Open",
+    "U.S. Men's Clay Court Championships",
+    "Halle Open",
+    "ASB Classic",
+    "Mutua Madrid Open",
+    "Delray Beach Open",
+    "Rosmalen Grass Court Championships",
+    "French Open",
+    "Western & Southern Financial Group Masters",
+    "Citi Open",
+    "Atlanta Open",
+    "Eastbourne International",
+    "Brisbane International",
+    "BNP Paribas Open"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "U.S. Men's Clay Court Championships",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Michelsen A."
+    },
+    {
+      "tournament": "U.S. Men's Clay Court Championships",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Mmoh M."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Giron M."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Korda S."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Squire H."
+    },
+    {
+      "tournament": "Rosmalen Grass Court Championships",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Vukic A."
+    },
+    {
+      "tournament": "Halle Open",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Bublik A."
+    },
+    {
+      "tournament": "Eastbourne International",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Djere L."
+    },
+    {
+      "tournament": "Eastbourne International",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Sonego L."
+    },
+    {
+      "tournament": "Eastbourne International",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Kecmanovic M."
+    },
+    {
+      "tournament": "Eastbourne International",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Harris B."
+    },
+    {
+      "tournament": "Eastbourne International",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Fritz T."
+    },
+    {
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Virtanen O."
+    },
+    {
+      "tournament": "Atlanta Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "O Connell C."
+    },
+    {
+      "tournament": "Atlanta Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Goffin D."
+    },
+    {
+      "tournament": "Atlanta Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Shang J."
+    },
+    {
+      "tournament": "Citi Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Kokkinakis T."
+    },
+    {
+      "tournament": "Western & Southern Financial Group Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Machac T."
+    },
+    {
+      "tournament": "Western & Southern Financial Group Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Carreno Busta P."
+    },
+    {
+      "tournament": "US Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Vukic A."
+    }
+  ],
+  "head_to_head": {
+    "Rune H.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Pannu K.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Daniel T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Valkusz M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Ruud C.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Krueger M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Giron M.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Svajda Z.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Arnaldi M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Borges N.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Tiafoe F.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Monfils G.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Fucsovics M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Michelsen A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Mmoh M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Korda S.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Squire H.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Vukic A.": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Bublik A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Djere L.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Sonego L.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Kecmanovic M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Harris B.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Fritz T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Virtanen O.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "O Connell C.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Goffin D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Shang J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Kokkinakis T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Machac T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Carreno Busta P.": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 8,
+      "losses": 12
+    },
+    "Clay": {
+      "wins": 2,
+      "losses": 3
+    },
+    "Grass": {
+      "wins": 4,
+      "losses": 4
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 14,
+      "losses": 19
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

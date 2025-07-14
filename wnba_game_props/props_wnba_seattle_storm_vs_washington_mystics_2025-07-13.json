@@ -1,0 +1,782 @@
+{
+  "id": "9f1b6d731ffd9d19459e6ac166c8fc71",
+  "sport_key": "basketball_wnba",
+  "sport_title": "WNBA",
+  "commence_time": "2025-07-13T22:00:00Z",
+  "home_team": "Seattle Storm",
+  "away_team": "Washington Mystics",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-07-13T01:20:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brittney Sykes",
+              "price": 114,
+              "point": 4.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Brittney Sykes",
+              "price": -152,
+              "point": 4.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Skylar Diggins-Smith",
+              "price": -114,
+              "point": 5.5,
+              "team": "Seattle Storm",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Skylar Diggins-Smith",
+              "price": -114,
+              "point": 5.5,
+              "team": "Seattle Storm",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Gabby Williams",
+              "price": 118,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Gabby Williams",
+              "price": -158,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-07-13T01:28:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Erica Wheeler",
+              "price": -118,
+              "point": 10.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Erica Wheeler",
+              "price": -110,
+              "point": 10.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kiki Iriafen",
+              "price": 104,
+              "point": 11.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kiki Iriafen",
+              "price": -135,
+              "point": 11.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Sonia Citron",
+              "price": -118,
+              "point": 12.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Sonia Citron",
+              "price": -110,
+              "point": 12.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nneka Ogwumike",
+              "price": -130,
+              "point": 15.5,
+              "team": "Seattle Storm",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Nneka Ogwumike",
+              "price": 100,
+              "point": 15.5,
+              "team": "Seattle Storm",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Brittney Sykes",
+              "price": -128,
+              "point": 14.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Brittney Sykes",
+              "price": -102,
+              "point": 14.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Gabby Williams",
+              "price": -110,
+              "point": 13.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Gabby Williams",
+              "price": -118,
+              "point": 13.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Skylar Diggins-Smith",
+              "price": -113,
+              "point": 16.5,
+              "team": "Seattle Storm",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Skylar Diggins-Smith",
+              "price": -115,
+              "point": 16.5,
+              "team": "Seattle Storm",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Shakira Austin",
+              "price": 100,
+              "point": 14.5,
+              "team": "Washington Mystics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Shakira Austin",
+              "price": -130,
+              "point": 14.5,
+              "team": "Washington Mystics",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "player_points_assists",
+          "last_update": "2025-07-13T01:28:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Skylar Diggins-Smith",
+              "price": -102,
+              "point": 22.5,
+              "team": "Seattle Storm",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Skylar Diggins-Smith",
+              "price": -130,
+              "point": 22.5,
+              "team": "Seattle Storm",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Brittney Sykes",
+              "price": -108,
+              "point": 19.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Brittney Sykes",
+              "price": -122,
+              "point": 19.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Gabby Williams",
+              "price": -122,
+              "point": 17.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Gabby Williams",
+              "price": -108,
+              "point": 17.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "player_points_rebounds",
+          "last_update": "2025-07-13T01:28:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nneka Ogwumike",
+              "price": -108,
+              "point": 23.5,
+              "team": "Seattle Storm",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Nneka Ogwumike",
+              "price": -122,
+              "point": 23.5,
+              "team": "Seattle Storm",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Sonia Citron",
+              "price": -114,
+              "point": 17.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Sonia Citron",
+              "price": -114,
+              "point": 17.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brittney Sykes",
+              "price": -120,
+              "point": 18.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Brittney Sykes",
+              "price": -110,
+              "point": 18.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Erica Wheeler",
+              "price": 100,
+              "point": 14.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Erica Wheeler",
+              "price": -132,
+              "point": 14.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Shakira Austin",
+              "price": -125,
+              "point": 21.5,
+              "team": "Washington Mystics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Shakira Austin",
+              "price": -106,
+              "point": 21.5,
+              "team": "Washington Mystics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gabby Williams",
+              "price": -106,
+              "point": 18.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Gabby Williams",
+              "price": -125,
+              "point": 18.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "player_points_rebounds_assists",
+          "last_update": "2025-07-13T01:28:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nneka Ogwumike",
+              "price": -114,
+              "point": 25.5,
+              "team": "Seattle Storm",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Nneka Ogwumike",
+              "price": -114,
+              "point": 25.5,
+              "team": "Seattle Storm",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Gabby Williams",
+              "price": -118,
+              "point": 22.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Gabby Williams",
+              "price": -112,
+              "point": 22.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brittney Sykes",
+              "price": -104,
+              "point": 23.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Brittney Sykes",
+              "price": -128,
+              "point": 23.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-13T01:20:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sonia Citron",
+              "price": -136,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Sonia Citron",
+              "price": 102,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gabby Williams",
+              "price": -130,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Gabby Williams",
+              "price": -102,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kiki Iriafen",
+              "price": -104,
+              "point": 7.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kiki Iriafen",
+              "price": -128,
+              "point": 7.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nneka Ogwumike",
+              "price": 116,
+              "point": 7.5,
+              "team": "Seattle Storm",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Nneka Ogwumike",
+              "price": -154,
+              "point": 7.5,
+              "team": "Seattle Storm",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Shakira Austin",
+              "price": -112,
+              "point": 7.5,
+              "team": "Washington Mystics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Shakira Austin",
+              "price": -118,
+              "point": 7.5,
+              "team": "Washington Mystics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Erica Wheeler",
+              "price": 116,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Erica Wheeler",
+              "price": -154,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ezi Magbegor",
+              "price": -148,
+              "point": 5.5,
+              "team": "Seattle Storm",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Ezi Magbegor",
+              "price": 112,
+              "point": 5.5,
+              "team": "Seattle Storm",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds_assists",
+          "last_update": "2025-07-13T01:28:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Gabby Williams",
+              "price": -148,
+              "point": 8.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Gabby Williams",
+              "price": 112,
+              "point": 8.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brittney Sykes",
+              "price": -154,
+              "point": 7.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Brittney Sykes",
+              "price": 116,
+              "point": 7.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_threes",
+          "last_update": "2025-07-13T01:23:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sonia Citron",
+              "price": 102,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Sonia Citron",
+              "price": -136,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Erica Wheeler",
+              "price": 120,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Erica Wheeler",
+              "price": -158,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Skylar Diggins-Smith",
+              "price": 128,
+              "point": 1.5,
+              "team": "Seattle Storm",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Skylar Diggins-Smith",
+              "price": -172,
+              "point": 1.5,
+              "team": "Seattle Storm",
+              "position": "G"
+            },
+            {
+              "name": "Over",
+              "description": "Gabby Williams",
+              "price": 126,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Gabby Williams",
+              "price": -168,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-07-13T01:30:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Gabby Williams",
+              "price": 120,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Gabby Williams",
+              "price": -150,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brittney Sykes",
+              "price": 115,
+              "point": 4.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            },
+            {
+              "name": "Under",
+              "description": "Brittney Sykes",
+              "price": -145,
+              "point": 4.5,
+              "team": "Washington Mystics",
+              "position": "G"
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-07-13T01:30:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nneka Ogwumike",
+              "price": -130,
+              "point": 15.5,
+              "team": "Seattle Storm",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Nneka Ogwumike",
+              "price": 100,
+              "point": 15.5,
+              "team": "Seattle Storm",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Shakira Austin",
+              "price": 105,
+              "point": 14.5,
+              "team": "Washington Mystics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Shakira Austin",
+              "price": -135,
+              "point": 14.5,
+              "team": "Washington Mystics",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-13T01:30:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shakira Austin",
+              "price": -105,
+              "point": 7.5,
+              "team": "Washington Mystics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Shakira Austin",
+              "price": -125,
+              "point": 7.5,
+              "team": "Washington Mystics",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Gabby Williams",
+              "price": -130,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Gabby Williams",
+              "price": 100,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "player_threes",
+          "last_update": "2025-07-13T01:30:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Gabby Williams",
+              "price": 125,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Gabby Williams",
+              "price": -160,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

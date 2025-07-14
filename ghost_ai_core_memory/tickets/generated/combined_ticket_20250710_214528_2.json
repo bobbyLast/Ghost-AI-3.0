@@ -1,0 +1,55 @@
+{
+  "ticket_id": "TICKET_20250710_214428_63onmd",
+  "sport": "Mixed",
+  "props": [
+    {
+      "sport": "MLB",
+      "game": "Boston Red Sox vs Tampa Bay Rays",
+      "player": "Over",
+      "prop": "batter_runs_scored",
+      "line": 0.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": -115,
+      "reasoning": "Auto-extracted from OddsAPI: batter_runs_scored for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "Minnesota Twins vs Chicago Cubs",
+      "player": "Under",
+      "prop": "batter_singles",
+      "line": 0.5,
+      "pick": "Under",
+      "confidence": 0.7,
+      "odds": -135,
+      "reasoning": "Auto-extracted from OddsAPI: batter_singles for Under"
+    },
+    {
+      "sport": "MLB",
+      "game": "Oakland Athletics vs Atlanta Braves",
+      "player": "Over",
+      "prop": "batter_singles",
+      "line": 0.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": 110,
+      "reasoning": "Auto-extracted from OddsAPI: batter_singles for Over"
+    },
+    {
+      "sport": "MLB",
+      "game": "Chicago White Sox vs Cleveland Guardians",
+      "player": "Over",
+      "prop": "batter_home_runs",
+      "line": 2.5,
+      "pick": "Over",
+      "confidence": 0.7,
+      "odds": 18000,
+      "reasoning": "Auto-extracted from OddsAPI: batter_home_runs for Over"
+    }
+  ],
+  "total_confidence": 0.7,
+  "total_odds": 30739500000.0,
+  "reasoning": "High-confidence ticket #2 using actual fetched props from multiple sports",
+  "timestamp": "2025-07-10T21:44:28.417051",
+  "openai_full_pipeline_feedback": "{\n  \"suggested_improvements\": [\n    {\n      \"improvement_id\": \"IMP_20250710_215428_63onmd_1\",\n      \"improvement_type\": \"Logic\",\n      \"description\": \"Consider implementing a more sophisticated reasoning system. Currently, the reasoning for each pick is 'Auto-extracted from OddsAPI: [prop] for [pick]'. This does not provide much insight into why the AI made the pick it did. A more sophisticated reasoning system could take into account player stats, team stats, recent performance, and other relevant factors.\"\n    },\n    {\n      \"improvement_id\": \"IMP_20250710_215428_63onmd_2\",\n      \"improvement_type\": \"Data\",\n      \"description\": \"The AI could benefit from more data sources. Currently, it seems to be using only OddsAPI. Consider integrating additional data sources, such as player performance databases, team performance databases, and other sports betting APIs. This could help the AI make more accurate and informed picks.\"\n    },\n    {\n      \"improvement_id\": \"IMP_20250710_215428_63onmd_3\",\n      \"improvement_type\": \"Calibration\",\n      \"description\": \"The confidence level for all picks is currently set at 0.7. This seems arbitrary and does not reflect the inherent uncertainty in sports betting. Consider implementing a system that calculates confidence levels based on the available data and the specific circumstances of each game.\"\n    }\n  ],\n  \"calibration_suggestions\": [\n    {\n      \"calibration_id\": \"CAL_20250710_215428_63onmd_1\",\n      \"calibration_type\": \"Confidence\",\n      \"description\": \"Implement a dynamic confidence calculation system. This system could take into account factors such as player stats, team stats, recent performance, and the odds provided by the betting API. The confidence level could then be calculated as a function of these factors.\"\n    }\n  ],\n  \"new_logic_suggestions\": [\n    {\n      \"logic_id\": \"LOG_20250710_215428_63onmd_1\",\n      \"logic_type\": \"Data Processing\",\n      \"description\": \"Implement a system that processes and analyzes data from multiple sources. This could involve aggregating data from different APIs, databases, and other sources, and then analyzing this data to make informed picks. This could improve the accuracy of the AI's picks and increase its overall performance.\"\n    }\n  ]\n}"
+}

@@ -1,0 +1,680 @@
+{
+  "id": "7258329bd2d15b04f776056ae64012f7",
+  "sport_key": "basketball_wnba",
+  "sport_title": "WNBA",
+  "commence_time": "2025-07-13T22:00:00Z",
+  "home_team": "Los Angeles Sparks",
+  "away_team": "Connecticut Sun",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-07-13T01:28:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kelsey Plum",
+              "price": -130,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kelsey Plum",
+              "price": -102,
+              "point": 5.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-07-13T01:28:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Azur\u00e1 Stevens",
+              "price": -122,
+              "point": 12.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Azur\u00e1 Stevens",
+              "price": -106,
+              "point": 12.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Kelsey Plum",
+              "price": -128,
+              "point": 18.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kelsey Plum",
+              "price": -102,
+              "point": 18.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tina Charles",
+              "price": -108,
+              "point": 15.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Tina Charles",
+              "price": -120,
+              "point": 15.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Olivia Nelson-Ododa",
+              "price": 102,
+              "point": 9.5,
+              "team": "Connecticut Sun",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Olivia Nelson-Ododa",
+              "price": -132,
+              "point": 9.5,
+              "team": "Connecticut Sun",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Dearica Hamby",
+              "price": -114,
+              "point": 15.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Dearica Hamby",
+              "price": -114,
+              "point": 15.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Rickea Jackson",
+              "price": 100,
+              "point": 12.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Rickea Jackson",
+              "price": -130,
+              "point": 12.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_points_assists",
+          "last_update": "2025-07-13T01:28:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kelsey Plum",
+              "price": -130,
+              "point": 24.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kelsey Plum",
+              "price": -102,
+              "point": 24.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dearica Hamby",
+              "price": -130,
+              "point": 18.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Dearica Hamby",
+              "price": -102,
+              "point": 18.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_points_rebounds",
+          "last_update": "2025-07-13T01:28:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Olivia Nelson-Ododa",
+              "price": -108,
+              "point": 15.5,
+              "team": "Connecticut Sun",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Olivia Nelson-Ododa",
+              "price": -122,
+              "point": 15.5,
+              "team": "Connecticut Sun",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Azur\u00e1 Stevens",
+              "price": -125,
+              "point": 20.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Azur\u00e1 Stevens",
+              "price": -106,
+              "point": 20.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Tina Charles",
+              "price": -112,
+              "point": 21.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Tina Charles",
+              "price": -118,
+              "point": 21.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Dearica Hamby",
+              "price": -108,
+              "point": 23.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Dearica Hamby",
+              "price": -122,
+              "point": 23.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Kelsey Plum",
+              "price": -112,
+              "point": 22.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kelsey Plum",
+              "price": -118,
+              "point": 22.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "player_points_rebounds_assists",
+          "last_update": "2025-07-13T01:28:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Dearica Hamby",
+              "price": -118,
+              "point": 26.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Dearica Hamby",
+              "price": -112,
+              "point": 26.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Kelsey Plum",
+              "price": -110,
+              "point": 28.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kelsey Plum",
+              "price": -120,
+              "point": 28.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-13T01:28:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kelsey Plum",
+              "price": 110,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kelsey Plum",
+              "price": -146,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Azur\u00e1 Stevens",
+              "price": -138,
+              "point": 7.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Azur\u00e1 Stevens",
+              "price": 104,
+              "point": 7.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Olivia Nelson-Ododa",
+              "price": -154,
+              "point": 5.5,
+              "team": "Connecticut Sun",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Olivia Nelson-Ododa",
+              "price": 116,
+              "point": 5.5,
+              "team": "Connecticut Sun",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Dearica Hamby",
+              "price": -112,
+              "point": 7.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Dearica Hamby",
+              "price": -118,
+              "point": 7.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Tina Charles",
+              "price": -144,
+              "point": 5.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Tina Charles",
+              "price": 108,
+              "point": 5.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds_assists",
+          "last_update": "2025-07-13T01:28:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kelsey Plum",
+              "price": 108,
+              "point": 9.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kelsey Plum",
+              "price": -144,
+              "point": 9.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dearica Hamby",
+              "price": -132,
+              "point": 10.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Dearica Hamby",
+              "price": 100,
+              "point": 10.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_threes",
+          "last_update": "2025-07-13T01:28:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kelsey Plum",
+              "price": 138,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kelsey Plum",
+              "price": -186,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Azur\u00e1 Stevens",
+              "price": -120,
+              "point": 1.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Azur\u00e1 Stevens",
+              "price": -110,
+              "point": 1.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Rickea Jackson",
+              "price": 178,
+              "point": 1.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Rickea Jackson",
+              "price": -245,
+              "point": 1.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_points",
+          "last_update": "2025-07-13T01:30:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Olivia Nelson-Ododa",
+              "price": 105,
+              "point": 9.5,
+              "team": "Connecticut Sun",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Olivia Nelson-Ododa",
+              "price": -135,
+              "point": 9.5,
+              "team": "Connecticut Sun",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Rickea Jackson",
+              "price": -105,
+              "point": 12.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Rickea Jackson",
+              "price": -125,
+              "point": 12.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Kelsey Plum",
+              "price": -125,
+              "point": 18.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kelsey Plum",
+              "price": -105,
+              "point": 18.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Tina Charles",
+              "price": -110,
+              "point": 15.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Tina Charles",
+              "price": -120,
+              "point": 15.5,
+              "team": "Connecticut Sun",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Dearica Hamby",
+              "price": -115,
+              "point": 15.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Dearica Hamby",
+              "price": -115,
+              "point": 15.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Azur\u00e1 Stevens",
+              "price": -120,
+              "point": 12.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Azur\u00e1 Stevens",
+              "price": -110,
+              "point": 12.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-07-13T01:30:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Dearica Hamby",
+              "price": -110,
+              "point": 7.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Dearica Hamby",
+              "price": -120,
+              "point": 7.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Azur\u00e1 Stevens",
+              "price": -140,
+              "point": 7.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Under",
+              "description": "Azur\u00e1 Stevens",
+              "price": 110,
+              "point": 7.5,
+              "team": "Los Angeles Sparks",
+              "position": "F"
+            },
+            {
+              "name": "Over",
+              "description": "Kelsey Plum",
+              "price": 110,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kelsey Plum",
+              "price": -140,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Olivia Nelson-Ododa",
+              "price": -150,
+              "point": 5.5,
+              "team": "Connecticut Sun",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Olivia Nelson-Ododa",
+              "price": 120,
+              "point": 5.5,
+              "team": "Connecticut Sun",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "player_threes",
+          "last_update": "2025-07-13T01:30:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kelsey Plum",
+              "price": 135,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Kelsey Plum",
+              "price": -180,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

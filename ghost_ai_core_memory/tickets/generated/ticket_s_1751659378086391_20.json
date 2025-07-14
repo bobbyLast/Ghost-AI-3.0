@@ -1,0 +1,68 @@
+{
+  "ticket_id": "s_1751659378086391_20",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "59231231d997ec04e4c55a7c91bc4c10",
+  "home_team": "Colorado Rockies",
+  "away_team": "Chicago White Sox",
+  "commence_time": "2025-07-05T00:11:00Z",
+  "selections": [
+    {
+      "player_name": "Antonio Senzatela",
+      "prop_type": "pitcher_hits_allowed",
+      "line": 6.5,
+      "odds": -115,
+      "bookmaker": "DraftKings",
+      "confidence": 0.535,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Eduardo Rodriguez",
+      "prop_type": "pitcher_outs",
+      "line": 17.5,
+      "odds": -110,
+      "bookmaker": "DraftKings",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Arizona Diamondbacks",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Bobby Witt Jr.",
+      "prop_type": "fantasy_score",
+      "line": 9.5,
+      "odds": -110,
+      "bookmaker": "Underdog",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T20:02:58.109242+00:00",
+  "confidence_score": 0.5277,
+  "avg_odds": -111.67,
+  "potential_payout": 52.53,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Arizona Diamondbacks"
+  ],
+  "team_count": 1,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.68
+}

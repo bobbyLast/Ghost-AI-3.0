@@ -1,0 +1,439 @@
+{
+  "timestamp": "2025-06-29T17:55:37Z",
+  "previous_timestamp": "2025-06-29T17:50:37Z",
+  "next_timestamp": "2025-06-29T18:00:38Z",
+  "data": {
+    "id": "64e66efddfdd4a0b79dbf615938ec6c4",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-29T17:38:00Z",
+    "home_team": "Pittsburgh Pirates",
+    "away_team": "New York Mets",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-29T17:55:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -125
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -102
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 128,
+                "point": -1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -172,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -102,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -130,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-29T17:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -115
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 145,
+                "point": -1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-29T17:55:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -130
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": 100
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 125,
+                "point": -1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -160,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:09Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-29T17:55:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -113
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -115
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 143,
+                "point": -1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -188,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -109,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -119,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-06-29T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 115
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -143
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -167,
+                "point": 1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": 120,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -111,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-29T17:54:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -115
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -110
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 145,
+                "point": -1.5
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -190,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:54:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-29T17:55:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -125
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -105
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 105,
+                "point": -1.0
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -135,
+                "point": 1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-29T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-29T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": -122
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -112
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-29T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "New York Mets",
+                "price": 110,
+                "point": -1.0
+              },
+              {
+                "name": "Pittsburgh Pirates",
+                "price": -150,
+                "point": 1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-29T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -124,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -114,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

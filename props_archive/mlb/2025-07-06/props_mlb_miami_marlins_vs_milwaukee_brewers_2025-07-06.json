@@ -1,0 +1,858 @@
+{
+  "id": "aeb408d0b2cbba33c858bcf0ec3a8b97",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-06T17:41:00Z",
+  "home_team": "Miami Marlins",
+  "away_team": "Milwaukee Brewers",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-06T19:13:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Eric Wagaman",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Chourio",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Stowers",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Caleb Durbin",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Heriberto Hernandez",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "William Contreras",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Xavier Edwards",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Norby",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jesus Sanchez",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Dane Myers",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Turang",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Yelich",
+              "price": 1700,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Bauers",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-06T19:13:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sal Frelick",
+              "price": 240,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Chourio",
+              "price": 250,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Yelich",
+              "price": 300,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Bauers",
+              "price": 390,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Andruw Monasterio",
+              "price": 500,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Heriberto Hernandez",
+              "price": 4600,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Stowers",
+              "price": 200,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Eric Wagaman",
+              "price": 205,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dane Myers",
+              "price": 235,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Norby",
+              "price": 270,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Xavier Edwards",
+              "price": 265,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Caleb Durbin",
+              "price": 270,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Heriberto Hernandez",
+              "price": 260,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Sal Frelick",
+              "price": 3000,
+              "point": 2.5,
+              "team": "Milwaukee Brewers",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-06T19:13:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jackson Chourio",
+              "price": 2400,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Heriberto Hernandez",
+              "price": 2500,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Stowers",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Yelich",
+              "price": 2400,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Eric Wagaman",
+              "price": 2700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jesus Sanchez",
+              "price": 2700,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Bauers",
+              "price": 2900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "William Contreras",
+              "price": 2800,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Caleb Durbin",
+              "price": 3200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Norby",
+              "price": 3000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dane Myers",
+              "price": 3200,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Turang",
+              "price": 3200,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Sal Frelick",
+              "price": 3500,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-06T19:13:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jackson Chourio",
+              "price": 2300,
+              "point": 3.5,
+              "team": "Milwaukee Brewers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Heriberto Hernandez",
+              "price": 4700,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Eric Wagaman",
+              "price": 330,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Stowers",
+              "price": 460,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Chourio",
+              "price": 500,
+              "point": 2.5,
+              "team": "Milwaukee Brewers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Heriberto Hernandez",
+              "price": 1600,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Stowers",
+              "price": 4600,
+              "point": 2.5,
+              "team": "Baltimore Orioles",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Heriberto Hernandez",
+              "price": 460,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Stowers",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Baltimore Orioles",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Eric Wagaman",
+              "price": 1400,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-06T19:13:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sal Frelick",
+              "price": 330,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Stowers",
+              "price": 340,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Chourio",
+              "price": 600,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Heriberto Hernandez",
+              "price": 600,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Yelich",
+              "price": 600,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-06T19:13:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Eric Wagaman",
+              "price": 310,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dane Myers",
+              "price": 350,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Xavier Edwards",
+              "price": 370,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Sal Frelick",
+              "price": 360,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Stowers",
+              "price": 350,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Norby",
+              "price": 410,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Caleb Durbin",
+              "price": 430,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Turang",
+              "price": 420,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Chourio",
+              "price": 460,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "William Contreras",
+              "price": 460,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jesus Sanchez",
+              "price": 500,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-06T19:13:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sal Frelick",
+              "price": 750,
+              "point": 3.5,
+              "team": "Milwaukee Brewers",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Stowers",
+              "price": 1300,
+              "point": 3.5,
+              "team": "Baltimore Orioles",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Yelich",
+              "price": 1900,
+              "point": 3.5,
+              "team": "Milwaukee Brewers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Eric Wagaman",
+              "price": 2300,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Bauers",
+              "price": 2400,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Chourio",
+              "price": 250,
+              "point": 4.5,
+              "team": "Milwaukee Brewers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Sal Frelick",
+              "price": 1900,
+              "point": 4.5,
+              "team": "Milwaukee Brewers",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Yelich",
+              "price": 2200,
+              "point": 4.5,
+              "team": "Milwaukee Brewers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Bauers",
+              "price": 2700,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Yelich",
+              "price": 290,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Bauers",
+              "price": 380,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Sal Frelick",
+              "price": 230,
+              "point": 2.5,
+              "team": "Milwaukee Brewers",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Yelich",
+              "price": 900,
+              "point": 2.5,
+              "team": "Milwaukee Brewers",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-06T18:59:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jesus Sanchez",
+              "price": 4200,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Xavier Edwards",
+              "price": 4600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-06T19:13:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Stowers",
+              "price": 750,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "William Contreras",
+              "price": 800,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Yelich",
+              "price": 850,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Eric Wagaman",
+              "price": 950,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-06T19:13:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Stowers",
+              "price": 184,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Stowers",
+              "price": -264,
+              "point": 0.5,
+              "team": "Baltimore Orioles",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "William Contreras",
+              "price": 227,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "William Contreras",
+              "price": -339,
+              "point": 0.5,
+              "team": "Milwaukee Brewers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jackson Chourio",
+              "price": 252,
+              "point": 4.5,
+              "team": "Milwaukee Brewers",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Jackson Chourio",
+              "price": -384,
+              "point": 4.5,
+              "team": "Milwaukee Brewers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Eric Wagaman",
+              "price": 213,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Eric Wagaman",
+              "price": -314,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Yelich",
+              "price": 247,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Christian Yelich",
+              "price": -374,
+              "point": 1.5,
+              "team": "Milwaukee Brewers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Sal Frelick",
+              "price": 208,
+              "point": 2.5,
+              "team": "Milwaukee Brewers",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Sal Frelick",
+              "price": -304,
+              "point": 2.5,
+              "team": "Milwaukee Brewers",
+              "position": "CF"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

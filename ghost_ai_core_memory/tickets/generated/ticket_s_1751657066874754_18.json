@@ -1,0 +1,38 @@
+{
+  "ticket_id": "s_1751657066874754_18",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 1-Leg Ticket",
+  "tier": "standard",
+  "sport": "UNKNOWN",
+  "game_id": "1ab8d1ee4a6057da8977923a8b5ecb58",
+  "home_team": "Chicago Cubs",
+  "away_team": "St. Louis Cardinals",
+  "commence_time": "2025-07-04T18:21:00Z",
+  "selections": [
+    {
+      "player_name": "Michael Busch",
+      "prop_type": "fantasy_score",
+      "line": 2.0,
+      "odds": -110,
+      "bookmaker": "Underdog",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T19:24:26.887289+00:00",
+  "confidence_score": 0.524,
+  "avg_odds": -110.0,
+  "potential_payout": 14.66,
+  "no_duplicate_players": true,
+  "team_diversity": false,
+  "unique_teams": [],
+  "team_count": 0,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.68
+}

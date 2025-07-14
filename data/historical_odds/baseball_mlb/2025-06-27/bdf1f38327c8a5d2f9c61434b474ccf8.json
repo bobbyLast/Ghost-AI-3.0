@@ -1,0 +1,545 @@
+{
+  "timestamp": "2025-06-27T17:55:38Z",
+  "previous_timestamp": "2025-06-27T17:50:37Z",
+  "next_timestamp": "2025-06-27T18:00:38Z",
+  "data": {
+    "id": "bdf1f38327c8a5d2f9c61434b474ccf8",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-27T23:16:00Z",
+    "home_team": "Atlanta Braves",
+    "away_team": "Philadelphia Phillies",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-27T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -172
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 144
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 120,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -144,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-27T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -185
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 150
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 110,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -130,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-27T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -175
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 145
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 115,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -140,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-27T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -178
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 150
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 115,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -135,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-27T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -181
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 148
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 113,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -137,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-27T17:54:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:54:57Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -177
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 143
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:54:57Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 123,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -152,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:54:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-27T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -185
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 153
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 115,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -135,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-27T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -175
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 158
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 113,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -133,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": 105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-27T17:55:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:21Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -175
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 158
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:21Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 116,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -131,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -123,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": 107,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-27T17:55:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-27T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": -171
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": 151
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-27T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Braves",
+                "price": 115,
+                "point": -1.5
+              },
+              {
+                "name": "Philadelphia Phillies",
+                "price": -135,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-27T17:55:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": 105,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

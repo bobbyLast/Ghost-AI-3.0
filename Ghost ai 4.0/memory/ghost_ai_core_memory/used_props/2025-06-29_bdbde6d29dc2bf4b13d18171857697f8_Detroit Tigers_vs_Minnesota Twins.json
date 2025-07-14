@@ -1,0 +1,20 @@
+{
+  "event_id": "bdbde6d29dc2bf4b13d18171857697f8",
+  "home_team": "Detroit Tigers",
+  "away_team": "Minnesota Twins",
+  "game_time": "2025-06-29T23:11:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "Detroit Tigers": {
+      "odds": 1.16,
+      "implied_probability": 0.988533017002768,
+      "tags": []
+    },
+    "Minnesota Twins": {
+      "odds": 5.0,
+      "implied_probability": 0.9523809523809523,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-29T20:04:20.641152"
+}

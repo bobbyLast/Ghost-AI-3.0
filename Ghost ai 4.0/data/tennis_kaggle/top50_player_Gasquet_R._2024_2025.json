@@ -1,0 +1,307 @@
+{
+  "name": "Gasquet R.",
+  "matches_played": 27,
+  "wins": 8,
+  "losses": 19,
+  "win_percentage": 0.296,
+  "tournaments_played": [
+    "Suisse Open Gstaad",
+    "Australian Open",
+    "Estoril Open",
+    "Open 13",
+    "Qatar Exxon Mobil Open",
+    "Tiriac Open",
+    "Monte Carlo Masters",
+    "Open Sud de France",
+    "BNP Paribas Masters",
+    "Mutua Madrid Open",
+    "Lyon Open",
+    "ASB Classic",
+    "European Open",
+    "French Open",
+    "Open de Moselle",
+    "Stuttgart Open"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2025",
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Estoril Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Martinez P."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Sonego L."
+    },
+    {
+      "tournament": "Lyon Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Muller A."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Coric B."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Sinner J."
+    },
+    {
+      "tournament": "Stuttgart Open",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Nakashima B."
+    },
+    {
+      "tournament": "Suisse Open Gstaad",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Halys Q."
+    },
+    {
+      "tournament": "European Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Etcheverry T."
+    },
+    {
+      "tournament": "BNP Paribas Masters",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Bergs Z."
+    },
+    {
+      "tournament": "Open de Moselle",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Monteiro T."
+    },
+    {
+      "tournament": "Open de Moselle",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Michelsen A."
+    },
+    {
+      "tournament": "Open Sud de France",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Mannarino A."
+    },
+    {
+      "tournament": "Open Sud de France",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Griekspoor T."
+    },
+    {
+      "tournament": "Open 13",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Bublik A."
+    },
+    {
+      "tournament": "Tiriac Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Van De Zandschulp B."
+    },
+    {
+      "tournament": "Tiriac Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Cobolli F."
+    },
+    {
+      "tournament": "Monte Carlo Masters",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Arnaldi M."
+    },
+    {
+      "tournament": "Monte Carlo Masters",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Altmaier D."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Atmane T."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2025",
+      "result": "L",
+      "opponent": "Sinner J."
+    }
+  ],
+  "head_to_head": {
+    "Fils A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Alcaraz C.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Llamas Ruiz P.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Bautista Agut R.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Shevchenko A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Rublev A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Thiem D.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Martinez P.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Sonego L.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Muller A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Coric B.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Sinner J.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Nakashima B.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Halys Q.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Etcheverry T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Bergs Z.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Monteiro T.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Michelsen A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Mannarino A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Griekspoor T.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Bublik A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Van De Zandschulp B.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Cobolli F.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Arnaldi M.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Altmaier D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Atmane T.": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 3,
+      "losses": 10
+    },
+    "Clay": {
+      "wins": 5,
+      "losses": 8
+    },
+    "Grass": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 4,
+      "losses": 14
+    },
+    "2025": {
+      "wins": 4,
+      "losses": 5
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

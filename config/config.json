@@ -1,0 +1,245 @@
+{
+    "confidence_floor": 0.35,
+    "active_sports": ["MLB", "WNBA"],
+    "paths": {
+        "memory": "ghost_ai_core_memory",
+        "streaks": "streaks",
+        "logs": "logs",
+        "confidence": "confidence",
+        "mlb_game_props": "mlb_game_props",
+        "wnba_game_props": "wnba_game_props"
+    },
+    "sports": {
+        "nba": {
+            "enabled": true,
+            "confidence_threshold": 0.45,
+            "max_picks": 5,
+            "streak_threshold": 0.50,
+            "streak_min_legs": 2,
+            "streak_max_legs": 11
+        },
+        "mlb": {
+            "enabled": true,
+            "confidence_threshold": 0.35,
+            "max_picks": 5,
+            "streak_threshold": 0.45,
+            "streak_min_legs": 2,
+            "streak_max_legs": 11,
+            "props": [
+                "batter_hits",
+                "batter_runs_scored", 
+                "batter_rbis",
+                "batter_total_bases",
+                "batter_home_runs",
+                "batter_doubles",
+                "batter_singles",
+                "batter_walks",
+                "batter_stolen_bases",
+                "batter_hits_runs_rbis",
+                "batter_fantasy_score",
+                "batter_strikeouts",
+                "pitcher_strikeouts",
+                "pitcher_hits_allowed",
+                "pitcher_walks",
+                "pitcher_earned_runs",
+                "pitcher_outs"
+            ]
+        },
+        "wnba": {
+            "enabled": true,
+            "confidence_threshold": 0.3,
+            "max_picks": 5,
+            "streak_threshold": 0.8,
+            "streak_min_legs": 2,
+            "streak_max_legs": 11,
+            "props": [
+                "player_points",
+                "player_rebounds",
+                "player_assists",
+                "player_threes",
+                "player_steals",
+                "player_blocks",
+                "player_turnovers",
+                "player_points_rebounds_assists",
+                "player_points_rebounds",
+                "player_points_assists",
+                "player_rebounds_assists",
+                "player_fantasy_score"
+            ]
+        },
+        "pga": {
+            "enabled": true,
+            "confidence_threshold": 0.6,
+            "max_picks": 5,
+            "streak_threshold": 0.7,
+            "streak_min_legs": 2,
+            "streak_max_legs": 11
+        }
+    },
+    "discord": {
+        "token": "summaries",
+        "admin_ids": [],
+        "log_channel_id": "",
+        "webhook_url": "https://discord.com/api/webhooks/1386168741938597989/Ib-d9TDtSnd4gZ-C2JkKQ866p6fxAF3Ps4fLUhkGJYI_dZQCe8hCRBTODv1-vZV_U7Sy",
+        "update_webhook_url": "https://discord.com/api/webhooks/1375912085762080868/qRsmIH92iKpMwrtt2TYWsRY1OkFerN61zFVGooCFZvae-liF5l_4ovbwpgv0b7nSOKJg",
+        "moneyline_webhook_url": "https://discord.com/api/webhooks/1390410910392385756/w9-96vnCSQQjfu_hzesnaSt6MP3EEbC_5WuTGuQnvsKnxoxkS4cj8Nl3Z0KYqWnaV36z",
+        "auto_find_channels": true,
+        "preferred_channel_names": ["tickets", "betting", "ghost-ai", "bot-commands", "general", "chat"],
+        "enabled": true,
+        "post_daily_picks": true,
+        "post_tickets": true,
+        "post_streaks": true
+    },
+    "api": {
+        "odds_api_key": "${ODDS_API_KEY}",
+        "odds_api": {
+            "enabled": true,
+            "rate_limit": 1.0
+        }
+    },
+    "processing": {
+        "scan_interval": 60,
+        "ticket_generation_interval": 60,
+        "weekly_review_time": "18:00",
+        "max_concurrent_tasks": 5,
+        "memory_cleanup_interval": 3600
+    },
+    "props": {
+        "mlb_props_dir": "mlb_game_props",
+        "wnba_props_dir": "wnba_game_props",
+        "max_history_days": 30,
+        "cleanup_interval": 86400
+    },
+    "tickets": {
+        "min_legs": 2,
+        "max_legs": 8,
+        "max_tickets_per_sport": 50,
+        "min_confidence": 0.35,
+        "max_risk_legs": 4,
+        "generation_interval": 60,
+        "unified_storage": {
+            "enabled": true,
+            "tickets_dir": "ghost_ai_core_memory/tickets/unified",
+            "results_dir": "ghost_ai_core_memory/tickets/results",
+            "archive_dir": "ghost_ai_core_memory/tickets/archive",
+            "auto_archive_days": 7,
+            "efficient_results_checking": true
+        }
+    },
+    "pipeline": {
+        "interval_minutes": 30,
+        "max_tickets_per_run": 10,
+        "min_confidence": 0.35,
+        "max_confidence": 0.95,
+        "enable_hrr_trap_detection": true,
+        "enable_daily_picks": true,
+        "enable_reverse_engineering": true,
+        "auto_cleanup": true,
+        "daily_picks": true,
+        "reverse_engineering": true
+    },
+    "intelligence": {
+        "risk_classification": {
+            "enabled": true,
+            "min_confidence_threshold": 0.35
+        },
+        "odds_analysis": {
+            "enabled": true,
+            "clv_threshold": 0.05
+        },
+        "hrr_trap_detection": {
+            "enabled": true,
+            "confidence_penalty": -0.15,
+            "trap_threshold": 0.5
+        }
+    },
+    "reverse_engineering": {
+        "enabled": true,
+        "memory_file": "odds_reverse_engineering/data/prop_memory.json",
+        "min_historical_entries": 3,
+        "confidence_drift_threshold": 0.1
+    },
+    "confidence_tracking": {
+        "enabled": true,
+        "track_wins_losses": true,
+        "performance_file": "odds_reverse_engineering/data/performance/performance.json",
+        "confidence_file": "confidence/confidence_tracking.json",
+        "auto_update": true,
+        "update_interval": 3600
+    },
+    "daily_picks": {
+        "potd": {
+            "enabled": true,
+            "min_confidence": 0.45
+        },
+        "rpotd": {
+            "enabled": true,
+            "min_confidence": 0.35,
+            "min_odds": 120
+        },
+        "totd": {
+            "enabled": true,
+            "min_legs": 3,
+            "max_legs": 5,
+            "min_confidence": 0.45
+        },
+        "rtotd": {
+            "enabled": true,
+            "min_legs": 4,
+            "max_legs": 6,
+            "min_confidence": 0.45
+        },
+        "streaks": {
+            "enabled": true,
+            "max_streaks": 3,
+            "min_legs": 3,
+            "max_legs": 5,
+            "min_confidence": 0.45
+        }
+    },
+    "logging": {
+        "level": "INFO",
+        "file": "logs/ghost_ai.log",
+        "console": true,
+        "file_logging": true,
+        "max_file_size": "10MB",
+        "backup_count": 5
+    },
+    "data": {
+        "cache_dir": "cache",
+        "memory_dir": "memory",
+        "historical_dir": "data/historical",
+        "backup_enabled": true,
+        "backup_interval_hours": 24
+    },
+    "memory": {
+        "enabled": true,
+        "auto_save": true
+    },
+    "refresh_interval_minutes": 30,
+    "min_confidence": 0.35,
+    "max_tickets_per_sport": 5,
+    "webhook_url": "",
+    "odds_api_key": "",
+    "discord_bot_token": "",
+    "discord_channel_id": "",
+    "auto_cleanup_enabled": true,
+    "cleanup_interval_hours": 24,
+    "max_file_age_days": 7,
+    "advanced_ticketing": {
+        "cold_streak_length": 3,
+        "max_props_per_team_per_ticket": 1,
+        "max_props_per_game_per_ticket": 2,
+        "max_goblin_per_ticket": 1,
+        "stake_sensitivity": "lowest_confidence",
+        "error_reporting_channel": "ghost-ai-errors",
+        "ticket_summary_enabled": true,
+        "min_ticket_legs": 2,
+        "dynamic_ticket_sizing": true,
+        "learning_feature_logging": true
+    },
+    "moneyline_ticketing": {
+        "enabled": true,
+        "min_confidence": 0.55
+    }
+}

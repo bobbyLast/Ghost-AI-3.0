@@ -1,0 +1,83 @@
+{
+  "ticket_id": "s_1751600694060415_3",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 4-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "bb12adb66c2f6e3c102f5bc27d3ed473",
+  "home_team": "Arizona Diamondbacks",
+  "away_team": "San Francisco Giants",
+  "commence_time": "2025-07-04T01:41:00Z",
+  "selections": [
+    {
+      "player_name": "Rafael Devers",
+      "prop_type": "batter_doubles",
+      "line": 0.5,
+      "odds": 270,
+      "bookmaker": "FanDuel",
+      "confidence": 0.27,
+      "value_rating": 0.0,
+      "team": "Boston Red Sox",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Rafael Devers",
+      "prop_type": "batter_rbis",
+      "line": 1.5,
+      "odds": 400,
+      "bookmaker": "FanDuel",
+      "confidence": 0.2,
+      "value_rating": 0.0,
+      "team": "Boston Red Sox",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Ketel Marte",
+      "prop_type": "batter_runs_scored",
+      "line": 2.5,
+      "odds": 2900,
+      "bookmaker": "FanDuel",
+      "confidence": 0.033,
+      "value_rating": 0.0,
+      "team": "Arizona Diamondbacks",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Ketel Marte",
+      "prop_type": "batter_total_bases",
+      "line": 4.5,
+      "odds": 470,
+      "bookmaker": "FanDuel",
+      "confidence": 0.175,
+      "value_rating": 0.0,
+      "team": "Arizona Diamondbacks",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T03:44:54.077476+00:00",
+  "confidence_score": 0.1695,
+  "avg_odds": 1010.0,
+  "potential_payout": 15880.77,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Boston Red Sox",
+    "Arizona Diamondbacks"
+  ],
+  "team_count": 2,
+  "is_demon": true,
+  "is_goblin": false,
+  "stake": 4.0
+}

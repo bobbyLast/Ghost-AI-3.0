@@ -1,0 +1,69 @@
+{
+  "ticket_id": "s_1751674175079324_2",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 3-Leg Ticket",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "96c692dc5328fc7fdc499c6a211c5844",
+  "home_team": "Arizona Diamondbacks",
+  "away_team": "Kansas City Royals",
+  "commence_time": "2025-07-05T01:41:00Z",
+  "selections": [
+    {
+      "player_name": "John Rave",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": -1.5,
+      "odds": -110,
+      "bookmaker": "Underdog",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Adrian Houser",
+      "prop_type": "pitcher_outs",
+      "line": 16.5,
+      "odds": 105,
+      "bookmaker": "DraftKings",
+      "confidence": 0.488,
+      "value_rating": 0.0,
+      "team": "New York Mets",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Jonathan Aranda",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 2.5,
+      "odds": 112,
+      "bookmaker": "Caesars",
+      "confidence": 0.472,
+      "value_rating": 0.0,
+      "team": "Tampa Bay Rays",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "D",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-05T00:09:35.091867+00:00",
+  "confidence_score": 0.4947,
+  "avg_odds": 35.67,
+  "potential_payout": 61.89,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Tampa Bay Rays",
+    "New York Mets"
+  ],
+  "team_count": 2,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.29
+}

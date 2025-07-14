@@ -1,0 +1,20 @@
+{
+  "event_id": "b13b2f7f2ac839a25206cd275d505723",
+  "home_team": "Philadelphia Phillies",
+  "away_team": "San Diego Padres",
+  "game_time": "2025-06-30T22:31:00Z",
+  "result": "away_win",
+  "odds_data": {
+    "Philadelphia Phillies": {
+      "odds": 1.45,
+      "implied_probability": 0.9857072449482503,
+      "tags": []
+    },
+    "San Diego Padres": {
+      "odds": 2.84,
+      "implied_probability": 0.9723842862699339,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-29T20:04:20.649375"
+}

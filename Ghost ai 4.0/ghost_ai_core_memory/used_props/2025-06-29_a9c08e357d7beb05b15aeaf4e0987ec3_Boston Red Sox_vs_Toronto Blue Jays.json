@@ -1,0 +1,20 @@
+{
+  "event_id": "a9c08e357d7beb05b15aeaf4e0987ec3",
+  "home_team": "Boston Red Sox",
+  "away_team": "Toronto Blue Jays",
+  "game_time": "2025-06-29T17:38:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "Boston Red Sox": {
+      "odds": 31.0,
+      "implied_probability": 0.7633587786259542,
+      "tags": []
+    },
+    "Toronto Blue Jays": {
+      "odds": 1.0,
+      "implied_probability": 0.9900990099009901,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-29T16:40:46.753304"
+}

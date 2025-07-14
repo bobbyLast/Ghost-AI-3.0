@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "wake_up_time": "05:00",
+  "run_interval_hours": 6,
+  "max_cycles_per_day": 4,
+  "auto_cleanup_time": "02:00",
+  "auto_learning_time": "23:00",
+  "error_retry_delay_minutes": 30,
+  "max_retries": 3
+}

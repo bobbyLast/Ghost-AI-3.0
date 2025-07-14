@@ -1,0 +1,411 @@
+{
+  "timestamp": "2024-09-03T17:55:38Z",
+  "previous_timestamp": "2024-09-03T17:50:39Z",
+  "next_timestamp": "2024-09-03T18:00:38Z",
+  "data": {
+    "id": "f8313f34181d1fc9a7be6ac10b007ac8",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-04T23:00:00Z",
+    "home_team": "Indiana Fever",
+    "away_team": "Los Angeles Sparks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-03T17:55:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-03T17:55:11Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -750
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 525
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-03T17:55:11Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -112,
+                "point": -11.5
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -108,
+                "point": 11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-03T17:55:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 173.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 173.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-03T17:55:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-03T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -900
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 540
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-03T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -112,
+                "point": -12.0
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -108,
+                "point": 12.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-03T17:55:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 173.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 173.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-03T17:53:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-03T17:53:52Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -700
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-03T17:53:52Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -11.5
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-03T17:53:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 173.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 173.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-03T17:54:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-03T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -750
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-03T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -11.5
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-03T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 173.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 173.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-03T17:54:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-03T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -770
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 525
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-03T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -108,
+                "point": -12.0
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -115,
+                "point": 12.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-03T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 173.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 173.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-03T17:55:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-03T17:55:36Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -700
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": 500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-03T17:55:36Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -11.5
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-03T17:55:36Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 173.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 173.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-09-03T17:54:50Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-09-03T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -108,
+                "point": -11.5
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -108,
+                "point": 11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-03T17:54:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 173.0
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 173.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-03T17:55:03Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-09-03T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Indiana Fever",
+                "price": -110,
+                "point": -11.5
+              },
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-03T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 173.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 173.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

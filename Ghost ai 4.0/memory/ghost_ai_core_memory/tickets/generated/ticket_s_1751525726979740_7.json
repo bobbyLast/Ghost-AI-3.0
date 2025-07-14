@@ -1,0 +1,46 @@
+{
+  "ticket_id": "s_1751525726979740_7",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 2-Leg Ticket (Same Team - Check Required)",
+  "tier": "standard",
+  "sport": "MLB",
+  "game_id": "d8e1074c762d2fcad4598334f23c9f52",
+  "home_team": "Colorado Rockies",
+  "away_team": "Houston Astros",
+  "commence_time": "2025-07-03T00:40:00Z",
+  "selections": [
+    {
+      "player_name": "Christian Walker",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 2.5,
+      "odds": -109,
+      "bookmaker": "Caesars",
+      "confidence": 0.522,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    },
+    {
+      "player_name": "Corey Seager",
+      "prop_type": "batter_hits_runs_rbis",
+      "line": 6.5,
+      "odds": -110,
+      "bookmaker": "Underdog",
+      "confidence": 0.524,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER"
+    }
+  ],
+  "generated_at": "2025-07-03T06:55:26.984141+00:00",
+  "confidence_score": 0.523,
+  "avg_odds": -109.5,
+  "stake": 7.67,
+  "potential_payout": 28.08,
+  "no_duplicate_players": true,
+  "team_diversity": false,
+  "unique_teams": [],
+  "team_count": 0
+}

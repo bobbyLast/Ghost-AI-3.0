@@ -1,0 +1,38 @@
+{
+  "ticket_id": "s_1751657083818145_33",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 1-Leg Ticket",
+  "tier": "standard",
+  "sport": "WNBA",
+  "game_id": "361dd6c151c6af8d3744fb2b0a81a03f",
+  "home_team": "Minnesota Lynx",
+  "away_team": "Golden State Valkyries",
+  "commence_time": "2025-07-06T00:00:00Z",
+  "selections": [
+    {
+      "player_name": "Napheesa Collier",
+      "prop_type": "player_fantasy_score",
+      "line": 35.95,
+      "odds": -115,
+      "bookmaker": "Underdog",
+      "confidence": 0.535,
+      "value_rating": 0.0,
+      "team": "Unknown",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-04T19:24:43.841737+00:00",
+  "confidence_score": 0.535,
+  "avg_odds": -115.0,
+  "potential_payout": 14.51,
+  "no_duplicate_players": true,
+  "team_diversity": false,
+  "unique_teams": [],
+  "team_count": 0,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 7.76
+}

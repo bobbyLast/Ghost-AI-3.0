@@ -1,0 +1,287 @@
+{
+  "name": "Van Assche L.",
+  "matches_played": 23,
+  "wins": 8,
+  "losses": 15,
+  "win_percentage": 0.348,
+  "tournaments_played": [
+    "Australian Open",
+    "Citi Open",
+    "Open 13",
+    "Wimbledon",
+    "Mutua Madrid Open",
+    "Miami Open",
+    "Grand Prix Hassan II",
+    "Nordea Open",
+    "ASB Classic",
+    "Croatia Open",
+    "French Open",
+    "European Open",
+    "Barcelona Open",
+    "Open de Moselle",
+    "BNP Paribas Open",
+    "Dubai Tennis Championships"
+  ],
+  "surfaces": [
+    "Hard",
+    "Grass",
+    "Clay"
+  ],
+  "years_active": [
+    "2025",
+    "2024"
+  ],
+  "recent_matches": [
+    {
+      "tournament": "Australian Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Musetti L."
+    },
+    {
+      "tournament": "Australian Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Tsitsipas S."
+    },
+    {
+      "tournament": "Open 13",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Ruusuvuori E."
+    },
+    {
+      "tournament": "Dubai Tennis Championships",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Khachanov K."
+    },
+    {
+      "tournament": "BNP Paribas Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Arnaldi M."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Kotov P."
+    },
+    {
+      "tournament": "Miami Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Ruud C."
+    },
+    {
+      "tournament": "Grand Prix Hassan II",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Munar J."
+    },
+    {
+      "tournament": "Barcelona Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Zhang Zh."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Bergs Z."
+    },
+    {
+      "tournament": "Mutua Madrid Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Baez S."
+    },
+    {
+      "tournament": "French Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Shapovalov D."
+    },
+    {
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Fognini F."
+    },
+    {
+      "tournament": "Nordea Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Ajdukovic D."
+    },
+    {
+      "tournament": "Croatia Open",
+      "surface": "Clay",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Fognini F."
+    },
+    {
+      "tournament": "Citi Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "W",
+      "opponent": "Cazaux A."
+    },
+    {
+      "tournament": "Citi Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Rublev A."
+    },
+    {
+      "tournament": "European Open",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Bautista Agut R."
+    },
+    {
+      "tournament": "Open de Moselle",
+      "surface": "Hard",
+      "year": "2024",
+      "result": "L",
+      "opponent": "Norrie C."
+    },
+    {
+      "tournament": "Open 13",
+      "surface": "Hard",
+      "year": "2025",
+      "result": "W",
+      "opponent": "Bonzi B."
+    }
+  ],
+  "head_to_head": {
+    "Wolf J.J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Norrie C.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Duckworth J.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Musetti L.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Tsitsipas S.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Ruusuvuori E.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Khachanov K.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Arnaldi M.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Kotov P.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Ruud C.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Munar J.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Zhang Zh.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Bergs Z.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Baez S.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Shapovalov D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Fognini F.": {
+      "wins": 0,
+      "losses": 2
+    },
+    "Ajdukovic D.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Cazaux A.": {
+      "wins": 1,
+      "losses": 0
+    },
+    "Rublev A.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Bautista Agut R.": {
+      "wins": 0,
+      "losses": 1
+    },
+    "Bonzi B.": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "performance_by_surface": {
+    "Hard": {
+      "wins": 6,
+      "losses": 9
+    },
+    "Clay": {
+      "wins": 2,
+      "losses": 5
+    },
+    "Grass": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "performance_by_year": {
+    "2024": {
+      "wins": 7,
+      "losses": 15
+    },
+    "2025": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "last_updated": "2025-07-12T02:11:08.880653"
+}

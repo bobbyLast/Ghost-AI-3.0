@@ -1,0 +1,82 @@
+{
+  "ticket_id": "s_1751584140793367_18",
+  "ticket_type": "normal",
+  "title": "\ud83c\udfaf Power Play - 4-Leg Ticket",
+  "tier": "standard",
+  "sport": "WNBA",
+  "game_id": "72c4cc125c65e32f9c0760fc060de1bb",
+  "home_team": "Indiana Fever",
+  "away_team": "Las Vegas Aces",
+  "commence_time": "2025-07-03T23:03:00Z",
+  "selections": [
+    {
+      "player_name": "Aliyah Boston",
+      "prop_type": "player_rebounds",
+      "line": 8.5,
+      "odds": -115,
+      "bookmaker": "DraftKings",
+      "confidence": 0.485,
+      "value_rating": 0.0,
+      "team": "Indiana Fever",
+      "pick_side": "UNDER",
+      "over_under": "UNDER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Natasha Howard",
+      "prop_type": "player_rebounds",
+      "line": 7.5,
+      "odds": 105,
+      "bookmaker": "DraftKings",
+      "confidence": 0.538,
+      "value_rating": 0.0,
+      "team": "Indiana Fever",
+      "pick_side": "UNDER",
+      "over_under": "UNDER",
+      "label": "N",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Kelsey Mitchell",
+      "prop_type": "player_threes",
+      "line": 2.5,
+      "odds": 110,
+      "bookmaker": "DraftKings",
+      "confidence": 0.426,
+      "value_rating": 0.0,
+      "team": "Indiana Fever",
+      "pick_side": "UNDER",
+      "over_under": "UNDER",
+      "label": "D",
+      "analysis_note": ""
+    },
+    {
+      "player_name": "Natasha Howard",
+      "prop_type": "player_points",
+      "line": 12.5,
+      "odds": -120,
+      "bookmaker": "Caesars",
+      "confidence": 0.545,
+      "value_rating": 0.0,
+      "team": "Indiana Fever",
+      "pick_side": "OVER",
+      "over_under": "OVER",
+      "label": "N",
+      "analysis_note": ""
+    }
+  ],
+  "generated_at": "2025-07-03T23:09:00.805218+00:00",
+  "confidence_score": 0.4985,
+  "avg_odds": -5.0,
+  "potential_payout": 110.52,
+  "no_duplicate_players": true,
+  "team_diversity": true,
+  "unique_teams": [
+    "Indiana Fever"
+  ],
+  "team_count": 1,
+  "is_demon": false,
+  "is_goblin": false,
+  "stake": 6.94
+}

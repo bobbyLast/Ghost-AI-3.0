@@ -1,0 +1,20 @@
+{
+  "event_id": "3225b36c199eed5d212a057f8e8807a8",
+  "home_team": "Atlanta Braves",
+  "away_team": "Philadelphia Phillies",
+  "game_time": "2025-06-29T17:36:00Z",
+  "result": "away_win",
+  "odds_data": {
+    "Atlanta Braves": {
+      "odds": 11.0,
+      "implied_probability": 0.9009009009009009,
+      "tags": []
+    },
+    "Philadelphia Phillies": {
+      "odds": 1.03,
+      "implied_probability": 0.9898050084133425,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-29T16:06:09.813241"
+}

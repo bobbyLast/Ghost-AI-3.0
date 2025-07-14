@@ -1,0 +1,20 @@
+{
+  "event_id": "3948fbda49d7aaf8cc653b2767e01bab",
+  "home_team": "Toronto Blue Jays",
+  "away_team": "New York Yankees",
+  "game_time": "2025-06-30T23:08:00Z",
+  "result": "home_win",
+  "odds_data": {
+    "New York Yankees": {
+      "odds": 1.65,
+      "implied_probability": 0.9837678307919331,
+      "tags": []
+    },
+    "Toronto Blue Jays": {
+      "odds": 2.3,
+      "implied_probability": 0.9775171065493646,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-29T20:04:20.656882"
+}

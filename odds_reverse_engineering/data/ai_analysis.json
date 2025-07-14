@@ -1,0 +1,50 @@
+{
+  "analysis_timestamp": "2025-06-28T20:03:03.039754+00:00",
+  "analysis_available": true,
+  "hot_picks": [
+    {
+      "player": "Mike Trout",
+      "prop": "hits",
+      "trend_tag": "\ud83d\udd25 Hot"
+    },
+    {
+      "player": "Shohei Ohtani",
+      "prop": "strikeouts",
+      "trend_tag": "\ud83d\udcc8 Rising"
+    }
+  ],
+  "trap_risks": [
+    {
+      "player": "Player X",
+      "prop": "runs",
+      "trend_tag": "\u2744\ufe0f Cold"
+    },
+    {
+      "player": "Player Y",
+      "prop": "walks",
+      "trend_tag": "\ud83d\udcc9 Falling"
+    }
+  ],
+  "player_analysis": {
+    "Mike Trout_hits": {
+      "confidence_boost": 0.1,
+      "risk_penalty": 0.0,
+      "trend_tag": "\ud83d\udd25 Hot",
+      "ghost_read": "\ud83e\udd16 Strong confidence in over",
+      "confidence_trend": "rising",
+      "risk_level": "low",
+      "is_hot_pick": true,
+      "is_trap_risk": false
+    },
+    "Shohei Ohtani_strikeouts": {
+      "confidence_boost": 0.15,
+      "risk_penalty": 0.0,
+      "trend_tag": "\ud83d\udcc8 Rising",
+      "ghost_read": "\ud83e\udd16 Excellent recent form",
+      "confidence_trend": "rising",
+      "risk_level": "low",
+      "is_hot_pick": true,
+      "is_trap_risk": false
+    }
+  }
+}

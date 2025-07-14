@@ -1,0 +1,492 @@
+{
+  "timestamp": "2024-09-17T17:55:39Z",
+  "previous_timestamp": "2024-09-17T17:50:39Z",
+  "next_timestamp": "2024-09-17T18:00:39Z",
+  "data": {
+    "id": "2013eff2903c03c3e5131241b1384c04",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-18T02:30:00Z",
+    "home_team": "Los Angeles Sparks",
+    "away_team": "Phoenix Mercury",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-17T17:55:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-17T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 130
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -155
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-17T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -108,
+                "point": 3.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -112,
+                "point": -3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-17T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-17T17:54:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-17T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 118
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -144
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-17T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -108,
+                "point": 2.5
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -112,
+                "point": -2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-17T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-17T17:54:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-17T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 123
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -150
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-17T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -114,
+                "point": 3.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -109,
+                "point": -3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-17T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-17T17:55:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-17T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 125
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -145
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-17T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -115,
+                "point": 3.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -105,
+                "point": -3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-17T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 164.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 164.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-17T17:55:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-17T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 130
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -155
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-17T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -105,
+                "point": 2.5
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -115,
+                "point": -2.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-17T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-17T17:55:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-17T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 130
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -155
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-17T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 3.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": -3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-17T17:55:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-09-17T17:55:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-17T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 130
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -150
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-17T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -108,
+                "point": 3.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -108,
+                "point": -3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-17T17:55:24Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -103,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-17T17:54:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-17T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 130
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -150
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-17T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 3.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": -3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-17T17:54:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 163.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 163.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-09-17T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-17T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 130
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -150
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-17T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 3.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": -3.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-17T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 163.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 163.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

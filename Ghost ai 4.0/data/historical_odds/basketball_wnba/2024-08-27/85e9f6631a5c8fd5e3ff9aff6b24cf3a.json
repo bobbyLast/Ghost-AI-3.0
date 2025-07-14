@@ -1,0 +1,386 @@
+{
+  "timestamp": "2024-08-27T17:55:38Z",
+  "previous_timestamp": "2024-08-27T17:50:39Z",
+  "next_timestamp": "2024-08-27T18:00:41Z",
+  "data": {
+    "id": "85e9f6631a5c8fd5e3ff9aff6b24cf3a",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-28T00:00:00Z",
+    "home_team": "Dallas Wings",
+    "away_team": "Las Vegas Aces",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-27T17:54:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-27T17:54:33Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 390
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -520
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-27T17:54:33Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -112,
+                "point": 10.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -108,
+                "point": -10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-27T17:54:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 181.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 181.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-27T17:54:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-27T17:54:36Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 390
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -550
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-27T17:54:36Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 9.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -9.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-27T17:54:36Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 182.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 182.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-27T17:54:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-27T17:54:33Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 360
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-27T17:54:33Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -112,
+                "point": 9.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -112,
+                "point": -9.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-27T17:54:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 181.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 181.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-08-27T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-27T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 395
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-27T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 10.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-27T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 181.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 181.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-08-27T17:54:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-27T17:54:33Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 385
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-27T17:54:33Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 10.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-27T17:54:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 181.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 181.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-08-27T17:54:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-27T17:54:33Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 390
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -550
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-27T17:54:33Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 10.0
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-27T17:54:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 181.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 181.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-27T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-27T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 380
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -500
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-27T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -115,
+                "point": -9.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-27T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 182.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 182.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

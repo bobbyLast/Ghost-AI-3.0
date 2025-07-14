@@ -1,0 +1,386 @@
+{
+  "timestamp": "2025-06-14T17:55:37Z",
+  "previous_timestamp": "2025-06-14T17:50:37Z",
+  "next_timestamp": "2025-06-14T18:00:37Z",
+  "data": {
+    "id": "0f1e68173f15e86204a3af31aa9f4387",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-14T17:05:08Z",
+    "home_team": "Washington Nationals",
+    "away_team": "Miami Marlins",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-14T17:55:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": 146
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -192
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -156,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 119,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -103,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -126,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-14T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": 140
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -185
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -180,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 135,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-14T17:52:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": 116
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -148
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -220,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 162,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:52:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -114,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -114,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-14T17:55:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:34Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": 140
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -175
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:34Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -175,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 135,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-14T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": 125
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -165
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -125,
+                "point": 1.0
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -105,
+                "point": -1.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-14T17:54:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:54:52Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": 125
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -160
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:54:52Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -180,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 145,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:54:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-06-14T17:55:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-14T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": 125
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -154
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-14T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -200,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 140,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-14T17:55:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -111,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

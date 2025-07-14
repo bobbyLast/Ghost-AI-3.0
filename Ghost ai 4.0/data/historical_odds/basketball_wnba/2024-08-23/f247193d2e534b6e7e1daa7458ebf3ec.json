@@ -1,0 +1,492 @@
+{
+  "timestamp": "2024-08-23T17:55:39Z",
+  "previous_timestamp": "2024-08-23T17:50:39Z",
+  "next_timestamp": "2024-08-23T18:00:40Z",
+  "data": {
+    "id": "f247193d2e534b6e7e1daa7458ebf3ec",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-23T23:30:00Z",
+    "home_team": "Connecticut Sun",
+    "away_team": "Chicago Sky",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 440
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -600
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -108,
+                "point": 11.0
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -112,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-23T17:54:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 470
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -700
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 10.5
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -10.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-08-23T17:52:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:52:27Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 460
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -650
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:52:27Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 11.0
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:52:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-23T17:52:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:52:26Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 475
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -650
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:52:26Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 11.5
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:52:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 510
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -658
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -108,
+                "point": 11.0
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -108,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 510
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -660
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 11.0
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 490
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -700
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 11.5
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-08-23T17:54:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 500
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -750
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 11.0
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-23T17:54:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 475
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -670
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -112,
+                "point": 11.5
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -112,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-23T17:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -114,
+                "point": 154.0
+              },
+              {
+                "name": "Under",
+                "price": -109,
+                "point": 154.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

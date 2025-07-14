@@ -1,0 +1,227 @@
+{
+  "timestamp": "2024-09-18T17:55:39Z",
+  "previous_timestamp": "2024-09-18T17:50:39Z",
+  "next_timestamp": "2024-09-18T18:00:39Z",
+  "data": {
+    "id": "914a3bbcb0d2b61c0701a4a140a66035",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-19T23:00:00Z",
+    "home_team": "New York Liberty",
+    "away_team": "Atlanta Dream",
+    "bookmakers": [
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-18T17:54:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-18T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 130
+              },
+              {
+                "name": "New York Liberty",
+                "price": -165
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-18T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -112,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -114,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-18T17:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-18T17:53:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-18T17:53:30Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 128
+              },
+              {
+                "name": "New York Liberty",
+                "price": -158
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-18T17:53:30Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-18T17:53:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -106,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -114,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-18T17:54:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-18T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 140
+              },
+              {
+                "name": "New York Liberty",
+                "price": -166
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-18T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-18T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 160.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 160.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-18T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-18T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 140
+              },
+              {
+                "name": "New York Liberty",
+                "price": -165
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-18T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "New York Liberty",
+                "price": -110,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-18T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 160.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 160.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

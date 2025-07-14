@@ -1,0 +1,1948 @@
+{
+  "id": "947bb7f429a2f3509416194c20cf126f",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-13T18:11:00Z",
+  "home_team": "Houston Astros",
+  "away_team": "Texas Rangers",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-13T01:29:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 340,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 370,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 370,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 380,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 380,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 390,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 400,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 410,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 430,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 460,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 460,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 490,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 490,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 500,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Higashioka",
+              "price": 500,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": 500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 550,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Short",
+              "price": 550,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-13T01:29:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 1300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 1300,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 1400,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 1400,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 1500,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 1500,
+              "point": 2.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 2000,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 2000,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 2300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 2300,
+              "point": 2.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Higashioka",
+              "price": 3300,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 3300,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 3400,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": 3900,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 240,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 250,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 250,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 260,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 270,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 280,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 290,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 300,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 320,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 330,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 360,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 360,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 360,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Higashioka",
+              "price": 490,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 500,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 500,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": 550,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Short",
+              "price": 750,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": -240,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": -230,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": -230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": -220,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": -210,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": -210,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": -200,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": -185,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": -175,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": -175,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": -170,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": -165,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": -165,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Higashioka",
+              "price": -130,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": -130,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": -130,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": -120,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Short",
+              "price": 110,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-13T01:29:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 420,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 480,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 520,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 560,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 560,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 600,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 600,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 600,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Higashioka",
+              "price": 630,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 680,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": 830,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 830,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 900,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 900,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 1060,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Short",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-13T01:29:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 180,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 180,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 195,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 200,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 200,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 210,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 210,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 210,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 210,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 220,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 230,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 240,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Higashioka",
+              "price": 250,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": 260,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 280,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 300,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 320,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Short",
+              "price": 360,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 550,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 650,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 650,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 650,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 700,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 750,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 750,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 750,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 750,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 800,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Higashioka",
+              "price": 850,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 900,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 950,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Short",
+              "price": 1400,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-13T01:29:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": -105,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 120,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 120,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 145,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 140,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 150,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 150,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 160,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 160,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 170,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Higashioka",
+              "price": 185,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 195,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": 190,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 195,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Short",
+              "price": 200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 800,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 950,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 1400,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 1400,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 1500,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 1600,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Higashioka",
+              "price": 1700,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 1900,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Short",
+              "price": 1900,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-13T01:29:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": -130,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": -130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": -125,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": -120,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": -115,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": -110,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": -105,
+              "point": 0.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": -105,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": -105,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 120,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 120,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 130,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 150,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Higashioka",
+              "price": 150,
+              "point": 0.5,
+              "team": "San Diego Padres",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": 160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Short",
+              "price": 195,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-13T01:29:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 400,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 580,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": 640,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 850,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 880,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 880,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 920,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Short",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 1260,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 1280,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-13T01:29:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 115,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 115,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 120,
+              "point": 1.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 120,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 125,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 135,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 135,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 150,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 150,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 155,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 150,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 160,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 165,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Higashioka",
+              "price": 195,
+              "point": 1.5,
+              "team": "San Diego Padres",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 200,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": 210,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 230,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Short",
+              "price": 290,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Corey Seager",
+              "price": 240,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jose Altuve",
+              "price": 260,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Isaac Paredes",
+              "price": 260,
+              "point": 2.5,
+              "team": "Tampa Bay Rays",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 270,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 280,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 290,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Christian Walker",
+              "price": 300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jake Burger",
+              "price": 320,
+              "point": 2.5,
+              "team": "Miami Marlins",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Adolis Garcia",
+              "price": 330,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Victor Caratini",
+              "price": 370,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Smith",
+              "price": 400,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Mauricio Dubon",
+              "price": 410,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Higashioka",
+              "price": 410,
+              "point": 2.5,
+              "team": "San Diego Padres",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 470,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": 490,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jonah Heim",
+              "price": 550,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Zack Short",
+              "price": 700,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-13T01:29:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cam Smith",
+              "price": 2200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Evan Carter",
+              "price": 3000,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Wyatt Langford",
+              "price": 3200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Marcus Semien",
+              "price": 3300,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Brice Matthews",
+              "price": 3900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Yainer Diaz",
+              "price": 4500,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-13T01:29:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Hunter Brown",
+              "price": 128,
+              "point": 6.5,
+              "team": "Houston Astros",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Hunter Brown",
+              "price": -164,
+              "point": 6.5,
+              "team": "Houston Astros",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Nathan Eovaldi",
+              "price": 102,
+              "point": 5.5,
+              "team": "Texas Rangers",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Nathan Eovaldi",
+              "price": -136,
+              "point": 5.5,
+              "team": "Texas Rangers",
+              "position": "P"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

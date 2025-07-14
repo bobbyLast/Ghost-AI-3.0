@@ -1,0 +1,174 @@
+{
+  "timestamp": "2024-09-18T17:55:39Z",
+  "previous_timestamp": "2024-09-18T17:50:39Z",
+  "next_timestamp": "2024-09-18T18:00:39Z",
+  "data": {
+    "id": "aff24ef366a652dea2224a7f5b8bcba0",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-20T02:00:00Z",
+    "home_team": "Las Vegas Aces",
+    "away_team": "Dallas Wings",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-18T17:54:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-18T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 310
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -395
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-18T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-18T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 177.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 177.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-18T17:53:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-18T17:53:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 330
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -450
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-18T17:53:30Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -108,
+                "point": 8.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -112,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-18T17:53:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 177.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 177.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-18T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-18T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": 335
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -440
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-18T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Dallas Wings",
+                "price": -110,
+                "point": 8.5
+              },
+              {
+                "name": "Las Vegas Aces",
+                "price": -110,
+                "point": -8.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-18T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 177.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 177.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,5176 @@
+{
+  "id": "756991a25364f5d2de28c179d291a242",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-13T17:36:00Z",
+  "home_team": "New York Yankees",
+  "away_team": "Chicago Cubs",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-13T01:30:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 360,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 370,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 380,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 390,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 400,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 430,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 440,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 460,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 480,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 490,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 500,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 500,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 550,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 550,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 550,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 550,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 550,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 600,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-13T01:30:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 195,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 190,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 220,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 230,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 230,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 260,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 270,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 270,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 300,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 300,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 310,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 310,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 360,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 390,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 410,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 430,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 500,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 550,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 1000,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 1000,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 1100,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 1300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 1400,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 1400,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 1600,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 1700,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 1900,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 2000,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 2200,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 2400,
+              "point": 2.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 2500,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 2600,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 3300,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 3800,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": -290,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": -270,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": -240,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": -240,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": -230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": -220,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": -210,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": -210,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": -190,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": -190,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": -185,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": -180,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": -170,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": -160,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": -155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": -140,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": -140,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": -125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-13T01:30:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 122,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 230,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 330,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 340,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 350,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 350,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 390,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 430,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 430,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 430,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 450,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 450,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 560,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 600,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 630,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 1060,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-13T01:30:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": -125,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 135,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 135,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 145,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 160,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 170,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 185,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 190,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 195,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 200,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 230,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 230,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 250,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 260,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 230,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 380,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 390,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 400,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 480,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 500,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 550,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 650,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 650,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 650,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 650,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 700,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 750,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 800,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 850,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 850,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 950,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-13T01:30:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 320,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 480,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 550,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 600,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 650,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 700,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 700,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 750,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 750,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 900,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 1000,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 1200,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 1300,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 1400,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 1600,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 1900,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 3000,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 3100,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 3600,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 4000,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 4400,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 4600,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 5000,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 5000,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": -230,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": -150,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": -130,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": -125,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": -115,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": -115,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": -115,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": -105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": -105,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 105,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 120,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 135,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 140,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 140,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 140,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 160,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-13T01:30:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": -140,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": -125,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": -120,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": -110,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": -105,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": -105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": -105,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 100,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 105,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 110,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 120,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 120,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 135,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 140,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 165,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 160,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-13T01:30:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 240,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 290,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 320,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 360,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 410,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 430,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 550,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 580,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 630,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 700,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 750,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 850,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 1100,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 1100,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-13T01:30:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": -110,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 175,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 180,
+              "point": 2.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 190,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 200,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 230,
+              "point": 2.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 230,
+              "point": 2.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 240,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 250,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 250,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 260,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 310,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 320,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 330,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 410,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 430,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 470,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 500,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 260,
+              "point": 4.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 500,
+              "point": 4.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 550,
+              "point": 4.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 550,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 600,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 700,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 700,
+              "point": 4.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 750,
+              "point": 4.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 750,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 750,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 850,
+              "point": 4.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 1000,
+              "point": 4.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 1000,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 1100,
+              "point": 4.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 1600,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 1600,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 1900,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 1900,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 100,
+              "point": 3.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 200,
+              "point": 3.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 260,
+              "point": 3.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 270,
+              "point": 3.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 270,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 290,
+              "point": 3.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 330,
+              "point": 3.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 330,
+              "point": 3.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 360,
+              "point": 3.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 360,
+              "point": 3.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 360,
+              "point": 3.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 380,
+              "point": 3.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 480,
+              "point": 3.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 490,
+              "point": 3.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 550,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 700,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 850,
+              "point": 3.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 850,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": -155,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": -110,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 100,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 105,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 110,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 125,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 125,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 135,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 135,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 130,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 145,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 145,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 165,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 170,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": 195,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 200,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 210,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-13T01:30:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 2900,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 3300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 4000,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 4400,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 4800,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-13T01:30:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shota Imanaga",
+              "price": -162,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Shota Imanaga",
+              "price": 122,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Will Warren",
+              "price": 114,
+              "point": 5.5,
+              "team": "New York Yankees",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Will Warren",
+              "price": -146,
+              "point": 5.5,
+              "team": "New York Yankees",
+              "position": "P"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 350,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 350,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 320,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 425,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 425,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 350,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 375,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 375,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 300,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 425,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 375,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 320,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 340,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 300,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": -150,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Anthony Volpe",
+              "price": 115,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": -200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Cody Bellinger",
+              "price": 150,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": -230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Pete Crow-Armstrong",
+              "price": 170,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": -130,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Wells",
+              "price": 100,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": -155,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jazz Chisholm Jr.",
+              "price": 120,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": -165,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Dansby Swanson",
+              "price": 125,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": -180,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Giancarlo Stanton",
+              "price": 135,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": -205,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Tucker",
+              "price": 155,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": -125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Oswald Peraza",
+              "price": -105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": -190,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Ian Happ",
+              "price": 145,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": -180,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Nico Hoerner",
+              "price": 135,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": -235,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Paul Goldschmidt",
+              "price": 175,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": -190,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Seiya Suzuki",
+              "price": 145,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 200,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Judge",
+              "price": -275,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 100,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Nico Hoerner",
+              "price": -130,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": -105,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Busch",
+              "price": -125,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": -105,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Judge",
+              "price": -125,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": -120,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Seiya Suzuki",
+              "price": -110,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": -130,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Pete Crow-Armstrong",
+              "price": 100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 115,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Anthony Volpe",
+              "price": -150,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": -125,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Ian Happ",
+              "price": -105,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": -130,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Tucker",
+              "price": 100,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": -125,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Cody Bellinger",
+              "price": -105,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 120,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Wells",
+              "price": -160,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": -150,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Paul Goldschmidt",
+              "price": 115,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": -115,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Giancarlo Stanton",
+              "price": -115,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 120,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jazz Chisholm Jr.",
+              "price": -160,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": -160,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Oswald Peraza",
+              "price": 120,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": -115,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Dansby Swanson",
+              "price": -115,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": -175,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Reese McGuire",
+              "price": 135,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jon Berti",
+              "price": -160,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jon Berti",
+              "price": 120,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trent Grisham",
+              "price": 130,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Trent Grisham",
+              "price": -170,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 140,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Seiya Suzuki",
+              "price": -200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 240,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Anthony Volpe",
+              "price": -375,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 240,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Nico Hoerner",
+              "price": -375,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 160,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Tucker",
+              "price": -240,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Cody Bellinger",
+              "price": -310,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 270,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Oswald Peraza",
+              "price": -425,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 140,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Pete Crow-Armstrong",
+              "price": -200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 175,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Ian Happ",
+              "price": -270,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 185,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Wells",
+              "price": -280,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 190,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Paul Goldschmidt",
+              "price": -300,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 200,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jazz Chisholm Jr.",
+              "price": -310,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 150,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Giancarlo Stanton",
+              "price": -220,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Dansby Swanson",
+              "price": -310,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": -110,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Judge",
+              "price": -130,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 115,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Seiya Suzuki",
+              "price": -160,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Pete Crow-Armstrong",
+              "price": -150,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 125,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jazz Chisholm Jr.",
+              "price": -175,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 135,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Giancarlo Stanton",
+              "price": -190,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 110,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Dansby Swanson",
+              "price": -155,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": -110,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Nico Hoerner",
+              "price": -130,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 140,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Anthony Volpe",
+              "price": -200,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 110,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Tucker",
+              "price": -155,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 155,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Oswald Peraza",
+              "price": -230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 120,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Ian Happ",
+              "price": -170,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 105,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Cody Bellinger",
+              "price": -150,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 100,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Paul Goldschmidt",
+              "price": -140,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 160,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Wells",
+              "price": -240,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 135,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Judge",
+              "price": -190,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 850,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 600,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jon Berti",
+              "price": 425,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 290,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 350,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 400,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 650,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 1200,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 550,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 400,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 1200,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 900,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 1600,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Trent Grisham",
+              "price": 1400,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": -155,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jazz Chisholm Jr.",
+              "price": 120,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 130,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Seiya Suzuki",
+              "price": -170,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 135,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Cody Bellinger",
+              "price": -180,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 115,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Pete Crow-Armstrong",
+              "price": -150,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": -165,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Dansby Swanson",
+              "price": 125,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 125,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Giancarlo Stanton",
+              "price": -165,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": -180,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Nico Hoerner",
+              "price": 135,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": -130,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Judge",
+              "price": 100,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": -150,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Anthony Volpe",
+              "price": 115,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": -125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Oswald Peraza",
+              "price": -105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 130,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Ian Happ",
+              "price": -170,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 125,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Tucker",
+              "price": -165,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 110,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Paul Goldschmidt",
+              "price": -145,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": -130,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Wells",
+              "price": 100,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 1600,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 2000,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 2500,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 2800,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 2200,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 2200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 1500,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 2500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 2500,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 2200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "batter_walks",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 260,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Anthony Volpe",
+              "price": -375,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 100,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Tucker",
+              "price": -130,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 160,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Seiya Suzuki",
+              "price": -210,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": -105,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Ian Happ",
+              "price": -125,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 300,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Cody Bellinger",
+              "price": -425,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 230,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Pete Crow-Armstrong",
+              "price": -325,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 210,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Paul Goldschmidt",
+              "price": -285,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 300,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Wells",
+              "price": -425,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 230,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jazz Chisholm Jr.",
+              "price": -325,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 200,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Giancarlo Stanton",
+              "price": -275,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 350,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Nico Hoerner",
+              "price": -550,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 120,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Busch",
+              "price": -160,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 200,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Dansby Swanson",
+              "price": -275,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": -130,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Judge",
+              "price": 100,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Reese McGuire",
+              "price": -425,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jon Berti",
+              "price": 310,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jon Berti",
+              "price": -450,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trent Grisham",
+              "price": 175,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Trent Grisham",
+              "price": -240,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_earned_runs",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shota Imanaga",
+              "price": -125,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Shota Imanaga",
+              "price": -105,
+              "point": 2.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Will Warren",
+              "price": 100,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Will Warren",
+              "price": -130,
+              "point": 2.5,
+              "team": "New York Yankees",
+              "position": "P"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_hits_allowed",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Will Warren",
+              "price": -145,
+              "point": 4.5,
+              "team": "New York Yankees",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Will Warren",
+              "price": 110,
+              "point": 4.5,
+              "team": "New York Yankees",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Shota Imanaga",
+              "price": -140,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Shota Imanaga",
+              "price": 105,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_outs",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Will Warren",
+              "price": -115,
+              "point": 15.5,
+              "team": "New York Yankees",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Will Warren",
+              "price": -115,
+              "point": 15.5,
+              "team": "New York Yankees",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Shota Imanaga",
+              "price": -105,
+              "point": 15.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Shota Imanaga",
+              "price": -125,
+              "point": 15.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-13T01:30:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shota Imanaga",
+              "price": -130,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Shota Imanaga",
+              "price": 100,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Will Warren",
+              "price": -160,
+              "point": 4.5,
+              "team": "New York Yankees",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Will Warren",
+              "price": 120,
+              "point": 4.5,
+              "team": "New York Yankees",
+              "position": "P"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-13T01:29:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 130,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 240,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 290,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 320,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 320,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 333,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 333,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": 360,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 360,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 360,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": 380,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 450,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": 450,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": 500,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": 650,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": 750,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-13T01:29:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 116,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Seiya Suzuki",
+              "price": -160,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 126,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Ian Happ",
+              "price": -174,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": -133,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Judge",
+              "price": -103,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 112,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Tucker",
+              "price": -154,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 116,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Giancarlo Stanton",
+              "price": -160,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 120,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Cody Bellinger",
+              "price": -166,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 100,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Paul Goldschmidt",
+              "price": -137,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 112,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Pete Crow-Armstrong",
+              "price": -154,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-13T01:30:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": 200,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Judge",
+              "price": -275,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": -250,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Paul Goldschmidt",
+              "price": 180,
+              "point": 0.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": -240,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Pete Crow-Armstrong",
+              "price": 175,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": -230,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Tucker",
+              "price": 165,
+              "point": 0.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": -220,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Cody Bellinger",
+              "price": 160,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": -215,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Seiya Suzuki",
+              "price": 160,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": -205,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Dansby Swanson",
+              "price": 150,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": -205,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Ian Happ",
+              "price": 150,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Nico Hoerner",
+              "price": -205,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Under",
+              "description": "Nico Hoerner",
+              "price": 150,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "2B"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": -190,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Giancarlo Stanton",
+              "price": 140,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": -190,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Busch",
+              "price": 140,
+              "point": 0.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jazz Chisholm Jr.",
+              "price": -170,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jazz Chisholm Jr.",
+              "price": 125,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Anthony Volpe",
+              "price": -165,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Anthony Volpe",
+              "price": 120,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Jasson Dom\u00ednguez",
+              "price": -160,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Jasson Dom\u00ednguez",
+              "price": 115,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Matt Shaw",
+              "price": -145,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Matt Shaw",
+              "price": 105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Austin Wells",
+              "price": -140,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Austin Wells",
+              "price": 100,
+              "point": 0.5,
+              "team": "New York Yankees",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Reese McGuire",
+              "price": -135,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Reese McGuire",
+              "price": 100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Oswald Peraza",
+              "price": -125,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Oswald Peraza",
+              "price": -105,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-13T01:30:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Judge",
+              "price": -130,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Judge",
+              "price": -105,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul Goldschmidt",
+              "price": 110,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Paul Goldschmidt",
+              "price": -145,
+              "point": 1.5,
+              "team": "St. Louis Cardinals",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Pete Crow-Armstrong",
+              "price": 110,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Pete Crow-Armstrong",
+              "price": -150,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Tucker",
+              "price": 115,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Tucker",
+              "price": -155,
+              "point": 1.5,
+              "team": "Houston Astros",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Seiya Suzuki",
+              "price": 115,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Under",
+              "description": "Seiya Suzuki",
+              "price": -160,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "RF"
+            },
+            {
+              "name": "Over",
+              "description": "Cody Bellinger",
+              "price": 120,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Cody Bellinger",
+              "price": -165,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Giancarlo Stanton",
+              "price": 120,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Giancarlo Stanton",
+              "price": -165,
+              "point": 1.5,
+              "team": "New York Yankees",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ian Happ",
+              "price": 125,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Ian Happ",
+              "price": -170,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Michael Busch",
+              "price": 140,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Michael Busch",
+              "price": -190,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Dansby Swanson",
+              "price": 145,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Dansby Swanson",
+              "price": -195,
+              "point": 1.5,
+              "team": "Chicago Cubs",
+              "position": "SS"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_outs",
+          "last_update": "2025-07-13T01:30:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Shota Imanaga",
+              "price": -110,
+              "point": 15.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Shota Imanaga",
+              "price": -120,
+              "point": 15.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Will Warren",
+              "price": 100,
+              "point": 15.5,
+              "team": "New York Yankees",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Will Warren",
+              "price": -125,
+              "point": 15.5,
+              "team": "New York Yankees",
+              "position": "P"
+            }
+          ]
+        },
+        {
+          "key": "pitcher_strikeouts",
+          "last_update": "2025-07-13T01:30:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Will Warren",
+              "price": 110,
+              "point": 5.5,
+              "team": "New York Yankees",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Will Warren",
+              "price": -140,
+              "point": 5.5,
+              "team": "New York Yankees",
+              "position": "P"
+            },
+            {
+              "name": "Over",
+              "description": "Shota Imanaga",
+              "price": -145,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            },
+            {
+              "name": "Under",
+              "description": "Shota Imanaga",
+              "price": 110,
+              "point": 4.5,
+              "team": "Chicago Cubs",
+              "position": "P"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

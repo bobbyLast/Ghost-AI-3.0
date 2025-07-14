@@ -1,0 +1,26 @@
+{
+  "player_name": "Skylar Diggins-Smith",
+  "team": "Unknown",
+  "sport": "wnba",
+  "total_picks": 90,
+  "hits": 0,
+  "misses": 0,
+  "pushes": 0,
+  "current_streak": 0,
+  "best_streak": 0,
+  "prop_types": {
+    "player_assists": {
+      "hits": 0,
+      "attempts": 30
+    },
+    "player_points": {
+      "hits": 0,
+      "attempts": 30
+    },
+    "player_threes": {
+      "hits": 0,
+      "attempts": 30
+    }
+  },
+  "last_updated": "2025-06-23T04:04:19.550985"
+}

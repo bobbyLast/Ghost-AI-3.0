@@ -1,0 +1,174 @@
+{
+  "timestamp": "2024-09-18T17:55:39Z",
+  "previous_timestamp": "2024-09-18T17:50:39Z",
+  "next_timestamp": "2024-09-18T18:00:39Z",
+  "data": {
+    "id": "81456d4f91d15e49ad9cd110a6742d78",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-20T00:00:00Z",
+    "home_team": "Minnesota Lynx",
+    "away_team": "Los Angeles Sparks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-18T17:54:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-18T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 210
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -258
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-18T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 6.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -6.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-18T17:54:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 157.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 157.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-18T17:53:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-18T17:53:30Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 205
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -260
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-18T17:53:30Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -108,
+                "point": 5.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -112,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-18T17:53:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -106,
+                "point": 157.5
+              },
+              {
+                "name": "Under",
+                "price": -114,
+                "point": 157.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-18T17:55:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-18T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": 210
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -260
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-18T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Sparks",
+                "price": -110,
+                "point": 5.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -5.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-18T17:55:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 157.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 157.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "ticket_id": "mock_1",
+    "tier": "elite",
+    "game_id": "mock_game_1",
+    "home_team": "Lakers",
+    "away_team": "Warriors",
+    "commence_time": "2025-06-22T08:59:22.864489+00:00",
+    "selections": [
+      {
+        "player_name": "LeBron James",
+        "prop_type": "batter_total_bases",
+        "line": 1.5,
+        "odds": -110,
+        "bookmaker": "DraftKings",
+        "confidence": 0.85,
+        "value_rating": 0.8,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.200000000000003,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      },
+      {
+        "player_name": "Stephen Curry",
+        "prop_type": "batter_hits",
+        "line": 2.5,
+        "odds": -120,
+        "bookmaker": "FanDuel",
+        "confidence": 0.82,
+        "value_rating": 0.75,
+        "odds_analysis": {
+          "confidence_drift": {
+            "trend": "\u27a1\ufe0f stable",
+            "risk_rating": "\u26a0\ufe0f caution",
+            "recommendation": "Neutral - monitor for better opportunities",
+            "odds_drift": 2.0
+          },
+          "market_analysis": {
+            "status": "neutral",
+            "message": "Neutral odds movement",
+            "juice_change": -7.200000000000003,
+            "hit_rate": 0.2,
+            "trend_tag": "\u2705 Book Was Right"
+          },
+          "trend_tag": "\u2705 Book Was Right",
+          "ghost_read": "avoid - book validation"
+        }
+      }
+    ],
+    "generated_at": "2025-06-22T08:59:22.864489+00:00",
+    "confidence_score": 0.835,
+    "avg_odds": -115,
+    "stake": 8.35,
+    "potential_payout": 0.0,
+    "odds_analysis": {
+      "hot_picks": 0,
+      "trap_risks": 0,
+      "confidence_drift": [
+        

@@ -1,0 +1,383 @@
+{
+  "timestamp": "2024-07-06T17:55:37Z",
+  "previous_timestamp": "2024-07-06T17:50:37Z",
+  "next_timestamp": "2024-07-06T18:00:37Z",
+  "data": {
+    "id": "e5b2350ffe557e3e68a4dfe265fdda57",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-07-07T17:00:00Z",
+    "home_team": "Connecticut Sun",
+    "away_team": "Atlanta Dream",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-07-06T17:54:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 575
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -850
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 11.0
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 152.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 152.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-07-06T17:54:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 520
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -800
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -108,
+                "point": 11.5
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -112,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:54:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 152.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 152.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-07-06T17:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 550
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -800
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -105,
+                "point": 11.5
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -115,
+                "point": -11.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 152.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 152.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-07-06T17:55:15Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -108,
+                "point": 11.0
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -108,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 152.0
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 152.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-07-06T17:55:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 11.0
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 152.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 152.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-07-06T17:55:16Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 11.0
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:55:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 152.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 152.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-07-06T17:54:49Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-07-06T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": 550
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -850
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 11.0
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:54:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 152.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 152.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-07-06T17:54:59Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Dream",
+                "price": -110,
+                "point": 11.0
+              },
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": -11.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-07-06T17:54:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 152.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 152.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

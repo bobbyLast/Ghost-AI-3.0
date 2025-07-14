@@ -1,0 +1,20 @@
+{
+  "event_id": "961ce339122ec222aba03b7b1d46a32f",
+  "home_team": "Toronto Blue Jays",
+  "away_team": "New York Yankees",
+  "game_time": "2025-07-02T23:08:00Z",
+  "result": "away_win",
+  "odds_data": {
+    "New York Yankees": {
+      "odds": 1.77,
+      "implied_probability": 0.9826078412105729,
+      "tags": []
+    },
+    "Toronto Blue Jays": {
+      "odds": 2.1,
+      "implied_probability": 0.9794319294809012,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-07-02T15:13:41.306460"
+}

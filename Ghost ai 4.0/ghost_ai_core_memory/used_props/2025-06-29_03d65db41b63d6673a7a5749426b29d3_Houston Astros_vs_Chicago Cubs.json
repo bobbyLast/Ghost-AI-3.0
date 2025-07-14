@@ -1,0 +1,20 @@
+{
+  "event_id": "03d65db41b63d6673a7a5749426b29d3",
+  "home_team": "Houston Astros",
+  "away_team": "Chicago Cubs",
+  "game_time": "2025-06-29T18:11:00Z",
+  "result": "away_win",
+  "odds_data": {
+    "Chicago Cubs": {
+      "odds": 18.0,
+      "implied_probability": 0.847457627118644,
+      "tags": []
+    },
+    "Houston Astros": {
+      "odds": 1.01,
+      "implied_probability": 0.99000099000099,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-06-29T16:40:46.759740"
+}

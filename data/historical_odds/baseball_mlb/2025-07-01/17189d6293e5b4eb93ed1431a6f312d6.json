@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-07-01T17:55:37Z",
+  "previous_timestamp": "2025-07-01T17:50:37Z",
+  "next_timestamp": "2025-07-01T18:00:38Z",
+  "data": {
+    "id": "17189d6293e5b4eb93ed1431a6f312d6",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-07-03T01:41:00Z",
+    "home_team": "Arizona Diamondbacks",
+    "away_team": "San Francisco Giants",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-07-01T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-07-01T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": -126
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": 108
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-07-01T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Arizona Diamondbacks",
+                "price": 150,
+                "point": -1.5
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": -182,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-07-01T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

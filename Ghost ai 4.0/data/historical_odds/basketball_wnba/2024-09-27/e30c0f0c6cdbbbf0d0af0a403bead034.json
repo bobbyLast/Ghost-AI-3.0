@@ -1,0 +1,531 @@
+{
+  "timestamp": "2024-09-27T17:55:39Z",
+  "previous_timestamp": "2024-09-27T17:50:39Z",
+  "next_timestamp": "2024-09-27T18:00:39Z",
+  "data": {
+    "id": "e30c0f0c6cdbbbf0d0af0a403bead034",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-30T00:30:00Z",
+    "home_team": "Minnesota Lynx",
+    "away_team": "Connecticut Sun",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-27T17:54:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 180
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -218
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -108,
+                "point": 4.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -112,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-27T17:54:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 172
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -215
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -114,
+                "point": 4.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -106,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -114,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -106,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-27T17:54:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 180
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -220
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -115,
+                "point": 4.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -105,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-27T17:54:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 175
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -210
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -115,
+                "point": 4.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -105,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-27T17:53:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-27T17:53:29Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 175
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -210
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-27T17:53:29Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -105,
+                "point": 4.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -115,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-27T17:53:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-09-27T17:41:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-27T17:41:18Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 141
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -208
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-27T17:41:18Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-27T17:41:18Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-09-27T17:54:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 170
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -195
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -108,
+                "point": 4.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -108,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -103,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-27T17:54:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 170
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -195
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 153.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 153.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-09-27T17:54:31Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -4.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-27T17:54:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": 175
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -220
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Connecticut Sun",
+                "price": -112,
+                "point": 4.5
+              },
+              {
+                "name": "Minnesota Lynx",
+                "price": -114,
+                "point": -4.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-27T17:54:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 154.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 154.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

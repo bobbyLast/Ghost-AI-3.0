@@ -1,0 +1,598 @@
+{
+  "timestamp": "2025-06-16T17:55:37Z",
+  "previous_timestamp": "2025-06-16T17:50:37Z",
+  "next_timestamp": "2025-06-16T18:00:37Z",
+  "data": {
+    "id": "4f704702fabeaa11850683f4b764f5b6",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-16T22:46:00Z",
+    "home_team": "Washington Nationals",
+    "away_team": "Colorado Rockies",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 152
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -180
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": -137,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 114,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -104,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -118,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-06-16T17:55:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 148
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -164
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": -137,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 121,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 103,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -118,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-06-16T17:55:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 148
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -164
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": -139,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 119,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-16T17:54:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 143
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -170
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": -140,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 118,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-16T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 145
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -178
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": -141,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 115,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -102,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-06-16T17:49:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:49:30Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 148
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -175
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:49:30Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": -140,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 120,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:49:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -101,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-16T17:55:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 150
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -200
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": -137,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 112,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -103,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-16T17:55:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:35Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 145
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -175
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:35Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": -145,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 120,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-06-16T17:55:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 146
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -165
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": -140,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 120,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 105,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-16T17:55:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 145
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -175
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": -140,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 115,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-16T17:55:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-16T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 144
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -175
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-16T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": -135,
+                "point": 1.5
+              },
+              {
+                "name": "Washington Nationals",
+                "price": 115,
+                "point": -1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-16T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 9.0
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 9.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

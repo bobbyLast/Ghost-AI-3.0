@@ -1,0 +1,2856 @@
+{
+  "id": "5bee622ce89e0a4489f3a56e86d347e7",
+  "sport_key": "baseball_mlb",
+  "sport_title": "MLB",
+  "commence_time": "2025-07-06T17:35:00Z",
+  "home_team": "Washington Nationals",
+  "away_team": "Boston Red Sox",
+  "bookmakers": [
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-06T19:12:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 600,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 700,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Story",
+              "price": 700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 850,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 950,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 900,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 800,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 950,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jacob Young",
+              "price": 900,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 950,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits",
+          "last_update": "2025-07-06T19:12:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 105,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 115,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 700,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Story",
+              "price": 700,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 800,
+              "point": 2.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 1000,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 1000,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 1200,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 1300,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 1600,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 5000,
+              "point": 2.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": -120,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Story",
+              "price": -105,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 105,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 105,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 120,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 125,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 130,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 130,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 145,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 600,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 1000,
+              "point": 3.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 1000,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 6500,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Story",
+              "price": 6000,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": -130,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 124,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 130,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jacob Young",
+              "price": 132,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 146,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-06T19:12:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 1200,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 1300,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 1900,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 2000,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Jacob Young",
+              "price": 3300,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Story",
+              "price": 850,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_rbis",
+          "last_update": "2025-07-06T19:12:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Trevor Story",
+              "price": 950,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 4700,
+              "point": 3.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 4600,
+              "point": 3.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 8000,
+              "point": 3.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 390,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 410,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 800,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 1000,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 1200,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 1300,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 1400,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 1500,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 1400,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 1500,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 1600,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 1700,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 1900,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Story",
+              "price": 300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 1400,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 1400,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 2700,
+              "point": 2.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 3100,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 3400,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 3800,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 3700,
+              "point": 2.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 4900,
+              "point": 2.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 230,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 260,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 310,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 340,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 350,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 380,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 360,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 390,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 400,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 400,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 400,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 480,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            }
+          ]
+        },
+        {
+          "key": "batter_runs_scored",
+          "last_update": "2025-07-06T19:12:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Trevor Story",
+              "price": 2000,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 3100,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 3700,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 4000,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 185,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 230,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 230,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 230,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 250,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 250,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 250,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 260,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jacob Young",
+              "price": 270,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 290,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 300,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 300,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Story",
+              "price": 210,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 270,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 290,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 320,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 1900,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-06T19:12:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 145,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Story",
+              "price": 170,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jacob Young",
+              "price": 180,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 190,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 210,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 210,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 240,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-06T19:12:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 390,
+              "point": 3.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 370,
+              "point": 3.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 400,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 750,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 750,
+              "point": 3.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 750,
+              "point": 3.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 800,
+              "point": 3.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 800,
+              "point": 3.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 1000,
+              "point": 3.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 1000,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 1100,
+              "point": 3.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 1100,
+              "point": 3.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 1200,
+              "point": 3.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 1500,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 105,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 115,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 125,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 300,
+              "point": 2.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 340,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 340,
+              "point": 2.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 390,
+              "point": 2.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 470,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 500,
+              "point": 2.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 460,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 500,
+              "point": 2.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 800,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 800,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Trevor Story",
+              "price": -110,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 750,
+              "point": 4.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 850,
+              "point": 4.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 1000,
+              "point": 4.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 1000,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 1000,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 1100,
+              "point": 4.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 1200,
+              "point": 4.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 1600,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 1700,
+              "point": 4.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 1700,
+              "point": 4.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 2200,
+              "point": 4.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 4000,
+              "point": 4.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 3600,
+              "point": 4.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 4300,
+              "point": 4.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": -120,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 100,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 120,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 125,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 125,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 140,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 220,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 390,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_triples",
+          "last_update": "2025-07-06T19:12:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "caesars",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "batter_home_runs",
+          "last_update": "2025-07-06T19:12:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 650,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 650,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 675,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 700,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 700,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 750,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 800,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 850,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_total_bases",
+          "last_update": "2025-07-06T19:12:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Roman Anthony",
+              "price": 165,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Roman Anthony",
+              "price": -234,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 152,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Connor Wong",
+              "price": -214,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 139,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Paul DeJong",
+              "price": -194,
+              "point": 2.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 120,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Bell",
+              "price": -166,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": -103,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jarren Duran",
+              "price": -133,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 159,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Riley Adams",
+              "price": -224,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Jacob Young",
+              "price": 126,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jacob Young",
+              "price": -174,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 104,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ceddanne Rafaela",
+              "price": -142,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 126,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brady House",
+              "price": -174,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Rob Refsnyder",
+              "price": 300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Rob Refsnyder",
+              "price": -479,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 133,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Amed Rosario",
+              "price": -184,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 159,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Nathaniel Lowe",
+              "price": -224,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 139,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Alex Call",
+              "price": -194,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 190,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Romy Gonzalez",
+              "price": -274,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 104,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Abraham Toro",
+              "price": -142,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 139,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "James Wood",
+              "price": -194,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "batter_doubles",
+          "last_update": "2025-07-06T19:12:37Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 850,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Paul DeJong",
+              "price": -1750,
+              "point": 1.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Rob Refsnyder",
+              "price": 1600,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Rob Refsnyder",
+              "price": -5000,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 600,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jarren Duran",
+              "price": -1100,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 650,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ceddanne Rafaela",
+              "price": -1200,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 700,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Abraham Toro",
+              "price": -1300,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 800,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brady House",
+              "price": -1600,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 800,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Bell",
+              "price": -1600,
+              "point": 0.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 850,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Alex Call",
+              "price": -1750,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 900,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Amed Rosario",
+              "price": -1850,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 900,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "James Wood",
+              "price": -1850,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 900,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Riley Adams",
+              "price": -1850,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 950,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Connor Wong",
+              "price": -2000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Nathaniel Lowe",
+              "price": -2200,
+              "point": 0.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Roman Anthony",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Roman Anthony",
+              "price": -2200,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 1000,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Romy Gonzalez",
+              "price": -2200,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jacob Young",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jacob Young",
+              "price": -2500,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 2000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nate Eaton",
+              "price": -10000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_hits_runs_rbis",
+          "last_update": "2025-07-06T19:12:37Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 110,
+              "point": 3.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brady House",
+              "price": -142,
+              "point": 3.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 120,
+              "point": 3.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Paul DeJong",
+              "price": -154,
+              "point": 3.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 126,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Amed Rosario",
+              "price": -162,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Roman Anthony",
+              "price": 130,
+              "point": 3.5,
+              "team": "Boston Red Sox",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Roman Anthony",
+              "price": -168,
+              "point": 3.5,
+              "team": "Boston Red Sox",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Rob Refsnyder",
+              "price": 240,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Rob Refsnyder",
+              "price": -330,
+              "point": 3.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 390,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nate Eaton",
+              "price": -600,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": -115,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Abraham Toro",
+              "price": -115,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": -115,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ceddanne Rafaela",
+              "price": -115,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 105,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Bell",
+              "price": -135,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 110,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Alex Call",
+              "price": -142,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 130,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Nathaniel Lowe",
+              "price": -168,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 160,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Romy Gonzalez",
+              "price": -212,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": -125,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jarren Duran",
+              "price": -105,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jacob Young",
+              "price": 105,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jacob Young",
+              "price": -135,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 105,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "James Wood",
+              "price": -135,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 130,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Connor Wong",
+              "price": -168,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 135,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Riley Adams",
+              "price": -175,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            }
+          ]
+        },
+        {
+          "key": "batter_singles",
+          "last_update": "2025-07-06T19:12:37Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 210,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brady House",
+              "price": -285,
+              "point": 2.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Amed Rosario",
+              "price": 220,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Amed Rosario",
+              "price": -300,
+              "point": 2.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 180,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ceddanne Rafaela",
+              "price": -240,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 185,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Abraham Toro",
+              "price": -248,
+              "point": 1.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Josh Bell",
+              "price": 200,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Josh Bell",
+              "price": -270,
+              "point": 1.5,
+              "team": "Miami Marlins",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 210,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Alex Call",
+              "price": -285,
+              "point": 1.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Nathaniel Lowe",
+              "price": 260,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Nathaniel Lowe",
+              "price": -370,
+              "point": 1.5,
+              "team": "Texas Rangers",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Roman Anthony",
+              "price": 270,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Roman Anthony",
+              "price": -385,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 280,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Romy Gonzalez",
+              "price": -400,
+              "point": 1.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "Nate Eaton",
+              "price": 600,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Nate Eaton",
+              "price": -1100,
+              "point": 1.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Jacob Young",
+              "price": 165,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jacob Young",
+              "price": -218,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 195,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jarren Duran",
+              "price": -265,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 240,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Connor Wong",
+              "price": -330,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Paul DeJong",
+              "price": 240,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Under",
+              "description": "Paul DeJong",
+              "price": -330,
+              "point": 0.5,
+              "team": "Chicago White Sox",
+              "position": "SS"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 250,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "James Wood",
+              "price": -350,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Riley Adams",
+              "price": 270,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Under",
+              "description": "Riley Adams",
+              "price": -385,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "C"
+            },
+            {
+              "name": "Over",
+              "description": "Rob Refsnyder",
+              "price": 450,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Rob Refsnyder",
+              "price": -725,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            }
+          ]
+        },
+        {
+          "key": "batter_stolen_bases",
+          "last_update": "2025-07-06T19:12:37Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jarren Duran",
+              "price": 600,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Under",
+              "description": "Jarren Duran",
+              "price": -1100,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "LF"
+            },
+            {
+              "name": "Over",
+              "description": "Jacob Young",
+              "price": 650,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Jacob Young",
+              "price": -1200,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "CF"
+            },
+            {
+              "name": "Over",
+              "description": "Ceddanne Rafaela",
+              "price": 700,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Ceddanne Rafaela",
+              "price": -1300,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Romy Gonzalez",
+              "price": 900,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Under",
+              "description": "Romy Gonzalez",
+              "price": -1850,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "1B"
+            },
+            {
+              "name": "Over",
+              "description": "James Wood",
+              "price": 1100,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "James Wood",
+              "price": -2500,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Alex Call",
+              "price": 1400,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Under",
+              "description": "Alex Call",
+              "price": -4000,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "OF"
+            },
+            {
+              "name": "Over",
+              "description": "Connor Wong",
+              "price": 1600,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Connor Wong",
+              "price": -5000,
+              "point": 0.5,
+              "team": "Unknown",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Abraham Toro",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Under",
+              "description": "Abraham Toro",
+              "price": -7000,
+              "point": 0.5,
+              "team": "Oakland Athletics",
+              "position": "3B"
+            },
+            {
+              "name": "Over",
+              "description": "Brady House",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Under",
+              "description": "Brady House",
+              "price": -7000,
+              "point": 0.5,
+              "team": "Washington Nationals",
+              "position": "Unknown"
+            },
+            {
+              "name": "Over",
+              "description": "Roman Anthony",
+              "price": 1800,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "CF"
+            },
+            {
+              "name": "Under",
+              "description": "Roman Anthony",
+              "price": -7000,
+              "point": 0.5,
+              "team": "Boston Red Sox",
+              "position": "CF"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "timestamp": "2024-08-08T17:55:38Z",
+  "previous_timestamp": "2024-08-08T17:50:38Z",
+  "next_timestamp": "2024-08-08T18:00:39Z",
+  "data": {
+    "id": "5f438f01f0d4443a94b3ed339d1e8f42",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-08-16T00:00:00Z",
+    "home_team": "Chicago Sky",
+    "away_team": "Phoenix Mercury",
+    "bookmakers": [
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-08-08T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 140
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -177
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -112,
+                "point": 3.5
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -114,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-08-08T17:54:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-08T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 144
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -178
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-08T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-08T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-08-08T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 145
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -175
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -115,
+                "point": 3.5
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -105,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-08-08T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 126
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -185
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-08-08T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 140
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -166
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-08-08T17:55:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": 143
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -170
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Chicago Sky",
+                "price": -110,
+                "point": 3.5
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": -3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-08-08T17:55:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 166.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 166.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

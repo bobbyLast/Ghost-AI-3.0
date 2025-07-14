@@ -1,0 +1,20 @@
+{
+  "event_id": "5380c17195459f1753676ad232f1cac4",
+  "home_team": "Texas Rangers",
+  "away_team": "Baltimore Orioles",
+  "game_time": "2025-07-02T00:08:15Z",
+  "result": "home_win",
+  "odds_data": {
+    "Baltimore Orioles": {
+      "odds": 12.0,
+      "implied_probability": 0.8928571428571429,
+      "tags": []
+    },
+    "Texas Rangers": {
+      "odds": 1.02,
+      "implied_probability": 0.9899029895070284,
+      "tags": []
+    }
+  },
+  "processed_at": "2025-07-01T21:58:18.118028"
+}

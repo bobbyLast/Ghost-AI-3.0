@@ -1,0 +1,21 @@
+{
+  "b17a262ffa2cfc76a6239b2bad1b6b1f": {
+    "id": "b17a262ffa2cfc76a6239b2bad1b6b1f",
+    "player_name": "Test Player",
+    "team": "Test Team",
+    "sport": "mlb",
+    "prop_type": "Hits",
+    "line": 1.5,
+    "actual": null,
+    "status": "pending",
+    "impact": "normal",
+    "confidence": 0.75,
+    "ticket_id": null,
+    "is_hot_streak": false,
+    "is_cold_streak": false,
+    "red_flags": [],
+    "notes": [],
+    "created_at": "2025-06-27T05:03:44.518650",
+    "updated_at": "2025-06-27T05:03:44.518650"
+  }
+}

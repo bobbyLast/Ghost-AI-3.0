@@ -1,0 +1,97 @@
+2025-07-12 18:45:09,082 - ghost_ai.time_manager - INFO - Loaded existing time state
+2025-07-12 18:45:09,082 - ghost_ai.time_manager - INFO - Time Manager initialized at 2025-07-12 22:45:09.082811+00:00
+2025-07-12 18:45:09,082 - ghost_ai.time_manager - INFO - AI is always active, no sleep schedule.
+2025-07-12 18:45:13,058 - ghost_brain - INFO - 🧠 Ghost Brain initialized - AI mode activated
+2025-07-12 18:45:13,058 - ghost_brain - INFO -    Memory: 3 tickets tracked
+2025-07-12 18:45:13,058 - ghost_brain - INFO -    Cache: 2 props cached
+2025-07-12 18:45:13,058 - ghost_brain - INFO -    Players: 2 players tracked
+2025-07-12 18:45:13,102 - enhanced_auto_cleanup - INFO - 🧠 Ghost Brain integrated with auto-cleanup
+2025-07-12 18:45:13,130 - ghost_ai_core_memory.tickets.unified_ticket_manager - INFO - Unified Ticket Manager initialized
+2025-07-12 18:45:13,130 - ghost_ai_core_memory.tickets.unified_ticket_manager - INFO -    Tickets: ghost_ai_core_memory\tickets\unified
+2025-07-12 18:45:13,130 - ghost_ai_core_memory.tickets.unified_ticket_manager - INFO -    Results: ghost_ai_core_memory\tickets\results
+2025-07-12 18:45:13,130 - ghost_ai_core_memory.tickets.unified_ticket_manager - INFO -    Archive: ghost_ai_core_memory\tickets\archive
+2025-07-12 18:45:13,135 - ghost_ai_core_memory.tickets.unified_ticket_manager - INFO - Unified Ticket Manager initialized
+2025-07-12 18:45:13,138 - ghost_ai_core_memory.tickets.unified_ticket_manager - INFO -    Tickets: ghost_ai_core_memory\tickets\unified
+2025-07-12 18:45:13,138 - ghost_ai_core_memory.tickets.unified_ticket_manager - INFO -    Results: ghost_ai_core_memory\tickets\results
+2025-07-12 18:45:13,138 - ghost_ai_core_memory.tickets.unified_ticket_manager - INFO -    Archive: ghost_ai_core_memory\tickets\archive
+2025-07-12 18:45:13,138 - enhanced_auto_cleanup - INFO - 🎫 Unified Ticket Manager integrated
+2025-07-12 18:45:13,138 - enhanced_auto_cleanup - INFO - Enhanced Auto Cleanup System initialized
+2025-07-12 18:45:13,141 - enhanced_auto_cleanup - INFO - AI Schedule: Sleep 12:00 PM - 1:00 AM ET, Work 1:00 AM - 12:00 PM ET
+2025-07-12 18:45:13,141 - enhanced_auto_cleanup - INFO - Cleanup every 3.4 hours during active hours
+2025-07-12 18:45:13,141 - enhanced_auto_cleanup - INFO - 🚀 Starting Enhanced Auto-Cleanup Loop (always active)
+2025-07-12 18:45:13,144 - enhanced_auto_cleanup - INFO - 🧠 Analyzing what needs processing...
+2025-07-12 18:45:13,144 - ghost_ai_core_memory.tickets.unified_ticket_manager - INFO - 📋 Retrieved 0 tickets from unified storage
+2025-07-12 18:45:13,144 - enhanced_auto_cleanup - INFO - Found 0 total tickets in unified storage
+2025-07-12 18:45:13,144 - enhanced_auto_cleanup - INFO - 📋 Found 0 tickets that need grading
+2025-07-12 18:45:13,144 - ghost_brain - INFO - 🧠 GHOST THOUGHT: Analyzed 0 tickets, 0 need grading
+2025-07-12 18:45:13,144 - enhanced_auto_cleanup - INFO - 🎮 Found 0 completed games that need cleanup
+2025-07-12 18:45:13,144 - enhanced_auto_cleanup - INFO - 📊 Analysis: {'pending_grades': 0, 'completed_games': 0, 'total_tickets': 0}
+2025-07-12 18:45:13,144 - enhanced_auto_cleanup - INFO - No tickets need grading
+2025-07-12 18:45:13,144 - enhanced_auto_cleanup - INFO - 🧹 Cleaning up completed games...
+2025-07-12 18:45:13,152 - ghost_brain - INFO - 🧠 GHOST THOUGHT: Starting cleanup of completed games
+2025-07-12 18:45:13,153 - enhanced_auto_cleanup - INFO - No completed MLB games to clean up
+2025-07-12 18:45:13,153 - enhanced_auto_cleanup - INFO - No completed WNBA games to clean up
+2025-07-12 18:45:13,153 - ghost_ai_core_memory.tickets.unified_ticket_manager - INFO - 📦 Archived 0 old tickets
+2025-07-12 18:45:13,153 - enhanced_auto_cleanup - INFO - 📦 Archived 0 old tickets
+2025-07-12 18:45:13,153 - ghost_brain - INFO - 🧠 GHOST THOUGHT: Triggering MLB prop fetcher
+2025-07-12 18:45:13,594 - enhanced_auto_cleanup - ERROR - ❌ MLB prop fetcher failed: Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "C:\Users\kyran\Downloads\Ghost AI 3.0\sports\__init__.py", line 7, in <module>
+    from .mlb.mlb_props import MLBPropsFetcher
+  File "C:\Users\kyran\Downloads\Ghost AI 3.0\sports\mlb\mlb_props.py", line 482
+    games = await fetcher.get_odds(
+IndentationError: unexpected indent
+
+2025-07-12 18:45:13,594 - ghost_brain - INFO - 🧠 GHOST THOUGHT: MLB prop fetcher failed: Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "C:\Users\kyran\Downloads\Ghost AI 3.0\sports\__init__.py", line 7, in <module>
+    from .mlb.mlb_props import MLBPropsFetcher
+  File "C:\Users\kyran\Downloads\Ghost AI 3.0\sports\mlb\mlb_props.py", line 482
+    games = await fetcher.get_odds(
+IndentationError: unexpected indent
+
+2025-07-12 18:45:13,594 - ghost_brain - INFO - 🧠 GHOST THOUGHT: Triggering WNBA prop fetcher
+2025-07-12 18:45:13,909 - enhanced_auto_cleanup - ERROR - ❌ WNBA prop fetcher failed: Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "C:\Users\kyran\Downloads\Ghost AI 3.0\sports\__init__.py", line 7, in <module>
+    from .mlb.mlb_props import MLBPropsFetcher
+  File "C:\Users\kyran\Downloads\Ghost AI 3.0\sports\mlb\mlb_props.py", line 482
+    games = await fetcher.get_odds(
+IndentationError: unexpected indent
+
+2025-07-12 18:45:13,909 - ghost_brain - INFO - 🧠 GHOST THOUGHT: WNBA prop fetcher failed: Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "C:\Users\kyran\Downloads\Ghost AI 3.0\sports\__init__.py", line 7, in <module>
+    from .mlb.mlb_props import MLBPropsFetcher
+  File "C:\Users\kyran\Downloads\Ghost AI 3.0\sports\mlb\mlb_props.py", line 482
+    games = await fetcher.get_odds(
+IndentationError: unexpected indent
+
+2025-07-12 18:45:13,909 - enhanced_auto_cleanup - INFO - Prop fetchers for MLB and WNBA completed.
+2025-07-12 18:45:13,909 - ghost_brain - INFO - 🧠 GHOST THOUGHT: Both MLB and WNBA prop fetchers completed
+2025-07-12 18:45:13,909 - enhanced_auto_cleanup - INFO - 🧠 Running AI brain analysis...
+2025-07-12 18:45:13,909 - enhanced_auto_cleanup - INFO - 🧠 AI is in low power listening mode
+2025-07-12 18:45:13,909 - ghost_brain - INFO - 🧠 Detected 23 old tickets that need cleanup
+2025-07-12 18:45:13,909 - enhanced_auto_cleanup - INFO - 🧠 Found 23 old tickets for cleanup
+2025-07-12 18:45:13,909 - ghost_brain - INFO - 🧠 GHOST THOUGHT: Detected 23 old tickets that need cleanup
+2025-07-12 18:45:13,925 - ghost_brain - INFO - 🧠 Identified 5 ticket gaps: 0 MLB, 0 WNBA
+2025-07-12 18:45:13,925 - enhanced_auto_cleanup - INFO - 🧠 Identified 5 ticket gaps
+2025-07-12 18:45:13,925 - ghost_brain - INFO - 🧠 GHOST THOUGHT: Identified 5 ticket gaps: 0 MLB, 0 WNBA
+2025-07-12 18:45:13,929 - ghost_brain - INFO - 🧠 Identified 5 ticket gaps: 0 MLB, 0 WNBA
+2025-07-12 18:45:13,929 - ghost_brain - INFO - 🧠 GHOST THOUGHT: Detected 5 ticket gaps - should generate new tickets
+2025-07-12 18:45:13,929 - enhanced_auto_cleanup - INFO - 🧠 AI brain recommends generating new tickets
+2025-07-12 18:45:13,929 - ghost_brain - INFO - 🧠 GHOST THOUGHT: Triggering new ticket generation in always listening mode
+2025-07-12 18:45:13,935 - enhanced_auto_cleanup - INFO - 🎫 Triggering new ticket generation...
+2025-07-12 18:45:13,936 - enhanced_auto_cleanup - INFO - ✅ Ticket generation trigger completed
+2025-07-12 18:45:13,936 - enhanced_auto_cleanup - INFO - ✅ Enhanced cleanup completed with AI brain monitoring
+2025-07-12 18:45:13,936 - enhanced_auto_cleanup - INFO - 🧠 Updating Ghost Brain memory...
+2025-07-12 18:45:13,936 - ghost_ai_core_memory.tickets.unified_ticket_manager - INFO - 📋 Retrieved 0 tickets from unified storage
+2025-07-12 18:45:13,940 - ghost_ai_core_memory.tickets.unified_ticket_manager - INFO - 📋 Retrieved 0 tickets from unified storage
+2025-07-12 18:45:13,971 - ghost_brain - INFO - 🧠 Logged daily performance: 0W-0L-0P (0.00 win rate)
+2025-07-12 18:45:13,983 - ghost_brain - INFO - 🧠 GHOST THOUGHT: Memory updated: 0 total tickets, 0W 0L 0P
+2025-07-12 18:45:13,983 - enhanced_auto_cleanup - INFO - ✅ Ghost Brain memory updated
+2025-07-12 18:45:13,983 - enhanced_auto_cleanup - INFO - ⏰ Waiting 3.4 hours until next cleanup

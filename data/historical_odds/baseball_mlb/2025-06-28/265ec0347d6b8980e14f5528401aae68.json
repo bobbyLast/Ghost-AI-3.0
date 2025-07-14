@@ -1,0 +1,386 @@
+{
+  "timestamp": "2025-06-28T17:55:37Z",
+  "previous_timestamp": "2025-06-28T17:50:37Z",
+  "next_timestamp": "2025-06-28T18:00:38Z",
+  "data": {
+    "id": "265ec0347d6b8980e14f5528401aae68",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2025-06-28T17:11:00Z",
+    "home_team": "New York Yankees",
+    "away_team": "Oakland Athletics",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-06-28T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": -340
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 250
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": -138,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 104,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -130,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-06-28T17:55:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": -245
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 180
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": 105,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -140,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-06-28T17:54:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": -380
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 280
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": -145,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 115,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-06-28T17:55:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": -232
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 174
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": 109,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -142,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -124,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-06-28T17:54:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": -250
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 195
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": 100,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -130,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-06-28T17:55:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": -300
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 220
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": -125,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -105,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:55:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-06-28T17:54:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": -250
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 175
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "New York Yankees",
+                "price": 100,
+                "point": -1.5
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": -139,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2025-06-28T17:54:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -114,
+                "point": 6.0
+              },
+              {
+                "name": "Under",
+                "price": -124,
+                "point": 6.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "timestamp": "2024-09-21T17:55:38Z",
+  "previous_timestamp": "2024-09-21T17:50:38Z",
+  "next_timestamp": "2024-09-21T18:00:38Z",
+  "data": {
+    "id": "cc88be1faebc2057db9aabf01674f2c9",
+    "sport_key": "basketball_wnba",
+    "sport_title": "WNBA",
+    "commence_time": "2024-09-22T21:00:00Z",
+    "home_team": "Minnesota Lynx",
+    "away_team": "Phoenix Mercury",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-21T17:54:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -550
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": 410
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -108,
+                "point": -10.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -112,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-09-21T17:54:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-21T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -550
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": 390
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-21T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-21T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-09-21T17:54:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-21T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -560
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": 400
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-21T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -112,
+                "point": -10.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -112,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-21T17:54:40Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 158.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 158.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-09-21T17:54:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -600
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": 425
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -105,
+                "point": -10.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -115,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-09-21T17:53:49Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-21T17:53:49Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -550
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": 400
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-21T17:53:49Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-21T17:53:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-09-21T17:54:39Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-09-21T17:54:39Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -108,
+                "point": -10.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -108,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 158.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 158.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-21T17:54:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -550
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": 390
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -115,
+                "point": -9.5
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -105,
+                "point": 9.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 158.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 158.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-09-21T17:54:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -600
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": 450
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Lynx",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "Phoenix Mercury",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-09-21T17:54:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 158.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 158.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
